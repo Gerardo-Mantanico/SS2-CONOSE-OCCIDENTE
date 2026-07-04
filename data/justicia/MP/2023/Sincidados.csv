@@ -1,0 +1,1000 @@
+núm_corre,año_denuncia,Reg_mes,día_denuncia,día_sem_denuncia,año_hecho,mes_hecho,día_hecho,dia_sem_hecho,depto_ocu_hecho,mupio_ocu_hecho,zona_ocu_hecho,sexo_per,edad_sind,g_edad_60ymás,g_edad_80ymás,g_edad_de0_80ymás,est_conyugal,delito_com,hora_denuncia,g_hora_denuncia,g_hora_denuncia_mañ.tar.noch,principales_delitos
+1,2023,Marzo,29,Miercoles,2019,Julio,19,Jueves,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad material,0,00:00 a 05:59,00:00 a 11:59,Otros
+2,2023,Marzo,29,Miercoles,2019,Julio,19,Jueves,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad ideológica,22,18:00 a 23:59,18:00 a 23:59,Otros
+3,2023,Marzo,29,Miercoles,2022,Mayo,20,Jueves,Santa Rosa,Nueva Santa Rosa,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ignorado,Usurpación agravada,22,18:00 a 23:59,18:00 a 23:59,Otros
+4,2023,Marzo,26,Domingo,2023,Febrero,16,Lunes,Guatemala,Fraijanes,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+5,2023,Marzo,26,Domingo,2023,Marzo,25,Lunes,Guatemala,Guatemala,3,Ignorado,27,25-29,25-29,25 - 29,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+6,2023,Marzo,26,Domingo,2023,Marzo,24,Lunes,Guatemala,Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,21,18:00 a 23:59,18:00 a 23:59,Otros
+7,2023,Marzo,26,Domingo,2023,Marzo,24,Lunes,Guatemala,Guatemala,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Otros,21,18:00 a 23:59,18:00 a 23:59,Otros
+8,2023,Marzo,13,Lunes,2023,Febrero,13,Martes,Zacapa,Zacapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,13,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+9,2023,Marzo,13,Lunes,2023,Marzo,11,Martes,Zacapa,Zacapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+10,2023,Marzo,13,Lunes,2023,Marzo,11,Martes,Zacapa,Zacapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+11,2023,Marzo,13,Lunes,2022,Julio,7,Martes,Zacapa,Zacapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+12,2023,Marzo,15,Miercoles,2023,Marzo,14,Jueves,Zacapa,Zacapa,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+13,2023,Marzo,15,Miercoles,2023,Marzo,3,Jueves,Zacapa,Zacapa,Ignorada,Hombre,19,15-19,15-19,15 - 19,Soltero,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+14,2023,Febrero,10,Viernes,2022,Diciembre,1,Sábado,Baja Verapaz,Granados,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+15,2023,Febrero,10,Viernes,2022,Diciembre,1,Sábado,Baja Verapaz,Granados,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+16,2023,Febrero,13,Lunes,2023,Febrero,12,Martes,Baja Verapaz,Granados,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+17,2023,Febrero,14,Martes,2023,Febrero,12,Miercoles,Baja Verapaz,Granados,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+18,2023,Febrero,14,Martes,2023,Febrero,12,Miercoles,Baja Verapaz,Granados,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+19,2023,Febrero,14,Martes,2022,Noviembre,12,Miercoles,Baja Verapaz,Granados,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+20,2023,Febrero,14,Martes,2022,Noviembre,12,Miercoles,Baja Verapaz,Granados,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+21,2023,Marzo,30,Jueves,2023,Marzo,3,Viernes,Guatemala,Mixco,Ignorada,Ignorado,59,55-59,55-59,55 - 59,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+22,2023,Febrero,22,Miercoles,2023,Febrero,18,Jueves,Retalhuleu,Retalhuleu,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación y retención indebidas,11,06:00 a 11:59,00:00 a 11:59,Otros
+23,2023,Febrero,22,Miercoles,2023,Febrero,18,Jueves,Retalhuleu,Retalhuleu,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Apropiación y retención indebidas,11,06:00 a 11:59,00:00 a 11:59,Otros
+24,2023,Febrero,14,Martes,2023,Febrero,14,Miercoles,Guatemala,Guatemala,11,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Homicidio culposo,19,18:00 a 23:59,18:00 a 23:59,Homicidio culposo
+25,2023,Febrero,14,Martes,2023,Febrero,14,Miercoles,Guatemala,Guatemala,12,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,19,18:00 a 23:59,18:00 a 23:59,Hurto
+26,2023,Febrero,14,Martes,2023,Febrero,11,Miercoles,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,19,18:00 a 23:59,18:00 a 23:59,Otros
+27,2023,Enero,13,Viernes,2023,Enero,12,Sábado,Guatemala,Guatemala,5,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,14,12:00 a 17:59,12:00 a 17:59,Robo agravado
+28,2023,Enero,13,Viernes,2023,Enero,13,Sábado,Guatemala,Guatemala,5,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+29,2023,Enero,13,Viernes,2023,Enero,13,Sábado,Guatemala,Guatemala,5,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+30,2023,Enero,13,Viernes,2022,Octubre,25,Sábado,Guatemala,Guatemala,11,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,14,12:00 a 17:59,12:00 a 17:59,Otros
+31,2023,Enero,13,Viernes,2022,Octubre,25,Sábado,Guatemala,Guatemala,11,Hombre,48,45-49,45-49,45 - 49,Soltero,Estafa propia,14,12:00 a 17:59,12:00 a 17:59,Otros
+32,2023,Enero,13,Viernes,2023,Enero,11,Sábado,Guatemala,Guatemala,3,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,14,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+33,2023,Enero,23,Lunes,2023,Enero,17,Martes,San Marcos,San Pedro Sacatepéquez,Ignorada,Hombre,18,15-19,15-19,15 - 19,Soltero,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+34,2023,Enero,23,Lunes,2023,Enero,23,Martes,San Marcos,San Pedro Sacatepéquez,Ignorada,Ignorado,40,40-44,40-44,40 - 44,Ignorado,Lesiones culposas,14,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+35,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Guatemala,San Juan Sacatepéquez,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+36,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Guatemala,San Juan Sacatepéquez,Ignorada,Hombre,32,30-34,30-34,30 - 34,Soltero,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+37,2023,Enero,21,Sábado,2023,Enero,21,Domingo,Guatemala,Guatemala,12,Hombre,24,20-24,20-24,20 - 24,Ignorado,Otros,19,18:00 a 23:59,18:00 a 23:59,Otros
+38,2023,Enero,22,Domingo,2023,Enero,21,Lunes,Guatemala,Guatemala,3,Ignorado,49,45-49,45-49,45 - 49,Ignorado,Otros,0,00:00 a 05:59,00:00 a 11:59,Otros
+39,2023,Marzo,4,Sábado,2023,Marzo,3,Domingo,Chimaltenango,Tecpán Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,4,00:00 a 05:59,00:00 a 11:59,Lesiones culposas
+40,2023,Marzo,4,Sábado,2023,Marzo,3,Domingo,Sacatepéquez,Santa Lucía Milpas Altas,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,5,00:00 a 05:59,00:00 a 11:59,Lesiones culposas
+41,2023,Febrero,8,Miercoles,2023,Febrero,2,Jueves,Escuintla,Escuintla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+42,2023,Febrero,8,Miercoles,2023,Febrero,5,Jueves,Escuintla,Escuintla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+43,2023,Febrero,8,Miercoles,2023,Febrero,5,Jueves,Escuintla,Escuintla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+44,2023,Marzo,14,Martes,2023,Marzo,13,Miercoles,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,20,18:00 a 23:59,18:00 a 23:59,Amenazas
+45,2023,Marzo,14,Martes,2023,Marzo,13,Miercoles,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,20,18:00 a 23:59,18:00 a 23:59,Amenazas
+46,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Guatemala,Guatemala,18,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,21,18:00 a 23:59,18:00 a 23:59,Amenazas
+47,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Guatemala,Guatemala,18,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,21,18:00 a 23:59,18:00 a 23:59,Lesiones leves
+48,2023,Enero,27,Viernes,2023,Enero,26,Sábado,Jutiapa,El Progreso,Ignorada,Mujer,32,30-34,30-34,30 - 34,Soltero,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+49,2023,Enero,30,Lunes,2023,Enero,30,Martes,Jutiapa,El Progreso,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+50,2023,Enero,30,Lunes,2023,Enero,28,Martes,Jutiapa,El Progreso,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+51,2023,Marzo,16,Jueves,2022,Noviembre,6,Viernes,Guatemala,Petapa,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ignorado,Otros,22,18:00 a 23:59,18:00 a 23:59,Otros
+52,2023,Enero,27,Viernes,2023,Enero,27,Sábado,Guatemala,Guatemala,9,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,7,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+53,2023,Enero,27,Viernes,2023,Enero,16,Sábado,Chimaltenango,El Tejar,Ignorada,Hombre,44,40-44,40-44,40 - 44,Ignorado,Uso de información,7,06:00 a 11:59,00:00 a 11:59,Otros
+54,2023,Enero,20,Viernes,2021,Marzo,5,Sábado,Quetzaltenango,Zunil,Ignorada,Ignorado,40,40-44,40-44,40 - 44,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+55,2023,Enero,20,Viernes,2023,Enero,19,Sábado,Guatemala,Guatemala,3,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,11,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+56,2023,Enero,20,Viernes,2013,Marzo,16,Sábado,Sacatepéquez,Antigua Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Casos especiales de estafa,11,06:00 a 11:59,00:00 a 11:59,Otros
+57,2023,Febrero,14,Martes,2023,Febrero,14,Miercoles,Guatemala,Mixco,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+58,2023,Febrero,14,Martes,2023,Febrero,14,Miercoles,Guatemala,Mixco,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+59,2023,Febrero,14,Martes,2023,Febrero,13,Miercoles,Guatemala,Mixco,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,14,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+60,2023,Febrero,14,Martes,2023,Febrero,13,Miercoles,Guatemala,Mixco,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,15,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+61,2023,Marzo,6,Lunes,2023,Marzo,6,Martes,Jutiapa,Jerez,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+62,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jutiapa,Jerez,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Allanamiento,14,12:00 a 17:59,12:00 a 17:59,Otros
+63,2023,Marzo,7,Martes,2023,Marzo,5,Miercoles,Jutiapa,Jerez,Ignorada,Hombre,35,35-39,35-39,35 - 39,Soltero,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+64,2023,Marzo,7,Martes,2023,Febrero,7,Miercoles,Jutiapa,Jerez,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,16,12:00 a 17:59,12:00 a 17:59,Hurto
+65,2023,Marzo,13,Lunes,2023,Marzo,12,Martes,Jutiapa,Jerez,Ignorada,Hombre,34,30-34,30-34,30 - 34,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+66,2023,Enero,12,Jueves,2023,Enero,8,Viernes,Guatemala,Villa Canales,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+67,2023,Enero,12,Jueves,2023,Enero,8,Viernes,Guatemala,Villa Canales,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,10,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+68,2023,Enero,12,Jueves,2023,Enero,12,Viernes,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Asesinato,11,06:00 a 11:59,00:00 a 11:59,Otros
+69,2023,Enero,12,Jueves,2022,Diciembre,16,Viernes,Guatemala,Guatemala,13,Ignorado,14,Menor de 15,Menor de 15,10 - 14,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+70,2023,Febrero,3,Viernes,2023,Enero,13,Sábado,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,58,55-59,55-59,55 - 59,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+71,2023,Febrero,3,Viernes,2023,Enero,13,Sábado,Sacatepéquez,Antigua Guatemala,Ignorada,Mujer,94,60-100,80-100,80 y más,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+72,2023,Febrero,3,Viernes,2022,Febrero,3,Sábado,Chimaltenango,Chimaltenango,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,10,06:00 a 11:59,00:00 a 11:59,Hurto
+73,2023,Febrero,1,Miercoles,2023,Enero,30,Jueves,Chimaltenango,Chimaltenango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,8,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+74,2023,Enero,4,Miercoles,2022,Noviembre,1,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+75,2023,Marzo,28,Martes,2023,Marzo,27,Miercoles,Jalapa,Jalapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+76,2023,Marzo,28,Martes,2023,Marzo,27,Miercoles,Jalapa,Jalapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Difamación,16,12:00 a 17:59,12:00 a 17:59,Otros
+77,2023,Febrero,21,Martes,2023,Febrero,21,Miercoles,Quetzaltenango,Coatepeque,Ignorada,Ignorado,22,20-24,20-24,20 - 24,Ignorado,Estafa propia,16,12:00 a 17:59,12:00 a 17:59,Otros
+78,2023,Febrero,7,Martes,2022,Abril,13,Miercoles,Escuintla,Escuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Defraudación aduanera,15,12:00 a 17:59,12:00 a 17:59,Otros
+79,2023,Febrero,7,Martes,2022,Abril,13,Miercoles,Escuintla,Escuintla,Ignorada,Ignorado,31,30-34,30-34,30 - 34,Ignorado,Defraudación aduanera,15,12:00 a 17:59,12:00 a 17:59,Otros
+80,2023,Febrero,7,Martes,2022,Abril,13,Miercoles,Escuintla,Escuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Casos especiales de defraudación aduanera,15,12:00 a 17:59,12:00 a 17:59,Otros
+81,2023,Febrero,7,Martes,2022,Abril,13,Miercoles,Escuintla,Escuintla,Ignorada,Ignorado,31,30-34,30-34,30 - 34,Ignorado,Casos especiales de defraudación aduanera,15,12:00 a 17:59,12:00 a 17:59,Otros
+82,2023,Febrero,7,Martes,2023,Febrero,7,Miercoles,Guatemala,Guatemala,16,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,15,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+83,2023,Febrero,7,Martes,2023,Enero,29,Miercoles,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+84,2023,Marzo,30,Jueves,2023,Marzo,29,Viernes,Sacatepéquez,Sumpango,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación y retención indebidas,8,06:00 a 11:59,00:00 a 11:59,Otros
+85,2023,Marzo,31,Viernes,2023,Marzo,27,Sábado,Sacatepéquez,Sumpango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo,9,06:00 a 11:59,00:00 a 11:59,Robo
+86,2023,Marzo,21,Martes,2022,Noviembre,11,Miercoles,Guatemala,Guatemala,3,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,6,06:00 a 11:59,00:00 a 11:59,Amenazas
+87,2023,Marzo,27,Lunes,2023,Marzo,26,Martes,Zacapa,Zacapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+88,2023,Marzo,28,Martes,2023,Marzo,26,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,37,35-39,35-39,35 - 39,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+89,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,27,25-29,25-29,25 - 29,Ignorado,Abuso de autoridad,9,06:00 a 11:59,00:00 a 11:59,Otros
+90,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,30,30-34,30-34,30 - 34,Ignorado,Abuso de autoridad,9,06:00 a 11:59,00:00 a 11:59,Otros
+91,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Abuso de autoridad,9,06:00 a 11:59,00:00 a 11:59,Otros
+92,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,27,25-29,25-29,25 - 29,Ignorado,Incumplimiento de deberes,9,06:00 a 11:59,00:00 a 11:59,Otros
+93,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,30,30-34,30-34,30 - 34,Ignorado,Incumplimiento de deberes,9,06:00 a 11:59,00:00 a 11:59,Otros
+94,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Incumplimiento de deberes,9,06:00 a 11:59,00:00 a 11:59,Otros
+95,2023,Febrero,15,Miercoles,2023,Enero,20,Jueves,Jalapa,Jalapa,Ignorada,Ignorado,56,55-59,55-59,55 - 59,Ignorado,Alzamiento de bienes,15,12:00 a 17:59,12:00 a 17:59,Otros
+96,2023,Febrero,15,Miercoles,2023,Enero,20,Jueves,Jalapa,Jalapa,Ignorada,Ignorado,80,60-100,80-100,80 y más,Ignorado,Alzamiento de bienes,15,12:00 a 17:59,12:00 a 17:59,Otros
+97,2023,Febrero,16,Jueves,2023,Febrero,16,Viernes,Jalapa,Jalapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+98,2023,Febrero,16,Jueves,2023,Febrero,16,Viernes,Jalapa,Jalapa,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Injuria,10,06:00 a 11:59,00:00 a 11:59,Otros
+99,2023,Febrero,16,Jueves,2023,Febrero,16,Viernes,Jalapa,Jalapa,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Injuria,10,06:00 a 11:59,00:00 a 11:59,Otros
+100,2023,Marzo,17,Viernes,2023,Marzo,15,Sábado,Guatemala,Guatemala,13,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,17,12:00 a 17:59,12:00 a 17:59,Hurto
+101,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Guatemala,Guatemala,10,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,17,12:00 a 17:59,12:00 a 17:59,Amenazas
+102,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Guatemala,Guatemala,18,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,17,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+103,2023,Marzo,17,Viernes,2023,Marzo,17,Sábado,Guatemala,Guatemala,2,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,17,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+104,2023,Marzo,17,Viernes,2023,Marzo,17,Sábado,Guatemala,Guatemala,2,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,17,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+105,2023,Febrero,22,Miercoles,2023,Enero,27,Jueves,Guatemala,Guatemala,7,Hombre,37,35-39,35-39,35 - 39,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+106,2023,Febrero,22,Miercoles,2023,Enero,27,Jueves,Guatemala,Guatemala,7,Hombre,37,35-39,35-39,35 - 39,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+107,2023,Enero,17,Martes,2014,Enero,27,Miercoles,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Uso de documentos falsificados,12,12:00 a 17:59,12:00 a 17:59,Otros
+108,2023,Enero,18,Miercoles,2023,Enero,17,Jueves,Quetzaltenango,Coatepeque,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,8,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+109,2023,Enero,18,Miercoles,2023,Enero,17,Jueves,Quetzaltenango,Coatepeque,Ignorada,Mujer,29,25-29,25-29,25 - 29,Casado,Lesiones culposas,8,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+110,2023,Enero,18,Miercoles,2023,Enero,13,Jueves,Quetzaltenango,Coatepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+111,2023,Enero,13,Viernes,2023,Enero,12,Sábado,Guatemala,Guatemala,9,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,13,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+112,2023,Enero,13,Viernes,2023,Enero,12,Sábado,Guatemala,Guatemala,11,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,13,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+113,2023,Marzo,29,Miercoles,2023,Marzo,29,Jueves,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,15,12:00 a 17:59,12:00 a 17:59,Extorsión
+114,2023,Marzo,29,Miercoles,2023,Marzo,25,Jueves,Guatemala,Guatemala,7,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,16,12:00 a 17:59,12:00 a 17:59,Extorsión
+115,2023,Marzo,29,Miercoles,2023,Marzo,10,Jueves,Guatemala,Guatemala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,16,12:00 a 17:59,12:00 a 17:59,Extorsión
+116,2023,Enero,20,Viernes,2023,Enero,17,Sábado,Guatemala,Mixco,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo,10,06:00 a 11:59,00:00 a 11:59,Robo
+117,2023,Enero,20,Viernes,2023,Enero,19,Sábado,Guatemala,Mixco,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+118,2023,Enero,20,Viernes,2023,Enero,19,Sábado,Guatemala,Mixco,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+119,2023,Enero,20,Viernes,2022,Diciembre,23,Sábado,Guatemala,Mixco,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+120,2023,Enero,20,Viernes,2023,Enero,18,Sábado,Guatemala,Mixco,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,11,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+121,2023,Febrero,1,Miercoles,2023,Febrero,1,Jueves,Guatemala,Guatemala,17,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,10,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+122,2023,Enero,16,Lunes,2022,Enero,26,Martes,Jutiapa,Moyuta,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad material,15,12:00 a 17:59,12:00 a 17:59,Otros
+123,2023,Enero,16,Lunes,2022,Enero,26,Martes,Jutiapa,Moyuta,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad material,15,12:00 a 17:59,12:00 a 17:59,Otros
+124,2023,Enero,16,Lunes,2022,Enero,26,Martes,Jutiapa,Moyuta,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad material,15,12:00 a 17:59,12:00 a 17:59,Otros
+125,2023,Enero,16,Lunes,2022,Enero,26,Martes,Jutiapa,Moyuta,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad material,15,12:00 a 17:59,12:00 a 17:59,Otros
+126,2023,Febrero,26,Domingo,2023,Febrero,25,Lunes,Guatemala,Guatemala,3,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,13,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+127,2023,Enero,16,Lunes,2023,Enero,14,Martes,Guatemala,Guatemala,14,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+128,2023,Enero,16,Lunes,2022,Diciembre,5,Martes,Guatemala,Mixco,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,17,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+129,2023,Enero,16,Lunes,2022,Diciembre,5,Martes,Guatemala,Mixco,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Incumplimiento de deberes de asistencia,17,12:00 a 17:59,12:00 a 17:59,Otros
+130,2023,Enero,16,Lunes,2023,Enero,16,Martes,Guatemala,Villa Canales,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,18,18:00 a 23:59,18:00 a 23:59,Amenazas
+131,2023,Enero,16,Lunes,2023,Enero,16,Martes,Guatemala,Villa Canales,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,18,18:00 a 23:59,18:00 a 23:59,Amenazas
+132,2023,Enero,16,Lunes,2023,Enero,16,Martes,Guatemala,Villa Canales,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,18,18:00 a 23:59,18:00 a 23:59,Amenazas
+133,2023,Enero,16,Lunes,2023,Enero,15,Martes,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,18,18:00 a 23:59,18:00 a 23:59,Robo de equipo terminal movil
+134,2023,Enero,16,Lunes,2023,Enero,15,Martes,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,18,18:00 a 23:59,18:00 a 23:59,Robo de equipo terminal movil
+135,2023,Enero,16,Lunes,2023,Enero,12,Martes,Guatemala,Guatemala,25,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,18,18:00 a 23:59,18:00 a 23:59,Otros
+136,2023,Enero,18,Miercoles,2022,Julio,19,Jueves,Guatemala,Guatemala,1,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad ideológica,19,18:00 a 23:59,18:00 a 23:59,Otros
+137,2023,Enero,18,Miercoles,2023,Enero,18,Jueves,Guatemala,Guatemala,6,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,20,18:00 a 23:59,18:00 a 23:59,Lesiones leves
+138,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+139,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,27,25-29,25-29,25 - 29,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+140,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,63,60-100,60-64,60 - 64,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+141,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,38,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+142,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,38,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+143,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,38,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+144,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Mujer,38,35-39,35-39,35 - 39,Casado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+145,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,36,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+146,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,30,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+147,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,65,60-100,65-69,65 - 69,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+148,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+149,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+150,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+151,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,26,25-29,25-29,25 - 29,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+152,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,52,50-54,50-54,50 - 54,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+153,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,52,50-54,50-54,50 - 54,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+154,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+155,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+156,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,35,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+157,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,35,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+158,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,35,35-39,35-39,35 - 39,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+159,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+160,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+161,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+162,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,50,50-54,50-54,50 - 54,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+163,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,58,55-59,55-59,55 - 59,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+164,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,58,55-59,55-59,55 - 59,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+165,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,58,55-59,55-59,55 - 59,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+166,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,62,60-100,60-64,60 - 64,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+167,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,62,60-100,60-64,60 - 64,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+168,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,53,50-54,50-54,50 - 54,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+169,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,60,60-100,60-64,60 - 64,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+170,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+171,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Mujer,28,25-29,25-29,25 - 29,Soltero,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+172,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,49,45-49,45-49,45 - 49,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+173,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,61,60-100,60-64,60 - 64,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+174,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,61,60-100,60-64,60 - 64,Casado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+175,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,46,45-49,45-49,45 - 49,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+176,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,59,55-59,55-59,55 - 59,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+177,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,59,55-59,55-59,55 - 59,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+178,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,59,55-59,55-59,55 - 59,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+179,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+180,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+181,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+182,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+183,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,51,50-54,50-54,50 - 54,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+184,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,33,30-34,30-34,30 - 34,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+185,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,67,60-100,65-69,65 - 69,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+186,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,68,60-100,65-69,65 - 69,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+187,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+188,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,78,60-100,75-79,75 - 79,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+189,2023,Enero,18,Miercoles,2022,Julio,28,Jueves,El Progreso,Guastatoya,Ignorada,Ignorado,86,60-100,80-100,80 y más,Ignorado,Falsedad material,20,18:00 a 23:59,18:00 a 23:59,Otros
+190,2023,Febrero,28,Martes,1995,Noviembre,30,Miercoles,Guatemala,Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación y retención indebidas,16,12:00 a 17:59,12:00 a 17:59,Otros
+191,2023,Febrero,28,Martes,1995,Noviembre,30,Miercoles,Guatemala,Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Encubrimiento propio,16,12:00 a 17:59,12:00 a 17:59,Otros
+192,2023,Marzo,29,Miercoles,1996,Febrero,2,Jueves,Guatemala,Guatemala,1,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Responsabilidad de conductores,14,12:00 a 17:59,12:00 a 17:59,Otros
+193,2023,Marzo,6,Lunes,2023,Marzo,1,Martes,Guatemala,Villa Nueva,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+194,2023,Enero,9,Lunes,2023,Enero,5,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,11,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+195,2023,Enero,19,Jueves,2023,Enero,13,Viernes,Totonicapán,Santa María Chiquimula,Ignorada,Hombre,30,30-34,30-34,30 - 34,Soltero,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+196,2023,Enero,23,Lunes,2023,Enero,22,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+197,2023,Enero,23,Lunes,2023,Enero,22,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+198,2023,Febrero,1,Miercoles,2023,Febrero,1,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+199,2023,Febrero,1,Miercoles,2023,Febrero,1,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+200,2023,Febrero,1,Miercoles,2023,Febrero,1,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+201,2023,Febrero,1,Miercoles,2023,Febrero,1,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+202,2023,Febrero,6,Lunes,2023,Febrero,1,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+203,2023,Febrero,6,Lunes,2023,Febrero,1,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,67,60-100,65-69,65 - 69,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+204,2023,Febrero,8,Miercoles,2023,Febrero,7,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,59,55-59,55-59,55 - 59,Ignorado,Coacción,13,12:00 a 17:59,12:00 a 17:59,Coacción
+205,2023,Febrero,8,Miercoles,2022,Febrero,8,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+206,2023,Febrero,8,Miercoles,2022,Febrero,8,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+207,2023,Febrero,9,Jueves,2023,Febrero,8,Viernes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,9,06:00 a 11:59,00:00 a 11:59,Otros
+208,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,17,15-19,15-19,15 - 19,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+209,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,21,20-24,20-24,20 - 24,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+210,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,25,25-29,25-29,25 - 29,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+211,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,19,15-19,15-19,15 - 19,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+212,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,27,25-29,25-29,25 - 29,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+213,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+214,2023,Febrero,10,Viernes,2022,Diciembre,28,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+215,2023,Febrero,13,Lunes,2023,Febrero,11,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+216,2023,Febrero,13,Lunes,2023,Febrero,11,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+217,2023,Febrero,14,Martes,2023,Febrero,14,Miercoles,Totonicapán,Santa María Chiquimula,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Alteración de linderos,15,12:00 a 17:59,12:00 a 17:59,Otros
+218,2023,Febrero,16,Jueves,2023,Febrero,13,Viernes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,38,35-39,35-39,35 - 39,Ignorado,Faltas (ley de areas protegidas art. 81),15,12:00 a 17:59,12:00 a 17:59,Otros
+219,2023,Febrero,21,Martes,2023,Febrero,19,Miercoles,Totonicapán,Santa María Chiquimula,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+220,2023,Marzo,8,Miercoles,2023,Marzo,6,Jueves,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,53,50-54,50-54,50 - 54,Ignorado,Lesiones culposas,15,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+221,2023,Marzo,17,Viernes,2023,Marzo,17,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Mujer,26,25-29,25-29,25 - 29,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+222,2023,Marzo,17,Viernes,2023,Marzo,17,Sábado,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,55,55-59,55-59,55 - 59,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+223,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Coacción,12,12:00 a 17:59,12:00 a 17:59,Coacción
+224,2023,Marzo,20,Lunes,2023,Marzo,19,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+225,2023,Marzo,20,Lunes,2023,Marzo,19,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,51,50-54,50-54,50 - 54,Casado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+226,2023,Marzo,23,Jueves,2023,Marzo,21,Viernes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,33,30-34,30-34,30 - 34,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+227,2023,Marzo,23,Jueves,2023,Marzo,22,Viernes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,40,40-44,40-44,40 - 44,Casado,Allanamiento,12,12:00 a 17:59,12:00 a 17:59,Otros
+228,2023,Marzo,27,Lunes,2023,Marzo,25,Martes,Totonicapán,Santa María Chiquimula,Ignorada,Ignorado,45,45-49,45-49,45 - 49,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+229,2023,Marzo,31,Viernes,2023,Marzo,27,Sábado,Guatemala,Chinautla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+230,2023,Marzo,31,Viernes,2023,Marzo,27,Sábado,Guatemala,Chinautla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+231,2023,Marzo,31,Viernes,2023,Marzo,27,Sábado,Guatemala,Chinautla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+232,2023,Enero,3,Martes,2022,Diciembre,24,Miercoles,El Progreso,Morazán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+233,2023,Enero,3,Martes,2023,Enero,1,Miercoles,El Progreso,Morazán,Ignorada,Hombre,43,40-44,40-44,40 - 44,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+234,2023,Enero,9,Lunes,2022,Diciembre,28,Martes,El Progreso,Morazán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+235,2023,Enero,9,Lunes,2023,Enero,4,Martes,El Progreso,Morazán,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+236,2023,Enero,16,Lunes,2023,Enero,13,Martes,El Progreso,Morazán,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Allanamiento,11,06:00 a 11:59,00:00 a 11:59,Otros
+237,2023,Enero,16,Lunes,2023,Enero,13,Martes,El Progreso,Morazán,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+238,2023,Enero,16,Lunes,2023,Enero,13,Martes,El Progreso,Morazán,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+239,2023,Enero,30,Lunes,2023,Enero,29,Martes,El Progreso,Morazán,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,12,12:00 a 17:59,12:00 a 17:59,Otros
+240,2023,Enero,30,Lunes,2023,Enero,29,Martes,El Progreso,Morazán,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+241,2023,Enero,30,Lunes,2023,Enero,27,Martes,El Progreso,Morazán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+242,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,El Progreso,Morazán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+243,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,El Progreso,Morazán,Ignorada,Hombre,33,30-34,30-34,30 - 34,Soltero,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+244,2023,Febrero,6,Lunes,2023,Febrero,5,Martes,El Progreso,Morazán,Ignorada,Hombre,39,35-39,35-39,35 - 39,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+245,2023,Febrero,8,Miercoles,2023,Enero,17,Jueves,El Progreso,Morazán,Ignorada,Hombre,20,20-24,20-24,20 - 24,Soltero,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+246,2023,Febrero,8,Miercoles,2023,Enero,17,Jueves,El Progreso,Morazán,Ignorada,Hombre,49,45-49,45-49,45 - 49,Soltero,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+247,2023,Febrero,8,Miercoles,2023,Febrero,3,Jueves,El Progreso,Morazán,Ignorada,Mujer,52,50-54,50-54,50 - 54,Soltero,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+248,2023,Febrero,9,Jueves,2023,Enero,13,Viernes,El Progreso,Morazán,Ignorada,Ignorado,55,55-59,55-59,55 - 59,Ignorado,Allanamiento,10,06:00 a 11:59,00:00 a 11:59,Otros
+249,2023,Febrero,9,Jueves,2023,Enero,13,Viernes,El Progreso,Morazán,Ignorada,Mujer,29,25-29,25-29,25 - 29,Ignorado,Allanamiento,10,06:00 a 11:59,00:00 a 11:59,Otros
+250,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,El Progreso,Morazán,Ignorada,Ignorado,45,45-49,45-49,45 - 49,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+251,2023,Febrero,20,Lunes,2023,Febrero,16,Martes,El Progreso,San Antonio La Paz,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+252,2023,Febrero,21,Martes,2023,Febrero,20,Miercoles,El Progreso,Morazán,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+253,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,El Progreso,Morazán,Ignorada,Hombre,28,25-29,25-29,25 - 29,Soltero,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+254,2023,Febrero,27,Lunes,2023,Febrero,26,Martes,El Progreso,Morazán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+255,2023,Febrero,27,Lunes,2023,Febrero,26,Martes,El Progreso,Morazán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+256,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,El Progreso,Morazán,Ignorada,Hombre,45,45-49,45-49,45 - 49,Casado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+257,2023,Marzo,14,Martes,2023,Marzo,11,Miercoles,El Progreso,Morazán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,13,12:00 a 17:59,12:00 a 17:59,Extorsión
+258,2023,Marzo,15,Miercoles,2023,Marzo,10,Jueves,El Progreso,Morazán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,8,06:00 a 11:59,00:00 a 11:59,Otros
+259,2023,Marzo,15,Miercoles,2023,Marzo,10,Jueves,El Progreso,San Agustín Acasaguastlán,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+260,2023,Marzo,15,Miercoles,2023,Febrero,27,Jueves,El Progreso,Morazán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,15,12:00 a 17:59,12:00 a 17:59,Robo agravado
+261,2023,Marzo,16,Jueves,2023,Marzo,14,Viernes,El Progreso,Morazán,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Casos especiales de estafa,12,12:00 a 17:59,12:00 a 17:59,Otros
+262,2023,Marzo,21,Martes,2023,Marzo,21,Miercoles,El Progreso,Morazán,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+263,2023,Febrero,28,Martes,2023,Febrero,26,Miercoles,Suchitepéquez,San Lorenzo,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+264,2023,Enero,2,Lunes,2022,Diciembre,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,47,45-49,45-49,45 - 49,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+265,2023,Enero,2,Lunes,2023,Enero,1,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+266,2023,Enero,4,Miercoles,2023,Enero,2,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Lesiones culposas,10,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+267,2023,Enero,6,Viernes,2022,Diciembre,29,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,44,40-44,40-44,40 - 44,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+268,2023,Enero,9,Lunes,2023,Enero,6,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+269,2023,Enero,9,Lunes,2023,Enero,7,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,21,20-24,20-24,20 - 24,Soltero,Lesiones culposas,12,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+270,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+271,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,31,30-34,30-34,30 - 34,Soltero,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+272,2023,Enero,10,Martes,2023,Enero,9,Miercoles,San Marcos,San Pedro Sacatepéquez,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,10,06:00 a 11:59,00:00 a 11:59,Extorsión
+273,2023,Enero,13,Viernes,2023,Enero,12,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+274,2023,Enero,23,Lunes,2023,Enero,17,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,36,35-39,35-39,35 - 39,Soltero,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+275,2023,Enero,23,Lunes,2023,Enero,22,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,16,12:00 a 17:59,12:00 a 17:59,Otros
+276,2023,Enero,24,Martes,2023,Enero,22,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,19,15-19,15-19,15 - 19,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+277,2023,Enero,24,Martes,2023,Enero,21,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,23,20-24,20-24,20 - 24,Soltero,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+278,2023,Enero,25,Miercoles,2023,Enero,15,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,45,45-49,45-49,45 - 49,Ignorado,Lesiones leves,8,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+279,2023,Enero,30,Lunes,2023,Enero,29,Martes,Chiquimula,Ipala,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,8,06:00 a 11:59,00:00 a 11:59,Amenazas
+280,2023,Enero,30,Lunes,2023,Enero,28,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+281,2023,Enero,30,Lunes,2023,Enero,28,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,26,25-29,25-29,25 - 29,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+282,2023,Enero,30,Lunes,2023,Enero,28,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,20,20-24,20-24,20 - 24,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+283,2023,Febrero,2,Jueves,2023,Enero,28,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,36,35-39,35-39,35 - 39,Soltero,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+284,2023,Febrero,2,Jueves,2023,Enero,31,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Apropiación irregular,10,06:00 a 11:59,00:00 a 11:59,Otros
+285,2023,Febrero,2,Jueves,2023,Enero,8,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,36,35-39,35-39,35 - 39,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+286,2023,Febrero,2,Jueves,2023,Febrero,2,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+287,2023,Febrero,3,Viernes,2023,Febrero,1,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+288,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ignorado,Hurto,9,06:00 a 11:59,00:00 a 11:59,Hurto
+289,2023,Febrero,6,Lunes,2023,Febrero,4,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,35,35-39,35-39,35 - 39,Soltero,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+290,2023,Febrero,7,Martes,2023,Febrero,3,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+291,2023,Febrero,15,Miercoles,2023,Febrero,13,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,21,20-24,20-24,20 - 24,Soltero,Lesiones culposas,10,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+292,2023,Febrero,16,Jueves,2023,Febrero,15,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,34,30-34,30-34,30 - 34,Casado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+293,2023,Febrero,20,Lunes,2023,Febrero,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,8,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+294,2023,Febrero,20,Lunes,2023,Febrero,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,8,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+295,2023,Febrero,20,Lunes,2023,Febrero,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,8,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+296,2023,Febrero,20,Lunes,2023,Febrero,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Lesiones leves,8,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+297,2023,Febrero,20,Lunes,2023,Febrero,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ignorado,Hurto,9,06:00 a 11:59,00:00 a 11:59,Hurto
+298,2023,Febrero,20,Lunes,2023,Febrero,18,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,35,35-39,35-39,35 - 39,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+299,2023,Febrero,21,Martes,2021,Junio,21,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,26,25-29,25-29,25 - 29,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+300,2023,Febrero,21,Martes,2023,Febrero,19,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+301,2023,Febrero,22,Miercoles,2022,Noviembre,4,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,16,12:00 a 17:59,12:00 a 17:59,Robo agravado
+302,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,20,20-24,20-24,20 - 24,Soltero,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+303,2023,Febrero,27,Lunes,2023,Febrero,26,Martes,Chiquimula,Ipala,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+304,2023,Febrero,28,Martes,2023,Febrero,4,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,46,45-49,45-49,45 - 49,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+305,2023,Marzo,1,Miercoles,2023,Marzo,1,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,26,25-29,25-29,25 - 29,Soltero,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+306,2023,Marzo,2,Jueves,2023,Febrero,27,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+307,2023,Marzo,2,Jueves,2023,Febrero,27,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+308,2023,Marzo,2,Jueves,2022,Agosto,10,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+309,2023,Marzo,3,Viernes,2023,Febrero,26,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,42,40-44,40-44,40 - 44,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+310,2023,Marzo,3,Viernes,2023,Febrero,26,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,58,55-59,55-59,55 - 59,Casado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+311,2023,Marzo,7,Martes,2023,Marzo,1,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,28,25-29,25-29,25 - 29,Ignorado,Abandono de cargo,11,06:00 a 11:59,00:00 a 11:59,Otros
+312,2023,Marzo,7,Martes,2023,Marzo,4,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,41,40-44,40-44,40 - 44,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+313,2023,Marzo,7,Martes,2023,Febrero,13,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+314,2023,Marzo,7,Martes,2023,Marzo,3,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,26,25-29,25-29,25 - 29,Ignorado,Daño,16,12:00 a 17:59,12:00 a 17:59,Otros
+315,2023,Marzo,8,Miercoles,2023,Marzo,5,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,33,30-34,30-34,30 - 34,Ignorado,Otros,8,06:00 a 11:59,00:00 a 11:59,Otros
+316,2023,Marzo,8,Miercoles,2023,Marzo,6,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ignorado,Allanamiento agravado,9,06:00 a 11:59,00:00 a 11:59,Otros
+317,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+318,2023,Marzo,10,Viernes,2023,Febrero,1,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,51,50-54,50-54,50 - 54,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+319,2023,Marzo,13,Lunes,2023,Marzo,11,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+320,2023,Marzo,13,Lunes,2023,Marzo,11,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+321,2023,Marzo,13,Lunes,2023,Marzo,11,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,37,35-39,35-39,35 - 39,Casado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+322,2023,Marzo,13,Lunes,2023,Febrero,23,Martes,Guatemala,Santa Catarina Pinula,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+323,2023,Marzo,14,Martes,2023,Marzo,11,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,46,45-49,45-49,45 - 49,Casado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+324,2023,Marzo,15,Miercoles,2023,Marzo,14,Jueves,Chiquimula,Ipala,Ignorada,Hombre,41,40-44,40-44,40 - 44,Soltero,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+325,2023,Marzo,15,Miercoles,2023,Marzo,14,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,37,35-39,35-39,35 - 39,Casado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+326,2023,Marzo,16,Jueves,2023,Marzo,14,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,37,35-39,35-39,35 - 39,Soltero,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+327,2023,Marzo,16,Jueves,2023,Marzo,15,Viernes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,25,25-29,25-29,25 - 29,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+328,2023,Marzo,20,Lunes,2023,Marzo,19,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,9,06:00 a 11:59,00:00 a 11:59,Otros
+329,2023,Marzo,20,Lunes,2023,Marzo,19,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+330,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,31,30-34,30-34,30 - 34,Casado,Amenazas,8,06:00 a 11:59,00:00 a 11:59,Amenazas
+331,2023,Marzo,21,Martes,2022,Noviembre,22,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,43,40-44,40-44,40 - 44,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+332,2023,Marzo,21,Martes,2022,Noviembre,22,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,57,55-59,55-59,55 - 59,Soltero,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+333,2023,Marzo,21,Martes,2022,Noviembre,22,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Mujer,30,30-34,30-34,30 - 34,Soltero,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+334,2023,Marzo,21,Martes,2022,Noviembre,22,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,78,60-100,75-79,75 - 79,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+335,2023,Marzo,22,Miercoles,2023,Marzo,9,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Otros,8,06:00 a 11:59,00:00 a 11:59,Otros
+336,2023,Marzo,27,Lunes,2023,Marzo,26,Martes,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,13,12:00 a 17:59,12:00 a 17:59,Otros
+337,2023,Marzo,28,Martes,2023,Marzo,25,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+338,2023,Marzo,28,Martes,2023,Marzo,25,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+339,2023,Marzo,28,Martes,2023,Marzo,27,Miercoles,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,16,12:00 a 17:59,12:00 a 17:59,Otros
+340,2023,Marzo,28,Martes,2023,Marzo,20,Miercoles,Jalapa,San Pedro Pinula,Ignorada,Hombre,42,40-44,40-44,40 - 44,Soltero,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+341,2023,Marzo,29,Miercoles,2023,Marzo,24,Jueves,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,20,20-24,20-24,20 - 24,Soltero,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+342,2023,Marzo,31,Viernes,2023,Marzo,28,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Ignorado,46,45-49,45-49,45 - 49,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+343,2023,Marzo,31,Viernes,2023,Marzo,29,Sábado,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+344,2023,Marzo,31,Viernes,2023,Marzo,31,Sábado,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+345,2023,Enero,9,Lunes,2023,Enero,7,Martes,Totonicapán,Santa Lucía La Reforma,Ignorada,Mujer,50,50-54,50-54,50 - 54,Soltero,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+346,2023,Enero,17,Martes,2023,Enero,16,Miercoles,Totonicapán,Santa Lucía La Reforma,Ignorada,Mujer,32,30-34,30-34,30 - 34,Soltero,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+347,2023,Marzo,1,Miercoles,2023,Febrero,25,Jueves,Totonicapán,Santa Lucía La Reforma,Ignorada,Ignorado,50,50-54,50-54,50 - 54,Ignorado,Apropiación y retención indebidas,14,12:00 a 17:59,12:00 a 17:59,Otros
+348,2023,Marzo,8,Miercoles,2023,Marzo,8,Jueves,Totonicapán,Santa Lucía La Reforma,Ignorada,Ignorado,23,20-24,20-24,20 - 24,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+349,2023,Marzo,23,Jueves,2023,Marzo,23,Viernes,Totonicapán,Santa Lucía La Reforma,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+350,2023,Enero,27,Viernes,2023,Enero,27,Sábado,Guatemala,Guatemala,5,Ignorado,37,35-39,35-39,35 - 39,Ignorado,"Producción de medicamentos falsificados, productos farmacéuticos falsificados, dispositivos médicos y material médico qu",9,06:00 a 11:59,00:00 a 11:59,Otros
+351,2023,Enero,27,Viernes,2023,Enero,27,Sábado,Guatemala,Guatemala,5,Mujer,29,25-29,25-29,25 - 29,Soltero,"Producción de medicamentos falsificados, productos farmacéuticos falsificados, dispositivos médicos y material médico qu",9,06:00 a 11:59,00:00 a 11:59,Otros
+352,2023,Enero,27,Viernes,2023,Enero,27,Sábado,Guatemala,Guatemala,5,Ignorado,35,35-39,35-39,35 - 39,Ignorado,"Producción de medicamentos falsificados, productos farmacéuticos falsificados, dispositivos médicos y material médico qu",9,06:00 a 11:59,00:00 a 11:59,Otros
+353,2023,Enero,27,Viernes,2023,Enero,27,Sábado,Guatemala,Guatemala,5,Ignorado,49,45-49,45-49,45 - 49,Ignorado,"Producción de medicamentos falsificados, productos farmacéuticos falsificados, dispositivos médicos y material médico qu",9,06:00 a 11:59,00:00 a 11:59,Otros
+354,2023,Enero,2,Lunes,2022,Diciembre,30,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,9,06:00 a 11:59,00:00 a 11:59,Otros
+355,2023,Enero,5,Jueves,2023,Enero,4,Viernes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+356,2023,Enero,6,Viernes,2023,Enero,5,Sábado,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+357,2023,Enero,20,Viernes,2023,Enero,19,Sábado,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+358,2023,Enero,20,Viernes,2023,Enero,19,Sábado,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+359,2023,Enero,20,Viernes,2023,Enero,19,Sábado,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+360,2023,Enero,30,Lunes,2023,Enero,27,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,8,06:00 a 11:59,00:00 a 11:59,Otros
+361,2023,Enero,30,Lunes,2023,Enero,27,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,8,06:00 a 11:59,00:00 a 11:59,Otros
+362,2023,Enero,30,Lunes,2023,Enero,27,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,8,06:00 a 11:59,00:00 a 11:59,Otros
+363,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+364,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+365,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Escuintla,La Gomera,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,9,06:00 a 11:59,00:00 a 11:59,Hurto
+366,2023,Febrero,22,Miercoles,2023,Febrero,21,Jueves,Totonicapán,Momostenango,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+367,2023,Febrero,22,Miercoles,2023,Febrero,21,Jueves,Totonicapán,Momostenango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+368,2023,Febrero,27,Lunes,2023,Febrero,26,Martes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+369,2023,Marzo,1,Miercoles,2023,Febrero,28,Jueves,Totonicapán,Momostenango,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+370,2023,Marzo,2,Jueves,2023,Marzo,1,Viernes,Totonicapán,San Bartolo Aguas Calientes,Ignorada,Ignorado,35,35-39,35-39,35 - 39,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+371,2023,Enero,2,Lunes,2023,Enero,2,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Difamación,10,06:00 a 11:59,00:00 a 11:59,Otros
+372,2023,Enero,2,Lunes,2023,Enero,1,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+373,2023,Enero,10,Martes,2023,Enero,6,Miercoles,Jalapa,San Manuel Chaparrón,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+374,2023,Enero,16,Lunes,2023,Enero,6,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+375,2023,Enero,31,Martes,2023,Enero,31,Miercoles,Jalapa,San Manuel Chaparrón,Ignorada,Mujer,47,45-49,45-49,45 - 49,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+376,2023,Febrero,1,Miercoles,2023,Enero,26,Jueves,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+377,2023,Febrero,1,Miercoles,2023,Enero,26,Jueves,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+378,2023,Febrero,1,Miercoles,2023,Enero,26,Jueves,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,19,15-19,15-19,15 - 19,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+379,2023,Febrero,1,Miercoles,2022,Mayo,1,Jueves,Santa Rosa,Santa María Ixhuatán,Ignorada,Hombre,51,50-54,50-54,50 - 54,Casado,Casos especiales de estafa,14,12:00 a 17:59,12:00 a 17:59,Otros
+380,2023,Febrero,2,Jueves,2023,Febrero,2,Viernes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,10,06:00 a 11:59,00:00 a 11:59,Hurto
+381,2023,Febrero,6,Lunes,2023,Enero,1,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+382,2023,Febrero,6,Lunes,2023,Enero,1,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+383,2023,Febrero,13,Lunes,2023,Febrero,13,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ignorado,Hurto,12,12:00 a 17:59,12:00 a 17:59,Hurto
+384,2023,Febrero,14,Martes,2023,Febrero,7,Miercoles,Jalapa,San Manuel Chaparrón,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+385,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Mujer,45,45-49,45-49,45 - 49,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+386,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,44,40-44,40-44,40 - 44,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+387,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+388,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+389,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+390,2023,Marzo,7,Martes,2023,Marzo,6,Miercoles,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+391,2023,Marzo,16,Jueves,2023,Marzo,14,Viernes,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+392,2023,Marzo,16,Jueves,2023,Marzo,14,Viernes,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+393,2023,Marzo,17,Viernes,2023,Marzo,7,Sábado,Jalapa,San Manuel Chaparrón,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Difamación,8,06:00 a 11:59,00:00 a 11:59,Otros
+394,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,10,06:00 a 11:59,00:00 a 11:59,Extorsión
+395,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,11,06:00 a 11:59,00:00 a 11:59,Otros
+396,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Jalapa,San Manuel Chaparrón,Ignorada,Mujer,52,50-54,50-54,50 - 54,Casado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+397,2023,Marzo,21,Martes,2023,Marzo,18,Miercoles,Jalapa,San Manuel Chaparrón,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesión en riña,10,06:00 a 11:59,00:00 a 11:59,Lesión en riña
+398,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Izabal,Puerto Barrios,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,12,12:00 a 17:59,12:00 a 17:59,Otros
+399,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Izabal,Puerto Barrios,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,12,12:00 a 17:59,12:00 a 17:59,Otros
+400,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Izabal,Puerto Barrios,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,12,12:00 a 17:59,12:00 a 17:59,Otros
+401,2023,Marzo,21,Martes,2023,Marzo,21,Miercoles,Petén,San Andrés,Ignorada,Ignorado,45,45-49,45-49,45 - 49,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,14,12:00 a 17:59,12:00 a 17:59,Otros
+402,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Petén,Dolores,Ignorada,Hombre,46,45-49,45-49,45 - 49,Ignorado,Usurpación a áreas protegidas,15,12:00 a 17:59,12:00 a 17:59,Otros
+403,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Petén,Dolores,Ignorada,Hombre,46,45-49,45-49,45 - 49,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,15,12:00 a 17:59,12:00 a 17:59,Otros
+404,2023,Enero,3,Martes,2023,Enero,1,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+405,2023,Enero,3,Martes,2022,Diciembre,31,Miercoles,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+406,2023,Enero,4,Miercoles,2023,Enero,1,Jueves,Retalhuleu,San Sebastián,Ignorada,Ignorado,25,25-29,25-29,25 - 29,Casado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+407,2023,Enero,6,Viernes,2023,Enero,5,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+408,2023,Enero,9,Lunes,2023,Enero,7,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ignorado,Robo de equipo terminal movil,14,12:00 a 17:59,12:00 a 17:59,Robo de equipo terminal movil
+409,2023,Enero,9,Lunes,2023,Enero,4,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,38,35-39,35-39,35 - 39,Casado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+410,2023,Enero,9,Lunes,2023,Enero,4,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+411,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+412,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+413,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+414,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+415,2023,Enero,11,Miercoles,2023,Enero,10,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+416,2023,Enero,12,Jueves,2023,Enero,8,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,36,35-39,35-39,35 - 39,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+417,2023,Enero,13,Viernes,2023,Enero,10,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+418,2023,Enero,13,Viernes,2023,Enero,12,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,40,40-44,40-44,40 - 44,Casado,Desobediencia,14,12:00 a 17:59,12:00 a 17:59,Otros
+419,2023,Enero,16,Lunes,2023,Enero,12,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+420,2023,Enero,17,Martes,2023,Enero,16,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+421,2023,Enero,17,Martes,2023,Enero,16,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+422,2023,Enero,18,Miercoles,2023,Enero,16,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+423,2023,Enero,18,Miercoles,2023,Enero,16,Jueves,Retalhuleu,San Sebastián,Ignorada,Ignorado,40,40-44,40-44,40 - 44,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+424,2023,Enero,18,Miercoles,2023,Enero,12,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+425,2023,Enero,18,Miercoles,2023,Enero,12,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+426,2023,Enero,18,Miercoles,2023,Enero,12,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+427,2023,Enero,18,Miercoles,2022,Octubre,28,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,35,35-39,35-39,35 - 39,Soltero,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+428,2023,Enero,20,Viernes,2022,Enero,19,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+429,2023,Enero,23,Lunes,2023,Enero,22,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,12,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+430,2023,Enero,23,Lunes,2023,Enero,22,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,12,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+431,2023,Enero,23,Lunes,2023,Enero,22,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,12,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+432,2023,Enero,25,Miercoles,2022,Noviembre,2,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+433,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+434,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+435,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,45,45-49,45-49,45 - 49,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+436,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+437,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+438,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+439,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,52,50-54,50-54,50 - 54,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+440,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,48,45-49,45-49,45 - 49,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+441,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,48,45-49,45-49,45 - 49,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+442,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+443,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+444,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,56,55-59,55-59,55 - 59,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+445,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,57,55-59,55-59,55 - 59,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+446,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,60,60-100,60-64,60 - 64,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+447,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,60,60-100,60-64,60 - 64,Ignorado,Coacción,14,12:00 a 17:59,12:00 a 17:59,Coacción
+448,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+449,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+450,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,45,45-49,45-49,45 - 49,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+451,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+452,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+453,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+454,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,52,50-54,50-54,50 - 54,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+455,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,48,45-49,45-49,45 - 49,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+456,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,48,45-49,45-49,45 - 49,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+457,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+458,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+459,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,56,55-59,55-59,55 - 59,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+460,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,57,55-59,55-59,55 - 59,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+461,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,60,60-100,60-64,60 - 64,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+462,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,Petapa,Ignorada,Hombre,60,60-100,60-64,60 - 64,Ignorado,Reuniones y manifestaciones ilícitas,14,12:00 a 17:59,12:00 a 17:59,Otros
+463,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+464,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+465,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+466,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+467,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+468,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+469,2023,Enero,26,Jueves,2023,Enero,25,Viernes,Suchitepéquez,Rio Bravo,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+470,2023,Enero,30,Lunes,2023,Enero,27,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+471,2023,Enero,30,Lunes,2023,Enero,27,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,49,45-49,45-49,45 - 49,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+472,2023,Enero,30,Lunes,2023,Enero,27,Martes,Quetzaltenango,Ostuncalco,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,11,06:00 a 11:59,00:00 a 11:59,Otros
+473,2023,Enero,30,Lunes,2023,Enero,27,Martes,Quetzaltenango,Ostuncalco,Ignorada,Ignorado,31,30-34,30-34,30 - 34,Ignorado,Estafa propia,11,06:00 a 11:59,00:00 a 11:59,Otros
+474,2023,Enero,30,Lunes,2023,Enero,26,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Casos especiales de estafa,12,12:00 a 17:59,12:00 a 17:59,Otros
+475,2023,Febrero,1,Miercoles,2023,Enero,26,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,16,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+476,2023,Febrero,1,Miercoles,2023,Enero,26,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,16,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+477,2023,Febrero,3,Viernes,2023,Febrero,2,Sábado,Guatemala,Guatemala,1,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,9,06:00 a 11:59,00:00 a 11:59,Extorsión
+478,2023,Febrero,3,Viernes,2023,Febrero,1,Sábado,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,9,06:00 a 11:59,00:00 a 11:59,Hurto
+479,2023,Febrero,3,Viernes,2023,Febrero,1,Sábado,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,9,06:00 a 11:59,00:00 a 11:59,Hurto
+480,2023,Febrero,3,Viernes,2023,Febrero,2,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+481,2023,Febrero,6,Lunes,2023,Enero,31,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,9,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+482,2023,Febrero,6,Lunes,2023,Enero,18,Martes,Alta Verapaz,Panzós,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+483,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+484,2023,Febrero,6,Lunes,2022,Noviembre,2,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,15,12:00 a 17:59,12:00 a 17:59,Otros
+485,2023,Febrero,6,Lunes,2022,Noviembre,2,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,15,12:00 a 17:59,12:00 a 17:59,Otros
+486,2023,Febrero,6,Lunes,2022,Noviembre,2,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,15,12:00 a 17:59,12:00 a 17:59,Otros
+487,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Guatemala,Guatemala,9,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,15,12:00 a 17:59,12:00 a 17:59,Robo agravado
+488,2023,Febrero,8,Miercoles,2023,Febrero,6,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+489,2023,Febrero,8,Miercoles,2023,Febrero,6,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+490,2023,Febrero,8,Miercoles,2023,Febrero,5,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Coacción,15,12:00 a 17:59,12:00 a 17:59,Coacción
+491,2023,Febrero,8,Miercoles,2023,Enero,30,Jueves,Sololá,Panajachel,Ignorada,Hombre,34,30-34,30-34,30 - 34,Soltero,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+492,2023,Febrero,8,Miercoles,2023,Febrero,8,Jueves,Guatemala,Petapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+493,2023,Febrero,8,Miercoles,2023,Febrero,6,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+494,2023,Febrero,9,Jueves,2023,Febrero,9,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,57,55-59,55-59,55 - 59,Ignorado,Estafa propia,15,12:00 a 17:59,12:00 a 17:59,Otros
+495,2023,Febrero,10,Viernes,2023,Febrero,4,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,9,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+496,2023,Febrero,13,Lunes,2023,Febrero,12,Martes,Escuintla,La Gomera,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+497,2023,Febrero,14,Martes,2023,Febrero,12,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,11,06:00 a 11:59,00:00 a 11:59,Robo agravado
+498,2023,Febrero,14,Martes,2023,Febrero,8,Miercoles,Guatemala,Guatemala,1,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,11,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+499,2023,Febrero,15,Miercoles,2023,Enero,30,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+500,2023,Febrero,17,Viernes,2023,Febrero,16,Sábado,Zacapa,Zacapa,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+501,2023,Febrero,17,Viernes,2023,Febrero,16,Sábado,Zacapa,Zacapa,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+502,2023,Febrero,17,Viernes,2023,Febrero,14,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,36,35-39,35-39,35 - 39,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+503,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+504,2023,Febrero,20,Lunes,2023,Febrero,15,Martes,Retalhuleu,San Felipe,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+505,2023,Febrero,22,Miercoles,2023,Febrero,21,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ignorado,Hurto,9,06:00 a 11:59,00:00 a 11:59,Hurto
+506,2023,Febrero,23,Jueves,2021,Enero,6,Viernes,Retalhuleu,Retalhuleu,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+507,2023,Febrero,23,Jueves,2021,Octubre,15,Viernes,Escuintla,La Democracia,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+508,2023,Febrero,23,Jueves,2017,Enero,2,Viernes,Quetzaltenango,Quetzaltenango,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Falsedad ideológica,12,12:00 a 17:59,12:00 a 17:59,Otros
+509,2023,Febrero,24,Viernes,2023,Febrero,21,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+510,2023,Febrero,24,Viernes,2023,Febrero,24,Sábado,Quetzaltenango,Quetzaltenango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación irregular,14,12:00 a 17:59,12:00 a 17:59,Otros
+511,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,33,30-34,30-34,30 - 34,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+512,2023,Febrero,24,Viernes,2023,Febrero,15,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,14,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+513,2023,Febrero,24,Viernes,2023,Febrero,22,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,15,12:00 a 17:59,12:00 a 17:59,Otros
+514,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+515,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+516,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+517,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+518,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,19,15-19,15-19,15 - 19,Soltero,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+519,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,19,15-19,15-19,15 - 19,Soltero,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+520,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,47,45-49,45-49,45 - 49,Casado,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+521,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,33,30-34,30-34,30 - 34,Soltero,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+522,2023,Febrero,24,Viernes,2023,Febrero,22,Sábado,Quetzaltenango,El Palmar,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+523,2023,Febrero,27,Lunes,2023,Febrero,24,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,44,40-44,40-44,40 - 44,Casado,Amenazas,8,06:00 a 11:59,00:00 a 11:59,Amenazas
+524,2023,Febrero,27,Lunes,2023,Febrero,24,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Amenazas,8,06:00 a 11:59,00:00 a 11:59,Amenazas
+525,2023,Febrero,27,Lunes,2023,Febrero,24,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,35,35-39,35-39,35 - 39,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+526,2023,Febrero,27,Lunes,2023,Febrero,23,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,15,12:00 a 17:59,12:00 a 17:59,Hurto
+527,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+528,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+529,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+530,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+531,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Coacción,11,06:00 a 11:59,00:00 a 11:59,Coacción
+532,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Coacción,11,06:00 a 11:59,00:00 a 11:59,Coacción
+533,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Coacción,11,06:00 a 11:59,00:00 a 11:59,Coacción
+534,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Coacción,11,06:00 a 11:59,00:00 a 11:59,Coacción
+535,2023,Marzo,1,Miercoles,2023,Febrero,25,Jueves,Chimaltenango,Chimaltenango,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+536,2023,Marzo,1,Miercoles,2023,Febrero,28,Jueves,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,11,06:00 a 11:59,00:00 a 11:59,Otros
+537,2023,Marzo,1,Miercoles,2023,Marzo,1,Jueves,Santa Rosa,Pueblo Nuevo Viñas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+538,2023,Marzo,1,Miercoles,2023,Marzo,1,Jueves,Santa Rosa,Pueblo Nuevo Viñas,Ignorada,Hombre,39,35-39,35-39,35 - 39,Casado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+539,2023,Marzo,1,Miercoles,2023,Febrero,28,Jueves,Retalhuleu,Retalhuleu,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+540,2023,Marzo,1,Miercoles,2023,Febrero,4,Jueves,Retalhuleu,San Sebastián,Ignorada,Ignorado,16,15-19,15-19,15 - 19,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+541,2023,Marzo,1,Miercoles,2023,Febrero,24,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+542,2023,Marzo,1,Miercoles,2023,Febrero,24,Jueves,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+543,2023,Marzo,1,Miercoles,2023,Febrero,26,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+544,2023,Marzo,1,Miercoles,2023,Febrero,26,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+545,2023,Marzo,3,Viernes,2023,Marzo,2,Sábado,Retalhuleu,Retalhuleu,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+546,2023,Marzo,3,Viernes,2023,Marzo,2,Sábado,Retalhuleu,Retalhuleu,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,9,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+547,2023,Marzo,3,Viernes,2023,Marzo,3,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Alteración de linderos,12,12:00 a 17:59,12:00 a 17:59,Otros
+548,2023,Marzo,3,Viernes,2023,Febrero,1,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,54,50-54,50-54,50 - 54,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+549,2023,Marzo,6,Lunes,2023,Marzo,3,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+550,2023,Marzo,6,Lunes,2023,Marzo,3,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Casado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+551,2023,Marzo,6,Lunes,2023,Marzo,3,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Daño,9,06:00 a 11:59,00:00 a 11:59,Otros
+552,2023,Marzo,6,Lunes,2023,Marzo,3,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Casado,Daño,9,06:00 a 11:59,00:00 a 11:59,Otros
+553,2023,Enero,2,Lunes,2022,Diciembre,22,Martes,Jalapa,Jalapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,11,06:00 a 11:59,00:00 a 11:59,Robo agravado
+554,2023,Enero,5,Jueves,2022,Diciembre,25,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+555,2023,Enero,5,Jueves,2022,Diciembre,25,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+556,2023,Enero,5,Jueves,2023,Enero,4,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,15,12:00 a 17:59,12:00 a 17:59,Otros
+557,2023,Enero,5,Jueves,2023,Enero,4,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,15,12:00 a 17:59,12:00 a 17:59,Otros
+558,2023,Enero,9,Lunes,2023,Enero,6,Martes,Jalapa,San Carlos Alzatate,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Tentativa y aborto culposo,10,06:00 a 11:59,00:00 a 11:59,Otros
+559,2023,Enero,9,Lunes,2023,Enero,8,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+560,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,13,12:00 a 17:59,12:00 a 17:59,Otros
+561,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Jalapa,San Carlos Alzatate,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,13,12:00 a 17:59,12:00 a 17:59,Otros
+562,2023,Enero,11,Miercoles,2023,Enero,10,Jueves,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+563,2023,Enero,12,Jueves,2023,Enero,8,Viernes,Jalapa,Jalapa,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,11,06:00 a 11:59,00:00 a 11:59,Otros
+564,2023,Enero,19,Jueves,2023,Enero,17,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+565,2023,Enero,23,Lunes,2023,Enero,21,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+566,2023,Enero,23,Lunes,2023,Enero,21,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,24,20-24,20-24,20 - 24,Soltero,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+567,2023,Enero,23,Lunes,2023,Enero,21,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Lesiones leves,10,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+568,2023,Enero,23,Lunes,2023,Enero,21,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,24,20-24,20-24,20 - 24,Soltero,Lesiones leves,10,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+569,2023,Enero,23,Lunes,2023,Enero,21,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,11,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+570,2023,Enero,26,Jueves,2023,Enero,21,Viernes,Guatemala,Guatemala,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+571,2023,Enero,27,Viernes,2023,Enero,26,Sábado,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,11,06:00 a 11:59,00:00 a 11:59,Hurto
+572,2023,Febrero,3,Viernes,2023,Febrero,2,Sábado,Jalapa,San Carlos Alzatate,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Hurto,10,06:00 a 11:59,00:00 a 11:59,Hurto
+573,2023,Febrero,6,Lunes,2023,Febrero,4,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+574,2023,Febrero,7,Martes,2023,Enero,30,Miercoles,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+575,2023,Febrero,7,Martes,2023,Febrero,3,Miercoles,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+576,2023,Febrero,9,Jueves,2023,Febrero,8,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+577,2023,Febrero,9,Jueves,2023,Febrero,8,Viernes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+578,2023,Febrero,14,Martes,2023,Febrero,7,Miercoles,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+579,2023,Febrero,17,Viernes,2023,Febrero,13,Sábado,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+580,2023,Febrero,27,Lunes,2022,Febrero,25,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+581,2023,Febrero,27,Lunes,2023,Febrero,19,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+582,2023,Febrero,28,Martes,2023,Febrero,27,Miercoles,Sacatepéquez,San Miguel Dueñas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+583,2023,Marzo,15,Miercoles,2023,Marzo,11,Jueves,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+584,2023,Marzo,15,Miercoles,2023,Marzo,8,Jueves,Jalapa,San Carlos Alzatate,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+585,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+586,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Jalapa,San Carlos Alzatate,Ignorada,Ignorado,22,20-24,20-24,20 - 24,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+587,2023,Marzo,27,Lunes,2023,Marzo,24,Martes,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+588,2023,Marzo,31,Viernes,2023,Marzo,16,Sábado,Jalapa,San Carlos Alzatate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+589,2023,Marzo,6,Lunes,2023,Marzo,4,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,12,12:00 a 17:59,12:00 a 17:59,Hurto
+590,2023,Marzo,6,Lunes,2023,Febrero,25,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,12,12:00 a 17:59,12:00 a 17:59,Robo agravado
+591,2023,Marzo,6,Lunes,2023,Enero,29,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+592,2023,Marzo,6,Lunes,2023,Enero,29,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Difamación,12,12:00 a 17:59,12:00 a 17:59,Otros
+593,2023,Marzo,6,Lunes,2023,Marzo,4,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+594,2023,Marzo,6,Lunes,2023,Enero,28,Martes,Chimaltenango,Acatenango,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+595,2023,Marzo,6,Lunes,2023,Marzo,4,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+596,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+597,2023,Marzo,6,Lunes,2023,Marzo,1,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,17,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+598,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,17,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+599,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,17,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+600,2023,Marzo,8,Miercoles,2023,Marzo,5,Jueves,San Marcos,Nuevo Progreso,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+601,2023,Marzo,8,Miercoles,2023,Marzo,5,Jueves,San Marcos,Nuevo Progreso,Ignorada,Hombre,31,30-34,30-34,30 - 34,Soltero,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+602,2023,Marzo,8,Miercoles,2023,Marzo,3,Jueves,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,12,12:00 a 17:59,12:00 a 17:59,Otros
+603,2023,Marzo,8,Miercoles,2023,Marzo,3,Jueves,Retalhuleu,San Sebastián,Ignorada,Ignorado,40,40-44,40-44,40 - 44,Ignorado,Contra los recursos forestales,12,12:00 a 17:59,12:00 a 17:59,Otros
+604,2023,Marzo,9,Jueves,2023,Marzo,6,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+605,2023,Marzo,9,Jueves,2023,Marzo,7,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,63,60-100,60-64,60 - 64,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+606,2023,Marzo,10,Viernes,2023,Marzo,9,Sábado,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,8,06:00 a 11:59,00:00 a 11:59,Amenazas
+607,2023,Marzo,10,Viernes,2023,Marzo,3,Sábado,Escuintla,Tiquisate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,12,12:00 a 17:59,12:00 a 17:59,Otros
+608,2023,Marzo,10,Viernes,2023,Marzo,8,Sábado,Retalhuleu,San Sebastián,Ignorada,Ignorado,40,40-44,40-44,40 - 44,Ignorado,Coacción,15,12:00 a 17:59,12:00 a 17:59,Coacción
+609,2023,Marzo,10,Viernes,2023,Marzo,8,Sábado,Retalhuleu,San Sebastián,Ignorada,Ignorado,35,35-39,35-39,35 - 39,Ignorado,Coacción,15,12:00 a 17:59,12:00 a 17:59,Coacción
+610,2023,Marzo,10,Viernes,2023,Marzo,8,Sábado,Retalhuleu,San Sebastián,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+611,2023,Marzo,10,Viernes,2023,Marzo,8,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+612,2023,Marzo,13,Lunes,2023,Marzo,10,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,10,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+613,2023,Marzo,13,Lunes,2023,Marzo,9,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,20,20-24,20-24,20 - 24,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+614,2023,Marzo,13,Lunes,2023,Marzo,9,Martes,Retalhuleu,San Sebastián,Ignorada,Ignorado,20,20-24,20-24,20 - 24,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+615,2023,Marzo,13,Lunes,2023,Marzo,9,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+616,2023,Marzo,13,Lunes,2023,Febrero,28,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+617,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Retalhuleu,Retalhuleu,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Calumnia,11,06:00 a 11:59,00:00 a 11:59,Otros
+618,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Retalhuleu,Retalhuleu,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Injuria,11,06:00 a 11:59,00:00 a 11:59,Otros
+619,2023,Marzo,20,Lunes,2023,Marzo,17,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,48,45-49,45-49,45 - 49,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+620,2023,Marzo,20,Lunes,2023,Marzo,17,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,71,60-100,70-74,70 - 74,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+621,2023,Marzo,20,Lunes,2021,Junio,8,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,11,06:00 a 11:59,00:00 a 11:59,Otros
+622,2023,Marzo,22,Miercoles,2023,Marzo,21,Jueves,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+623,2023,Marzo,23,Jueves,2021,Diciembre,17,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,12,12:00 a 17:59,12:00 a 17:59,Otros
+624,2023,Marzo,24,Viernes,2023,Marzo,19,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,15,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+625,2023,Marzo,24,Viernes,2023,Marzo,22,Sábado,Retalhuleu,Retalhuleu,Ignorada,Ignorado,31,30-34,30-34,30 - 34,Ignorado,Otros,17,12:00 a 17:59,12:00 a 17:59,Otros
+626,2023,Marzo,27,Lunes,2023,Marzo,26,Martes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Responsabilidad de conductores,16,12:00 a 17:59,12:00 a 17:59,Otros
+627,2023,Marzo,27,Lunes,2023,Marzo,23,Martes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+628,2023,Marzo,28,Martes,2023,Marzo,27,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+629,2023,Marzo,28,Martes,2023,Marzo,25,Miercoles,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+630,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Retalhuleu,San Sebastián,Ignorada,Mujer,17,15-19,15-19,15 - 19,Ignorado,Lesiones culposas,16,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+631,2023,Marzo,28,Martes,2023,Marzo,24,Miercoles,Retalhuleu,San Sebastián,Ignorada,Mujer,44,40-44,40-44,40 - 44,Soltero,Lesiones culposas,16,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+632,2023,Marzo,30,Jueves,2023,Marzo,28,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+633,2023,Marzo,30,Jueves,2023,Marzo,27,Viernes,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+634,2023,Marzo,30,Jueves,2023,Marzo,29,Viernes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+635,2023,Marzo,30,Jueves,2023,Marzo,29,Viernes,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+636,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+637,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Retalhuleu,San Sebastián,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+638,2023,Marzo,31,Viernes,2023,Marzo,31,Sábado,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,16,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+639,2023,Marzo,31,Viernes,2023,Marzo,31,Sábado,Retalhuleu,San Sebastián,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,16,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+640,2023,Enero,2,Lunes,2022,Diciembre,31,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+641,2023,Enero,2,Lunes,2022,Diciembre,31,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+642,2023,Enero,2,Lunes,2022,Diciembre,31,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+643,2023,Enero,3,Martes,2022,Diciembre,31,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,33,30-34,30-34,30 - 34,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+644,2023,Enero,3,Martes,2022,Diciembre,30,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,17,12:00 a 17:59,12:00 a 17:59,Otros
+645,2023,Enero,6,Viernes,2023,Enero,5,Sábado,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+646,2023,Enero,9,Lunes,2023,Enero,4,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+647,2023,Enero,9,Lunes,2023,Enero,4,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+648,2023,Enero,9,Lunes,2023,Enero,4,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+649,2023,Enero,9,Lunes,2023,Enero,4,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+650,2023,Enero,10,Martes,2023,Enero,9,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,9,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+651,2023,Enero,10,Martes,2023,Enero,9,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ignorado,Robo de equipo terminal movil,9,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+652,2023,Enero,17,Martes,2023,Enero,17,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+653,2023,Enero,17,Martes,2023,Enero,17,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,39,35-39,35-39,35 - 39,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+654,2023,Enero,18,Miercoles,2023,Enero,15,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,27,25-29,25-29,25 - 29,Ignorado,Apropiación y retención indebidas,12,12:00 a 17:59,12:00 a 17:59,Otros
+655,2023,Enero,18,Miercoles,2023,Enero,15,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Apropiación y retención indebidas,12,12:00 a 17:59,12:00 a 17:59,Otros
+656,2023,Enero,24,Martes,2023,Enero,16,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Omisión de denuncia,11,06:00 a 11:59,00:00 a 11:59,Otros
+657,2023,Enero,24,Martes,2023,Enero,17,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,37,35-39,35-39,35 - 39,Casado,Daño,15,12:00 a 17:59,12:00 a 17:59,Otros
+658,2023,Enero,24,Martes,2023,Enero,13,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,16,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+659,2023,Enero,30,Lunes,2023,Enero,29,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,11,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+660,2023,Enero,31,Martes,2023,Enero,26,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,43,40-44,40-44,40 - 44,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+661,2023,Enero,31,Martes,2023,Enero,26,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,43,40-44,40-44,40 - 44,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+662,2023,Febrero,1,Miercoles,2023,Enero,31,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,9,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+663,2023,Febrero,2,Jueves,2023,Febrero,1,Viernes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,25,25-29,25-29,25 - 29,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+664,2023,Febrero,2,Jueves,2023,Febrero,1,Viernes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,25,25-29,25-29,25 - 29,Ignorado,Hurto agravado,9,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+665,2023,Febrero,2,Jueves,2023,Enero,28,Viernes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,11,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+666,2023,Febrero,2,Jueves,2023,Enero,28,Viernes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,30,30-34,30-34,30 - 34,Casado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+667,2023,Febrero,6,Lunes,2023,Febrero,3,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Ignorado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+668,2023,Febrero,10,Viernes,2023,Febrero,9,Sábado,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ignorado,Daño,9,06:00 a 11:59,00:00 a 11:59,Otros
+669,2023,Febrero,13,Lunes,2023,Febrero,13,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,9,06:00 a 11:59,00:00 a 11:59,Robo agravado
+670,2023,Febrero,13,Lunes,2023,Febrero,10,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+671,2023,Febrero,14,Martes,2023,Febrero,8,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+672,2023,Febrero,14,Martes,2023,Enero,10,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+673,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,49,45-49,45-49,45 - 49,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+674,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,49,45-49,45-49,45 - 49,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+675,2023,Febrero,20,Lunes,2023,Febrero,15,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,14,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+676,2023,Febrero,24,Viernes,2023,Febrero,22,Sábado,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,62,60-100,60-64,60 - 64,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+677,2023,Febrero,27,Lunes,2023,Febrero,26,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Casado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+678,2023,Febrero,28,Martes,2023,Febrero,20,Miercoles,Retalhuleu,Retalhuleu,Ignorada,Ignorado,23,20-24,20-24,20 - 24,Ignorado,Casos especiales de estafa,16,12:00 a 17:59,12:00 a 17:59,Otros
+679,2023,Marzo,2,Jueves,2023,Marzo,1,Viernes,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+680,2023,Marzo,6,Lunes,2023,Marzo,6,Martes,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+681,2023,Marzo,8,Miercoles,2023,Marzo,7,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+682,2023,Marzo,8,Miercoles,2023,Marzo,7,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+683,2023,Marzo,8,Miercoles,2023,Marzo,6,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+684,2023,Marzo,8,Miercoles,2023,Marzo,6,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+685,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,29,25-29,25-29,25 - 29,Ignorado,Lesiones leves,13,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+686,2023,Marzo,17,Viernes,2023,Marzo,16,Sábado,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,50,50-54,50-54,50 - 54,Casado,Lesiones leves,13,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+687,2023,Marzo,21,Martes,2023,Marzo,19,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,51,50-54,50-54,50 - 54,Ignorado,Daño,9,06:00 a 11:59,00:00 a 11:59,Otros
+688,2023,Marzo,21,Martes,2023,Marzo,19,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,22,20-24,20-24,20 - 24,Ignorado,Daño,10,06:00 a 11:59,00:00 a 11:59,Otros
+689,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+690,2023,Marzo,22,Miercoles,2023,Marzo,21,Jueves,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Difamación,10,06:00 a 11:59,00:00 a 11:59,Otros
+691,2023,Marzo,23,Jueves,2023,Marzo,22,Viernes,Retalhuleu,Santa Cruz Muluá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+692,2023,Enero,2,Lunes,2023,Enero,1,Martes,Jalapa,Monjas,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+693,2023,Enero,2,Lunes,2023,Enero,1,Martes,Jalapa,Monjas,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+694,2023,Enero,3,Martes,2022,Diciembre,30,Miercoles,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+695,2023,Enero,9,Lunes,2023,Enero,7,Martes,Jalapa,Monjas,Ignorada,Hombre,35,35-39,35-39,35 - 39,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+696,2023,Enero,10,Martes,2023,Enero,7,Miercoles,Jalapa,Monjas,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ignorado,Lesiones leves,10,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+697,2023,Enero,11,Miercoles,2022,Octubre,2,Jueves,Jalapa,Monjas,Ignorada,Mujer,43,40-44,40-44,40 - 44,Ignorado,Apropiación y retención indebidas,15,12:00 a 17:59,12:00 a 17:59,Otros
+698,2023,Enero,19,Jueves,2023,Enero,18,Viernes,Jalapa,Monjas,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+699,2023,Enero,19,Jueves,2023,Enero,18,Viernes,Jalapa,Monjas,Ignorada,Hombre,18,15-19,15-19,15 - 19,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+700,2023,Enero,19,Jueves,2023,Enero,14,Viernes,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+701,2023,Enero,24,Martes,2023,Enero,14,Miercoles,Jalapa,Monjas,Ignorada,Mujer,70,60-100,70-74,70 - 74,Ignorado,Allanamiento,10,06:00 a 11:59,00:00 a 11:59,Otros
+702,2023,Enero,27,Viernes,2023,Enero,26,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,8,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+703,2023,Enero,27,Viernes,2023,Enero,26,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,8,06:00 a 11:59,00:00 a 11:59,Hurto
+704,2023,Enero,27,Viernes,2023,Enero,25,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,11,06:00 a 11:59,00:00 a 11:59,Otros
+705,2023,Enero,30,Lunes,2023,Enero,30,Martes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,13,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+706,2023,Febrero,3,Viernes,2023,Enero,31,Sábado,Jalapa,Monjas,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+707,2023,Febrero,7,Martes,2023,Enero,7,Miercoles,Jalapa,Monjas,Ignorada,Hombre,23,20-24,20-24,20 - 24,Soltero,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+708,2023,Febrero,7,Martes,2023,Febrero,6,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+709,2023,Febrero,7,Martes,2023,Febrero,6,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+710,2023,Febrero,7,Martes,2023,Febrero,6,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación y retención indebidas,10,06:00 a 11:59,00:00 a 11:59,Otros
+711,2023,Febrero,7,Martes,2023,Febrero,6,Miercoles,Zacapa,Zacapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación y retención indebidas,10,06:00 a 11:59,00:00 a 11:59,Otros
+712,2023,Febrero,13,Lunes,2023,Enero,24,Martes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+713,2023,Febrero,13,Lunes,2023,Febrero,9,Martes,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,11,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+714,2023,Febrero,13,Lunes,2023,Febrero,12,Martes,Jalapa,Monjas,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+715,2023,Febrero,13,Lunes,2023,Febrero,4,Martes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,11,06:00 a 11:59,00:00 a 11:59,Robo agravado
+716,2023,Febrero,13,Lunes,2021,Septiembre,30,Martes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,12,12:00 a 17:59,12:00 a 17:59,Extorsión
+717,2023,Febrero,13,Lunes,2023,Febrero,11,Martes,Jalapa,Monjas,Ignorada,Hombre,18,15-19,15-19,15 - 19,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+718,2023,Febrero,13,Lunes,2023,Febrero,11,Martes,Jalapa,Monjas,Ignorada,Hombre,18,15-19,15-19,15 - 19,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+719,2023,Febrero,14,Martes,2023,Febrero,13,Miercoles,Jutiapa,El Progreso,Ignorada,Ignorado,30,30-34,30-34,30 - 34,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+720,2023,Febrero,15,Miercoles,2022,Agosto,31,Jueves,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+721,2023,Febrero,17,Viernes,2022,Febrero,6,Sábado,Jalapa,Monjas,Ignorada,Hombre,34,30-34,30-34,30 - 34,Soltero,Otros,8,06:00 a 11:59,00:00 a 11:59,Otros
+722,2023,Febrero,17,Viernes,2023,Febrero,10,Sábado,Jalapa,Monjas,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+723,2023,Febrero,17,Viernes,2023,Febrero,16,Sábado,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,10,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+724,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,11,06:00 a 11:59,00:00 a 11:59,Robo agravado
+725,2023,Febrero,20,Lunes,2022,Febrero,14,Martes,Guatemala,Mixco,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+726,2023,Febrero,23,Jueves,2023,Febrero,13,Viernes,Jalapa,Monjas,Ignorada,Hombre,53,50-54,50-54,50 - 54,Ignorado,Apropiación y retención indebidas,13,12:00 a 17:59,12:00 a 17:59,Otros
+727,2023,Febrero,23,Jueves,2023,Febrero,13,Viernes,Jalapa,Monjas,Ignorada,Hombre,53,50-54,50-54,50 - 54,Soltero,Apropiación y retención indebidas,13,12:00 a 17:59,12:00 a 17:59,Otros
+728,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+729,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+730,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Calumnia,11,06:00 a 11:59,00:00 a 11:59,Otros
+731,2023,Febrero,24,Viernes,2023,Febrero,24,Sábado,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+732,2023,Febrero,27,Lunes,2023,Febrero,24,Martes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+733,2023,Febrero,27,Lunes,2023,Febrero,26,Martes,Jalapa,Monjas,Ignorada,Hombre,34,30-34,30-34,30 - 34,Soltero,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+734,2023,Febrero,27,Lunes,2023,Febrero,24,Martes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,16,12:00 a 17:59,12:00 a 17:59,Otros
+735,2023,Marzo,1,Miercoles,2023,Febrero,28,Jueves,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,10,06:00 a 11:59,00:00 a 11:59,Hurto
+736,2023,Marzo,6,Lunes,2023,Marzo,6,Martes,Jalapa,Monjas,Ignorada,Mujer,41,40-44,40-44,40 - 44,Soltero,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+737,2023,Marzo,7,Martes,2023,Marzo,2,Miercoles,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,11,06:00 a 11:59,00:00 a 11:59,Hurto
+738,2023,Marzo,8,Miercoles,2023,Marzo,3,Jueves,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,10,06:00 a 11:59,00:00 a 11:59,Hurto
+739,2023,Marzo,8,Miercoles,2023,Marzo,8,Jueves,Jalapa,Monjas,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Casos especiales de estafa,16,12:00 a 17:59,12:00 a 17:59,Otros
+740,2023,Marzo,8,Miercoles,2023,Marzo,8,Jueves,Jalapa,Monjas,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,16,12:00 a 17:59,12:00 a 17:59,Otros
+741,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,10,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+742,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,10,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+743,2023,Marzo,13,Lunes,2023,Marzo,12,Martes,Jalapa,Monjas,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ignorado,Allanamiento,15,12:00 a 17:59,12:00 a 17:59,Otros
+744,2023,Marzo,14,Martes,2022,Septiembre,29,Miercoles,Quetzaltenango,Ostuncalco,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ignorado,Falsedad ideológica,13,12:00 a 17:59,12:00 a 17:59,Otros
+745,2023,Marzo,16,Jueves,2023,Marzo,14,Viernes,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,10,06:00 a 11:59,00:00 a 11:59,Hurto
+746,2023,Marzo,21,Martes,2023,Marzo,21,Miercoles,Jalapa,Monjas,Ignorada,Mujer,19,15-19,15-19,15 - 19,Casado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+747,2023,Marzo,21,Martes,2023,Marzo,21,Miercoles,Jalapa,Monjas,Ignorada,Mujer,38,35-39,35-39,35 - 39,Soltero,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+748,2023,Marzo,22,Miercoles,2023,Marzo,17,Jueves,Jalapa,Monjas,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+749,2023,Marzo,23,Jueves,2023,Marzo,12,Viernes,Jalapa,Monjas,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ignorado,Tránsito ilegal de personas,8,06:00 a 11:59,00:00 a 11:59,Otros
+750,2023,Marzo,23,Jueves,2023,Marzo,12,Viernes,Jalapa,Monjas,Ignorada,Ignorado,46,45-49,45-49,45 - 49,Ignorado,Tránsito ilegal de personas,8,06:00 a 11:59,00:00 a 11:59,Otros
+751,2023,Marzo,27,Lunes,2023,Marzo,23,Martes,Jutiapa,Jutiapa,Ignorada,Hombre,21,20-24,20-24,20 - 24,Ignorado,Estafa propia,12,12:00 a 17:59,12:00 a 17:59,Otros
+752,2023,Marzo,30,Jueves,2023,Marzo,30,Viernes,Jalapa,Monjas,Ignorada,Hombre,28,25-29,25-29,25 - 29,Soltero,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+753,2023,Marzo,30,Jueves,2023,Marzo,29,Viernes,Jalapa,Monjas,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,16,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+754,2023,Marzo,31,Viernes,2022,Septiembre,16,Sábado,Escuintla,Santa Lucía Cotzumalguapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,10,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+755,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Jalapa,Monjas,Ignorada,Hombre,39,35-39,35-39,35 - 39,Casado,Amenazas,10,06:00 a 11:59,00:00 a 11:59,Amenazas
+756,2023,Marzo,31,Viernes,2023,Marzo,31,Sábado,Jalapa,Monjas,Ignorada,Hombre,65,60-100,65-69,65 - 69,Casado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+757,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Chimaltenango,Parramos,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,13,12:00 a 17:59,12:00 a 17:59,Robo agravado
+758,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Jalapa,Monjas,Ignorada,Mujer,22,20-24,20-24,20 - 24,Soltero,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+759,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Jalapa,Monjas,Ignorada,Mujer,20,20-24,20-24,20 - 24,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+760,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Jalapa,Monjas,Ignorada,Mujer,22,20-24,20-24,20 - 24,Soltero,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+761,2023,Marzo,31,Viernes,2023,Marzo,30,Sábado,Jalapa,Monjas,Ignorada,Mujer,20,20-24,20-24,20 - 24,Ignorado,Lesiones leves,15,12:00 a 17:59,12:00 a 17:59,Lesiones leves
+762,2023,Enero,2,Lunes,2023,Enero,2,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,54,50-54,50-54,50 - 54,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+763,2023,Enero,3,Martes,2022,Diciembre,3,Miercoles,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+764,2023,Enero,12,Jueves,2022,Diciembre,29,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,7,06:00 a 11:59,00:00 a 11:59,Amenazas
+765,2023,Enero,12,Jueves,2022,Diciembre,29,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Mujer,27,25-29,25-29,25 - 29,Ignorado,Amenazas,7,06:00 a 11:59,00:00 a 11:59,Amenazas
+766,2023,Enero,16,Lunes,2023,Enero,15,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ignorado,Amenazas,13,12:00 a 17:59,12:00 a 17:59,Amenazas
+767,2023,Enero,26,Jueves,2023,Enero,25,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones leves,10,06:00 a 11:59,00:00 a 11:59,Lesiones leves
+768,2023,Enero,26,Jueves,2019,Enero,26,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+769,2023,Enero,30,Lunes,2023,Enero,20,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,21,20-24,20-24,20 - 24,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+770,2023,Enero,30,Lunes,2023,Enero,20,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,19,15-19,15-19,15 - 19,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+771,2023,Enero,30,Lunes,2023,Enero,20,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,19,15-19,15-19,15 - 19,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+772,2023,Enero,30,Lunes,2023,Enero,20,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,20,20-24,20-24,20 - 24,Ignorado,Estafa propia,10,06:00 a 11:59,00:00 a 11:59,Otros
+773,2023,Enero,30,Lunes,2023,Enero,24,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+774,2023,Enero,30,Lunes,2023,Enero,24,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+775,2023,Enero,30,Lunes,2023,Enero,27,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+776,2023,Enero,30,Lunes,2023,Enero,20,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+777,2023,Febrero,2,Jueves,2023,Enero,29,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,46,45-49,45-49,45 - 49,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+778,2023,Febrero,3,Viernes,2022,Diciembre,20,Sábado,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,11,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+779,2023,Febrero,8,Miercoles,2023,Febrero,6,Jueves,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,12,12:00 a 17:59,12:00 a 17:59,Extorsión
+780,2023,Febrero,8,Miercoles,2023,Febrero,8,Jueves,Retalhuleu,Retalhuleu,Ignorada,Hombre,25,25-29,25-29,25 - 29,Casado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+781,2023,Febrero,20,Lunes,2023,Febrero,16,Martes,Retalhuleu,San Felipe,Ignorada,Ignorado,16,15-19,15-19,15 - 19,Ignorado,Hurto agravado,9,06:00 a 11:59,00:00 a 11:59,Hurto agravado
+782,2023,Febrero,21,Martes,2023,Febrero,18,Miercoles,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,17,15-19,15-19,15 - 19,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+783,2023,Marzo,2,Jueves,2023,Febrero,21,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,16,12:00 a 17:59,12:00 a 17:59,Amenazas
+784,2023,Marzo,3,Viernes,2023,Enero,31,Sábado,Guatemala,Petapa,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto de fluidos,9,06:00 a 11:59,00:00 a 11:59,Otros
+785,2023,Marzo,3,Viernes,2023,Marzo,3,Sábado,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+786,2023,Marzo,3,Viernes,2023,Febrero,18,Sábado,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+787,2023,Marzo,7,Martes,2023,Febrero,27,Miercoles,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,33,30-34,30-34,30 - 34,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+788,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,30,30-34,30-34,30 - 34,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+789,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,70,60-100,70-74,70 - 74,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+790,2023,Marzo,15,Miercoles,2023,Marzo,5,Jueves,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto agravado,12,12:00 a 17:59,12:00 a 17:59,Hurto agravado
+791,2023,Marzo,15,Miercoles,2023,Marzo,6,Jueves,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,20,20-24,20-24,20 - 24,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+792,2023,Marzo,20,Lunes,2023,Marzo,16,Martes,Suchitepéquez,Mazatenango,Ignorada,Hombre,35,35-39,35-39,35 - 39,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+793,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,37,35-39,35-39,35 - 39,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+794,2023,Marzo,22,Miercoles,2023,Marzo,21,Jueves,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,34,30-34,30-34,30 - 34,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+795,2023,Marzo,23,Jueves,2023,Marzo,22,Viernes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,23,20-24,20-24,20 - 24,Ignorado,Lesiones culposas,11,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+796,2023,Marzo,24,Viernes,2023,Marzo,24,Sábado,Retalhuleu,San Felipe,Ignorada,Hombre,51,50-54,50-54,50 - 54,Soltero,Explotación ilegal de recursos naturales,13,12:00 a 17:59,12:00 a 17:59,Otros
+797,2023,Marzo,27,Lunes,2023,Marzo,26,Martes,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,38,35-39,35-39,35 - 39,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+798,2023,Marzo,29,Miercoles,2022,Diciembre,28,Jueves,Quetzaltenango,Salcajá,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Casos especiales de estafa,11,06:00 a 11:59,00:00 a 11:59,Otros
+799,2023,Marzo,29,Miercoles,2023,Marzo,25,Jueves,Retalhuleu,San Martín Zapotitlán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Chantaje,16,12:00 a 17:59,12:00 a 17:59,Otros
+800,2023,Enero,4,Miercoles,2022,Diciembre,23,Jueves,Alta Verapaz,San Pedro Carchá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,13,12:00 a 17:59,12:00 a 17:59,Otros
+801,2023,Enero,4,Miercoles,2022,Diciembre,23,Jueves,Alta Verapaz,San Pedro Carchá,Ignorada,Mujer,53,50-54,50-54,50 - 54,Ignorado,Contra los recursos forestales,13,12:00 a 17:59,12:00 a 17:59,Otros
+802,2023,Enero,9,Lunes,2023,Enero,6,Martes,Izabal,Puerto Barrios,Ignorada,Ignorado,33,30-34,30-34,30 - 34,Ignorado,Contra los recursos forestales,9,06:00 a 11:59,00:00 a 11:59,Otros
+803,2023,Enero,10,Martes,2023,Enero,9,Miercoles,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,44,40-44,40-44,40 - 44,Soltero,Tráfico ilegal de flora y fauna,7,06:00 a 11:59,00:00 a 11:59,Otros
+804,2023,Enero,17,Martes,2023,Enero,17,Miercoles,Guatemala,San José del Golfo,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,9,06:00 a 11:59,00:00 a 11:59,Otros
+805,2023,Enero,17,Martes,2023,Enero,9,Miercoles,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Mujer,61,60-100,60-64,60 - 64,Soltero,Atentado contra el patrimonio natural y cultural de la nación,11,06:00 a 11:59,00:00 a 11:59,Otros
+806,2023,Enero,17,Martes,2023,Enero,9,Miercoles,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,51,50-54,50-54,50 - 54,Soltero,Atentado contra el patrimonio natural y cultural de la nación,11,06:00 a 11:59,00:00 a 11:59,Otros
+807,2023,Enero,18,Miercoles,2023,Enero,17,Jueves,El Progreso,Sanarate,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,12,12:00 a 17:59,12:00 a 17:59,Otros
+808,2023,Enero,18,Miercoles,2023,Enero,14,Jueves,Chimaltenango,Patzicía,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación,12,12:00 a 17:59,12:00 a 17:59,Otros
+809,2023,Enero,18,Miercoles,2023,Enero,14,Jueves,Chimaltenango,Patzicía,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación,12,12:00 a 17:59,12:00 a 17:59,Otros
+810,2023,Enero,18,Miercoles,2023,Enero,16,Jueves,Sacatepéquez,San Lucas Sacatepéquez,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación industrial,15,12:00 a 17:59,12:00 a 17:59,Otros
+811,2023,Enero,18,Miercoles,2023,Enero,16,Jueves,Sacatepéquez,San Lucas Sacatepéquez,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación industrial,15,12:00 a 17:59,12:00 a 17:59,Otros
+812,2023,Enero,19,Jueves,2023,Enero,18,Viernes,Retalhuleu,San Sebastián,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,12,12:00 a 17:59,12:00 a 17:59,Otros
+813,2023,Enero,20,Viernes,2023,Enero,16,Sábado,Petén,La Libertad,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Cambio del uso de la tierra sin autorización,14,12:00 a 17:59,12:00 a 17:59,Otros
+814,2023,Enero,20,Viernes,2023,Enero,20,Sábado,Guatemala,Guatemala,24,Hombre,43,40-44,40-44,40 - 44,Soltero,Explotación ilegal de recursos naturales,14,12:00 a 17:59,12:00 a 17:59,Otros
+815,2023,Enero,20,Viernes,2023,Enero,20,Sábado,Guatemala,Guatemala,24,Mujer,26,25-29,25-29,25 - 29,Soltero,Explotación ilegal de recursos naturales,14,12:00 a 17:59,12:00 a 17:59,Otros
+816,2023,Enero,23,Lunes,2022,Agosto,6,Martes,Petén,San Benito,Ignorada,Hombre,49,45-49,45-49,45 - 49,Ignorado,Contaminación,9,06:00 a 11:59,00:00 a 11:59,Otros
+817,2023,Enero,23,Lunes,2023,Enero,19,Martes,Guatemala,San José Pinula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,9,06:00 a 11:59,00:00 a 11:59,Otros
+818,2023,Enero,23,Lunes,2022,Enero,19,Martes,Guatemala,Mixco,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,11,06:00 a 11:59,00:00 a 11:59,Otros
+819,2023,Enero,23,Lunes,2022,Enero,19,Martes,Guatemala,Mixco,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,11,06:00 a 11:59,00:00 a 11:59,Otros
+820,2023,Enero,23,Lunes,2022,Enero,19,Martes,Guatemala,Mixco,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,11,06:00 a 11:59,00:00 a 11:59,Otros
+821,2023,Enero,23,Lunes,2022,Enero,19,Martes,Guatemala,Mixco,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,11,06:00 a 11:59,00:00 a 11:59,Otros
+822,2023,Enero,24,Martes,2023,Enero,19,Miercoles,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,8,06:00 a 11:59,00:00 a 11:59,Otros
+823,2023,Enero,24,Martes,2023,Enero,19,Miercoles,Huehuetenango,Huehuetenango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,9,06:00 a 11:59,00:00 a 11:59,Otros
+824,2023,Enero,24,Martes,2023,Enero,19,Miercoles,Huehuetenango,Huehuetenango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,9,06:00 a 11:59,00:00 a 11:59,Otros
+825,2023,Enero,24,Martes,2023,Enero,19,Miercoles,Huehuetenango,Huehuetenango,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,9,06:00 a 11:59,00:00 a 11:59,Otros
+826,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Quetzaltenango,Ostuncalco,Ignorada,Hombre,47,45-49,45-49,45 - 49,Casado,Explotación ilegal de recursos naturales,8,06:00 a 11:59,00:00 a 11:59,Otros
+827,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Guatemala,San Juan Sacatepéquez,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,10,06:00 a 11:59,00:00 a 11:59,Otros
+828,2023,Enero,27,Viernes,2023,Enero,21,Sábado,Alta Verapaz,Chisec,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,15,12:00 a 17:59,12:00 a 17:59,Otros
+829,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Soltero,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+830,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+831,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Casado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+832,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Mujer,22,20-24,20-24,20 - 24,Soltero,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+833,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Hombre,45,45-49,45-49,45 - 49,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+834,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Mujer,42,40-44,40-44,40 - 44,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+835,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+836,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Hombre,26,25-29,25-29,25 - 29,Soltero,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+837,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Mujer,20,20-24,20-24,20 - 24,Soltero,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+838,2023,Enero,29,Domingo,2023,Enero,29,Lunes,Petén,La Libertad,Ignorada,Hombre,53,50-54,50-54,50 - 54,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+839,2023,Febrero,1,Miercoles,2023,Enero,17,Jueves,Petén,Flores,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+840,2023,Febrero,1,Miercoles,2023,Enero,17,Jueves,Petén,Flores,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+841,2023,Febrero,1,Miercoles,2023,Enero,17,Jueves,Petén,Flores,Ignorada,Hombre,37,35-39,35-39,35 - 39,Soltero,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+842,2023,Febrero,1,Miercoles,2023,Enero,17,Jueves,Petén,Flores,Ignorada,Hombre,34,30-34,30-34,30 - 34,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+843,2023,Febrero,1,Miercoles,2023,Enero,17,Jueves,Petén,Flores,Ignorada,Hombre,71,60-100,70-74,70 - 74,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+844,2023,Febrero,2,Jueves,2023,Febrero,2,Viernes,Petén,Melchor de Mencos,Ignorada,Hombre,34,30-34,30-34,30 - 34,Soltero,Tráfico ilegal de flora y fauna,17,12:00 a 17:59,12:00 a 17:59,Otros
+845,2023,Febrero,6,Lunes,2023,Enero,30,Martes,Petén,La Libertad,Ignorada,Ignorado,61,60-100,60-64,60 - 64,Ignorado,Usurpación a áreas protegidas,15,12:00 a 17:59,12:00 a 17:59,Otros
+846,2023,Febrero,6,Lunes,2023,Enero,30,Martes,Petén,La Libertad,Ignorada,Ignorado,69,60-100,65-69,65 - 69,Ignorado,Usurpación a áreas protegidas,15,12:00 a 17:59,12:00 a 17:59,Otros
+847,2023,Febrero,8,Miercoles,2022,Noviembre,1,Jueves,Alta Verapaz,Cobán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,11,06:00 a 11:59,00:00 a 11:59,Otros
+848,2023,Febrero,9,Jueves,2023,Febrero,8,Viernes,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Ignorado,24,20-24,20-24,20 - 24,Ignorado,"Recolección, utilización y comercialización de productos forestal",9,06:00 a 11:59,00:00 a 11:59,Otros
+849,2023,Febrero,13,Lunes,2023,Enero,25,Martes,Izabal,Puerto Barrios,Ignorada,Ignorado,55,55-59,55-59,55 - 59,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,9,06:00 a 11:59,00:00 a 11:59,Otros
+850,2023,Febrero,13,Lunes,2023,Febrero,13,Martes,Guatemala,San José Pinula,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+851,2023,Febrero,13,Lunes,2023,Febrero,13,Martes,Escuintla,Nueva Concepción,Ignorada,Ignorado,59,55-59,55-59,55 - 59,Ignorado,Contaminación,16,12:00 a 17:59,12:00 a 17:59,Otros
+852,2023,Febrero,15,Miercoles,2023,Febrero,5,Jueves,Petén,Flores,Ignorada,Mujer,33,30-34,30-34,30 - 34,Soltero,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+853,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Petén,La Libertad,Ignorada,Hombre,24,20-24,20-24,20 - 24,Soltero,Usurpación a áreas protegidas,14,12:00 a 17:59,12:00 a 17:59,Otros
+854,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Petén,La Libertad,Ignorada,Hombre,50,50-54,50-54,50 - 54,Soltero,Usurpación a áreas protegidas,14,12:00 a 17:59,12:00 a 17:59,Otros
+855,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Petén,La Libertad,Ignorada,Hombre,24,20-24,20-24,20 - 24,Soltero,Atentado contra el patrimonio natural y cultural de la nación,14,12:00 a 17:59,12:00 a 17:59,Otros
+856,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Petén,La Libertad,Ignorada,Hombre,50,50-54,50-54,50 - 54,Soltero,Atentado contra el patrimonio natural y cultural de la nación,14,12:00 a 17:59,12:00 a 17:59,Otros
+857,2023,Febrero,16,Jueves,2023,Febrero,15,Viernes,Escuintla,Guanagazapa,Ignorada,Ignorado,37,35-39,35-39,35 - 39,Ignorado,Tráfico ilegal de flora y fauna,8,06:00 a 11:59,00:00 a 11:59,Otros
+858,2023,Febrero,16,Jueves,2023,Febrero,15,Viernes,Escuintla,Guanagazapa,Ignorada,Ignorado,47,45-49,45-49,45 - 49,Ignorado,Tráfico ilegal de flora y fauna,8,06:00 a 11:59,00:00 a 11:59,Otros
+859,2023,Febrero,16,Jueves,2023,Febrero,13,Viernes,Petén,Dolores,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,15,12:00 a 17:59,12:00 a 17:59,Otros
+860,2023,Febrero,17,Viernes,2023,Febrero,16,Sábado,Guatemala,Amatitlán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación industrial,11,06:00 a 11:59,00:00 a 11:59,Otros
+861,2023,Febrero,20,Lunes,2023,Febrero,20,Martes,Guatemala,Guatemala,17,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+862,2023,Febrero,20,Lunes,2023,Febrero,16,Martes,Petén,San Benito,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Explotación ilegal de recursos naturales,17,12:00 a 17:59,12:00 a 17:59,Otros
+863,2023,Febrero,23,Jueves,2023,Febrero,21,Viernes,Jutiapa,Comapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Hurto,12,12:00 a 17:59,12:00 a 17:59,Hurto
+864,2023,Febrero,23,Jueves,2023,Febrero,22,Viernes,Chimaltenango,Zaragoza,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+865,2023,Febrero,23,Jueves,2023,Febrero,15,Viernes,Baja Verapaz,Purulhá,Ignorada,Hombre,21,20-24,20-24,20 - 24,Soltero,"Recolección, utilización y comercialización de productos forestal",13,12:00 a 17:59,12:00 a 17:59,Otros
+866,2023,Febrero,27,Lunes,2023,Febrero,21,Martes,Escuintla,San Vicente Pacaya,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,12,12:00 a 17:59,12:00 a 17:59,Otros
+867,2023,Febrero,27,Lunes,2023,Febrero,21,Martes,Escuintla,San Vicente Pacaya,Ignorada,Ignorado,53,50-54,50-54,50 - 54,Ignorado,Contra los recursos forestales,12,12:00 a 17:59,12:00 a 17:59,Otros
+868,2023,Febrero,27,Lunes,2023,Febrero,23,Martes,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,"Recolección, utilización y comercialización de productos forestal",12,12:00 a 17:59,12:00 a 17:59,Otros
+869,2023,Febrero,28,Martes,2023,Febrero,28,Miercoles,Guatemala,Guatemala,17,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación industrial,12,12:00 a 17:59,12:00 a 17:59,Otros
+870,2023,Marzo,1,Miercoles,2023,Febrero,27,Jueves,Petén,Dolores,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,15,12:00 a 17:59,12:00 a 17:59,Otros
+871,2023,Marzo,6,Lunes,2023,Marzo,6,Martes,Petén,San Benito,Ignorada,Mujer,57,55-59,55-59,55 - 59,Casado,Atentado contra el patrimonio natural y cultural de la nación,15,12:00 a 17:59,12:00 a 17:59,Otros
+872,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Petén,San Andrés,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,16,12:00 a 17:59,12:00 a 17:59,Otros
+873,2023,Marzo,7,Martes,2023,Marzo,7,Miercoles,Petén,La Libertad,Ignorada,Hombre,41,40-44,40-44,40 - 44,Casado,Atentado contra el patrimonio natural y cultural de la nación,13,12:00 a 17:59,12:00 a 17:59,Otros
+874,2023,Marzo,7,Martes,2023,Marzo,7,Miercoles,Petén,La Libertad,Ignorada,Hombre,41,40-44,40-44,40 - 44,Casado,Atentado contra el patrimonio natural y cultural de la nación,13,12:00 a 17:59,12:00 a 17:59,Otros
+875,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Alta Verapaz,Cobán,Ignorada,Ignorado,49,45-49,45-49,45 - 49,Ignorado,Contra los recursos forestales,8,06:00 a 11:59,00:00 a 11:59,Otros
+876,2023,Marzo,9,Jueves,2023,Marzo,8,Viernes,Alta Verapaz,Cobán,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Casado,Contra los recursos forestales,8,06:00 a 11:59,00:00 a 11:59,Otros
+877,2023,Marzo,9,Jueves,2023,Febrero,20,Viernes,Zacapa,Huité,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,11,06:00 a 11:59,00:00 a 11:59,Otros
+878,2023,Marzo,9,Jueves,2023,Febrero,20,Viernes,Zacapa,Huité,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,11,06:00 a 11:59,00:00 a 11:59,Otros
+879,2023,Marzo,9,Jueves,2023,Enero,10,Viernes,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,13,12:00 a 17:59,12:00 a 17:59,Otros
+880,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Guatemala,San Raymundo,Ignorada,Ignorado,44,40-44,40-44,40 - 44,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+881,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Guatemala,San Raymundo,Ignorada,Ignorado,48,45-49,45-49,45 - 49,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+882,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Guatemala,San Raymundo,Ignorada,Ignorado,31,30-34,30-34,30 - 34,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+883,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Guatemala,San Raymundo,Ignorada,Ignorado,53,50-54,50-54,50 - 54,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+884,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Guatemala,San Raymundo,Ignorada,Ignorado,49,45-49,45-49,45 - 49,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+885,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Guatemala,San Raymundo,Ignorada,Ignorado,32,30-34,30-34,30 - 34,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+886,2023,Marzo,9,Jueves,2023,Marzo,9,Viernes,Alta Verapaz,San Pedro Carchá,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,16,12:00 a 17:59,12:00 a 17:59,Otros
+887,2023,Marzo,13,Lunes,2023,Marzo,10,Martes,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,44,40-44,40-44,40 - 44,Ignorado,Contra los recursos forestales,13,12:00 a 17:59,12:00 a 17:59,Otros
+888,2023,Marzo,13,Lunes,2023,Marzo,10,Martes,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,71,60-100,70-74,70 - 74,Ignorado,Contra los recursos forestales,13,12:00 a 17:59,12:00 a 17:59,Otros
+889,2023,Marzo,13,Lunes,2023,Marzo,10,Martes,Santa Rosa,Chiquimulilla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,17,12:00 a 17:59,12:00 a 17:59,Otros
+890,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Guatemala,Mixco,Ignorada,Ignorado,52,50-54,50-54,50 - 54,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+891,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,Poptún,Ignorada,Hombre,63,60-100,60-64,60 - 64,Casado,Explotación ilegal de recursos naturales,19,18:00 a 23:59,18:00 a 23:59,Otros
+892,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,23,20-24,20-24,20 - 24,Casado,Contaminación,20,18:00 a 23:59,18:00 a 23:59,Otros
+893,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Contaminación,20,18:00 a 23:59,18:00 a 23:59,Otros
+894,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,44,40-44,40-44,40 - 44,Casado,Contaminación,20,18:00 a 23:59,18:00 a 23:59,Otros
+895,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,55,55-59,55-59,55 - 59,Casado,Contaminación,20,18:00 a 23:59,18:00 a 23:59,Otros
+896,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,34,30-34,30-34,30 - 34,Casado,Contaminación,20,18:00 a 23:59,18:00 a 23:59,Otros
+897,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,41,40-44,40-44,40 - 44,Ignorado,Contaminación,20,18:00 a 23:59,18:00 a 23:59,Otros
+898,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,23,20-24,20-24,20 - 24,Casado,Explotación ilegal de recursos naturales,20,18:00 a 23:59,18:00 a 23:59,Otros
+899,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Explotación ilegal de recursos naturales,20,18:00 a 23:59,18:00 a 23:59,Otros
+900,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,44,40-44,40-44,40 - 44,Casado,Explotación ilegal de recursos naturales,20,18:00 a 23:59,18:00 a 23:59,Otros
+901,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,55,55-59,55-59,55 - 59,Casado,Explotación ilegal de recursos naturales,20,18:00 a 23:59,18:00 a 23:59,Otros
+902,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,34,30-34,30-34,30 - 34,Casado,Explotación ilegal de recursos naturales,20,18:00 a 23:59,18:00 a 23:59,Otros
+903,2023,Marzo,14,Martes,2023,Marzo,14,Miercoles,Petén,El Chal,Ignorada,Hombre,41,40-44,40-44,40 - 44,Ignorado,Explotación ilegal de recursos naturales,20,18:00 a 23:59,18:00 a 23:59,Otros
+904,2023,Marzo,16,Jueves,2022,Octubre,11,Viernes,Escuintla,Siquinalá,Ignorada,Ignorado,78,60-100,75-79,75 - 79,Ignorado,Contaminación,15,12:00 a 17:59,12:00 a 17:59,Otros
+905,2023,Marzo,20,Lunes,2022,Enero,19,Martes,El Progreso,Sanarate,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Explotación ilegal de recursos naturales,11,06:00 a 11:59,00:00 a 11:59,Otros
+906,2023,Marzo,20,Lunes,2023,Febrero,10,Martes,Alta Verapaz,Cobán,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,15,12:00 a 17:59,12:00 a 17:59,Otros
+907,2023,Marzo,20,Lunes,2023,Febrero,10,Martes,Alta Verapaz,Cobán,Ignorada,Ignorado,51,50-54,50-54,50 - 54,Ignorado,Contra los recursos forestales,15,12:00 a 17:59,12:00 a 17:59,Otros
+908,2023,Marzo,20,Lunes,2023,Marzo,20,Martes,Escuintla,San José,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ignorado,Protección de la fauna (caza sin licencia),18,18:00 a 23:59,18:00 a 23:59,Otros
+909,2023,Marzo,21,Martes,2023,Febrero,24,Miercoles,Izabal,Los Amates,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+910,2023,Marzo,24,Viernes,2023,Marzo,23,Sábado,Petén,Flores,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,12,12:00 a 17:59,12:00 a 17:59,Otros
+911,2023,Marzo,24,Viernes,2023,Marzo,24,Sábado,Petén,Poptún,Ignorada,Ignorado,41,40-44,40-44,40 - 44,Ignorado,Tráfico ilegal de flora y fauna,23,18:00 a 23:59,18:00 a 23:59,Otros
+912,2023,Marzo,24,Viernes,2023,Marzo,24,Sábado,Petén,Poptún,Ignorada,Ignorado,81,60-100,80-100,80 y más,Ignorado,Tráfico ilegal de flora y fauna,23,18:00 a 23:59,18:00 a 23:59,Otros
+913,2023,Marzo,25,Sábado,2023,Marzo,25,Domingo,Petén,Sayaxché,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,16,12:00 a 17:59,12:00 a 17:59,Otros
+914,2023,Marzo,27,Lunes,2023,Marzo,27,Martes,Alta Verapaz,Tactic,Ignorada,Ignorado,22,20-24,20-24,20 - 24,Ignorado,Tráfico ilegal de flora y fauna,14,12:00 a 17:59,12:00 a 17:59,Otros
+915,2023,Marzo,27,Lunes,2023,Marzo,21,Martes,Escuintla,San José,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,14,12:00 a 17:59,12:00 a 17:59,Otros
+916,2023,Marzo,27,Lunes,2021,Noviembre,25,Martes,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ignorado,"Recolección, utilización y comercialización de productos forestal",15,12:00 a 17:59,12:00 a 17:59,Otros
+917,2023,Marzo,28,Martes,2023,Enero,26,Miercoles,Chiquimula,Quetzaltepeque,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contra los recursos forestales,13,12:00 a 17:59,12:00 a 17:59,Otros
+918,2023,Marzo,28,Martes,2023,Marzo,27,Miercoles,Zacapa,Teculután,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Incendio forestal,14,12:00 a 17:59,12:00 a 17:59,Otros
+919,2023,Marzo,28,Martes,2023,Marzo,27,Miercoles,Guatemala,Mixco,Ignorada,Ignorado,46,45-49,45-49,45 - 49,Ignorado,Atentado contra el patrimonio natural y cultural de la nación,14,12:00 a 17:59,12:00 a 17:59,Otros
+920,2023,Marzo,30,Jueves,2023,Marzo,30,Viernes,Guatemala,Guatemala,13,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Explotación ilegal de recursos naturales,14,12:00 a 17:59,12:00 a 17:59,Otros
+921,2023,Febrero,15,Miercoles,2022,Febrero,12,Jueves,Chiquimula,San José La Arada,Ignorada,Ignorado,45,45-49,45-49,45 - 49,Ignorado,Faltas (ley de areas protegidas art. 81),15,12:00 a 17:59,12:00 a 17:59,Otros
+922,2023,Febrero,15,Miercoles,2022,Febrero,12,Jueves,Chiquimula,San José La Arada,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ignorado,Faltas (ley de areas protegidas art. 81),15,12:00 a 17:59,12:00 a 17:59,Otros
+923,2023,Febrero,16,Jueves,2023,Febrero,8,Viernes,Escuintla,Nueva Concepción,Ignorada,Ignorado,34,30-34,30-34,30 - 34,Ignorado,Contaminación,7,06:00 a 11:59,00:00 a 11:59,Otros
+924,2023,Febrero,16,Jueves,2022,Septiembre,19,Viernes,Escuintla,Escuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Contaminación,7,06:00 a 11:59,00:00 a 11:59,Otros
+925,2023,Enero,4,Miercoles,2022,Diciembre,28,Jueves,Jalapa,Mataquescuintla,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+926,2023,Enero,4,Miercoles,2022,Diciembre,30,Jueves,Guatemala,San José Pinula,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,14,12:00 a 17:59,12:00 a 17:59,Robo agravado
+927,2023,Enero,4,Miercoles,2022,Diciembre,19,Jueves,Jalapa,Mataquescuintla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+928,2023,Enero,10,Martes,2022,Octubre,4,Miercoles,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+929,2023,Enero,10,Martes,2022,Diciembre,10,Miercoles,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+930,2023,Enero,12,Jueves,2022,Diciembre,3,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+931,2023,Enero,13,Viernes,2022,Diciembre,29,Sábado,Jalapa,Mataquescuintla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+932,2023,Enero,19,Jueves,2022,Marzo,16,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,42,40-44,40-44,40 - 44,Casado,Responsabilidad de conductores,12,12:00 a 17:59,12:00 a 17:59,Otros
+933,2023,Enero,25,Miercoles,2022,Noviembre,30,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+934,2023,Enero,25,Miercoles,2020,Octubre,16,Jueves,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Apropiación y retención indebidas,9,06:00 a 11:59,00:00 a 11:59,Otros
+935,2023,Enero,25,Miercoles,2020,Octubre,16,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación,11,06:00 a 11:59,00:00 a 11:59,Otros
+936,2023,Enero,25,Miercoles,2023,Enero,11,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+937,2023,Enero,25,Miercoles,2023,Enero,11,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+938,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,11,06:00 a 11:59,00:00 a 11:59,Amenazas
+939,2023,Enero,25,Miercoles,2020,Octubre,16,Jueves,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación,12,12:00 a 17:59,12:00 a 17:59,Otros
+940,2023,Enero,25,Miercoles,2023,Enero,20,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación de aguas,12,12:00 a 17:59,12:00 a 17:59,Otros
+941,2023,Enero,25,Miercoles,2023,Enero,20,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación de aguas,12,12:00 a 17:59,12:00 a 17:59,Otros
+942,2023,Enero,25,Miercoles,2023,Enero,19,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+943,2023,Enero,25,Miercoles,2023,Enero,24,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,15,12:00 a 17:59,12:00 a 17:59,Amenazas
+944,2023,Enero,26,Jueves,2020,Octubre,16,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Usurpación,11,06:00 a 11:59,00:00 a 11:59,Otros
+945,2023,Febrero,1,Miercoles,2023,Febrero,1,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+946,2023,Febrero,2,Jueves,2023,Enero,31,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Casos especiales de estafa,11,06:00 a 11:59,00:00 a 11:59,Otros
+947,2023,Febrero,3,Viernes,2023,Enero,25,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+948,2023,Febrero,3,Viernes,2023,Enero,29,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+949,2023,Febrero,3,Viernes,2023,Enero,29,Sábado,Jalapa,Mataquescuintla,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ignorado,Robo agravado,10,06:00 a 11:59,00:00 a 11:59,Robo agravado
+950,2023,Febrero,7,Martes,2023,Febrero,6,Miercoles,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Extorsión,9,06:00 a 11:59,00:00 a 11:59,Extorsión
+951,2023,Febrero,7,Martes,2023,Febrero,1,Miercoles,Jalapa,Mataquescuintla,Ignorada,Mujer,52,50-54,50-54,50 - 54,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+952,2023,Febrero,7,Martes,2023,Febrero,1,Miercoles,Jalapa,Mataquescuintla,Ignorada,Mujer,44,40-44,40-44,40 - 44,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+953,2023,Febrero,7,Martes,2023,Enero,13,Miercoles,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+954,2023,Febrero,7,Martes,2023,Enero,13,Miercoles,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+955,2023,Febrero,7,Martes,2023,Febrero,1,Miercoles,Jalapa,Mataquescuintla,Ignorada,Hombre,41,40-44,40-44,40 - 44,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+956,2023,Febrero,8,Miercoles,2022,Noviembre,15,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+957,2023,Febrero,15,Miercoles,2023,Febrero,12,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+958,2023,Febrero,15,Miercoles,2023,Febrero,12,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Estafa propia,9,06:00 a 11:59,00:00 a 11:59,Otros
+959,2023,Febrero,15,Miercoles,2023,Febrero,14,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo,9,06:00 a 11:59,00:00 a 11:59,Robo
+960,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+961,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+962,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+963,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+964,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+965,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+966,2023,Febrero,16,Jueves,2022,Marzo,15,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Daño,11,06:00 a 11:59,00:00 a 11:59,Otros
+967,2023,Febrero,17,Viernes,2023,Febrero,15,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+968,2023,Febrero,17,Viernes,2023,Febrero,15,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,14,12:00 a 17:59,12:00 a 17:59,Amenazas
+969,2023,Febrero,20,Lunes,2023,Febrero,19,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+970,2023,Febrero,20,Lunes,2023,Febrero,19,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,12,12:00 a 17:59,12:00 a 17:59,Amenazas
+971,2023,Febrero,22,Miercoles,2023,Febrero,6,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+972,2023,Febrero,22,Miercoles,2023,Febrero,3,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,15,12:00 a 17:59,12:00 a 17:59,Otros
+973,2023,Febrero,23,Jueves,2023,Febrero,1,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,12,12:00 a 17:59,12:00 a 17:59,Otros
+974,2023,Febrero,24,Viernes,2023,Febrero,6,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo de equipo terminal movil,10,06:00 a 11:59,00:00 a 11:59,Robo de equipo terminal movil
+975,2023,Febrero,24,Viernes,2023,Febrero,6,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Robo,10,06:00 a 11:59,00:00 a 11:59,Robo
+976,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+977,2023,Febrero,24,Viernes,2023,Febrero,23,Sábado,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Lesiones culposas,12,12:00 a 17:59,12:00 a 17:59,Lesiones culposas
+978,2023,Febrero,27,Lunes,2023,Febrero,25,Martes,Jalapa,Mataquescuintla,Ignorada,Hombre,65,60-100,65-69,65 - 69,Ignorado,Lesiones culposas,9,06:00 a 11:59,00:00 a 11:59,Lesiones culposas
+979,2023,Febrero,27,Lunes,2023,Febrero,13,Martes,Jalapa,Mataquescuintla,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+980,2023,Febrero,27,Lunes,2023,Febrero,13,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+981,2023,Febrero,27,Lunes,2023,Febrero,13,Martes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+982,2023,Febrero,27,Lunes,2023,Febrero,9,Martes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+983,2023,Marzo,1,Miercoles,2023,Febrero,28,Jueves,Jalapa,Mataquescuintla,Ignorada,Ignorado,37,35-39,35-39,35 - 39,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+984,2023,Marzo,1,Miercoles,2023,Febrero,28,Jueves,Jalapa,Mataquescuintla,Ignorada,Hombre,62,60-100,60-64,60 - 64,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+985,2023,Marzo,2,Jueves,2023,Febrero,24,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,10,06:00 a 11:59,00:00 a 11:59,Otros
+986,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+987,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+988,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+989,2023,Marzo,6,Lunes,2023,Marzo,5,Martes,Jalapa,Mataquescuintla,Ignorada,Mujer,29,25-29,25-29,25 - 29,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
+990,2023,Marzo,7,Martes,2023,Febrero,1,Miercoles,Jalapa,Mataquescuintla,Ignorada,Ignorado,48,45-49,45-49,45 - 49,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+991,2023,Marzo,7,Martes,2023,Febrero,1,Miercoles,Jalapa,Mataquescuintla,Ignorada,Ignorado,48,45-49,45-49,45 - 49,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+992,2023,Marzo,7,Martes,2023,Febrero,19,Miercoles,Jalapa,Mataquescuintla,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ignorado,Otros,14,12:00 a 17:59,12:00 a 17:59,Otros
+993,2023,Marzo,16,Jueves,2023,Marzo,1,Viernes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,13,12:00 a 17:59,12:00 a 17:59,Otros
+994,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Zacapa,Huité,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ignorado,Otros,9,06:00 a 11:59,00:00 a 11:59,Otros
+995,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,9,06:00 a 11:59,00:00 a 11:59,Otros
+996,2023,Marzo,20,Lunes,2023,Marzo,18,Martes,Jalapa,Mataquescuintla,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Allanamiento,9,06:00 a 11:59,00:00 a 11:59,Otros
+997,2023,Marzo,20,Lunes,2023,Marzo,19,Martes,Jalapa,Mataquescuintla,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Otros,11,06:00 a 11:59,00:00 a 11:59,Otros
+998,2023,Marzo,20,Lunes,2023,Marzo,16,Martes,Jalapa,Mataquescuintla,Ignorada,Hombre,39,35-39,35-39,35 - 39,Ignorado,Contra los recursos forestales,12,12:00 a 17:59,12:00 a 17:59,Otros
+999,2023,Marzo,21,Martes,2023,Marzo,20,Miercoles,Jalapa,Mataquescuintla,Ignorada,Ignorado,Ignorada,Ignorado,Ignorado,Ignorado,Ignorado,Amenazas,9,06:00 a 11:59,00:00 a 11:59,Amenazas
