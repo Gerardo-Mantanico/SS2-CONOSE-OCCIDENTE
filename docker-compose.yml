@@ -1,0 +1,59 @@
+# Los servicios son opcionales e independientes entre sí.
+# Se pueden usar solo los necesarios según el setup local.
+#
+# Comandos útiles:
+#   Solo Postgres:   docker compose up -d postgres
+#   Solo Flyway:     docker compose run --rm flyway
+#   Ambos juntos:    docker compose up -d postgres && docker compose run --rm flyway
+#   Detener:    docker compose down
+#   Borrar datos:    docker compose down -v
+
+services:
+
+  # PostgreSQL
+  postgres:
+    image: postgres:17
+    container_name: bd_nacional_postgres
+    restart: unless-stopped
+    env_file:
+      - ./.env
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "${DB_PORT}:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d ${DB_NAME}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # Flyway (migraciones)
+  # Nota: se usa `run --rm` en vez de `up` porque Flyway es un proceso que
+  # corre una vez y termina, no es un servicio que quede levantado.
+  flyway:
+    image: redgate/flyway:12
+    container_name: bd_nacional_flyway
+    command: migrate
+    env_file:
+      - ./.env
+    environment:
+      FLYWAY_URL: jdbc:postgresql://${FLYWAY_DOCKER_HOST:-postgres}:${DB_PORT}/${DB_NAME}
+      FLYWAY_USER: ${DB_USER}
+      FLYWAY_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - ./database/flyway.conf:/flyway/conf/flyway.conf
+      - ./database/migrations:/flyway/database/migrations
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      postgres:
+        condition: service_healthy
+        required: false   # no falla si postgres no está en Docker
+
+volumes:
+  pg_data:
+    name: bd_nacional_pg_data
