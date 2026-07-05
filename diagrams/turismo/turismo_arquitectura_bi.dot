@@ -1,0 +1,2 @@
+digraph G {rankdir=LR; node [shape=box, style=rounded]; fuentes[label="Fuentes reales
+INGUAT/UNESCO/CONAP/SICultura"]; raw[label="data/turismo/raw"]; stg[label="turismo.stg_*"]; curado[label="turismo modelo curado"]; dw[label="dim_* / fact_*"]; marts[label="mart_* / vw_bi_*"]; fuentes -> raw -> stg -> curado -> dw -> marts; meta[label="meta.fuente / meta.carga"]; meta -> stg; meta -> curado;}

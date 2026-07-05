@@ -1,0 +1,21 @@
+erDiagram
+    FUENTE ||--o{ REGION_TURISTICA : respalda
+    REGION_TURISTICA ||--o{ DEPARTAMENTO : agrupa
+    DEPARTAMENTO ||--o{ MUNICIPIO : contiene
+    DEPARTAMENTO ||--o{ DESTINO : ubica
+    MUNICIPIO ||--o{ DESTINO : ubica
+    FUENTE ||--o{ DESTINO : fuente_principal
+    DESTINO ||--o{ DESTINO_CATEGORIA : clasifica
+    CATEGORIA_DESTINO ||--o{ DESTINO_CATEGORIA : categoria
+    DESTINO ||--o{ DESTINO_ACTIVIDAD : ofrece
+    ACTIVIDAD ||--o{ DESTINO_ACTIVIDAD : actividad
+    DESTINO ||--o{ DESTINO_TEMPORADA : recomienda
+    TEMPORADA ||--o{ DESTINO_TEMPORADA : temporada
+    DESTINO ||--o{ DESTINO_PATRIMONIO : relaciona
+    PATRIMONIO ||--o{ DESTINO_PATRIMONIO : patrimonio
+    RUTA_TURISTICA ||--o{ RUTA_DESTINO : contiene
+    DESTINO ||--o{ RUTA_DESTINO : visita
+    DESTINO ||--o{ RECOMENDACION_DESTINO : recomienda
+    DESTINO ||--o{ FACT_DESTINO_CATALOGO : analiza
+    DIM_FECHA ||--o{ FACT_DESTINO_CATALOGO : fecha
+    DIM_REGION ||--o{ FACT_DESTINO_CATALOGO : region
