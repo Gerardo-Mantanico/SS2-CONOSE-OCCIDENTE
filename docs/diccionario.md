@@ -7,6 +7,7 @@
 - **auditoria**: `registro`
 - **auth**: `cuenta`, `rol`
 - **clima**: `fuente_clima`, `registro_climatico`
+- **cultura**: `evento_cultural`, `evento_municipio`, `idioma`, `idioma_municipio`, `ingrediente_autoctono`, `plato_geografia`, `plato_ingrediente`, `plato_tipico`
 - **demografia**: `estado_civil`, `grupo_etnico`, `persona`, `sexo`
 - **geografia**: `departamento`, `municipio`, `pais`
 - **justicia**: `denuncia`, `estado_denuncia`, `registro_fecha_denuncia`, `tipo_denuncia`, `tipo_evento`
@@ -89,6 +90,101 @@ Registros de variables climáticas observadas para un municipio en una fecha y h
 | humedad_relativa | numeric(5,2) | sí |  |  |  | Humedad relativa del aire expresada como porcentaje. |
 | precipitacion | numeric(8,2) | sí |  |  |  | Cantidad de precipitación registrada durante el período de observación, expresada en milímetros. |
 | carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró la medición. |
+
+
+## Schema: `cultura`
+
+### `cultura.evento_cultural`
+
+Registro de festividades, ferias patronales, festivales y ceremonias tradicionales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único del evento. |
+| nombre | character varying(200) | no |  |  |  | Nombre oficial del evento o festividad. |
+| tipo_evento | character varying(100) | sí |  |  |  | Tipo de festividad (ej: Feria Patronal, Festival Artístico, Ceremonia Espiritual). |
+| mes_celebracion | integer | sí |  |  |  | Mes del año en que se realiza la celebración (1-12). |
+| dia_inicio | integer | sí |  |  |  | Día del mes en que inicia la festividad. |
+| dia_fin | integer | sí |  |  |  | Día del mes en que finaliza la festividad. |
+| descripcion | text | sí |  |  |  | Descripción del contexto, tradición y actividades del evento. |
+| recomendaciones_viaje | text | sí |  |  |  | Consejos prácticos para viajeros que desean asistir al evento. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el evento. |
+
+### `cultura.evento_municipio`
+
+Tabla asociativa que mapea la ubicación municipal donde se celebran los eventos culturales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| evento_id | integer | no | X | cultura.evento_cultural(id) |  | Identificador único del evento. |
+| municipio_id | integer | no | X | geografia.municipio(id) |  | Identificador único del municipio. |
+
+### `cultura.idioma`
+
+Catálogo de idiomas nacionales hablados en el territorio guatemalteco (mayas, garífuna, xinka y español).
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único del idioma. |
+| nombre | character varying(100) | no |  |  |  | Nombre oficial del idioma. |
+| familia_linguistica | character varying(100) | sí |  |  |  | Familia lingüística a la que pertenece el idioma (ej: Maya, Arahuaca, Aislada). |
+| estado_vitalidad | character varying(50) | sí |  |  |  | Estado de vitalidad del idioma (ej: Vital, En peligro, Crítico). |
+| descripcion | text | sí |  |  |  | Reseña e información relevante sobre la historia o distribución del idioma. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el idioma. |
+
+### `cultura.idioma_municipio`
+
+Tabla asociativa que mapea la distribución territorial y relevancia de los idiomas en los municipios.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| idioma_id | integer | no | X | cultura.idioma(id) |  | Identificador único del idioma. |
+| municipio_id | integer | no | X | geografia.municipio(id) |  | Identificador único del municipio. |
+| es_predominante | boolean | sí |  |  | `false` | Indica si el idioma es el predominante en el municipio. |
+
+### `cultura.ingrediente_autoctono`
+
+Ingredientes originarios o tradicionales de la gastronomía guatemalteca.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único del ingrediente. |
+| nombre | character varying(100) | no |  |  |  | Nombre del ingrediente (ej: Cacao, Pepitoria, Chile Cobanero). |
+| descripcion | text | sí |  |  |  | Descripción de las propiedades o uso del ingrediente. |
+| origen_prehispanico | boolean | sí |  |  | `true` | Indica si el ingrediente tiene origen prehispánico en la región. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el ingrediente. |
+
+### `cultura.plato_geografia`
+
+Relación geográfica de origen o arraigo de los platos típicos (departamento y opcionalmente municipio).
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| plato_id | integer | no | X | cultura.plato_tipico(id) |  | Identificador único del plato típico. |
+| departamento_id | integer | no | X | geografia.departamento(id) |  | Departamento de origen o arraigo del plato. |
+| municipio_id | integer | sí |  | geografia.municipio(id) |  | Municipio específico de origen o arraigo (opcional). |
+
+### `cultura.plato_ingrediente`
+
+Tabla asociativa que relaciona los platos típicos con sus ingredientes característicos.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| plato_id | integer | no | X | cultura.plato_tipico(id) |  | Identificador único del plato típico. |
+| ingrediente_id | integer | no | X | cultura.ingrediente_autoctono(id) |  | Identificador único del ingrediente. |
+
+### `cultura.plato_tipico`
+
+Catálogo de platillos y comidas tradicionales de Guatemala.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único del plato típico. |
+| nombre | character varying(150) | no |  |  |  | Nombre oficial del platillo tradicional (ej: Pepián, Kaq'ik). |
+| descripcion | text | sí |  |  |  | Reseña de la composición y presentación del platillo. |
+| historia_origen | text | sí |  |  |  | Contexto cultural e histórico del origen del platillo. |
+| es_patrimonio | boolean | sí |  |  | `false` | Indica si el platillo ha sido declarado Patrimonio Cultural de la Nación. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el platillo. |
 
 
 ## Schema: `demografia`
