@@ -9,6 +9,9 @@ scripts/
 |-- init_db.sh      crea la base e instala extensiones (una vez)
 |-- init_db.sql     extensiones y configuraciones iniciales
 |-- new.sh          genera migraciones y scripts de ETL bien nombrados
+|-- cultura/        scripts utilitarios específicos de cultura e identidad
+|   |-- enrich_languages.py      genera catálogo y relaciones de idiomas
+|   `-- parse_gastronomia_pdfs.py  parsea PDFs de recetas a CSV estructurado
 `-- generated/      scripts generados por otros procesos, versionados
 ```
 
@@ -69,6 +72,28 @@ bash scripts/new.sh etl salud load_hospitales
 ```
 
 Acepta `--ts YYYYMMDDHHMMSS` para fijar el timestamp de forma manual (útil para emparejar un ETL con la migración correspondiente).
+
+---
+
+## cultura/
+
+Contiene scripts de preparación y enriquecimiento para el módulo de Cultura e Identidad.
+
+### enrich_languages.py
+
+Genera los archivos CSV `idiomas.csv` e `idiomas_municipios.csv` con el catálogo completo de los 24 idiomas nacionales de Guatemala y sus relaciones de distribución municipal oficiales.
+
+```bash
+python scripts/cultura/enrich_languages.py
+```
+
+### parse_gastronomia_pdfs.py
+
+Script de pre-ETL que lee libros de cocina tradicionales en formato de texto plano (extraídos de PDFs), estructura la información en platillos típicos, ingredientes y relaciones, resuelve las PCodes geográficas a través de la base de datos y escribe los archivos CSV correspondientes.
+
+```bash
+python scripts/cultura/parse_gastronomia_pdfs.py
+```
 
 ---
 

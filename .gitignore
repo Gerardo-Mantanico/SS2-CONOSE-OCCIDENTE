@@ -4,6 +4,7 @@
 
 # Python
 etl/.venv/
+etl/python/.venv
 etl/__pycache__/
 etl/**/__pycache__/
 *.pyc
