@@ -1,0 +1,1000 @@
+núm_corre,año_ocu,mes_ocu,día_ocu,día_sem_ocu,hora_ocu,g_hora,g_hora_mañ.tar.noch,área_geo_ocu,depto_ocu,mupio_ocu,zona_ocu,sexo_per,edad_per,g_edad_60ymás,g_edad_80ymás,edad_quinquenales,delito_com,g_delitos
+1,2023,Enero,1,Domingo,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,9,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+2,2023,Enero,1,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,1,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+3,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Hombre,52,50-54,50-54,50 - 54,Otras causas,Otras causas
+4,2023,Enero,1,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Palencia,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+5,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Chinautla,Ignorada,Hombre,24,20-24,20-24,20 - 24,Riña,Otras causas
+6,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Chinautla,Ignorada,Hombre,45,45-49,45-49,45 - 49,Riña,Otras causas
+7,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Chinautla,Ignorada,Mujer,18,15-19,15-19,15 - 19,Otras causas,Otras causas
+8,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,18,Hombre,35,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+9,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+10,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Palencia,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+11,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,17,Hombre,24,20-24,20-24,20 - 24,Daños,Otras causas
+12,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,15,Hombre,34,30-34,30-34,30 - 34,Disparos,Otras causas
+13,2023,Enero,1,Domingo,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,16,Hombre,34,30-34,30-34,30 - 34,Orden de captura,Otras causas
+14,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Santa Catarina Pinula,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+15,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,5,Hombre,66,60 y más,65-69,65 - 69,Otras causas,Otras causas
+16,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,San José Pinula,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+17,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,11,Hombre,26,25-29,25-29,25 - 29,Orden de captura,Otras causas
+18,2023,Enero,1,Domingo,5,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,59,55-59,55-59,55 - 59,Portación ilegal arma de fuego,Otras causas
+19,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,12,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+20,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,7,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+21,2023,Enero,1,Domingo,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+22,2023,Enero,1,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,25,25-29,25-29,25 - 29,Orden de captura,Otras causas
+23,2023,Enero,1,Domingo,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,30,30-34,30-34,30 - 34,Robo a comercios,Contra el patrimonio
+24,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+25,2023,Enero,1,Domingo,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+26,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,59,55-59,55-59,55 - 59,Otras causas,Otras causas
+27,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,29,25-29,25-29,25 - 29,Disparos,Otras causas
+28,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+29,2023,Enero,1,Domingo,13,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+30,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,San Juan Sacatepéquez,Ignorada,Hombre,18,15-19,15-19,15 - 19,Portación ilegal arma de fuego,Otras causas
+31,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+32,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+33,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Jutiapa,Jutiapa,Ignorada,Hombre,20,20-24,20-24,20 - 24,Tenencia de droga,Otras causas
+34,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Comapa,Ignorada,Hombre,22,20-24,20-24,20 - 24,Agresión,Otras causas
+35,2023,Enero,1,Domingo,8,06:00 a 11:59,00:00 a 11:59,Rural,Jutiapa,Asunción Mita,Ignorada,Hombre,19,15-19,15-19,15 - 19,Orden de captura,Otras causas
+36,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Santa Catarina Mita,Ignorada,Hombre,53,50-54,50-54,50 - 54,Otras causas,Otras causas
+37,2023,Enero,1,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,Jutiapa,El Progreso,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+38,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Jutiapa,El Progreso,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Ebriedad y escándalo,Otras causas
+39,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Jutiapa,Jutiapa,Ignorada,Mujer,32,30-34,30-34,30 - 34,Riña,Otras causas
+40,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Jutiapa,Jutiapa,Ignorada,Mujer,33,30-34,30-34,30 - 34,Riña,Otras causas
+41,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Chiquimula,Chiquimula,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+42,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Urbano,Chiquimula,Esquipulas,Ignorada,Hombre,47,45-49,45-49,45 - 49,Otras causas,Otras causas
+43,2023,Enero,1,Domingo,8,06:00 a 11:59,00:00 a 11:59,Rural,Zacapa,Teculután,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+44,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Zacapa,Teculután,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+45,2023,Enero,1,Domingo,12,12:00 a 17:59,12:00 a 17:59,Rural,Zacapa,Cabañas,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+46,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,30,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+47,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Masagua,Ignorada,Hombre,28,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+48,2023,Enero,1,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Tiquisate,Ignorada,Hombre,23,20-24,20-24,20 - 24,Robo de motocicletas,Contra el patrimonio
+49,2023,Enero,1,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Palín,Ignorada,Hombre,48,45-49,45-49,45 - 49,Otras causas,Otras causas
+50,2023,Enero,1,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+51,2023,Enero,1,Domingo,8,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+52,2023,Enero,1,Domingo,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+53,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+54,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Mujer,41,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+55,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Siquinalá,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+56,2023,Enero,1,Domingo,7,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Palín,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+57,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+58,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+59,2023,Enero,1,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+60,2023,Enero,1,Domingo,22,18:00 a 23:59,18:00 a 23:59,Urbano,Escuintla,Nueva Concepción,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+61,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Oratorio,Ignorada,Hombre,30,30-34,30-34,30 - 34,Lesiones por arma de fuego,Lesiones
+62,2023,Enero,1,Domingo,7,06:00 a 11:59,00:00 a 11:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+63,2023,Enero,1,Domingo,7,06:00 a 11:59,00:00 a 11:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+64,2023,Enero,1,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+65,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+66,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Guazacapán,Ignorada,Hombre,33,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+67,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+68,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+69,2023,Enero,1,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Chiquimulilla,Ignorada,Hombre,58,55-59,55-59,55 - 59,Ebriedad y escándalo,Otras causas
+70,2023,Enero,1,Domingo,5,00:00 a 05:59,00:00 a 11:59,Rural,Suchitepéquez,Samayac,Ignorada,Hombre,28,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+71,2023,Enero,1,Domingo,12,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,Patulul,Ignorada,Hombre,44,40-44,40-44,40 - 44,Otras causas,Otras causas
+72,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,San Miguel Panán,Ignorada,Hombre,24,20-24,20-24,20 - 24,Agresión,Otras causas
+73,2023,Enero,1,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,Patulul,Ignorada,Hombre,51,50-54,50-54,50 - 54,Otras causas,Otras causas
+74,2023,Enero,1,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,Patulul,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+75,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,San Miguel Panán,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+76,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Suchitepéquez,Mazatenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+77,2023,Enero,1,Domingo,8,06:00 a 11:59,00:00 a 11:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Hombre,36,35-39,35-39,35 - 39,Orden de captura,Otras causas
+78,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Andrés Villa Seca,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+79,2023,Enero,1,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Andrés Villa Seca,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+80,2023,Enero,1,Domingo,1,00:00 a 05:59,00:00 a 11:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Hombre,18,15-19,15-19,15 - 19,Otras causas,Otras causas
+81,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+82,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Champerico,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+83,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+84,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,17,15-19,15-19,15 - 19,Otras causas,Otras causas
+85,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Génova,Ignorada,Hombre,40,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+86,2023,Enero,1,Domingo,10,06:00 a 11:59,00:00 a 11:59,Rural,Quetzaltenango,Salcajá,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+87,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,46,45-49,45-49,45 - 49,Otras causas,Otras causas
+88,2023,Enero,1,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Hombre,22,20-24,20-24,20 - 24,Riña,Otras causas
+89,2023,Enero,1,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Hombre,32,30-34,30-34,30 - 34,Riña,Otras causas
+90,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,San Juan Ostuncalco,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+91,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,La Esperanza,Ignorada,Hombre,48,45-49,45-49,45 - 49,Otras causas,Otras causas
+92,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Catarina,Ignorada,Mujer,48,45-49,45-49,45 - 49,Otras causas,Otras causas
+93,2023,Enero,1,Domingo,5,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Nuevo Progreso,Ignorada,Hombre,24,20-24,20-24,20 - 24,Agresión,Otras causas
+94,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+95,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,El Quetzal,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+96,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,El Quetzal,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+97,2023,Enero,1,Domingo,5,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Marcos,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otros robos y hurtos,Contra el patrimonio
+98,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+99,2023,Enero,1,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Comitancillo,Ignorada,Hombre,72,60 y más,70-74,70 - 74,Allanamiento de morada,Otras causas
+100,2023,Enero,1,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+101,2023,Enero,1,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+102,2023,Enero,1,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+103,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,San Pedro Sacatepéquez,Ignorada,Mujer,33,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+104,2023,Enero,1,Domingo,9,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,Malacatán,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+105,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,22,20-24,20-24,20 - 24,Allanamiento de morada,Otras causas
+106,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,18,15-19,15-19,15 - 19,Otras causas,Otras causas
+107,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Huehuetenango,Santa Eulalia,Ignorada,Hombre,34,30-34,30-34,30 - 34,Agresión,Otras causas
+108,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+109,2023,Enero,1,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Huehuetenango,Santa Ana Huista,Ignorada,Hombre,33,30-34,30-34,30 - 34,Agresión,Otras causas
+110,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Huehuetenango,Aguacatán,Ignorada,Hombre,45,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+111,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Huehuetenango,Chiantla,Ignorada,Hombre,54,50-54,50-54,50 - 54,Ebriedad y escándalo,Otras causas
+112,2023,Enero,1,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,San Rafael Petzal,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+113,2023,Enero,1,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,San Pedro Necta,Ignorada,Hombre,60,60 y más,60-64,60 - 64,Ebriedad y escándalo,Otras causas
+114,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,Colotenango,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+115,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,Chiantla,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+116,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Tactic,Ignorada,Hombre,16,15-19,15-19,15 - 19,Robo a peatones,Contra el patrimonio
+117,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Fray Bartolomé de las Casas,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+118,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Tactic,Ignorada,Hombre,15,15-19,15-19,15 - 19,Robo a peatones,Contra el patrimonio
+119,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,29,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+120,2023,Enero,1,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Chisec,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+121,2023,Enero,1,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Fray Bartolomé de las Casas,Ignorada,Hombre,21,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+122,2023,Enero,1,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+123,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Mujer,26,25-29,25-29,25 - 29,Riña,Otras causas
+124,2023,Enero,1,Domingo,22,18:00 a 23:59,18:00 a 23:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,16,15-19,15-19,15 - 19,Otras causas,Otras causas
+125,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Mujer,36,35-39,35-39,35 - 39,Riña,Otras causas
+126,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+127,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Santa Catarina La Tinta,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Ebriedad y escándalo,Otras causas
+128,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Senahú,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Ebriedad y escándalo,Otras causas
+129,2023,Enero,1,Domingo,3,00:00 a 05:59,00:00 a 11:59,Rural,El Progreso,Sanarate,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Ebriedad y escándalo,Otras causas
+130,2023,Enero,1,Domingo,6,06:00 a 11:59,00:00 a 11:59,Rural,Izabal,El Estor,Ignorada,Hombre,44,40-44,40-44,40 - 44,Disparos,Otras causas
+131,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Izabal,El Estor,Ignorada,Hombre,20,20-24,20-24,20 - 24,Homicidio por arma blanca,Homicidios
+132,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,Livingston,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+133,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Izabal,El Estor,Ignorada,Hombre,25,25-29,25-29,25 - 29,Disparos,Otras causas
+134,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Livingston,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+135,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Livingston,Ignorada,Hombre,16,15-19,15-19,15 - 19,Otras causas,Otras causas
+136,2023,Enero,1,Domingo,5,00:00 a 05:59,00:00 a 11:59,Rural,Petén,La Libertad,Ignorada,Hombre,22,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+137,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+138,2023,Enero,1,Domingo,8,06:00 a 11:59,00:00 a 11:59,Rural,Petén,Dolores,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+139,2023,Enero,1,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Petén,Dolores,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+140,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Petén,Flores,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+141,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Andrés,Ignorada,Hombre,33,30-34,30-34,30 - 34,Riña,Otras causas
+142,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Andrés,Ignorada,Hombre,22,20-24,20-24,20 - 24,Riña,Otras causas
+143,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Petén,Flores,Ignorada,Mujer,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+144,2023,Enero,1,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Andrés,Ignorada,Hombre,22,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+145,2023,Enero,1,Domingo,0,00:00 a 05:59,00:00 a 11:59,Urbano,Sololá,San Pablo la Laguna,Ignorada,Hombre,36,35-39,35-39,35 - 39,Orden de captura,Otras causas
+146,2023,Enero,1,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,San Pedro la Laguna,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+147,2023,Enero,1,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Sololá,Panajachel,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+148,2023,Enero,1,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Sololá,Santa Clara la Laguna,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+149,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Sololá,San Juan la Laguna,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+150,2023,Enero,1,Domingo,12,12:00 a 17:59,12:00 a 17:59,Urbano,Chimaltenango,Zaragoza,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+151,2023,Enero,1,Domingo,12,12:00 a 17:59,12:00 a 17:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,16,15-19,15-19,15 - 19,Robo de motocicletas,Contra el patrimonio
+152,2023,Enero,1,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+153,2023,Enero,1,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,32,30-34,30-34,30 - 34,Orden de captura,Otras causas
+154,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Patzún,Ignorada,Hombre,35,35-39,35-39,35 - 39,Robo a comercios,Contra el patrimonio
+155,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Patzún,Ignorada,Hombre,35,35-39,35-39,35 - 39,Robo a comercios,Contra el patrimonio
+156,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Patzún,Ignorada,Hombre,24,20-24,20-24,20 - 24,Robo a comercios,Contra el patrimonio
+157,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+158,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,Parramos,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+159,2023,Enero,1,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,Parramos,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+160,2023,Enero,1,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,23,20-24,20-24,20 - 24,Daños,Otras causas
+161,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Jocotenango,Ignorada,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+162,2023,Enero,1,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,35,35-39,35-39,35 - 39,Robo a residencias,Contra el patrimonio
+163,2023,Enero,1,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Sacatepéquez,San Miguel Dueñas,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+164,2023,Enero,2,Lunes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,9,Mujer,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+165,2023,Enero,2,Lunes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,9,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+166,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,26,25-29,25-29,25 - 29,Orden de captura,Otras causas
+167,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Mujer,50,50-54,50-54,50 - 54,Orden de captura,Otras causas
+168,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Chinautla,Ignorada,Hombre,29,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+169,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Chinautla,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+170,2023,Enero,2,Lunes,7,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,Palencia,Ignorada,Hombre,15,15-19,15-19,15 - 19,Allanamiento de morada,Otras causas
+171,2023,Enero,2,Lunes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,18,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+172,2023,Enero,2,Lunes,0,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+173,2023,Enero,2,Lunes,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,San José Pinula,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+174,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,San José Pinula,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+175,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,San José Pinula,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+176,2023,Enero,2,Lunes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,10,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+177,2023,Enero,2,Lunes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,12,Hombre,45,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+178,2023,Enero,2,Lunes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,12,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+179,2023,Enero,2,Lunes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,21,Mujer,41,40-44,40-44,40 - 44,Extorsión,Extorsión
+180,2023,Enero,2,Lunes,0,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Villa Nueva,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+181,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+182,2023,Enero,2,Lunes,3,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+183,2023,Enero,2,Lunes,5,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,20,20-24,20-24,20 - 24,Allanamiento de morada,Otras causas
+184,2023,Enero,2,Lunes,6,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+185,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Villa Nueva,Ignorada,Hombre,21,20-24,20-24,20 - 24,Robo a comercios,Contra el patrimonio
+186,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,25,25-29,25-29,25 - 29,Orden de captura,Otras causas
+187,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,54,50-54,50-54,50 - 54,Otras causas,Otras causas
+188,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,59,55-59,55-59,55 - 59,Otras causas,Otras causas
+189,2023,Enero,2,Lunes,22,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,35,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+190,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+191,2023,Enero,2,Lunes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+192,2023,Enero,2,Lunes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+193,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,50,50-54,50-54,50 - 54,Otras causas,Otras causas
+194,2023,Enero,2,Lunes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+195,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Mixco,Ignorada,Mujer,36,35-39,35-39,35 - 39,Orden de captura,Otras causas
+196,2023,Enero,2,Lunes,9,06:00 a 11:59,00:00 a 11:59,Rural,Jutiapa,Comapa,Ignorada,Hombre,33,30-34,30-34,30 - 34,Agresión,Otras causas
+197,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Chiquimula,Esquipulas,Ignorada,Hombre,56,55-59,55-59,55 - 59,Orden de captura,Otras causas
+198,2023,Enero,2,Lunes,11,06:00 a 11:59,00:00 a 11:59,Rural,Chiquimula,Jocotán,Ignorada,Hombre,43,40-44,40-44,40 - 44,Orden de captura,Otras causas
+199,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Tiquisate,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+200,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+201,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+202,2023,Enero,2,Lunes,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Mujer,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+203,2023,Enero,2,Lunes,19,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Masagua,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+204,2023,Enero,2,Lunes,19,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Siquinalá,Ignorada,Hombre,69,60 y más,65-69,65 - 69,Otras causas,Otras causas
+205,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+206,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+207,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+208,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Mujer,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+209,2023,Enero,2,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Tiquisate,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+210,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,59,55-59,55-59,55 - 59,Otras causas,Otras causas
+211,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+212,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+213,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Taxisco,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+214,2023,Enero,2,Lunes,13,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+215,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,47,45-49,45-49,45 - 49,Orden de captura,Otras causas
+216,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,San Francisco Zapotitlán,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+217,2023,Enero,2,Lunes,23,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,25,25-29,25-29,25 - 29,Agresión,Otras causas
+218,2023,Enero,2,Lunes,23,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,22,20-24,20-24,20 - 24,Agresión,Otras causas
+219,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Quetzaltenango,San Miguel Siguilá,Ignorada,Hombre,23,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+220,2023,Enero,2,Lunes,6,06:00 a 11:59,00:00 a 11:59,Rural,Quetzaltenango,San Miguel Siguilá,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+221,2023,Enero,2,Lunes,14,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,21,20-24,20-24,20 - 24,Robo a peatones,Contra el patrimonio
+222,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,35,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+223,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,37,35-39,35-39,35 - 39,Orden de captura,Otras causas
+224,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Mujer,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+225,2023,Enero,2,Lunes,0,00:00 a 05:59,00:00 a 11:59,Urbano,San Marcos,Malacatán,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+226,2023,Enero,2,Lunes,5,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Pedro Sacatepéquez,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+227,2023,Enero,2,Lunes,5,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Pedro Sacatepéquez,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+228,2023,Enero,2,Lunes,14,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,San Rafael Pie de la Cuesta,Ignorada,Hombre,50,50-54,50-54,50 - 54,Delitos forestales,Otras causas
+229,2023,Enero,2,Lunes,8,06:00 a 11:59,00:00 a 11:59,Rural,Huehuetenango,Huehuetenango,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+230,2023,Enero,2,Lunes,8,06:00 a 11:59,00:00 a 11:59,Rural,Huehuetenango,Huehuetenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+231,2023,Enero,2,Lunes,21,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,San Rafael La Independencia,Ignorada,Hombre,25,25-29,25-29,25 - 29,Agresión,Otras causas
+232,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,Colotenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+233,2023,Enero,2,Lunes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Huehuetenango,Barrillas,Ignorada,Hombre,31,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+234,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+235,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+236,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+237,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+238,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+239,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+240,2023,Enero,2,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,29,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+241,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+242,2023,Enero,2,Lunes,19,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Fray Bartolomé de las Casas,Ignorada,Hombre,28,25-29,25-29,25 - 29,Robo a peatones,Contra el patrimonio
+243,2023,Enero,2,Lunes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,19,15-19,15-19,15 - 19,Robo a comercios,Contra el patrimonio
+244,2023,Enero,2,Lunes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,23,20-24,20-24,20 - 24,Robo a comercios,Contra el patrimonio
+245,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Fray Bartolomé de las Casas,Ignorada,Mujer,47,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+246,2023,Enero,2,Lunes,23,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,20,20-24,20-24,20 - 24,Robo a comercios,Contra el patrimonio
+247,2023,Enero,2,Lunes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Rabinal,Ignorada,Hombre,52,50-54,50-54,50 - 54,Orden de captura,Otras causas
+248,2023,Enero,2,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,Cubulco,Ignorada,Hombre,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+249,2023,Enero,2,Lunes,22,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,San Miguel Chicaj,Ignorada,Hombre,46,45-49,45-49,45 - 49,Otras causas,Otras causas
+250,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,El Progreso,Sanarate,Ignorada,Hombre,30,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+251,2023,Enero,2,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,El Progreso,Guastatoya,Ignorada,Hombre,22,20-24,20-24,20 - 24,Orden de captura,Otras causas
+252,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,El Progreso,San Cristóbal Acasaguastlán,Ignorada,Hombre,28,25-29,25-29,25 - 29,Delitos forestales,Otras causas
+253,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,El Progreso,San Cristóbal Acasaguastlán,Ignorada,Hombre,35,35-39,35-39,35 - 39,Delitos forestales,Otras causas
+254,2023,Enero,2,Lunes,19,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,El Estor,Ignorada,Hombre,43,40-44,40-44,40 - 44,Orden de captura,Otras causas
+255,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Luis,Ignorada,Hombre,37,35-39,35-39,35 - 39,Orden de captura,Otras causas
+256,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,43,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+257,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,43,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+258,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,41,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+259,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,31,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+260,2023,Enero,2,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Mujer,29,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+261,2023,Enero,2,Lunes,9,06:00 a 11:59,00:00 a 11:59,Rural,Petén,San Benito,Ignorada,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+262,2023,Enero,2,Lunes,10,06:00 a 11:59,00:00 a 11:59,Rural,Petén,La Libertad,Ignorada,Hombre,27,25-29,25-29,25 - 29,Delitos forestales,Otras causas
+263,2023,Enero,2,Lunes,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,55,55-59,55-59,55 - 59,Ebriedad y escándalo,Otras causas
+264,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Benito,Ignorada,Hombre,45,45-49,45-49,45 - 49,Orden de captura,Otras causas
+265,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Benito,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+266,2023,Enero,2,Lunes,21,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San Benito,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+267,2023,Enero,2,Lunes,7,06:00 a 11:59,00:00 a 11:59,Rural,Petén,Flores,Ignorada,Hombre,49,45-49,45-49,45 - 49,Otras causas,Otras causas
+268,2023,Enero,2,Lunes,14,12:00 a 17:59,12:00 a 17:59,Rural,Petén,San Benito,Ignorada,Hombre,26,25-29,25-29,25 - 29,Robo de motocicletas,Contra el patrimonio
+269,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Petén,Sayaxché,Ignorada,Hombre,14,Menor de 15,Menor de 15,10 - 14,Robo a peatones,Contra el patrimonio
+270,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Quiché,Santa Cruz del Quiché,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+271,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Santa María Nebaj,Ignorada,Hombre,21,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+272,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Zacualpa,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+273,2023,Enero,2,Lunes,17,12:00 a 17:59,12:00 a 17:59,Rural,Sololá,Santa Lucía Utatlán,Ignorada,Hombre,41,40-44,40-44,40 - 44,Agresión,Otras causas
+274,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,19,15-19,15-19,15 - 19,Tráfico de droga,Otras causas
+275,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Mujer,33,30-34,30-34,30 - 34,Tráfico de droga,Otras causas
+276,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Mujer,28,25-29,25-29,25 - 29,Tráfico de droga,Otras causas
+277,2023,Enero,2,Lunes,15,12:00 a 17:59,12:00 a 17:59,Rural,Chimaltenango,Tecpán Guatemala,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+278,2023,Enero,2,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Chimaltenango,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+279,2023,Enero,2,Lunes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+280,2023,Enero,2,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,San Miguel Dueñas,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+281,2023,Enero,2,Lunes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,26,25-29,25-29,25 - 29,Orden de captura,Otras causas
+282,2023,Enero,3,Martes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,1,Hombre,44,40-44,40-44,40 - 44,Otras causas,Otras causas
+283,2023,Enero,3,Martes,2,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,9,Hombre,59,55-59,55-59,55 - 59,Otras causas,Otras causas
+284,2023,Enero,3,Martes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,9,Hombre,25,25-29,25-29,25 - 29,Orden de captura,Otras causas
+285,2023,Enero,3,Martes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+286,2023,Enero,3,Martes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,25,25-29,25-29,25 - 29,Orden de captura,Otras causas
+287,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,9,Hombre,30,30-34,30-34,30 - 34,Robo a peatones,Contra el patrimonio
+288,2023,Enero,3,Martes,16,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Mujer,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+289,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,San José Pinula,Ignorada,Hombre,59,55-59,55-59,55 - 59,Otras causas,Otras causas
+290,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,10,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+291,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,5,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+292,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Mujer,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+293,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+294,2023,Enero,3,Martes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,70,60 y más,70-74,70 - 74,Portación ilegal arma de fuego,Otras causas
+295,2023,Enero,3,Martes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,43,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+296,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+297,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+298,2023,Enero,3,Martes,8,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Canales,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+299,2023,Enero,3,Martes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+300,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Canales,Ignorada,Hombre,46,45-49,45-49,45 - 49,Orden de captura,Otras causas
+301,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+302,2023,Enero,3,Martes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Canales,Ignorada,Hombre,48,45-49,45-49,45 - 49,Orden de captura,Otras causas
+303,2023,Enero,3,Martes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,32,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+304,2023,Enero,3,Martes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,25,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+305,2023,Enero,3,Martes,13,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,19,Hombre,24,20-24,20-24,20 - 24,Orden de captura,Otras causas
+306,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,San Juan Sacatepéquez,Ignorada,Mujer,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+307,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,San Juan Sacatepéquez,Ignorada,Mujer,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+308,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,41,40-44,40-44,40 - 44,Riña,Otras causas
+309,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,47,45-49,45-49,45 - 49,Riña,Otras causas
+310,2023,Enero,3,Martes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+311,2023,Enero,3,Martes,7,06:00 a 11:59,00:00 a 11:59,Rural,Chiquimula,Esquipulas,Ignorada,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+312,2023,Enero,3,Martes,7,06:00 a 11:59,00:00 a 11:59,Rural,Chiquimula,Esquipulas,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Otras causas,Otras causas
+313,2023,Enero,3,Martes,12,12:00 a 17:59,12:00 a 17:59,Rural,Chiquimula,San José la Arada,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Otras causas,Otras causas
+314,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Urbano,Chiquimula,Chiquimula,Ignorada,Hombre,20,20-24,20-24,20 - 24,Orden de captura,Otras causas
+315,2023,Enero,3,Martes,22,18:00 a 23:59,18:00 a 23:59,Rural,Chiquimula,Esquipulas,Ignorada,Hombre,36,35-39,35-39,35 - 39,Orden de captura,Otras causas
+316,2023,Enero,3,Martes,8,06:00 a 11:59,00:00 a 11:59,Rural,Zacapa,Estanzuela,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+317,2023,Enero,3,Martes,8,06:00 a 11:59,00:00 a 11:59,Rural,Zacapa,Estanzuela,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+318,2023,Enero,3,Martes,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+319,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,16,15-19,15-19,15 - 19,Otras causas,Otras causas
+320,2023,Enero,3,Martes,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,22,20-24,20-24,20 - 24,Allanamiento de morada,Otras causas
+321,2023,Enero,3,Martes,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+322,2023,Enero,3,Martes,19,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Palín,Ignorada,Hombre,49,45-49,45-49,45 - 49,Otras causas,Otras causas
+323,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+324,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,47,45-49,45-49,45 - 49,Otros robos y hurtos,Contra el patrimonio
+325,2023,Enero,3,Martes,16,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,San Pablo Jocopilas,Ignorada,Hombre,44,40-44,40-44,40 - 44,Otras causas,Otras causas
+326,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,San Sebastián,Ignorada,Hombre,39,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+327,2023,Enero,3,Martes,0,00:00 a 05:59,00:00 a 11:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+328,2023,Enero,3,Martes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,San Mateo,Ignorada,Mujer,45,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+329,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,41,40-44,40-44,40 - 44,Robo de motocicletas,Contra el patrimonio
+330,2023,Enero,3,Martes,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,El Rodeo,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Otras causas,Otras causas
+331,2023,Enero,3,Martes,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Marcos,Ignorada,Hombre,45,45-49,45-49,45 - 49,Otras causas,Otras causas
+332,2023,Enero,3,Martes,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Pajapita,Ignorada,Hombre,27,25-29,25-29,25 - 29,Allanamiento de morada,Otras causas
+333,2023,Enero,3,Martes,2,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Pedro Sacatepéquez,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+334,2023,Enero,3,Martes,2,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Pedro Sacatepéquez,Ignorada,Mujer,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+335,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,Pajapita,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otros robos y hurtos,Contra el patrimonio
+336,2023,Enero,3,Martes,12,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Esquipulas Palo Gordo,Ignorada,Mujer,65,60 y más,65-69,65 - 69,Ebriedad y escándalo,Otras causas
+337,2023,Enero,3,Martes,12,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Ixchiguán,Ignorada,Hombre,55,55-59,55-59,55 - 59,Orden de captura,Otras causas
+338,2023,Enero,3,Martes,14,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Catarina,Ignorada,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+339,2023,Enero,3,Martes,17,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,San Antonio Sacatepéquez,Ignorada,Hombre,49,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+340,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,San Sebastián Huehuetenango,Ignorada,Hombre,49,45-49,45-49,45 - 49,Orden de captura,Otras causas
+341,2023,Enero,3,Martes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Mujer,48,45-49,45-49,45 - 49,Orden de captura,Otras causas
+342,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,San Pedro Necta,Ignorada,Hombre,47,45-49,45-49,45 - 49,Otras causas,Otras causas
+343,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,San Pedro Necta,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+344,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Huehuetenango,Aguacatán,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+345,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,23,20-24,20-24,20 - 24,Robo a comercios,Contra el patrimonio
+346,2023,Enero,3,Martes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+347,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,51,50-54,50-54,50 - 54,Orden de captura,Otras causas
+348,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,34,30-34,30-34,30 - 34,Orden de captura,Otras causas
+349,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+350,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Granados,Ignorada,Hombre,38,35-39,35-39,35 - 39,Delitos forestales,Otras causas
+351,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Granados,Ignorada,Hombre,29,25-29,25-29,25 - 29,Delitos forestales,Otras causas
+352,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Granados,Ignorada,Hombre,36,35-39,35-39,35 - 39,Delitos forestales,Otras causas
+353,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Granados,Ignorada,Hombre,47,45-49,45-49,45 - 49,Delitos forestales,Otras causas
+354,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Granados,Ignorada,Hombre,23,20-24,20-24,20 - 24,Delitos forestales,Otras causas
+355,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Baja Verapaz,Granados,Ignorada,Hombre,46,45-49,45-49,45 - 49,Delitos forestales,Otras causas
+356,2023,Enero,3,Martes,22,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,Rabinal,Ignorada,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+357,2023,Enero,3,Martes,9,06:00 a 11:59,00:00 a 11:59,Rural,El Progreso,San Agustín Acasaguastlán,Ignorada,Hombre,20,20-24,20-24,20 - 24,Orden de captura,Otras causas
+358,2023,Enero,3,Martes,8,06:00 a 11:59,00:00 a 11:59,Rural,Petén,San Luis,Ignorada,Hombre,47,45-49,45-49,45 - 49,Orden de captura,Otras causas
+359,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Quiché,Santa Cruz del Quiché,Ignorada,Hombre,26,25-29,25-29,25 - 29,Orden de captura,Otras causas
+360,2023,Enero,3,Martes,1,00:00 a 05:59,00:00 a 11:59,Rural,Quiché,Chinique,Ignorada,Hombre,48,45-49,45-49,45 - 49,Otras causas,Otras causas
+361,2023,Enero,3,Martes,0,00:00 a 05:59,00:00 a 11:59,Rural,Quiché,San Juan Cotzal,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+362,2023,Enero,3,Martes,23,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Zacualpa,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+363,2023,Enero,3,Martes,5,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,Sololá,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+364,2023,Enero,3,Martes,5,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,Sololá,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+365,2023,Enero,3,Martes,14,12:00 a 17:59,12:00 a 17:59,Rural,Chimaltenango,San Andrés Itzapa,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+366,2023,Enero,3,Martes,14,12:00 a 17:59,12:00 a 17:59,Rural,Chimaltenango,San Andrés Itzapa,Ignorada,Hombre,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+367,2023,Enero,3,Martes,6,06:00 a 11:59,00:00 a 11:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,En allanamientos judiciales,Otras causas
+368,2023,Enero,3,Martes,11,06:00 a 11:59,00:00 a 11:59,Rural,Chimaltenango,Tecpán Guatemala,Ignorada,Hombre,61,60 y más,60-64,60 - 64,Otras causas,Otras causas
+369,2023,Enero,3,Martes,23,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,San Juan Alotenango,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+370,2023,Enero,3,Martes,23,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,San Juan Alotenango,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+371,2023,Enero,3,Martes,10,06:00 a 11:59,00:00 a 11:59,Rural,Sacatepéquez,San Miguel Dueñas,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otros robos y hurtos,Contra el patrimonio
+372,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+373,2023,Enero,3,Martes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Sacatepéquez,Ciudad Vieja,Ignorada,Hombre,17,15-19,15-19,15 - 19,Otras causas,Otras causas
+374,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+375,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+376,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+377,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+378,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+379,2023,Enero,4,Miercoles,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,1,Hombre,54,50-54,50-54,50 - 54,Orden de captura,Otras causas
+380,2023,Enero,4,Miercoles,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,3,Hombre,47,45-49,45-49,45 - 49,Orden de captura,Otras causas
+381,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Chinautla,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+382,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Chinautla,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+383,2023,Enero,4,Miercoles,6,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,San José Pinula,Ignorada,Mujer,56,55-59,55-59,55 - 59,En allanamientos judiciales,Otras causas
+384,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,San José Pinula,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+385,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,San José Pinula,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+386,2023,Enero,4,Miercoles,6,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,San José Pinula,Ignorada,Hombre,36,35-39,35-39,35 - 39,En allanamientos judiciales,Otras causas
+387,2023,Enero,4,Miercoles,16,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,7,Hombre,31,30-34,30-34,30 - 34,Robo de vehículos,Contra el patrimonio
+388,2023,Enero,4,Miercoles,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,7,Mujer,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+389,2023,Enero,4,Miercoles,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+390,2023,Enero,4,Miercoles,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+391,2023,Enero,4,Miercoles,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+392,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,40,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+393,2023,Enero,4,Miercoles,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+394,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Canales,Ignorada,Hombre,39,35-39,35-39,35 - 39,Allanamiento de morada,Otras causas
+395,2023,Enero,4,Miercoles,4,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,22,20-24,20-24,20 - 24,Tráfico de droga,Otras causas
+396,2023,Enero,4,Miercoles,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,46,45-49,45-49,45 - 49,Otras causas,Otras causas
+397,2023,Enero,4,Miercoles,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,19,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+398,2023,Enero,4,Miercoles,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,19,Mujer,39,35-39,35-39,35 - 39,En allanamientos judiciales,Otras causas
+399,2023,Enero,4,Miercoles,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+400,2023,Enero,4,Miercoles,6,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,19,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,En allanamientos judiciales,Otras causas
+401,2023,Enero,4,Miercoles,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,16,15-19,15-19,15 - 19,Robo en iglesias,Contra el patrimonio
+402,2023,Enero,4,Miercoles,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+403,2023,Enero,4,Miercoles,14,12:00 a 17:59,12:00 a 17:59,Rural,Jutiapa,Jutiapa,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+404,2023,Enero,4,Miercoles,14,12:00 a 17:59,12:00 a 17:59,Rural,Jutiapa,Jutiapa,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+405,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Rural,Chiquimula,Chiquimula,Ignorada,Hombre,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+406,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Zacapa,Zacapa,Ignorada,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+407,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Rural,Zacapa,Teculután,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Ebriedad y escándalo,Otras causas
+408,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Mujer,32,30-34,30-34,30 - 34,Riña,Otras causas
+409,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Mujer,31,30-34,30-34,30 - 34,Riña,Otras causas
+410,2023,Enero,4,Miercoles,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Santa Lucía Cotzumalguapa,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+411,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,17,15-19,15-19,15 - 19,Portación ilegal arma de fuego,Otras causas
+412,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,San José,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+413,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,54,50-54,50-54,50 - 54,Otras causas,Otras causas
+414,2023,Enero,4,Miercoles,18,18:00 a 23:59,18:00 a 23:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+415,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+416,2023,Enero,4,Miercoles,16,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,San José,Ignorada,Hombre,62,60 y más,60-64,60 - 64,Otras causas,Otras causas
+417,2023,Enero,4,Miercoles,16,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,San José,Ignorada,Mujer,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+418,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+419,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+420,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,Santa Rosa,Taxisco,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+421,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,Santa Rosa,Taxisco,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+422,2023,Enero,4,Miercoles,13,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Guazacapán,Ignorada,Hombre,54,50-54,50-54,50 - 54,Otras causas,Otras causas
+423,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+424,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+425,2023,Enero,4,Miercoles,8,06:00 a 11:59,00:00 a 11:59,Rural,Suchitepéquez,San Antonio Suchitepéquez,Ignorada,Hombre,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+426,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,Suchitepéquez,San Lorenzo,Ignorada,Hombre,48,45-49,45-49,45 - 49,Portación ilegal arma de fuego,Otras causas
+427,2023,Enero,4,Miercoles,23,18:00 a 23:59,18:00 a 23:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+428,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Urbano,Retalhuleu,San Sebastián,Ignorada,Hombre,18,15-19,15-19,15 - 19,Robo a peatones,Contra el patrimonio
+429,2023,Enero,4,Miercoles,11,06:00 a 11:59,00:00 a 11:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Mujer,58,55-59,55-59,55 - 59,Orden de captura,Otras causas
+430,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+431,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+432,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+433,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+434,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,63,60 y más,60-64,60 - 64,Otras causas,Otras causas
+435,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,22,20-24,20-24,20 - 24,Orden de captura,Otras causas
+436,2023,Enero,4,Miercoles,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Ayutla,Ignorada,Hombre,22,20-24,20-24,20 - 24,Robo a comercios,Contra el patrimonio
+437,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Ocós,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+438,2023,Enero,4,Miercoles,10,06:00 a 11:59,00:00 a 11:59,Urbano,San Marcos,San Marcos,Ignorada,Hombre,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+439,2023,Enero,4,Miercoles,23,18:00 a 23:59,18:00 a 23:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,46,45-49,45-49,45 - 49,Robo a residencias,Contra el patrimonio
+440,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Nentón,Ignorada,Hombre,41,40-44,40-44,40 - 44,Portación ilegal arma de fuego,Otras causas
+441,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Nentón,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+442,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Nentón,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+443,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Nentón,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+444,2023,Enero,4,Miercoles,15,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,La Libertad,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+445,2023,Enero,4,Miercoles,11,06:00 a 11:59,00:00 a 11:59,Rural,Totonicapán,Totonicapán,Ignorada,Hombre,62,60 y más,60-64,60 - 64,Delitos forestales,Otras causas
+446,2023,Enero,4,Miercoles,11,06:00 a 11:59,00:00 a 11:59,Rural,Totonicapán,Totonicapán,Ignorada,Hombre,52,50-54,50-54,50 - 54,Delitos forestales,Otras causas
+447,2023,Enero,4,Miercoles,15,12:00 a 17:59,12:00 a 17:59,Rural,Totonicapán,San Cristóbal Totonicapán,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+448,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Rural,Totonicapán,Momostenango,Ignorada,Hombre,25,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+449,2023,Enero,4,Miercoles,1,00:00 a 05:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+450,2023,Enero,4,Miercoles,9,06:00 a 11:59,00:00 a 11:59,Rural,Alta Verapaz,San Juan Chamelco,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+451,2023,Enero,4,Miercoles,16,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Fray Bartolomé de las Casas,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+452,2023,Enero,4,Miercoles,15,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,29,25-29,25-29,25 - 29,Robo a peatones,Contra el patrimonio
+453,2023,Enero,4,Miercoles,15,12:00 a 17:59,12:00 a 17:59,Urbano,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,49,45-49,45-49,45 - 49,Orden de captura,Otras causas
+454,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Chisec,Ignorada,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+455,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+456,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+457,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,San Juan Chamelco,Ignorada,Hombre,69,60 y más,65-69,65 - 69,Orden de captura,Otras causas
+458,2023,Enero,4,Miercoles,17,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Cobán,Ignorada,Mujer,48,45-49,45-49,45 - 49,Orden de captura,Otras causas
+459,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,Salamá,Ignorada,Hombre,50,50-54,50-54,50 - 54,Otras causas,Otras causas
+460,2023,Enero,4,Miercoles,10,06:00 a 11:59,00:00 a 11:59,Rural,El Progreso,Sanarate,Ignorada,Hombre,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+461,2023,Enero,4,Miercoles,14,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Puerto Barrios,Ignorada,Hombre,41,40-44,40-44,40 - 44,Orden de captura,Otras causas
+462,2023,Enero,4,Miercoles,22,18:00 a 23:59,18:00 a 23:59,Rural,Petén,La Libertad,Ignorada,Hombre,47,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+463,2023,Enero,4,Miercoles,11,06:00 a 11:59,00:00 a 11:59,Rural,Petén,San Luis,Ignorada,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+464,2023,Enero,4,Miercoles,13,12:00 a 17:59,12:00 a 17:59,Rural,Petén,San Francisco,Ignorada,Hombre,51,50-54,50-54,50 - 54,Orden de captura,Otras causas
+465,2023,Enero,4,Miercoles,18,18:00 a 23:59,18:00 a 23:59,Rural,Petén,Poptún,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+466,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Chajul,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+467,2023,Enero,4,Miercoles,19,18:00 a 23:59,18:00 a 23:59,Rural,Sololá,Panajachel,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+468,2023,Enero,4,Miercoles,1,00:00 a 05:59,00:00 a 11:59,Rural,Chimaltenango,Yepocapa,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+469,2023,Enero,4,Miercoles,12,12:00 a 17:59,12:00 a 17:59,Rural,Sacatepéquez,Santo Domingo Xenacoj,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+470,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Urbano,Sacatepéquez,Ciudad Vieja,Ignorada,Hombre,46,45-49,45-49,45 - 49,Otras causas,Otras causas
+471,2023,Enero,4,Miercoles,21,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+472,2023,Enero,5,Jueves,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,3,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+473,2023,Enero,5,Jueves,8,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,3,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+474,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,9,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+475,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,9,Hombre,34,30-34,30-34,30 - 34,Orden de captura,Otras causas
+476,2023,Enero,5,Jueves,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,9,Mujer,64,60 y más,60-64,60 - 64,Orden de captura,Otras causas
+477,2023,Enero,5,Jueves,8,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,9,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+478,2023,Enero,5,Jueves,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,24,Hombre,62,60 y más,60-64,60 - 64,Otras causas,Otras causas
+479,2023,Enero,5,Jueves,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,17,Hombre,52,50-54,50-54,50 - 54,Otras causas,Otras causas
+480,2023,Enero,5,Jueves,5,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Santa Catarina Pinula,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+481,2023,Enero,5,Jueves,5,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Santa Catarina Pinula,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+482,2023,Enero,5,Jueves,0,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Santa Catarina Pinula,Ignorada,Hombre,47,45-49,45-49,45 - 49,Otras causas,Otras causas
+483,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,15,Hombre,34,30-34,30-34,30 - 34,Orden de captura,Otras causas
+484,2023,Enero,5,Jueves,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,44,40-44,40-44,40 - 44,Robo de vehículos,Contra el patrimonio
+485,2023,Enero,5,Jueves,4,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,11,Mujer,19,15-19,15-19,15 - 19,Orden de captura,Otras causas
+486,2023,Enero,5,Jueves,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+487,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,52,50-54,50-54,50 - 54,Orden de captura,Otras causas
+488,2023,Enero,5,Jueves,6,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Orden de captura,Otras causas
+489,2023,Enero,5,Jueves,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+490,2023,Enero,5,Jueves,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+491,2023,Enero,5,Jueves,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,55,55-59,55-59,55 - 59,Otras causas,Otras causas
+492,2023,Enero,5,Jueves,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+493,2023,Enero,5,Jueves,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,19,Mujer,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+494,2023,Enero,5,Jueves,9,06:00 a 11:59,00:00 a 11:59,Rural,Jutiapa,El Progreso,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+495,2023,Enero,5,Jueves,13,12:00 a 17:59,12:00 a 17:59,Rural,Jutiapa,Agua Blanca,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+496,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Zapotitlán,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+497,2023,Enero,5,Jueves,20,18:00 a 23:59,18:00 a 23:59,Rural,Jalapa,San Luis Jilotepeque,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+498,2023,Enero,5,Jueves,17,12:00 a 17:59,12:00 a 17:59,Rural,Chiquimula,Chiquimula,Ignorada,Mujer,34,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+499,2023,Enero,5,Jueves,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+500,2023,Enero,5,Jueves,6,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+501,2023,Enero,5,Jueves,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+502,2023,Enero,5,Jueves,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,16,15-19,15-19,15 - 19,Otras causas,Otras causas
+503,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,47,45-49,45-49,45 - 49,Orden de captura,Otras causas
+504,2023,Enero,5,Jueves,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Palín,Ignorada,Hombre,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+505,2023,Enero,5,Jueves,19,18:00 a 23:59,18:00 a 23:59,Rural,Suchitepéquez,San Antonio Suchitepéquez,Ignorada,Hombre,22,20-24,20-24,20 - 24,Orden de captura,Otras causas
+506,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Hombre,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+507,2023,Enero,5,Jueves,13,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Mujer,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+508,2023,Enero,5,Jueves,3,00:00 a 05:59,00:00 a 11:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+509,2023,Enero,5,Jueves,3,00:00 a 05:59,00:00 a 11:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+510,2023,Enero,5,Jueves,4,00:00 a 05:59,00:00 a 11:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+511,2023,Enero,5,Jueves,15,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,27,25-29,25-29,25 - 29,Riña,Otras causas
+512,2023,Enero,5,Jueves,15,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,32,30-34,30-34,30 - 34,Riña,Otras causas
+513,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+514,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Coatepeque,Ignorada,Hombre,41,40-44,40-44,40 - 44,Orden de captura,Otras causas
+515,2023,Enero,5,Jueves,23,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,San Carlos Sija,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+516,2023,Enero,5,Jueves,23,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Hombre,18,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+517,2023,Enero,5,Jueves,13,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,San Pablo,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+518,2023,Enero,5,Jueves,21,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,San Pedro Sacatepéquez,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otros robos y hurtos,Contra el patrimonio
+519,2023,Enero,5,Jueves,15,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Santa Eulalia,Ignorada,Hombre,38,35-39,35-39,35 - 39,Agresión,Otras causas
+520,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,San Juan Ixcoy,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+521,2023,Enero,5,Jueves,17,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Chiantla,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ebriedad y escándalo,Otras causas
+522,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,San Mateo Ixtatán,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+523,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Santa Bárbara,Ignorada,Hombre,48,45-49,45-49,45 - 49,Agresión,Otras causas
+524,2023,Enero,5,Jueves,9,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,56,55-59,55-59,55 - 59,Orden de captura,Otras causas
+525,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,53,50-54,50-54,50 - 54,Otras causas,Otras causas
+526,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Mujer,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+527,2023,Enero,5,Jueves,15,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,San Juan Ixcoy,Ignorada,Hombre,27,25-29,25-29,25 - 29,Allanamiento de morada,Otras causas
+528,2023,Enero,5,Jueves,21,18:00 a 23:59,18:00 a 23:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+529,2023,Enero,5,Jueves,0,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Cahabón,Ignorada,Hombre,19,15-19,15-19,15 - 19,Allanamiento de morada,Otras causas
+530,2023,Enero,5,Jueves,0,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,San Juan Chamelco,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+531,2023,Enero,5,Jueves,1,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Fray Bartolomé de las Casas,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+532,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,San Juan Chamelco,Ignorada,Hombre,44,40-44,40-44,40 - 44,Orden de captura,Otras causas
+533,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+534,2023,Enero,5,Jueves,22,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,16,15-19,15-19,15 - 19,Otras causas,Otras causas
+535,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,San Jerónimo,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+536,2023,Enero,5,Jueves,13,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Purulhá,Ignorada,Hombre,64,60 y más,60-64,60 - 64,Otras causas,Otras causas
+537,2023,Enero,5,Jueves,13,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Purulhá,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+538,2023,Enero,5,Jueves,13,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Purulhá,Ignorada,Mujer,49,45-49,45-49,45 - 49,Otras causas,Otras causas
+539,2023,Enero,5,Jueves,7,06:00 a 11:59,00:00 a 11:59,Rural,El Progreso,Sanarate,Ignorada,Hombre,26,25-29,25-29,25 - 29,Orden de captura,Otras causas
+540,2023,Enero,5,Jueves,6,06:00 a 11:59,00:00 a 11:59,Rural,Izabal,Livingston,Ignorada,Hombre,36,35-39,35-39,35 - 39,En allanamientos judiciales,Otras causas
+541,2023,Enero,5,Jueves,14,12:00 a 17:59,12:00 a 17:59,Rural,Petén,La Libertad,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+542,2023,Enero,5,Jueves,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Sayaxché,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+543,2023,Enero,5,Jueves,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Sayaxché,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+544,2023,Enero,5,Jueves,2,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Poptún,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+545,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Rural,Petén,Flores,Ignorada,Hombre,44,40-44,40-44,40 - 44,Otras causas,Otras causas
+546,2023,Enero,5,Jueves,19,18:00 a 23:59,18:00 a 23:59,Rural,Petén,La Libertad,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+547,2023,Enero,5,Jueves,19,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San José,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+548,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Rural,Quiché,Ixcán,Ignorada,Mujer,18,15-19,15-19,15 - 19,Otras causas,Otras causas
+549,2023,Enero,5,Jueves,0,00:00 a 05:59,00:00 a 11:59,Rural,Quiché,Chichicastenango,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+550,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Joyabaj,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+551,2023,Enero,5,Jueves,20,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Joyabaj,Ignorada,Hombre,53,50-54,50-54,50 - 54,Ebriedad y escándalo,Otras causas
+552,2023,Enero,5,Jueves,12,12:00 a 17:59,12:00 a 17:59,Rural,Sololá,Sololá,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+553,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Urbano,Sololá,Sololá,Ignorada,Hombre,60,60 y más,60-64,60 - 64,Orden de captura,Otras causas
+554,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Urbano,Sololá,Sololá,Ignorada,Hombre,32,30-34,30-34,30 - 34,Robo a comercios,Contra el patrimonio
+555,2023,Enero,5,Jueves,18,18:00 a 23:59,18:00 a 23:59,Urbano,Sololá,Sololá,Ignorada,Hombre,32,30-34,30-34,30 - 34,Robo a comercios,Contra el patrimonio
+556,2023,Enero,5,Jueves,22,18:00 a 23:59,18:00 a 23:59,Rural,Sololá,Santa María Visitación,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+557,2023,Enero,5,Jueves,23,18:00 a 23:59,18:00 a 23:59,Rural,Sololá,San Pablo la Laguna,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+558,2023,Enero,5,Jueves,6,06:00 a 11:59,00:00 a 11:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Hombre,25,25-29,25-29,25 - 29,En allanamientos judiciales,Otras causas
+559,2023,Enero,5,Jueves,6,06:00 a 11:59,00:00 a 11:59,Urbano,Chimaltenango,Chimaltenango,Ignorada,Mujer,27,25-29,25-29,25 - 29,En allanamientos judiciales,Otras causas
+560,2023,Enero,5,Jueves,10,06:00 a 11:59,00:00 a 11:59,Urbano,Chimaltenango,San Martín Jilotepeque,Ignorada,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+561,2023,Enero,5,Jueves,21,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,Acatenango,Ignorada,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+562,2023,Enero,5,Jueves,9,06:00 a 11:59,00:00 a 11:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Daños,Otras causas
+563,2023,Enero,5,Jueves,19,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Ciudad Vieja,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+564,2023,Enero,5,Jueves,9,06:00 a 11:59,00:00 a 11:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+565,2023,Enero,5,Jueves,16,12:00 a 17:59,12:00 a 17:59,Urbano,Sacatepéquez,Sumpango,Ignorada,Hombre,48,45-49,45-49,45 - 49,Orden de captura,Otras causas
+566,2023,Enero,6,Viernes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+567,2023,Enero,6,Viernes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+568,2023,Enero,6,Viernes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Mujer,51,50-54,50-54,50 - 54,Orden de captura,Otras causas
+569,2023,Enero,6,Viernes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,23,20-24,20-24,20 - 24,Robo de vehículos,Contra el patrimonio
+570,2023,Enero,6,Viernes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,42,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+571,2023,Enero,6,Viernes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,66,60 y más,65-69,65 - 69,Orden de captura,Otras causas
+572,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,3,Hombre,39,35-39,35-39,35 - 39,Tenencia de droga,Otras causas
+573,2023,Enero,6,Viernes,1,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,18,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+574,2023,Enero,6,Viernes,10,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,21,20-24,20-24,20 - 24,Orden de captura,Otras causas
+575,2023,Enero,6,Viernes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,6,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+576,2023,Enero,6,Viernes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+577,2023,Enero,6,Viernes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,18,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+578,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,6,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+579,2023,Enero,6,Viernes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,San José Pinula,Ignorada,Hombre,20,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+580,2023,Enero,6,Viernes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,13,Hombre,29,25-29,25-29,25 - 29,Robo de motocicletas,Contra el patrimonio
+581,2023,Enero,6,Viernes,22,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,18,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+582,2023,Enero,6,Viernes,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,12,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+583,2023,Enero,6,Viernes,8,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+584,2023,Enero,6,Viernes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,21,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+585,2023,Enero,6,Viernes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,11,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+586,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+587,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+588,2023,Enero,6,Viernes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,60,60 y más,60-64,60 - 64,Orden de captura,Otras causas
+589,2023,Enero,6,Viernes,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,51,50-54,50-54,50 - 54,Orden de captura,Otras causas
+590,2023,Enero,6,Viernes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+591,2023,Enero,6,Viernes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,32,30-34,30-34,30 - 34,Robo de motocicletas,Contra el patrimonio
+592,2023,Enero,6,Viernes,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+593,2023,Enero,6,Viernes,14,12:00 a 17:59,12:00 a 17:59,Rural,Jutiapa,Jutiapa,Ignorada,Hombre,20,20-24,20-24,20 - 24,Orden de captura,Otras causas
+594,2023,Enero,6,Viernes,22,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Yupiltepeque,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+595,2023,Enero,6,Viernes,9,06:00 a 11:59,00:00 a 11:59,Rural,Chiquimula,Concepción las Minas,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+596,2023,Enero,6,Viernes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Chiquimula,Esquipulas,Ignorada,Hombre,34,30-34,30-34,30 - 34,Orden de captura,Otras causas
+597,2023,Enero,6,Viernes,6,06:00 a 11:59,00:00 a 11:59,Rural,Zacapa,La Unión,Ignorada,Hombre,22,20-24,20-24,20 - 24,Orden de captura,Otras causas
+598,2023,Enero,6,Viernes,13,12:00 a 17:59,12:00 a 17:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,27,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+599,2023,Enero,6,Viernes,13,12:00 a 17:59,12:00 a 17:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,56,55-59,55-59,55 - 59,Portación ilegal arma de fuego,Otras causas
+600,2023,Enero,6,Viernes,13,12:00 a 17:59,12:00 a 17:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,36,35-39,35-39,35 - 39,Portación ilegal arma de fuego,Otras causas
+601,2023,Enero,6,Viernes,16,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+602,2023,Enero,6,Viernes,17,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,La Democracia,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+603,2023,Enero,6,Viernes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Escuintla,Palín,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+604,2023,Enero,6,Viernes,18,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Santa Lucía Cotzumalguapa,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+605,2023,Enero,6,Viernes,23,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+606,2023,Enero,6,Viernes,18,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,30,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+607,2023,Enero,6,Viernes,22,18:00 a 23:59,18:00 a 23:59,Rural,Suchitepéquez,Santo Tomas la Unión,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+608,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+609,2023,Enero,6,Viernes,17,12:00 a 17:59,12:00 a 17:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+610,2023,Enero,6,Viernes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+611,2023,Enero,6,Viernes,12,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,29,25-29,25-29,25 - 29,Orden de captura,Otras causas
+612,2023,Enero,6,Viernes,19,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Flores Costa Cuca,Ignorada,Hombre,43,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+613,2023,Enero,6,Viernes,20,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+614,2023,Enero,6,Viernes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,34,30-34,30-34,30 - 34,Contrabando,Otras causas
+615,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,San Pablo,Ignorada,Hombre,30,30-34,30-34,30 - 34,Robo a residencias,Contra el patrimonio
+616,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Urbano,San Marcos,Tejutla,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+617,2023,Enero,6,Viernes,8,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,El Tumbador,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+618,2023,Enero,6,Viernes,8,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,El Tumbador,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+619,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,San Antonio Sacatepéquez,Ignorada,Hombre,61,60 y más,60-64,60 - 64,Orden de captura,Otras causas
+620,2023,Enero,6,Viernes,15,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Ayutla,Ignorada,Hombre,22,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+621,2023,Enero,6,Viernes,19,18:00 a 23:59,18:00 a 23:59,Urbano,San Marcos,Malacatán,Ignorada,Hombre,56,55-59,55-59,55 - 59,Orden de captura,Otras causas
+622,2023,Enero,6,Viernes,20,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,Nuevo Progreso,Ignorada,Hombre,48,45-49,45-49,45 - 49,Orden de captura,Otras causas
+623,2023,Enero,6,Viernes,10,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,56,55-59,55-59,55 - 59,Delitos forestales,Otras causas
+624,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Rural,Totonicapán,San Francisco el Alto,Ignorada,Hombre,35,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+625,2023,Enero,6,Viernes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Totonicapán,Totonicapán,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+626,2023,Enero,6,Viernes,1,00:00 a 05:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+627,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,51,50-54,50-54,50 - 54,Riña,Otras causas
+628,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,58,55-59,55-59,55 - 59,Riña,Otras causas
+629,2023,Enero,6,Viernes,18,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Tactic,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+630,2023,Enero,6,Viernes,21,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+631,2023,Enero,6,Viernes,18,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Tactic,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+632,2023,Enero,6,Viernes,23,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Santa Catarina La Tinta,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+633,2023,Enero,6,Viernes,23,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,Salamá,Ignorada,Hombre,57,55-59,55-59,55 - 59,Orden de captura,Otras causas
+634,2023,Enero,6,Viernes,12,12:00 a 17:59,12:00 a 17:59,Rural,El Progreso,San Cristóbal Acasaguastlán,Ignorada,Mujer,46,45-49,45-49,45 - 49,Orden de captura,Otras causas
+635,2023,Enero,6,Viernes,13,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Morales,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+636,2023,Enero,6,Viernes,8,06:00 a 11:59,00:00 a 11:59,Rural,Petén,Melchor de Mencos,Ignorada,Hombre,40,40-44,40-44,40 - 44,Robo a comercios,Contra el patrimonio
+637,2023,Enero,6,Viernes,16,12:00 a 17:59,12:00 a 17:59,Rural,Petén,San Benito,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+638,2023,Enero,6,Viernes,15,12:00 a 17:59,12:00 a 17:59,Rural,Quiché,Santa María Nebaj,Ignorada,Mujer,45,45-49,45-49,45 - 49,Orden de captura,Otras causas
+639,2023,Enero,6,Viernes,21,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Pachalum,Ignorada,Hombre,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+640,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Rural,Sololá,Sololá,Ignorada,Hombre,18,15-19,15-19,15 - 19,Robo a buses extraurbanos,Contra el patrimonio
+641,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Rural,Sololá,Panajachel,Ignorada,Mujer,41,40-44,40-44,40 - 44,Robo en iglesias,Contra el patrimonio
+642,2023,Enero,6,Viernes,11,06:00 a 11:59,00:00 a 11:59,Rural,Sololá,Panajachel,Ignorada,Hombre,45,45-49,45-49,45 - 49,Robo en iglesias,Contra el patrimonio
+643,2023,Enero,6,Viernes,0,00:00 a 05:59,00:00 a 11:59,Urbano,Chimaltenango,Patzicía,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+644,2023,Enero,6,Viernes,20,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Tecpán Guatemala,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+645,2023,Enero,6,Viernes,19,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,San Lucas Sacatepéquez,Ignorada,Hombre,51,50-54,50-54,50 - 54,Otras causas,Otras causas
+646,2023,Enero,6,Viernes,22,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,San Lucas Sacatepéquez,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+647,2023,Enero,7,Sábado,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,1,Hombre,30,30-34,30-34,30 - 34,Robo a peatones,Contra el patrimonio
+648,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,2,Hombre,25,25-29,25-29,25 - 29,Riña,Otras causas
+649,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,2,Hombre,30,30-34,30-34,30 - 34,Riña,Otras causas
+650,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,1,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+651,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,33,30-34,30-34,30 - 34,Otros robos y hurtos,Contra el patrimonio
+652,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,39,35-39,35-39,35 - 39,Otros robos y hurtos,Contra el patrimonio
+653,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,72,60 y más,70-74,70 - 74,Otros robos y hurtos,Contra el patrimonio
+654,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+655,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,9,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+656,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Mujer,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+657,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Mujer,35,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+658,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,6,Hombre,39,35-39,35-39,35 - 39,Robo de motocicletas,Contra el patrimonio
+659,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Hombre,35,35-39,35-39,35 - 39,Tráfico de droga,Otras causas
+660,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,17,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+661,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,18,Hombre,21,20-24,20-24,20 - 24,Orden de captura,Otras causas
+662,2023,Enero,7,Sábado,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+663,2023,Enero,7,Sábado,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+664,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+665,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,San José Pinula,Ignorada,Hombre,40,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+666,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+667,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+668,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+669,2023,Enero,7,Sábado,4,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,12,Hombre,45,45-49,45-49,45 - 49,Otras causas,Otras causas
+670,2023,Enero,7,Sábado,8,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,11,Hombre,41,40-44,40-44,40 - 44,Orden de captura,Otras causas
+671,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,21,Hombre,40,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+672,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,21,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+673,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,21,Mujer,40,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+674,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,7,Hombre,27,25-29,25-29,25 - 29,Orden de captura,Otras causas
+675,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Canales,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+676,2023,Enero,7,Sábado,1,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Canales,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+677,2023,Enero,7,Sábado,4,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,51,50-54,50-54,50 - 54,Otras causas,Otras causas
+678,2023,Enero,7,Sábado,13,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Mujer,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+679,2023,Enero,7,Sábado,13,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Mujer,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+680,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,26,25-29,25-29,25 - 29,Lesiones por arma blanca,Lesiones
+681,2023,Enero,7,Sábado,16,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,29,25-29,25-29,25 - 29,Otras causas,Otras causas
+682,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+683,2023,Enero,7,Sábado,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Villa Canales,Ignorada,Mujer,60,60 y más,60-64,60 - 64,Otras causas,Otras causas
+684,2023,Enero,7,Sábado,20,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+685,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,47,45-49,45-49,45 - 49,Otras causas,Otras causas
+686,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,23,20-24,20-24,20 - 24,Orden de captura,Otras causas
+687,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Villa Nueva,Ignorada,Mujer,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+688,2023,Enero,7,Sábado,16,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,San Juan Sacatepéquez,Ignorada,Mujer,49,45-49,45-49,45 - 49,Orden de captura,Otras causas
+689,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+690,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,41,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+691,2023,Enero,7,Sábado,1,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+692,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+693,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Jutiapa,Moyuta,Ignorada,Hombre,66,60 y más,65-69,65 - 69,Orden de captura,Otras causas
+694,2023,Enero,7,Sábado,18,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Jutiapa,Ignorada,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+695,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Jutiapa,Ignorada,Hombre,21,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+696,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Rural,Jalapa,Jalapa,Ignorada,Hombre,21,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+697,2023,Enero,7,Sábado,18,18:00 a 23:59,18:00 a 23:59,Rural,Jalapa,Jalapa,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+698,2023,Enero,7,Sábado,6,06:00 a 11:59,00:00 a 11:59,Rural,Jalapa,Jalapa,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Otras causas,Otras causas
+699,2023,Enero,7,Sábado,12,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+700,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Urbano,Escuintla,Escuintla,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+701,2023,Enero,7,Sábado,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,58,55-59,55-59,55 - 59,Otras causas,Otras causas
+702,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Palín,Ignorada,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+703,2023,Enero,7,Sábado,18,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+704,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+705,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,18,15-19,15-19,15 - 19,Robo a peatones,Contra el patrimonio
+706,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,La Gomera,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+707,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Barberena,Ignorada,Mujer,29,25-29,25-29,25 - 29,Orden de captura,Otras causas
+708,2023,Enero,7,Sábado,9,06:00 a 11:59,00:00 a 11:59,Rural,Santa Rosa,Guazacapán,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+709,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Taxisco,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+710,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Taxisco,Ignorada,Mujer,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+711,2023,Enero,7,Sábado,18,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Chiquimulilla,Ignorada,Hombre,62,60 y más,60-64,60 - 64,Otras causas,Otras causas
+712,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Rural,Suchitepéquez,Santo Domingo Suchitepéquez,Ignorada,Hombre,32,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+713,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Urbano,Suchitepéquez,Chicacao,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+714,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Urbano,Suchitepéquez,Chicacao,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+715,2023,Enero,7,Sábado,13,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,Mazatenango,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+716,2023,Enero,7,Sábado,13,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,Mazatenango,Ignorada,Hombre,38,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+717,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Rural,Retalhuleu,Santa Cruz Muluá,Ignorada,Hombre,29,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+718,2023,Enero,7,Sábado,12,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,71,60 y más,70-74,70 - 74,Orden de captura,Otras causas
+719,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Champerico,Ignorada,Hombre,46,45-49,45-49,45 - 49,Otras causas,Otras causas
+720,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+721,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+722,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,San Sebastián,Ignorada,Hombre,44,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+723,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Nuevo San Carlos,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+724,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,Nuevo San Carlos,Ignorada,Mujer,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+725,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Retalhuleu,Ignorada,Hombre,16,15-19,15-19,15 - 19,Otras causas,Otras causas
+726,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Champerico,Ignorada,Hombre,44,40-44,40-44,40 - 44,Otras causas,Otras causas
+727,2023,Enero,7,Sábado,13,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Mujer,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+728,2023,Enero,7,Sábado,13,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,24,20-24,20-24,20 - 24,Orden de captura,Otras causas
+729,2023,Enero,7,Sábado,1,00:00 a 05:59,00:00 a 11:59,Rural,Quetzaltenango,Coatepeque,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+730,2023,Enero,7,Sábado,8,06:00 a 11:59,00:00 a 11:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Mujer,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+731,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Hombre,29,25-29,25-29,25 - 29,Tenencia de droga,Otras causas
+732,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+733,2023,Enero,7,Sábado,16,12:00 a 17:59,12:00 a 17:59,Rural,Quetzaltenango,Cantel,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+734,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Hombre,25,25-29,25-29,25 - 29,Tenencia de droga,Otras causas
+735,2023,Enero,7,Sábado,20,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,Coatepeque,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+736,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,20,20-24,20-24,20 - 24,Delitos forestales,Otras causas
+737,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+738,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Nuevo Progreso,Ignorada,Hombre,45,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+739,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Tacaná,Ignorada,Hombre,29,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+740,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Huehuetenango,Colotenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+741,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Rural,Alta Verapaz,San Pedro Carchá,Ignorada,Hombre,58,55-59,55-59,55 - 59,Orden de captura,Otras causas
+742,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Rural,Alta Verapaz,Chisec,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+743,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+744,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Alta Verapaz,Santa Catarina La Tinta,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+745,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,61,60 y más,60-64,60 - 64,Otras causas,Otras causas
+746,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Santa Cruz Verapaz,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+747,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+748,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Alta Verapaz,San Cristóbal Verapaz,Ignorada,Hombre,29,25-29,25-29,25 - 29,Portación ilegal arma de fuego,Otras causas
+749,2023,Enero,7,Sábado,2,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Otras causas,Otras causas
+750,2023,Enero,7,Sábado,2,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Otras causas,Otras causas
+751,2023,Enero,7,Sábado,2,00:00 a 05:59,00:00 a 11:59,Rural,Alta Verapaz,Cobán,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Otras causas,Otras causas
+752,2023,Enero,7,Sábado,16,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,San Jerónimo,Ignorada,Hombre,51,50-54,50-54,50 - 54,Orden de captura,Otras causas
+753,2023,Enero,7,Sábado,20,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,El Chol,Ignorada,Hombre,39,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+754,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,Rabinal,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+755,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,El Progreso,Sanarate,Ignorada,Hombre,45,45-49,45-49,45 - 49,Orden de captura,Otras causas
+756,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,El Progreso,San Cristóbal Acasaguastlán,Ignorada,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+757,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Rural,Izabal,Morales,Ignorada,Hombre,27,25-29,25-29,25 - 29,Robo a comercios,Contra el patrimonio
+758,2023,Enero,7,Sábado,12,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Puerto Barrios,Ignorada,Mujer,Ignorada,Ignorado,Ignorado,Ignorado,Orden de captura,Otras causas
+759,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,Morales,Ignorada,Mujer,25,25-29,25-29,25 - 29,Orden de captura,Otras causas
+760,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,Livingston,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+761,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Puerto Barrios,Ignorada,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+762,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,Puerto Barrios,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+763,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Rural,Izabal,Morales,Ignorada,Hombre,41,40-44,40-44,40 - 44,Robo de motocicletas,Contra el patrimonio
+764,2023,Enero,7,Sábado,4,00:00 a 05:59,00:00 a 11:59,Rural,Petén,San Francisco,Ignorada,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+765,2023,Enero,7,Sábado,5,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Sayaxché,Ignorada,Hombre,45,45-49,45-49,45 - 49,Allanamiento de morada,Otras causas
+766,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Petén,La Libertad,Ignorada,Hombre,42,40-44,40-44,40 - 44,Robo a comercios,Contra el patrimonio
+767,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Petén,San José,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+768,2023,Enero,7,Sábado,14,12:00 a 17:59,12:00 a 17:59,Rural,Quiché,Ixcán,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+769,2023,Enero,7,Sábado,10,06:00 a 11:59,00:00 a 11:59,Rural,Quiché,Santa María Nebaj,Ignorada,Hombre,54,50-54,50-54,50 - 54,Orden de captura,Otras causas
+770,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Ixcán,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+771,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Ixcán,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+772,2023,Enero,7,Sábado,0,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,Panajachel,Ignorada,Hombre,45,45-49,45-49,45 - 49,Otras causas,Otras causas
+773,2023,Enero,7,Sábado,16,12:00 a 17:59,12:00 a 17:59,Rural,Sololá,Panajachel,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+774,2023,Enero,7,Sábado,22,18:00 a 23:59,18:00 a 23:59,Urbano,Sololá,Sololá,Ignorada,Hombre,50,50-54,50-54,50 - 54,Ebriedad y escándalo,Otras causas
+775,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Rural,Chimaltenango,Chimaltenango,Ignorada,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+776,2023,Enero,7,Sábado,11,06:00 a 11:59,00:00 a 11:59,Urbano,Chimaltenango,Patzún,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+777,2023,Enero,7,Sábado,6,06:00 a 11:59,00:00 a 11:59,Rural,Chimaltenango,San Andrés Itzapa,Ignorada,Hombre,29,25-29,25-29,25 - 29,Daños,Otras causas
+778,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Tecpán Guatemala,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+779,2023,Enero,7,Sábado,17,12:00 a 17:59,12:00 a 17:59,Rural,Chimaltenango,Chimaltenango,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+780,2023,Enero,7,Sábado,19,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Ciudad Vieja,Ignorada,Mujer,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+781,2023,Enero,7,Sábado,2,00:00 a 05:59,00:00 a 11:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+782,2023,Enero,7,Sábado,15,12:00 a 17:59,12:00 a 17:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Mujer,56,55-59,55-59,55 - 59,Ebriedad y escándalo,Otras causas
+783,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Ebriedad y escándalo,Otras causas
+784,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,23,20-24,20-24,20 - 24,Riña,Otras causas
+785,2023,Enero,7,Sábado,21,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Antigua Guatemala,Ignorada,Hombre,35,35-39,35-39,35 - 39,Riña,Otras causas
+786,2023,Enero,7,Sábado,23,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Ciudad Vieja,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+787,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,1,Hombre,24,20-24,20-24,20 - 24,Portación ilegal arma de fuego,Otras causas
+788,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,1,Hombre,54,50-54,50-54,50 - 54,Tráfico de droga,Otras causas
+789,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,22,20-24,20-24,20 - 24,Extorsión,Extorsión
+790,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,San Pedro Ayampuc,Ignorada,Hombre,17,15-19,15-19,15 - 19,Extorsión,Extorsión
+791,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+792,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,18,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+793,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,18,Hombre,47,45-49,45-49,45 - 49,Otras causas,Otras causas
+794,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,18,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+795,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+796,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+797,2023,Enero,8,Domingo,13,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,10,Hombre,63,60 y más,60-64,60 - 64,Ebriedad y escándalo,Otras causas
+798,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+799,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+800,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,13,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+801,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Fraijanes,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+802,2023,Enero,8,Domingo,14,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,29,25-29,25-29,25 - 29,Orden de captura,Otras causas
+803,2023,Enero,8,Domingo,12,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,12,Hombre,21,20-24,20-24,20 - 24,Orden de captura,Otras causas
+804,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,7,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+805,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,7,Hombre,23,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+806,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+807,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,7,Hombre,44,40-44,40-44,40 - 44,Otras causas,Otras causas
+808,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,16,15-19,15-19,15 - 19,Tenencia de droga,Otras causas
+809,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,17,15-19,15-19,15 - 19,Tenencia de droga,Otras causas
+810,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,12,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+811,2023,Enero,8,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Guatemala,Villa Canales,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+812,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+813,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,30,30-34,30-34,30 - 34,Lesiones por arma de fuego,Lesiones
+814,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+815,2023,Enero,8,Domingo,7,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Petapa,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+816,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,20,20-24,20-24,20 - 24,Extorsión,Extorsión
+817,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,Ignorada,Ignorado,Ignorado,Ignorado,Otras causas,Otras causas
+818,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+819,2023,Enero,8,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+820,2023,Enero,8,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+821,2023,Enero,8,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+822,2023,Enero,8,Domingo,3,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+823,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+824,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,39,35-39,35-39,35 - 39,Orden de captura,Otras causas
+825,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+826,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Mixco,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+827,2023,Enero,8,Domingo,13,12:00 a 17:59,12:00 a 17:59,Urbano,Chiquimula,Chiquimula,Ignorada,Hombre,38,35-39,35-39,35 - 39,Orden de captura,Otras causas
+828,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Chiquimula,Quezaltepeque,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+829,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Chiquimula,Quezaltepeque,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+830,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Zacapa,Zacapa,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+831,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Zacapa,Río Hondo,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+832,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Zacapa,Río Hondo,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+833,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Zacapa,Estanzuela,Ignorada,Hombre,33,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+834,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Masagua,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+835,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+836,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+837,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+838,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,45,45-49,45-49,45 - 49,Otras causas,Otras causas
+839,2023,Enero,8,Domingo,3,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Siquinalá,Ignorada,Hombre,24,20-24,20-24,20 - 24,Otras causas,Otras causas
+840,2023,Enero,8,Domingo,4,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+841,2023,Enero,8,Domingo,4,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+842,2023,Enero,8,Domingo,4,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,35,35-39,35-39,35 - 39,Otras causas,Otras causas
+843,2023,Enero,8,Domingo,5,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+844,2023,Enero,8,Domingo,5,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+845,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+846,2023,Enero,8,Domingo,12,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,Guanagazapa,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+847,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Escuintla,San José,Ignorada,Hombre,58,55-59,55-59,55 - 59,Otras causas,Otras causas
+848,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Palín,Ignorada,Hombre,28,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+849,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Iztapa,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+850,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Iztapa,Ignorada,Hombre,14,Menor de 15,Menor de 15,10 - 14,Otras causas,Otras causas
+851,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,San José,Ignorada,Hombre,44,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+852,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+853,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Mujer,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+854,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,40,40-44,40-44,40 - 44,Otras causas,Otras causas
+855,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Tiquisate,Ignorada,Hombre,38,35-39,35-39,35 - 39,Otras causas,Otras causas
+856,2023,Enero,8,Domingo,9,06:00 a 11:59,00:00 a 11:59,Rural,Escuintla,Escuintla,Ignorada,Mujer,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+857,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+858,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,45,45-49,45-49,45 - 49,Otras causas,Otras causas
+859,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Cuilapa,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+860,2023,Enero,8,Domingo,10,06:00 a 11:59,00:00 a 11:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+861,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Santa Rosa de Lima,Ignorada,Hombre,25,25-29,25-29,25 - 29,Allanamiento de morada,Otras causas
+862,2023,Enero,8,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,Suchitepéquez,San Antonio Suchitepéquez,Ignorada,Hombre,35,35-39,35-39,35 - 39,Orden de captura,Otras causas
+863,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Suchitepéquez,Mazatenango,Ignorada,Mujer,15,15-19,15-19,15 - 19,Tenencia de droga,Otras causas
+864,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Suchitepéquez,Mazatenango,Ignorada,Hombre,23,20-24,20-24,20 - 24,Tráfico de droga,Otras causas
+865,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Suchitepéquez,Mazatenango,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+866,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+867,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,25,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+868,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+869,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+870,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+871,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,45,45-49,45-49,45 - 49,Orden de captura,Otras causas
+872,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Champerico,Ignorada,Hombre,55,55-59,55-59,55 - 59,Otras causas,Otras causas
+873,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,Champerico,Ignorada,Hombre,39,35-39,35-39,35 - 39,Otras causas,Otras causas
+874,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Urbano,Retalhuleu,Retalhuleu,Ignorada,Mujer,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+875,2023,Enero,8,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,26,25-29,25-29,25 - 29,Daños,Otras causas
+876,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Quetzaltenango,Coatepeque,Ignorada,Hombre,46,45-49,45-49,45 - 49,Otras causas,Otras causas
+877,2023,Enero,8,Domingo,9,06:00 a 11:59,00:00 a 11:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,61,60 y más,60-64,60 - 64,Delitos forestales,Otras causas
+878,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,36,35-39,35-39,35 - 39,Orden de captura,Otras causas
+879,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+880,2023,Enero,8,Domingo,14,12:00 a 17:59,12:00 a 17:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Mujer,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+881,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,El Palmar,Ignorada,Hombre,63,60 y más,60-64,60 - 64,Delitos forestales,Otras causas
+882,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Colomba,Ignorada,Hombre,40,40-44,40-44,40 - 44,Agresión,Otras causas
+883,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Quetzaltenango,Coatepeque,Ignorada,Hombre,24,20-24,20-24,20 - 24,Agresión,Otras causas
+884,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Urbano,Quetzaltenango,Quetzaltenango,Ignorada,Hombre,33,30-34,30-34,30 - 34,Otras causas,Otras causas
+885,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Ayutla,Ignorada,Mujer,45,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+886,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,San Marcos,Tejutla,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+887,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Urbano,San Marcos,Malacatán,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+888,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Urbano,San Marcos,Malacatán,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+889,2023,Enero,8,Domingo,8,06:00 a 11:59,00:00 a 11:59,Rural,San Marcos,San Pablo,Ignorada,Hombre,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+890,2023,Enero,8,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Catarina,Ignorada,Hombre,42,40-44,40-44,40 - 44,Otras causas,Otras causas
+891,2023,Enero,8,Domingo,14,12:00 a 17:59,12:00 a 17:59,Rural,San Marcos,Catarina,Ignorada,Hombre,51,50-54,50-54,50 - 54,Otras causas,Otras causas
+892,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,Malacatán,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+893,2023,Enero,8,Domingo,20,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,San Pablo,Ignorada,Hombre,40,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+894,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,La Reforma,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+895,2023,Enero,8,Domingo,22,18:00 a 23:59,18:00 a 23:59,Rural,San Marcos,La Blanca,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+896,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+897,2023,Enero,8,Domingo,4,00:00 a 05:59,00:00 a 11:59,Rural,Huehuetenango,Petatán,Ignorada,Hombre,34,30-34,30-34,30 - 34,Robo a residencias,Contra el patrimonio
+898,2023,Enero,8,Domingo,9,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,42,40-44,40-44,40 - 44,Orden de captura,Otras causas
+899,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,37,35-39,35-39,35 - 39,Orden de captura,Otras causas
+900,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+901,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,18,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+902,2023,Enero,8,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Huehuetenango,Huehuetenango,Ignorada,Hombre,36,35-39,35-39,35 - 39,Otras causas,Otras causas
+903,2023,Enero,8,Domingo,16,12:00 a 17:59,12:00 a 17:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+904,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Urbano,Huehuetenango,Huehuetenango,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+905,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Urbano,Huehuetenango,Chiantla,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+906,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Urbano,Huehuetenango,Aguacatán,Ignorada,Hombre,30,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+907,2023,Enero,8,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Totonicapán,Momostenango,Ignorada,Hombre,49,45-49,45-49,45 - 49,Delitos forestales,Otras causas
+908,2023,Enero,8,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Totonicapán,Momostenango,Ignorada,Hombre,23,20-24,20-24,20 - 24,Delitos forestales,Otras causas
+909,2023,Enero,8,Domingo,16,12:00 a 17:59,12:00 a 17:59,Rural,Totonicapán,Momostenango,Ignorada,Hombre,22,20-24,20-24,20 - 24,Delitos forestales,Otras causas
+910,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Totonicapán,Totonicapán,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+911,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Urbano,Alta Verapaz,Cobán,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+912,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Baja Verapaz,Purulhá,Ignorada,Hombre,27,25-29,25-29,25 - 29,Lesiones por arma blanca,Lesiones
+913,2023,Enero,8,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Salamá,Ignorada,Hombre,25,25-29,25-29,25 - 29,Robo a peatones,Contra el patrimonio
+914,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Rabinal,Ignorada,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+915,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Rabinal,Ignorada,Hombre,25,25-29,25-29,25 - 29,Extorsión,Extorsión
+916,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Baja Verapaz,Rabinal,Ignorada,Hombre,32,30-34,30-34,30 - 34,Extorsión,Extorsión
+917,2023,Enero,8,Domingo,23,18:00 a 23:59,18:00 a 23:59,Rural,Baja Verapaz,Salamá,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+918,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,El Progreso,Sanarate,Ignorada,Hombre,21,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+919,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Izabal,Puerto Barrios,Ignorada,Hombre,50,50-54,50-54,50 - 54,Orden de captura,Otras causas
+920,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Izabal,Morales,Ignorada,Mujer,28,25-29,25-29,25 - 29,Otras causas,Otras causas
+921,2023,Enero,8,Domingo,2,00:00 a 05:59,00:00 a 11:59,Rural,Izabal,Morales,Ignorada,Hombre,65,60 y más,65-69,65 - 69,Otras causas,Otras causas
+922,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,Puerto Barrios,Ignorada,Mujer,47,45-49,45-49,45 - 49,Orden de captura,Otras causas
+923,2023,Enero,8,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,El Estor,Ignorada,Hombre,43,40-44,40-44,40 - 44,Orden de captura,Otras causas
+924,2023,Enero,8,Domingo,13,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Morales,Ignorada,Hombre,34,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+925,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Izabal,Morales,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+926,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Izabal,Morales,Ignorada,Hombre,40,40-44,40-44,40 - 44,Orden de captura,Otras causas
+927,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,San Luis,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+928,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,San Luis,Ignorada,Hombre,19,15-19,15-19,15 - 19,Otras causas,Otras causas
+929,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Poptún,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+930,2023,Enero,8,Domingo,1,00:00 a 05:59,00:00 a 11:59,Rural,Petén,Sayaxché,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+931,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Petén,San Luis,Ignorada,Hombre,38,35-39,35-39,35 - 39,Allanamiento de morada,Otras causas
+932,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Petén,Flores,Ignorada,Hombre,37,35-39,35-39,35 - 39,Ebriedad y escándalo,Otras causas
+933,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Quiché,Ixcán,Ignorada,Hombre,20,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+934,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Quiché,Sacapulas,Ignorada,Hombre,37,35-39,35-39,35 - 39,Otras causas,Otras causas
+935,2023,Enero,8,Domingo,11,06:00 a 11:59,00:00 a 11:59,Rural,Quiché,Sacapulas,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+936,2023,Enero,8,Domingo,18,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Joyabaj,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+937,2023,Enero,8,Domingo,21,18:00 a 23:59,18:00 a 23:59,Rural,Quiché,Santa María Nebaj,Ignorada,Hombre,27,25-29,25-29,25 - 29,Daños,Otras causas
+938,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,San Lucas Tolimán,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+939,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,San Lucas Tolimán,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+940,2023,Enero,8,Domingo,0,00:00 a 05:59,00:00 a 11:59,Rural,Sololá,Santa Cruz la Laguna,Ignorada,Hombre,26,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+941,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Chimaltenango,Patzicía,Ignorada,Hombre,29,25-29,25-29,25 - 29,Contrabando,Otras causas
+942,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Chimaltenango,Acatenango,Ignorada,Hombre,33,30-34,30-34,30 - 34,Ebriedad y escándalo,Otras causas
+943,2023,Enero,8,Domingo,17,12:00 a 17:59,12:00 a 17:59,Rural,Chimaltenango,Acatenango,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+944,2023,Enero,8,Domingo,23,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,San Martín Jilotepeque,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+945,2023,Enero,8,Domingo,23,18:00 a 23:59,18:00 a 23:59,Urbano,Chimaltenango,San Martín Jilotepeque,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+946,2023,Enero,8,Domingo,3,00:00 a 05:59,00:00 a 11:59,Rural,Sacatepéquez,San Lucas Sacatepéquez,Ignorada,Hombre,45,45-49,45-49,45 - 49,Orden de captura,Otras causas
+947,2023,Enero,8,Domingo,15,12:00 a 17:59,12:00 a 17:59,Rural,Sacatepéquez,Pastores,Ignorada,Hombre,24,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+948,2023,Enero,8,Domingo,19,18:00 a 23:59,18:00 a 23:59,Rural,Sacatepéquez,Ciudad Vieja,Ignorada,Hombre,31,30-34,30-34,30 - 34,Otras causas,Otras causas
+949,2023,Enero,8,Domingo,10,06:00 a 11:59,00:00 a 11:59,Urbano,Sacatepéquez,Ciudad Vieja,Ignorada,Hombre,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+950,2023,Enero,9,Lunes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,1,Hombre,43,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+951,2023,Enero,9,Lunes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,3,Hombre,28,25-29,25-29,25 - 29,Orden de captura,Otras causas
+952,2023,Enero,9,Lunes,9,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,Palencia,Ignorada,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+953,2023,Enero,9,Lunes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,6,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+954,2023,Enero,9,Lunes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,6,Hombre,29,25-29,25-29,25 - 29,Tenencia de droga,Otras causas
+955,2023,Enero,9,Lunes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,17,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+956,2023,Enero,9,Lunes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,17,Hombre,22,20-24,20-24,20 - 24,Ebriedad y escándalo,Otras causas
+957,2023,Enero,9,Lunes,0,00:00 a 05:59,00:00 a 11:59,Urbano,Guatemala,Fraijanes,Ignorada,Hombre,29,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+958,2023,Enero,9,Lunes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,5,Mujer,54,50-54,50-54,50 - 54,Otras causas,Otras causas
+959,2023,Enero,9,Lunes,20,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,5,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+960,2023,Enero,9,Lunes,9,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Guatemala,11,Hombre,33,30-34,30-34,30 - 34,Orden de captura,Otras causas
+961,2023,Enero,9,Lunes,15,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Guatemala,11,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+962,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Mujer,42,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+963,2023,Enero,9,Lunes,21,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Guatemala,7,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+964,2023,Enero,9,Lunes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,30,30-34,30-34,30 - 34,Otras causas,Otras causas
+965,2023,Enero,9,Lunes,0,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+966,2023,Enero,9,Lunes,0,00:00 a 05:59,00:00 a 11:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,17,15-19,15-19,15 - 19,Otras causas,Otras causas
+967,2023,Enero,9,Lunes,10,06:00 a 11:59,00:00 a 11:59,Rural,Guatemala,Amatitlán,Ignorada,Hombre,31,30-34,30-34,30 - 34,Orden de captura,Otras causas
+968,2023,Enero,9,Lunes,13,12:00 a 17:59,12:00 a 17:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,19,15-19,15-19,15 - 19,Ebriedad y escándalo,Otras causas
+969,2023,Enero,9,Lunes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Guatemala,Villa Nueva,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+970,2023,Enero,9,Lunes,11,06:00 a 11:59,00:00 a 11:59,Urbano,Guatemala,Mixco,Ignorada,Mujer,25,25-29,25-29,25 - 29,Orden de captura,Otras causas
+971,2023,Enero,9,Lunes,5,00:00 a 05:59,00:00 a 11:59,Rural,Jutiapa,Atescatempa,Ignorada,Hombre,51,50-54,50-54,50 - 54,Otras causas,Otras causas
+972,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Asunción Mita,Ignorada,Hombre,44,40-44,40-44,40 - 44,Riña,Otras causas
+973,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Asunción Mita,Ignorada,Hombre,23,20-24,20-24,20 - 24,Riña,Otras causas
+974,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Jutiapa,Asunción Mita,Ignorada,Hombre,24,20-24,20-24,20 - 24,Riña,Otras causas
+975,2023,Enero,9,Lunes,8,06:00 a 11:59,00:00 a 11:59,Rural,Jalapa,San Pedro Pinula,Ignorada,Hombre,26,25-29,25-29,25 - 29,Otras causas,Otras causas
+976,2023,Enero,9,Lunes,8,06:00 a 11:59,00:00 a 11:59,Rural,Jalapa,San Pedro Pinula,Ignorada,Hombre,43,40-44,40-44,40 - 44,Otras causas,Otras causas
+977,2023,Enero,9,Lunes,8,06:00 a 11:59,00:00 a 11:59,Rural,Jalapa,San Pedro Pinula,Ignorada,Hombre,69,60 y más,65-69,65 - 69,Otras causas,Otras causas
+978,2023,Enero,9,Lunes,12,12:00 a 17:59,12:00 a 17:59,Rural,Chiquimula,Chiquimula,Ignorada,Hombre,32,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
+979,2023,Enero,9,Lunes,14,12:00 a 17:59,12:00 a 17:59,Urbano,Chiquimula,Esquipulas,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otros robos y hurtos,Contra el patrimonio
+980,2023,Enero,9,Lunes,16,12:00 a 17:59,12:00 a 17:59,Urbano,Chiquimula,Chiquimula,Ignorada,Mujer,32,30-34,30-34,30 - 34,Orden de captura,Otras causas
+981,2023,Enero,9,Lunes,16,12:00 a 17:59,12:00 a 17:59,Rural,Chiquimula,Esquipulas,Ignorada,Hombre,41,40-44,40-44,40 - 44,Otras causas,Otras causas
+982,2023,Enero,9,Lunes,22,18:00 a 23:59,18:00 a 23:59,Urbano,Chiquimula,Esquipulas,Ignorada,Hombre,53,50-54,50-54,50 - 54,Orden de captura,Otras causas
+983,2023,Enero,9,Lunes,1,00:00 a 05:59,00:00 a 11:59,Urbano,Escuintla,Santa Lucía Cotzumalguapa,Ignorada,Hombre,32,30-34,30-34,30 - 34,Otras causas,Otras causas
+984,2023,Enero,9,Lunes,2,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,Masagua,Ignorada,Hombre,34,30-34,30-34,30 - 34,Otras causas,Otras causas
+985,2023,Enero,9,Lunes,3,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San Vicente Pacaya,Ignorada,Hombre,27,25-29,25-29,25 - 29,Ebriedad y escándalo,Otras causas
+986,2023,Enero,9,Lunes,3,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,20,20-24,20-24,20 - 24,Otras causas,Otras causas
+987,2023,Enero,9,Lunes,3,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,23,20-24,20-24,20 - 24,Otras causas,Otras causas
+988,2023,Enero,9,Lunes,3,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+989,2023,Enero,9,Lunes,3,00:00 a 05:59,00:00 a 11:59,Rural,Escuintla,San José,Ignorada,Hombre,27,25-29,25-29,25 - 29,Otras causas,Otras causas
+990,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Santa Lucía Cotzumalguapa,Ignorada,Hombre,30,30-34,30-34,30 - 34,Orden de captura,Otras causas
+991,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Nueva Concepción,Ignorada,Hombre,25,25-29,25-29,25 - 29,Otras causas,Otras causas
+992,2023,Enero,9,Lunes,18,18:00 a 23:59,18:00 a 23:59,Urbano,Escuintla,San José,Ignorada,Hombre,21,20-24,20-24,20 - 24,Otras causas,Otras causas
+993,2023,Enero,9,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Tiquisate,Ignorada,Hombre,27,25-29,25-29,25 - 29,Robo de motocicletas,Contra el patrimonio
+994,2023,Enero,9,Lunes,20,18:00 a 23:59,18:00 a 23:59,Rural,Escuintla,Escuintla,Ignorada,Hombre,17,15-19,15-19,15 - 19,Otras causas,Otras causas
+995,2023,Enero,9,Lunes,10,06:00 a 11:59,00:00 a 11:59,Rural,Santa Rosa,Taxisco,Ignorada,Hombre,49,45-49,45-49,45 - 49,Ebriedad y escándalo,Otras causas
+996,2023,Enero,9,Lunes,21,18:00 a 23:59,18:00 a 23:59,Rural,Santa Rosa,Barberena,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+997,2023,Enero,9,Lunes,0,00:00 a 05:59,00:00 a 11:59,Urbano,Retalhuleu,San Martín Zapotitlán,Ignorada,Hombre,42,40-44,40-44,40 - 44,Ebriedad y escándalo,Otras causas
+998,2023,Enero,9,Lunes,0,00:00 a 05:59,00:00 a 11:59,Rural,Retalhuleu,San Felipe Retalhuleu,Ignorada,Hombre,22,20-24,20-24,20 - 24,Otras causas,Otras causas
+999,2023,Enero,9,Lunes,19,18:00 a 23:59,18:00 a 23:59,Rural,Retalhuleu,El Asintal,Ignorada,Hombre,30,30-34,30-34,30 - 34,Portación ilegal arma de fuego,Otras causas
