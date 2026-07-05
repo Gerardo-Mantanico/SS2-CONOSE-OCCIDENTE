@@ -1,0 +1,17 @@
+flowchart TB
+    subgraph OLTP_CURADO[Modelo curado turismo]
+        D1[destino]
+        D2[departamento / municipio / region]
+        D3[categoria / actividad / temporada]
+        D4[patrimonio / rutas]
+    end
+    subgraph DW[Modelo dimensional]
+        DIM[dim_fecha, dim_destino, dim_region, dim_categoria]
+        FACT[fact_destino_catalogo, fact_ruta_destino, fact_metrica_destino]
+    end
+    subgraph MARTS[Datamarts]
+        M1[mart_resumen_region]
+        M2[mart_destinos_recomendados_bi]
+        M3[mart_patrimonio_turistico]
+    end
+    OLTP_CURADO --> DW --> MARTS
