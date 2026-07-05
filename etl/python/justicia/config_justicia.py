@@ -4,8 +4,8 @@ No contiene credenciales de BD; la conexion la provee el config.py del proyecto.
 """
 from pathlib import Path
 
-# Raiz del repositorio: etl/python/justicia -> etl/python -> etl -> raiz
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
+# Raiz del repositorio: etl/python/justicia -> etl/python -> etl -> raiz (proyecto)
+BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 
 DATA_DIR      = BASE_DIR / "data" / "justicia"
 LOGS_DIR      = DATA_DIR / "logs"

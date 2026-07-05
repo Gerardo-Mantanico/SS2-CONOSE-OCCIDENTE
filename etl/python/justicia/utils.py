@@ -13,7 +13,7 @@ from psycopg2.extras import execute_values
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from config import get_connection  # noqa: E402
 
-from config_justicia import LOGS_DIR, NULL_MARKERS  # noqa: E402
+from config_justicia import LOGS_DIR, NULL_MARKERS, DEPTO_MAP  # noqa: E402
 
 
 def get_logger(nombre: str) -> logging.Logger:
@@ -45,10 +45,19 @@ def get_logger(nombre: str) -> logging.Logger:
 
 
 def clean_int(value) -> int:
+    """
+    Convierte un valor de celda a entero.
+    Maneja separador de miles espanol (.) y marcadores nulos.
+    Ejemplo: "17.233" -> 17233, "2.290" -> 2290.
+    """
     if value is None or str(value).strip() in NULL_MARKERS:
         return 0
+    # Remover separador de miles (.) y espacios; la coma es el delimitador CSV
+    cleaned = str(value).replace(".", "").replace(",", "").strip()
+    if not cleaned or cleaned in NULL_MARKERS:
+        return 0
     try:
-        return int(float(str(value).replace(",", "").strip()))
+        return int(float(cleaned))
     except (ValueError, TypeError):
         raise ValueError(f"No se pudo convertir a entero: {repr(value)}")
 
@@ -57,14 +66,45 @@ def clean_year(value) -> int:
     try:
         yr = int(float(str(value).strip()))
         if not (2000 <= yr <= 2100):
-            raise ValueError(f"Año fuera de rango: {yr}")
+            raise ValueError(f"Anno fuera de rango: {yr}")
         return yr
     except (ValueError, TypeError):
-        raise ValueError(f"Valor de año invalido: {repr(value)}")
+        raise ValueError(f"Valor de anno invalido: {repr(value)}")
+
+
+def clean_numeric_df(df: "pd.DataFrame", cols_numericas: list) -> "pd.DataFrame":
+    """
+    Aplica clean_int a las columnas indicadas del DataFrame.
+    Normaliza el formato europeo de miles (17.233 -> 17233) y
+    convierte marcadores nulos ('-', '', None) a 0 antes de validar.
+    Necesario para que los validators reciban enteros, no strings/floats.
+    """
+    df = df.copy()
+    for col in cols_numericas:
+        if col in df.columns:
+            df[col] = df[col].apply(lambda v: clean_int(v))
+    return df
 
 
 def normalize_str(value: str) -> str:
     return " ".join(str(value).strip().split())
+
+
+def get_departamento_id(conn, nombre: str) -> int | None:
+    """
+    Busca departamento_id por nombre en geografia.departamento.
+    Fallback a DEPTO_MAP si el ETL de geografia no ha cargado datos.
+    """
+    nombre_clean = nombre.strip()
+    with conn.cursor() as cur:
+        cur.execute(
+            "SELECT id FROM geografia.departamento WHERE LOWER(nombre) = LOWER(%s)",
+            (nombre_clean,),
+        )
+        row = cur.fetchone()
+        if row:
+            return row[0]
+    return DEPTO_MAP.get(nombre_clean)
 
 
 def get_tipo_delito_id(conn, codigo: str) -> int:
@@ -75,8 +115,8 @@ def get_tipo_delito_id(conn, codigo: str) -> int:
         row = cur.fetchone()
         if not row:
             raise ValueError(
-                f"justicia.tipo_delito con codigo '{codigo}' no encontrado. "
-                "Verifica que se ejecuto V20260704000001__seed_catalogos_seguridad.sql"
+                f"justicia.tipo_delito codigo '{codigo}' no encontrado. "
+                "Verifica que se ejecutaron las migraciones seed."
             )
         return row[0]
 
@@ -108,6 +148,24 @@ def bulk_upsert_estadisticas(conn, rows: list[dict], logger: logging.Logger) -> 
         logger.warning("No hay filas para insertar.")
         return 0, 0
 
+    # Deduplicar por clave unica ANTES del upsert.
+    # Cuando varias categorias mapean al mismo tipo_delito_id (ej. fallback PNC),
+    # el ON CONFLICT falla si dos filas del mismo INSERT comparten la misma clave.
+    dedup: dict = {}
+    for r in rows:
+        key = (
+            r["anio"],
+            r.get("departamento_id"),
+            r.get("tipo_delito_id"),
+            r.get("sexo_id"),
+            r.get("grupo_edad_id"),
+        )
+        if key in dedup:
+            dedup[key]["cantidad"] += r["cantidad"]
+        else:
+            dedup[key] = dict(r)
+    rows = list(dedup.values())
+
     sql = """
         INSERT INTO justicia.estadistica_seguridad
             (anio, departamento_id, nombre_departamento,
@@ -126,9 +184,14 @@ def bulk_upsert_estadisticas(conn, rows: list[dict], logger: logging.Logger) -> 
 
     values = [
         (
-            r["anio"], r.get("departamento_id"), r.get("nombre_departamento"),
-            r.get("tipo_delito_id"), r.get("sexo_id"), r.get("grupo_edad_id"),
-            r["cantidad"], r.get("fuente", "INE/PNC"),
+            int(r["anio"]),
+            int(r["departamento_id"]) if r.get("departamento_id") is not None else None,
+            r.get("nombre_departamento"),
+            int(r["tipo_delito_id"]) if r.get("tipo_delito_id") is not None else None,
+            int(r["sexo_id"]) if r.get("sexo_id") is not None else None,
+            int(r["grupo_edad_id"]) if r.get("grupo_edad_id") is not None else None,
+            int(r["cantidad"]),
+            r.get("fuente", ""),
             r.get("archivo_origen", ""), r.get("cargado_por", "ETL"),
         )
         for r in rows
@@ -157,3 +220,4 @@ def print_summary(logger, loader_name: str, total: int, errors: list[str]):
         if len(errors) > 20:
             logger.warning(f"    ... y {len(errors) - 20} mas. Ver archivo .log")
     logger.info("=" * 60)
+

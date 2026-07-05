@@ -9,31 +9,37 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import pandas as pd
-from config_justicia import EXCEL_FILES, SHEET_NAME, HEADER_ROW, DEPTO_MAP, FUENTE
+from config_justicia import CSV_INE, INE_HEADER_ROW, DEPTO_MAP, FUENTE_INE
 from utils import (
     get_logger, get_connection, get_tipo_delito_id,
-    clean_int, clean_year, bulk_upsert_estadisticas, print_summary,
+    clean_int, clean_year, clean_numeric_df, bulk_upsert_estadisticas, print_summary,
 )
 from validators import validate_departamento
+
+FUENTE = FUENTE_INE
 
 
 def load(conn=None, archivo: Path = None) -> tuple[int, int]:
     logger  = get_logger("load_robos_depto")
-    archivo = archivo or EXCEL_FILES["departamento"]
+    archivo = archivo or CSV_INE["departamento"]
 
     logger.info(f"Leyendo: {archivo.name}")
     if not archivo.exists():
         raise FileNotFoundError(
             f"Archivo no encontrado: {archivo}\n"
-            "Coloca el Excel del INE en data/justicia/raw/ con el nombre esperado."
+            "Coloca los CSV del INE en data/justicia/INE/"
         )
 
     # -- 1. EXTRACCION --------------------------------------------------------
-    df = pd.read_excel(archivo, sheet_name=SHEET_NAME, header=HEADER_ROW)
+    df = pd.read_csv(archivo, header=INE_HEADER_ROW, skipinitialspace=True,
+                     encoding="utf-8", dtype=str)
     df.columns = df.columns.astype(str).str.strip()
     df.rename(columns={df.columns[0]: "Año"}, inplace=True)
     df = df[pd.to_numeric(df["Año"], errors="coerce").notna()].copy()
     df["Año"] = df["Año"].apply(clean_year)
+
+    # Normalizar columnas numericas (formato europeo + marcadores nulos)
+    df = clean_numeric_df(df, [c for c in df.columns if c != "Año"])
 
     # -- 2. VALIDACION --------------------------------------------------------
     result = validate_departamento(df, list(DEPTO_MAP.keys()))

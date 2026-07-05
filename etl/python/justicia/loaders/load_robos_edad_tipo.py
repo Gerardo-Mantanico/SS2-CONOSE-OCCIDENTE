@@ -9,12 +9,14 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import pandas as pd
-from config_justicia import EXCEL_FILES, SHEET_NAME, HEADER_ROW, EDAD_MAP, TIPO_ROBO_MAP, FUENTE
+from config_justicia import CSV_INE, INE_HEADER_ROW, EDAD_MAP, TIPO_ROBO_MAP, FUENTE_INE
 from utils import (
     get_logger, get_connection, get_tipo_delito_id,
-    clean_int, clean_year, bulk_upsert_estadisticas, print_summary,
+    clean_int, clean_year, clean_numeric_df, bulk_upsert_estadisticas, print_summary,
 )
 from validators import validate_edad, validate_tipo
+
+FUENTE = FUENTE_INE
 
 # Mapa de nombre de grupo de edad -> codigo en BD
 _CODIGO_EDAD = {
@@ -29,17 +31,21 @@ _CODIGO_EDAD = {
 
 def load_edad(conn=None, archivo: Path = None) -> tuple[int, int]:
     logger  = get_logger("load_robos_edad")
-    archivo = archivo or EXCEL_FILES["edad"]
+    archivo = archivo or CSV_INE["edad"]
 
     logger.info(f"Leyendo: {archivo.name}")
     if not archivo.exists():
         raise FileNotFoundError(f"Archivo no encontrado: {archivo}")
 
-    df = pd.read_excel(archivo, sheet_name=SHEET_NAME, header=HEADER_ROW)
+    df = pd.read_csv(archivo, header=INE_HEADER_ROW, skipinitialspace=True,
+                     encoding="utf-8", dtype=str)
     df.columns = df.columns.astype(str).str.strip()
     df.rename(columns={df.columns[0]: "Año"}, inplace=True)
     df = df[pd.to_numeric(df["Año"], errors="coerce").notna()].copy()
     df["Año"] = df["Año"].apply(clean_year)
+
+    # Normalizar columnas numericas (formato europeo + marcadores nulos)
+    df = clean_numeric_df(df, [c for c in df.columns if c != "Año"])
 
     result = validate_edad(df)
     logger.info(result.resumen())
@@ -107,17 +113,21 @@ def load_edad(conn=None, archivo: Path = None) -> tuple[int, int]:
 
 def load_tipo(conn=None, archivo: Path = None) -> tuple[int, int]:
     logger  = get_logger("load_robos_tipo")
-    archivo = archivo or EXCEL_FILES["tipo"]
+    archivo = archivo or CSV_INE["tipo"]
 
     logger.info(f"Leyendo: {archivo.name}")
     if not archivo.exists():
         raise FileNotFoundError(f"Archivo no encontrado: {archivo}")
 
-    df = pd.read_excel(archivo, sheet_name=SHEET_NAME, header=HEADER_ROW)
+    df = pd.read_csv(archivo, header=INE_HEADER_ROW, skipinitialspace=True,
+                     encoding="utf-8", dtype=str)
     df.columns = df.columns.astype(str).str.strip()
     df.rename(columns={df.columns[0]: "Año"}, inplace=True)
     df = df[pd.to_numeric(df["Año"], errors="coerce").notna()].copy()
     df["Año"] = df["Año"].apply(clean_year)
+
+    # Normalizar columnas numericas (formato europeo + marcadores nulos)
+    df = clean_numeric_df(df, [c for c in df.columns if c != "Año"])
 
     result = validate_tipo(df)
     logger.info(result.resumen())
