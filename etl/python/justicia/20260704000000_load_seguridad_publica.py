@@ -3,9 +3,12 @@
 Orquestador del ETL de seguridad publica (modulo Justicia).
 Descubierto automaticamente por run_all.py gracias al prefijo de timestamp.
 
-Ejecuta los 4 loaders en orden, compartiendo una sola conexion a la BD.
+Fuentes incluidas:
+    INE  — estadisticas anuales 2009-2022 (robos por depto, sexo, edad, tipo)
+    PNC  — datos de nivel evento 2023 (victimas y detenidos)
+    MP   — datos de nivel evento 2023 (agraviados y sindicados)
 
-Uso directo:
+Uso:
     python etl/python/justicia/20260704000000_load_seguridad_publica.py
     python etl/python/justicia/20260704000000_load_seguridad_publica.py --solo depto
     python etl/python/justicia/20260704000000_load_seguridad_publica.py --dry-run
@@ -24,18 +27,28 @@ _ETL_PYTHON_DIR = _JUSTICIA_DIR.parent
 sys.path.insert(0, str(_JUSTICIA_DIR))
 sys.path.insert(0, str(_ETL_PYTHON_DIR))
 
-from utils import get_logger, get_connection, print_summary  # noqa: E402
-from loaders.load_robos_departamento import load as load_depto  # noqa: E402
-from loaders.load_robos_sexo import load as load_sexo            # noqa: E402
-from loaders.load_robos_edad_tipo import load_edad, load_tipo    # noqa: E402
+from utils import get_logger, get_connection  # noqa: E402
+from loaders.load_robos_departamento import load as load_depto         # noqa: E402
+from loaders.load_robos_sexo import load as load_sexo                  # noqa: E402
+from loaders.load_robos_edad_tipo import load_edad, load_tipo          # noqa: E402
+from loaders.load_pnc import load_victimas, load_detenidos             # noqa: E402
+from loaders.load_mp import load_agraviados, load_sincidados           # noqa: E402
 
 
 LOADERS = {
-    "depto": ("Robos por departamento", load_depto),
-    "sexo":  ("Robos por sexo",         load_sexo),
-    "edad":  ("Robos por edad",          load_edad),
-    "tipo":  ("Robos por tipo de delito", load_tipo),
+    # INE — datos agregados anuales 2009-2022
+    "depto":      ("INE - Robos por departamento",   load_depto),
+    "sexo":       ("INE - Robos por sexo",           load_sexo),
+    "edad":       ("INE - Robos por edad",           load_edad),
+    "tipo":       ("INE - Robos por tipo de delito", load_tipo),
+    # PNC — datos de nivel evento 2023
+    "pnc_vic":    ("PNC 2023 - Victimas",            load_victimas),
+    "pnc_det":    ("PNC 2023 - Detenidos",           load_detenidos),
+    # MP — datos de nivel evento 2023
+    "mp_agr":     ("MP 2023 - Agraviados",           load_agraviados),
+    "mp_sin":     ("MP 2023 - Sindicados",           load_sincidados),
 }
+
 
 
 def main():

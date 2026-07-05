@@ -8,31 +8,46 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 DATA_DIR      = BASE_DIR / "data" / "justicia"
-RAW_DIR       = DATA_DIR / "raw"
-PROCESSED_DIR = DATA_DIR / "processed"
 LOGS_DIR      = DATA_DIR / "logs"
 
-EXCEL_FILES = {
-    "departamento": RAW_DIR / "robos_por_departamento.xlsx",
-    "sexo":         RAW_DIR / "robos_por_sexo.xlsx",
-    "edad":         RAW_DIR / "robos_por_edad.xlsx",
-    "tipo":         RAW_DIR / "robos_por_tipo.xlsx",
+# Archivos CSV del INE (2 filas de cabecera antes de los datos)
+INE_DIR = DATA_DIR / "INE"
+CSV_INE = {
+    "departamento": INE_DIR / "Denunicas Por Depto.csv",
+    "sexo":         INE_DIR / "Denunicas Por Sexo.csv",
+    "edad":         INE_DIR / "Denuncias Por Edad.csv",
+    "tipo":         INE_DIR / "Denuncias Por Tipo.csv",
+}
+# Filas de cabecera del INE antes de los datos (0-indexed para pandas)
+INE_HEADER_ROW = 2
+
+# Archivos CSV de la PNC — datos de nivel evento, anio 2023
+PNC_DIR = DATA_DIR / "PNC" / "2023"
+CSV_PNC = {
+    "victimas":   PNC_DIR / "Victimas.csv",
+    "detenidos":  PNC_DIR / "Detenidos.csv",
 }
 
-SHEET_NAME = "Datos"
+# Archivos CSV del MP — datos de nivel evento, anio 2023
+MP_DIR = DATA_DIR / "MP" / "2023"
+CSV_MP = {
+    "agraviados": MP_DIR / "Agraviados.csv",
+    "sincidados": MP_DIR / "Sincidados.csv",
+}
 
 YEAR_MIN = 2009
 YEAR_MAX = 2030
 
 NULL_MARKERS = ["-", "\u2014", "N/A", "", None]
 
-# Fila donde empieza la data real en los Excel del INE (0-indexed para pandas)
-HEADER_ROW = 2
+FUENTE_INE = "INE / PNC Guatemala"
+FUENTE_PNC_VIC = "PNC 2023 - Victimas"
+FUENTE_PNC_DET = "PNC 2023 - Detenidos"
+FUENTE_MP_AGR  = "MP 2023 - Agraviados"
+FUENTE_MP_SIN  = "MP 2023 - Sindicados"
 
-FUENTE = "INE / PNC Guatemala"
-
-# Nombre en Excel -> ID en geografia.departamento
-# Los IDs asumen que el ETL de geografia los cargo en orden (1-22).
+# Nombre en CSV -> ID en geografia.departamento
+# Fallback cuando el ETL de geografia no ha cargado datos.
 DEPTO_MAP = {
     "Guatemala":      1,  "El Progreso":    2,  "Sacatepéquez":   3,
     "Chimaltenango":  4,  "Escuintla":      5,  "Santa Rosa":     6,
@@ -44,7 +59,7 @@ DEPTO_MAP = {
     "Jutiapa":       22,
 }
 
-# Nombre en Excel -> ID en justicia.sexo (debe coincidir con seed)
+# Nombre en CSV -> ID en justicia.sexo (debe coincidir con seed V20260704000001)
 SEXO_MAP = {
     "Hombre":          1,
     "Mujer":           2,
@@ -52,7 +67,7 @@ SEXO_MAP = {
     "No especificado": 3,
 }
 
-# Nombre en Excel -> ID en justicia.grupo_edad_victima (referencia, no usado directo)
+# Nombre en CSV -> ID en justicia.grupo_edad_victima (referencia, no usado directo)
 EDAD_MAP = {
     "Menor de 15":  1,  "15-19":    2,  "20-24":    3,
     "25-29":        4,  "30-34":    5,  "35-39":    6,
@@ -60,7 +75,7 @@ EDAD_MAP = {
     "55-59":       10,  "60 y más": 11, "Ignorado": 12,
 }
 
-# Nombre en Excel -> codigo en justicia.tipo_delito
+# Nombre en CSV INE -> codigo en justicia.tipo_delito
 TIPO_ROBO_MAP = {
     "Vehículos":          "VEHICULOS",
     "Peatones":           "PEATONES",
@@ -75,3 +90,20 @@ TIPO_ROBO_MAP = {
     "Unidades blindadas": "UNIDADES_BLINDADAS",
     "Otros robos":        "OTROS",
 }
+
+# Columna g_delitos de PNC Victimas -> codigo en justicia.tipo_delito
+PNC_VICTIMAS_MAP = {
+    "Contra el patrimonio": "VICTIMAS_PATRIMONIO",
+}
+PNC_VICTIMAS_FALLBACK = "VICTIMAS_OTRAS"
+
+# Columna g_delitos de PNC Detenidos -> codigo en justicia.tipo_delito
+PNC_DETENIDOS_MAP = {
+    "Contra el patrimonio": "DETENIDOS_PATRIMONIO",
+}
+PNC_DETENIDOS_FALLBACK = "DETENIDOS_OTRAS"
+
+# Columna principales_delitos de MP -> codigo en justicia.tipo_delito
+# V1 usa un unico codigo por fuente; se puede expandir en futuras versiones.
+MP_AGRAVIADOS_FALLBACK = "AGRAVIADOS_OTRAS"
+MP_SINCIDADOS_FALLBACK  = "SINCIDADOS_OTROS"
