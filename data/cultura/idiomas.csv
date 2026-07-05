@@ -1,7 +1,25 @@
 nombre,familia_linguistica,estado_vitalidad,descripcion
-K'iche',Maya,Vital,El idioma maya con mayor número de hablantes, hablado en el altiplano central de Guatemala.
-Q'eqchi',Maya,Vital,Idioma maya con amplia distribución territorial, principalmente en las Verapaces, Izabal y Petén.
-Kaqchikel,Maya,Vital,Idioma maya del altiplano central, históricamente hablado por el reino Kaqchikel.
-Mam,Maya,Vital,Idioma maya de gran antigüedad hablado en el occidente, fronterizo con México.
-Garífuna,Arahuaca,En peligro,Idioma hablado por la comunidad afrodescendiente garífuna en Livingston, Izabal.
-Xinka,Aislada,Crítico,Familia de lenguas no mayas hablada en el suroriente de Guatemala, con muy pocos hablantes fluidos actualmente.
+K'iche',Maya,Vital,"El idioma maya con mayor número de hablantes en Guatemala, hablado en el altiplano central y occidental."
+Q'eqchi',Maya,Vital,"Idioma maya con la mayor extensión territorial y rápido crecimiento, hablado principalmente en el norte y oriente."
+Kaqchikel,Maya,Vital,"Idioma maya del altiplano central, históricamente hablado por el reino Kaqchikel en Iximché."
+Mam,Maya,Vital,"Idioma maya de gran antigüedad hablado en el occidente del país, fronterizo con México."
+Poqomchi',Maya,Vital,"Idioma maya hablado principalmente en Alta Verapaz, Baja Verapaz y El Quiché."
+Tz'utujil,Maya,Vital,Idioma hablado en la cuenca del Lago de Atitlán en Sololá y Suchitepéquez.
+Ch'orti',Maya,En peligro,"Idioma maya del oriente del país, estrechamente relacionado con el área arqueológica maya clásica."
+Achi',Maya,Vital,"Idioma hablado en el departamento de Baja Verapaz, famoso por su obra de teatro del siglo XV Rabinal Achi'."
+Garífuna,Arahuaca,En peligro,Idioma hablado por la comunidad de afrodescendientes garífunas en la costa atlántica (Izabal).
+Xinka,Aislada,Crítico,Familia de lenguas no mayas del suroriente de Guatemala con muy pocos hablantes fluidos actualmente.
+Akateko,Maya,Vital,Idioma maya hablado principalmente en el noroccidente del departamento de Huehuetenango.
+Awakateko,Maya,Vital,"Idioma maya hablado en el municipio de Aguacatán, Huehuetenango."
+Chuj,Maya,Vital,"Idioma maya del norte de Huehuetenango, emparentado con las lenguas de la rama q'anjob'al."
+Ixil,Maya,Vital,"Idioma hablado en la región norcentral de El Quiché (triángulo Ixil: Nebaj, Chajul y Cotzal)."
+Jakalteko (Popti'),Maya,Vital,"Idioma maya hablado en la región huista de Huehuetenango, fronteriza con Chiapas."
+Q'anjob'al,Maya,Vital,"Idioma maya hablado en el altiplano de Huehuetenango, reconocido por su rica tradición oral."
+Sakapulteko,Maya,En peligro,"Idioma maya minoritario hablado en el municipio de Sacapulas, El Quiché."
+Sipakapense,Maya,En peligro,"Idioma maya minoritario hablado en el municipio de Sipacapa, San Marcos."
+Tektiteko,Maya,Crítico,"Idioma maya minoritario hablado en el municipio de Tectitán, Huehuetenango."
+Uspanteko,Maya,En peligro,"Idioma maya hablado en el municipio de Uspantán, El Quiché."
+Mopan,Maya,En peligro,"Idioma maya hablado en el oriente de Petén, colindante con Belice."
+Itza',Maya,Crítico,"Idioma maya histórico del Petén, hablado en las cercanías del Lago Petén Itzá."
+Chalchiteko,Maya,Vital,"Idioma maya reconocido en 2003, hablado principalmente en el municipio de Aguacatán, Huehuetenango."
+Poqomam,Maya,Vital,"Idioma maya hablado en pequeñas comunidades dispersas en Guatemala, Jalapa y Escuintla."

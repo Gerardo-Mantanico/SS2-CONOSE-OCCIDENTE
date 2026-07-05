@@ -1,7 +1,30 @@
 nombre,descripcion,origen_prehispanico
-Cacao,Semilla ceremonial utilizada como moneda por los mayas y base de bebidas ceremoniales.,true
-Pepitoria,Semilla de calabaza tostada y molida que aporta espesor y sabor a los recados tradicionales.,true
-Ajonjolí,Semilla introducida en la época colonial, tostada y molida para dar textura a guisos.,false
-Chile Cobanero,Chile seco extremadamente picante y ahumado, originario de Alta Verapaz.,true
-Miltomate,Tomate verde pequeño envuelto en cáscara, base ácida para recados como el Jocón.,true
-Achiote,Colorante y condimento natural rojo extraído de las semillas del arbusto Bixa orellana.,true
+Cacao,Ingrediente tradicional (Cacao) extraído de las recetas de gastronomía.,true
+Pepitoria,Ingrediente tradicional (Pepitoria) extraído de las recetas de gastronomía.,true
+Ajonjolí,Ingrediente tradicional (Ajonjolí) extraído de las recetas de gastronomía.,false
+Chile Cobanero,Ingrediente tradicional (Chile Cobanero) extraído de las recetas de gastronomía.,true
+Miltomate,Ingrediente tradicional (Miltomate) extraído de las recetas de gastronomía.,true
+Achiote,Ingrediente tradicional (Achiote) extraído de las recetas de gastronomía.,true
+Maíz,Ingrediente tradicional (Maíz) extraído de las recetas de gastronomía.,true
+Frijol Negro,Ingrediente tradicional (Frijol Negro) extraído de las recetas de gastronomía.,true
+Arroz,Ingrediente tradicional (Arroz) extraído de las recetas de gastronomía.,false
+Canela,Ingrediente tradicional (Canela) extraído de las recetas de gastronomía.,false
+Chile Pimiento,Ingrediente tradicional (Chile Pimiento) extraído de las recetas de gastronomía.,false
+Chile Guaque,Ingrediente tradicional (Chile Guaque) extraído de las recetas de gastronomía.,true
+Chile Pasa,Ingrediente tradicional (Chile Pasa) extraído de las recetas de gastronomía.,true
+Plátano,Ingrediente tradicional (Plátano) extraído de las recetas de gastronomía.,false
+Pan Francés,Ingrediente tradicional (Pan Francés) extraído de las recetas de gastronomía.,false
+Chipilín,Ingrediente tradicional (Chipilín) extraído de las recetas de gastronomía.,true
+Loroco,Ingrediente tradicional (Loroco) extraído de las recetas de gastronomía.,true
+Pollo,Ingrediente tradicional (Pollo) extraído de las recetas de gastronomía.,false
+Gallina,Ingrediente tradicional (Gallina) extraído de las recetas de gastronomía.,false
+Carne de Res,Ingrediente tradicional (Carne de Res) extraído de las recetas de gastronomía.,false
+Carne de Cerdo,Ingrediente tradicional (Carne de Cerdo) extraído de las recetas de gastronomía.,false
+Carne de Cordero,Ingrediente tradicional (Carne de Cordero) extraído de las recetas de gastronomía.,false
+Pescado,Ingrediente tradicional (Pescado) extraído de las recetas de gastronomía.,false
+Tilapia,Ingrediente tradicional (Tilapia) extraído de las recetas de gastronomía.,false
+Camarón,Ingrediente tradicional (Camarón) extraído de las recetas de gastronomía.,false
+Jaiba,Ingrediente tradicional (Jaiba) extraído de las recetas de gastronomía.,false
+Tomate,Ingrediente tradicional (Tomate) extraído de las recetas de gastronomía.,true
+Cebolla,Ingrediente tradicional (Cebolla) extraído de las recetas de gastronomía.,false
+Ajo,Ingrediente tradicional (Ajo) extraído de las recetas de gastronomía.,false

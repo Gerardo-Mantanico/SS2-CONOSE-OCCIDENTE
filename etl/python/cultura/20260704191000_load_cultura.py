@@ -263,6 +263,14 @@ def main() -> None:
                     INSERT INTO cultura.evento_cultural 
                         (nombre, tipo_evento, mes_celebracion, dia_inicio, dia_fin, descripcion, recomendaciones_viaje, carga_id)
                     VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+                    ON CONFLICT (nombre) DO UPDATE SET
+                        tipo_evento = EXCLUDED.tipo_evento,
+                        mes_celebracion = EXCLUDED.mes_celebracion,
+                        dia_inicio = EXCLUDED.dia_inicio,
+                        dia_fin = EXCLUDED.dia_fin,
+                        descripcion = EXCLUDED.descripcion,
+                        recomendaciones_viaje = EXCLUDED.recomendaciones_viaje,
+                        carga_id = EXCLUDED.carga_id
                     RETURNING id
                     """,
                     (nombre, tipo, mes, dia_ini, dia_fin, desc, viaje, carga.id)
