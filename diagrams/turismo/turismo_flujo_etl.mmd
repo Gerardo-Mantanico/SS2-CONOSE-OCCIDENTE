@@ -1,0 +1,9 @@
+flowchart LR
+    A[Fuentes reales: INGUAT, UNESCO, CONAP, SICultura] --> B[data/turismo/raw]
+    B --> C[Staging turismo.stg_*]
+    C --> D[Tablas curadas turismo.destino, patrimonio, rutas]
+    D --> E[Modelo dimensional dim_* y fact_*]
+    E --> F[Datamarts materializados mart_*]
+    F --> G[Dashboards BI / consultas]
+    H[meta.fuente y meta.carga] --> D
+    H --> C

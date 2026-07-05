@@ -1,0 +1,21 @@
+
+# Credenciales y variables de entorno locales
+*.env
+
+# Python
+etl/.venv/
+etl/__pycache__/
+etl/**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
