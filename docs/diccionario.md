@@ -9,6 +9,7 @@
 - **clima**: `fuente_clima`, `registro_climatico`
 - **cultura**: `evento_cultural`, `evento_municipio`, `idioma`, `idioma_municipio`, `ingrediente_autoctono`, `plato_geografia`, `plato_ingrediente`, `plato_tipico`
 - **demografia**: `estado_civil`, `grupo_etnico`, `persona`, `sexo`
+- **economia**: `actividad_materia`, `actividad_productiva`, `centro_acopio_procesamiento`, `certificacion`, `cooperativa_asociacion`, `materia_prima`, `mercado_tradicional`, `produccion_certificada`, `produccion_municipal`, `ruta_comercio`, `servicio_financiero`
 - **geografia**: `departamento`, `municipio`, `pais`
 - **justicia**: `denuncia`, `estado_denuncia`, `registro_fecha_denuncia`, `tipo_denuncia`, `tipo_evento`
 - **meta**: `carga`, `cobertura_carga`, `estado_carga`, `fuente`, `tipo_fuente`
@@ -237,6 +238,159 @@ Catálogo de sexos registrados para las personas.
 | id | integer | no | X |  | `IDENTITY` | Identificador único del sexo. |
 | nombre | character varying(30) | no |  |  |  | Nombre del sexo. |
 | carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el sexo. |
+
+
+## Schema: `economia`
+
+### `economia.actividad_materia`
+
+Matriz asociativa que vincula las actividades productivas con sus materias primas requeridas.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| actividad_id | integer | no | X | economia.actividad_productiva(id) |  | Identificador de la actividad productiva. |
+| materia_id | integer | no | X | economia.materia_prima(id) |  | Identificador de la materia prima requerida. |
+| es_indispensable | boolean | sí |  |  | `true` | Indica si el insumo es crítico para la realización de la actividad. |
+
+### `economia.actividad_productiva`
+
+Catálogo detallado de actividades y productos líderes de la economía municipal.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único de la actividad productiva. |
+| nombre | character varying(100) | no |  |  |  | Nombre oficial del producto o actividad (ej: Café, Tejidos Mayas, Cardamomo). |
+| categoria | character varying(50) | no |  |  |  | Categoría sectorial de la actividad productiva. |
+| descripcion | text | sí |  |  |  | Reseña de la importancia y características de la actividad. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos por la cual se registró la actividad. |
+
+### `economia.centro_acopio_procesamiento`
+
+Infraestructura productiva local dedicada a la preparación, empaque o procesamiento de productos.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único de la infraestructura. |
+| nombre | character varying(150) | no |  |  |  | Nombre del centro de procesamiento (ej: Beneficio Las Cascadas). |
+| tipo | character varying(50) | sí |  |  |  | Clasificación de la planta o centro de procesamiento. |
+| municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio donde opera físicamente el centro. |
+| capacidad_estimada | character varying(100) | sí |  |  |  | Volumen o escala estimada de procesamiento (ej: 500 quintales/día). |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos por la cual se registró la infraestructura. |
+
+### `economia.certificacion`
+
+Catálogo de sellos de calidad, origen, orgánicos o de comercio justo vigentes en el país.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único de la certificación. |
+| nombre | character varying(150) | no |  |  |  | Nombre distintivo de la certificación o sello (ej: Orgánico USDA, Fairtrade). |
+| ente_certificador | character varying(150) | no |  |  |  | Institución o empresa auditora que expide la certificación. |
+| descripcion | text | sí |  |  |  | Descripción del propósito y alcance del sello. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la auditoría de carga de datos. |
+
+### `economia.cooperativa_asociacion`
+
+Cooperativas, gremiales y asociaciones que impulsan la producción y comercialización local.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único de la cooperativa o asociación. |
+| nombre | character varying(200) | no |  |  |  | Nombre legal completo de la organización. |
+| siglas | character varying(50) | sí |  |  |  | Siglas o acrónimo representativo (ej: Fedecocagua, Copichol). |
+| municipio_id | integer | sí |  | geografia.municipio(id) |  | Sede o municipio principal de la organización. |
+| cobertura | character varying(50) | sí |  |  |  | Ámbito de cobertura geográfica de la organización. |
+| descripcion | text | sí |  |  |  | Reseña de la historia, fines y apoyo a productores de la organización. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos por la cual se registró la organización. |
+
+### `economia.materia_prima`
+
+Insumos y materias primas clave utilizados en los procesos productivos locales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único de la materia prima. |
+| nombre | character varying(100) | no |  |  |  | Nombre del insumo (ej: Hilo de algodón, Madera de pino, Cuero bobino). |
+| origen | character varying(50) | sí |  |  |  | Origen geográfico principal del insumo. |
+| descripcion | text | sí |  |  |  | Detalles sobre las características físicas y usos comunes del insumo. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos por la cual se registró el insumo. |
+
+### `economia.mercado_tradicional`
+
+Plazas comerciales y mercados históricos notables del país.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único del mercado. |
+| nombre | character varying(150) | no |  |  |  | Nombre distintivo del mercado local. |
+| municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio en el que se localiza el mercado. |
+| dias_plaza | character varying(100) | no |  |  |  | Días principales de mercado y plaza tradicional. |
+| tipo_mercado | character varying(50) | sí |  |  |  | Tipología principal del mercado. |
+| cantidad_vendedores_est | integer | sí |  |  |  | Número estimado de vendedores en días principales de plaza. |
+| latitud | numeric(9,6) | sí |  |  |  | Coordenada de latitud decimal (WGS84). |
+| longitud | numeric(9,6) | sí |  |  |  | Coordenada de longitud decimal (WGS84). |
+| descripcion | text | sí |  |  |  | Descripción del mercado, historia e importancia cultural. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos por la cual se registró el mercado. |
+
+### `economia.produccion_certificada`
+
+Asociación de la producción municipal con sus respectivas certificaciones nacionales o internacionales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| municipio_id | integer | no | X | economia.produccion_municipal(municipio_id, actividad_id) |  | Identificador del municipio productor. |
+| actividad_id | integer | no | X | economia.produccion_municipal(municipio_id, actividad_id) |  | Identificador de la actividad productiva. |
+| certificacion_id | integer | no | X | economia.certificacion(id) |  | Referencia a la certificación que ostenta esta producción. |
+| porcentaje_produccion | numeric(5,2) | sí |  |  |  | Porcentaje estimado de la producción del municipio amparado por la certificación. |
+| fecha_auditoria | date | no |  |  |  | Fecha de la última auditoría de control de calidad. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la auditoría de carga de datos. |
+
+### `economia.produccion_municipal`
+
+Asociación de actividades productivas con municipios, detallando métricas socioeconómicas.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| municipio_id | integer | no | X | geografia.municipio(id) |  | Identificador del municipio productor. |
+| actividad_id | integer | no | X | economia.actividad_productiva(id) |  | Identificador de la actividad productiva. |
+| cooperativa_id | integer | sí |  | economia.cooperativa_asociacion(id) |  | Identificador de la cooperativa local de apoyo (opcional). |
+| es_principal | boolean | sí |  |  | `false` | Indica si es una de las actividades económicas líderes del municipio. |
+| volumen_estimado | character varying(50) | sí |  |  |  | Volumen estimado de producción. |
+| cantidad_productores_est | integer | sí |  |  |  | Cantidad estimada de productores o familias involucradas. |
+| empleo_generado_est | integer | sí |  |  |  | Empleos directos generados estimados en el municipio. |
+| ciclo_cosecha_meses | character varying(50) | sí |  |  |  | Meses clave de cosecha o mayor actividad (ej: Noviembre-Marzo para Café). |
+| destino_principal | character varying(50) | sí |  |  |  | Destino principal del producto comercializado. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos por la cual se registró la producción. |
+
+### `economia.ruta_comercio`
+
+Registro de flujos logísticos y rutas de comercio de mercancías entre municipios o puertos de salida.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único de la ruta de comercio. |
+| origen_municipio_id | integer | no |  | geografia.municipio(id) |  | Identificador del municipio origen del flujo comercial. |
+| destino_municipio_id | integer | sí |  | geografia.municipio(id) |  | Identificador del municipio destino del flujo comercial (opcional si es exportación). |
+| puerto_salida | character varying(100) | sí |  |  |  | Nombre del puerto marítimo o frontera terrestre de destino para exportación (ej: Puerto Quetzal, Tecún Umán). |
+| medio_transporte | character varying(100) | no |  |  |  | Medio de transporte utilizado para movilizar la mercancía. |
+| distancia_km | numeric(6,2) | sí |  |  |  | Distancia aproximada de la ruta en kilómetros. |
+| tiempo_estimado_horas | numeric(4,2) | sí |  |  |  | Tiempo de tránsito estimado en horas. |
+| producto_principal | character varying(150) | sí |  |  |  | Nombre del producto principal movilizado en la ruta. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la auditoría de carga de datos. |
+
+### `economia.servicio_financiero`
+
+Líneas de crédito y servicios de inclusión financiera ofrecidos por cooperativas rurales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id | integer | no | X |  | `IDENTITY` | Identificador único del servicio financiero. |
+| cooperativa_id | integer | no |  | economia.cooperativa_asociacion(id) |  | Referencia a la cooperativa que ofrece el servicio. |
+| tipo_servicio | character varying(100) | no |  |  |  | Clasificación de producto crediticio o financiero. |
+| tasa_interes_anual | numeric(4,2) | sí |  |  |  | Tasa de interés anualizada del servicio financiero. |
+| monto_maximo_quetzales | numeric(12,2) | sí |  |  |  | Monto máximo de financiamiento en Quetzales. |
+| requisito_principal | text | sí |  |  |  | Descripción del principal requisito para optar al financiamiento. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la auditoría de carga de datos. |
 
 
 ## Schema: `geografia`

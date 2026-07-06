@@ -1,0 +1,1027 @@
+cooperativa_siglas,tipo_servicio,tasa_interes_anual,monto_maximo_quetzales,requisito_principal
+COOP-GT0100-A,Microcrédito Agrícola,15.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0100-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0100-C,Crédito Artesanal,17.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0101-A,Financiamiento de Equipo,17.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0101-B,Ahorro Plazo Fijo,10.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0101-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0102-A,Microcrédito Agrícola,9.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0102-B,Remesas Familiares,13.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0102-C,Crédito Artesanal,9.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0103-A,Financiamiento de Equipo,8.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0103-B,Ahorro Plazo Fijo,11.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0103-C,Crédito Artesanal,18.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0104-A,Microcrédito Agrícola,7.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0104-B,Remesas Familiares,14.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0104-C,Crédito Artesanal,18.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0105-A,Financiamiento de Equipo,14.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0105-B,Ahorro Plazo Fijo,9.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0105-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0106-A,Microcrédito Agrícola,18.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0106-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0106-C,Crédito Artesanal,14.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0107-A,Financiamiento de Equipo,9.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0107-B,Ahorro Plazo Fijo,13.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0107-C,Crédito Artesanal,17.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0108-A,Microcrédito Agrícola,6.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0108-B,Remesas Familiares,6.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0108-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0109-A,Financiamiento de Equipo,6.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0109-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0109-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0110-A,Microcrédito Agrícola,16.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0110-B,Remesas Familiares,11.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0110-C,Crédito Artesanal,9.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0111-A,Financiamiento de Equipo,10.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0111-B,Ahorro Plazo Fijo,18.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0111-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0112-A,Microcrédito Agrícola,10.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0112-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0112-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0113-A,Financiamiento de Equipo,15.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0113-B,Ahorro Plazo Fijo,9.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0113-C,Crédito Artesanal,14.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0114-A,Microcrédito Agrícola,10.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0114-B,Remesas Familiares,17.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0114-C,Crédito Artesanal,15.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0115-A,Financiamiento de Equipo,8.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0115-B,Ahorro Plazo Fijo,10.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0115-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0116-A,Microcrédito Agrícola,6.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0116-B,Remesas Familiares,6.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0116-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0117-A,Financiamiento de Equipo,7.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0117-B,Ahorro Plazo Fijo,6.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0117-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0201-A,Microcrédito Agrícola,8.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0201-B,Remesas Familiares,15.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0201-C,Crédito Artesanal,10.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0202-A,Financiamiento de Equipo,9.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0202-B,Ahorro Plazo Fijo,18.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0202-C,Crédito Artesanal,15.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0203-A,Microcrédito Agrícola,7.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0203-B,Remesas Familiares,7.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0203-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0204-A,Financiamiento de Equipo,13.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0204-B,Ahorro Plazo Fijo,9.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0204-C,Crédito Artesanal,15.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0205-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0205-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0205-C,Crédito Artesanal,18.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0206-A,Financiamiento de Equipo,13.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0206-B,Ahorro Plazo Fijo,6.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0206-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0207-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0207-B,Remesas Familiares,13.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0207-C,Crédito Artesanal,10.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0208-A,Financiamiento de Equipo,15.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0208-B,Ahorro Plazo Fijo,14.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0208-C,Crédito Artesanal,12.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0301-A,Microcrédito Agrícola,11.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0301-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0301-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0302-A,Financiamiento de Equipo,12.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0302-B,Ahorro Plazo Fijo,9.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0302-C,Crédito Artesanal,14.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0303-A,Microcrédito Agrícola,13.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0303-B,Remesas Familiares,7.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0303-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0304-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0304-B,Ahorro Plazo Fijo,15.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0304-C,Crédito Artesanal,14.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0305-A,Microcrédito Agrícola,8.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0305-B,Remesas Familiares,17.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0305-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0306-A,Financiamiento de Equipo,11.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0306-B,Ahorro Plazo Fijo,13.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0306-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0307-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0307-B,Remesas Familiares,16.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0307-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0308-A,Financiamiento de Equipo,16.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0308-B,Ahorro Plazo Fijo,7.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0308-C,Crédito Artesanal,8.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0309-A,Microcrédito Agrícola,18.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0309-B,Remesas Familiares,16.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0309-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0310-A,Financiamiento de Equipo,12.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0310-B,Ahorro Plazo Fijo,9.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0310-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0311-A,Microcrédito Agrícola,10.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0311-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0311-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0312-A,Financiamiento de Equipo,15.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0312-B,Ahorro Plazo Fijo,8.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0312-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0313-A,Microcrédito Agrícola,14.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0313-B,Remesas Familiares,6.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0313-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0314-A,Financiamiento de Equipo,6.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0314-B,Ahorro Plazo Fijo,12.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0314-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0315-A,Microcrédito Agrícola,17.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0315-B,Remesas Familiares,12.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0315-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0316-A,Financiamiento de Equipo,16.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0316-B,Ahorro Plazo Fijo,13.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0316-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0401-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0401-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0401-C,Crédito Artesanal,16.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0402-A,Financiamiento de Equipo,8.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0402-B,Ahorro Plazo Fijo,7.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0402-C,Crédito Artesanal,8.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0403-A,Microcrédito Agrícola,16.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0403-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0403-C,Crédito Artesanal,8.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0404-A,Financiamiento de Equipo,13.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0404-B,Ahorro Plazo Fijo,15.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0404-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0405-A,Microcrédito Agrícola,14.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0405-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0405-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0406-A,Financiamiento de Equipo,12.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0406-B,Ahorro Plazo Fijo,15.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0406-C,Crédito Artesanal,17.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0407-A,Microcrédito Agrícola,17.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0407-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0407-C,Crédito Artesanal,6.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0408-A,Financiamiento de Equipo,15.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0408-B,Ahorro Plazo Fijo,17.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0408-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0409-A,Microcrédito Agrícola,17.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0409-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0409-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0410-A,Financiamiento de Equipo,14.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0410-B,Ahorro Plazo Fijo,9.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0410-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0411-A,Microcrédito Agrícola,16.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0411-B,Remesas Familiares,15.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0411-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0412-A,Financiamiento de Equipo,13.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0412-B,Ahorro Plazo Fijo,14.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0412-C,Crédito Artesanal,15.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0413-A,Microcrédito Agrícola,12.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0413-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0413-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0414-A,Financiamiento de Equipo,6.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0414-B,Ahorro Plazo Fijo,17.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0414-C,Crédito Artesanal,6.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0415-A,Microcrédito Agrícola,15.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0415-B,Remesas Familiares,15.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0415-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0416-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0416-B,Ahorro Plazo Fijo,10.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0416-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0501-A,Microcrédito Agrícola,14.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0501-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0501-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0502-A,Financiamiento de Equipo,15.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0502-B,Ahorro Plazo Fijo,10.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0502-C,Crédito Artesanal,6.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0503-A,Microcrédito Agrícola,15.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0503-B,Remesas Familiares,15.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0503-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0504-A,Financiamiento de Equipo,11.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0504-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0504-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0505-A,Microcrédito Agrícola,18.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0505-B,Remesas Familiares,11.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0505-C,Crédito Artesanal,8.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0506-A,Financiamiento de Equipo,13.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0506-B,Ahorro Plazo Fijo,18.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0506-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0507-A,Microcrédito Agrícola,17.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0507-B,Remesas Familiares,9.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0507-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0508-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0508-B,Ahorro Plazo Fijo,6.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0508-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0509-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0509-B,Remesas Familiares,13.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0509-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0510-A,Financiamiento de Equipo,13.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0510-B,Ahorro Plazo Fijo,8.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0510-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0511-A,Microcrédito Agrícola,18.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0511-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0511-C,Crédito Artesanal,14.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0512-A,Financiamiento de Equipo,7.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0512-B,Ahorro Plazo Fijo,12.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0512-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0513-A,Microcrédito Agrícola,10.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0513-B,Remesas Familiares,10.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0513-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0514-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0514-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0514-C,Crédito Artesanal,16.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0601-A,Microcrédito Agrícola,11.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0601-B,Remesas Familiares,16.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0601-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0602-A,Financiamiento de Equipo,12.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0602-B,Ahorro Plazo Fijo,14.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0602-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0603-A,Microcrédito Agrícola,11.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0603-B,Remesas Familiares,17.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0603-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0604-A,Financiamiento de Equipo,6.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0604-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0604-C,Crédito Artesanal,6.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0605-A,Microcrédito Agrícola,15.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0605-B,Remesas Familiares,17.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0605-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0606-A,Financiamiento de Equipo,12.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0606-B,Ahorro Plazo Fijo,7.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0606-C,Crédito Artesanal,10.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0607-A,Microcrédito Agrícola,13.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0607-B,Remesas Familiares,16.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0607-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0608-A,Financiamiento de Equipo,17.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0608-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0608-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0609-A,Microcrédito Agrícola,10.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0609-B,Remesas Familiares,12.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0609-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0610-A,Financiamiento de Equipo,10.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0610-B,Ahorro Plazo Fijo,8.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0610-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0611-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0611-B,Remesas Familiares,8.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0611-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0612-A,Financiamiento de Equipo,14.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0612-B,Ahorro Plazo Fijo,9.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0612-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0613-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0613-B,Remesas Familiares,7.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0613-C,Crédito Artesanal,15.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0614-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0614-B,Ahorro Plazo Fijo,6.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0614-C,Crédito Artesanal,8.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0700-A,Microcrédito Agrícola,6.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0700-B,Remesas Familiares,10.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0700-C,Crédito Artesanal,17.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0701-A,Financiamiento de Equipo,12.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0701-B,Ahorro Plazo Fijo,14.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0701-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0702-A,Microcrédito Agrícola,12.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0702-B,Remesas Familiares,14.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0702-C,Crédito Artesanal,6.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0703-A,Financiamiento de Equipo,17.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0703-B,Ahorro Plazo Fijo,7.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0703-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0704-A,Microcrédito Agrícola,12.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0704-B,Remesas Familiares,16.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0704-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0705-A,Financiamiento de Equipo,7.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0705-B,Ahorro Plazo Fijo,18.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0705-C,Crédito Artesanal,16.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0706-A,Microcrédito Agrícola,8.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0706-B,Remesas Familiares,12.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0706-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0707-A,Financiamiento de Equipo,7.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0707-B,Ahorro Plazo Fijo,13.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0707-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0708-A,Microcrédito Agrícola,17.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0708-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0708-C,Crédito Artesanal,9.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0709-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0709-B,Ahorro Plazo Fijo,13.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0709-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0710-A,Microcrédito Agrícola,13.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0710-B,Remesas Familiares,6.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0710-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0711-A,Financiamiento de Equipo,11.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0711-B,Ahorro Plazo Fijo,12.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0711-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0712-A,Microcrédito Agrícola,16.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0712-B,Remesas Familiares,17.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0712-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0713-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0713-B,Ahorro Plazo Fijo,13.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0713-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0714-A,Microcrédito Agrícola,9.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0714-B,Remesas Familiares,6.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0714-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0715-A,Financiamiento de Equipo,10.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0715-B,Ahorro Plazo Fijo,13.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0715-C,Crédito Artesanal,15.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0716-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0716-B,Remesas Familiares,13.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0716-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0717-A,Financiamiento de Equipo,12.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0717-B,Ahorro Plazo Fijo,18.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0717-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0718-A,Microcrédito Agrícola,16.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0718-B,Remesas Familiares,11.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0718-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0719-A,Financiamiento de Equipo,15.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0719-B,Ahorro Plazo Fijo,11.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0719-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0801-A,Microcrédito Agrícola,8.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0801-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0801-C,Crédito Artesanal,14.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0802-A,Financiamiento de Equipo,13.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0802-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0802-C,Crédito Artesanal,8.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0803-A,Microcrédito Agrícola,18.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0803-B,Remesas Familiares,18.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0803-C,Crédito Artesanal,6.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0804-A,Financiamiento de Equipo,7.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0804-B,Ahorro Plazo Fijo,6.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0804-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0805-A,Microcrédito Agrícola,12.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0805-B,Remesas Familiares,17.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0805-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0806-A,Financiamiento de Equipo,16.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0806-B,Ahorro Plazo Fijo,14.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0806-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0807-A,Microcrédito Agrícola,8.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0807-B,Remesas Familiares,15.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0807-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0808-A,Financiamiento de Equipo,15.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0808-B,Ahorro Plazo Fijo,16.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0808-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0901-A,Microcrédito Agrícola,6.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0901-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0901-C,Crédito Artesanal,14.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0902-A,Financiamiento de Equipo,15.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0902-B,Ahorro Plazo Fijo,18.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0902-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0903-A,Microcrédito Agrícola,10.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0903-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0903-C,Crédito Artesanal,18.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0904-A,Financiamiento de Equipo,16.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0904-B,Ahorro Plazo Fijo,13.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0904-C,Crédito Artesanal,8.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0905-A,Microcrédito Agrícola,6.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0905-B,Remesas Familiares,10.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0905-C,Crédito Artesanal,12.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0906-A,Financiamiento de Equipo,11.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0906-B,Ahorro Plazo Fijo,6.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT0906-C,Crédito Artesanal,17.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0907-A,Microcrédito Agrícola,14.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0907-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0907-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0908-A,Financiamiento de Equipo,7.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0908-B,Ahorro Plazo Fijo,17.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0908-C,Crédito Artesanal,15.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0909-A,Microcrédito Agrícola,12.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0909-B,Remesas Familiares,17.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0909-C,Crédito Artesanal,9.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0910-A,Financiamiento de Equipo,11.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0910-B,Ahorro Plazo Fijo,7.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0910-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0911-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0911-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0911-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0912-A,Financiamiento de Equipo,6.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0912-B,Ahorro Plazo Fijo,8.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0912-C,Crédito Artesanal,15.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0913-A,Microcrédito Agrícola,8.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0913-B,Remesas Familiares,11.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0913-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0914-A,Financiamiento de Equipo,16.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0914-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0914-C,Crédito Artesanal,11.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0915-A,Microcrédito Agrícola,6.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0915-B,Remesas Familiares,10.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0915-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0916-A,Financiamiento de Equipo,13.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0916-B,Ahorro Plazo Fijo,8.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT0916-C,Crédito Artesanal,9.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0917-A,Microcrédito Agrícola,15.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0917-B,Remesas Familiares,18.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0917-C,Crédito Artesanal,15.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0918-A,Financiamiento de Equipo,7.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0918-B,Ahorro Plazo Fijo,14.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0918-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0919-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0919-B,Remesas Familiares,6.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0919-C,Crédito Artesanal,17.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0920-A,Financiamiento de Equipo,9.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0920-B,Ahorro Plazo Fijo,12.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0920-C,Crédito Artesanal,15.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0921-A,Microcrédito Agrícola,15.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0921-B,Remesas Familiares,12.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0921-C,Crédito Artesanal,6.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0922-A,Financiamiento de Equipo,17.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0922-B,Ahorro Plazo Fijo,12.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT0922-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0923-A,Microcrédito Agrícola,13.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT0923-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT0923-C,Crédito Artesanal,14.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT0924-A,Financiamiento de Equipo,17.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT0924-B,Ahorro Plazo Fijo,9.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT0924-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1001-A,Microcrédito Agrícola,9.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1001-B,Remesas Familiares,6.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1001-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1002-A,Financiamiento de Equipo,8.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1002-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1002-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1003-A,Microcrédito Agrícola,18.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1003-B,Remesas Familiares,17.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1003-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1004-A,Financiamiento de Equipo,16.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1004-B,Ahorro Plazo Fijo,17.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1004-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1005-A,Microcrédito Agrícola,12.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1005-B,Remesas Familiares,14.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1005-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1006-A,Financiamiento de Equipo,18.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1006-B,Ahorro Plazo Fijo,17.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1006-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1007-A,Microcrédito Agrícola,15.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1007-B,Remesas Familiares,17.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1007-C,Crédito Artesanal,14.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1008-A,Financiamiento de Equipo,6.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1008-B,Ahorro Plazo Fijo,12.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1008-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1009-A,Microcrédito Agrícola,11.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1009-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1009-C,Crédito Artesanal,14.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1010-A,Financiamiento de Equipo,8.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1010-B,Ahorro Plazo Fijo,9.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1010-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1011-A,Microcrédito Agrícola,17.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1011-B,Remesas Familiares,18.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1011-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1012-A,Financiamiento de Equipo,10.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1012-B,Ahorro Plazo Fijo,10.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1012-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1013-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1013-B,Remesas Familiares,13.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1013-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1014-A,Financiamiento de Equipo,13.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1014-B,Ahorro Plazo Fijo,18.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1014-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1015-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1015-B,Remesas Familiares,12.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1015-C,Crédito Artesanal,10.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1016-A,Financiamiento de Equipo,7.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1016-B,Ahorro Plazo Fijo,10.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1016-C,Crédito Artesanal,17.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1017-A,Microcrédito Agrícola,13.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1017-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1017-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1018-A,Financiamiento de Equipo,16.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1018-B,Ahorro Plazo Fijo,13.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1018-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1019-A,Microcrédito Agrícola,17.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1019-B,Remesas Familiares,10.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1019-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1020-A,Financiamiento de Equipo,18.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1020-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1020-C,Crédito Artesanal,12.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1021-A,Microcrédito Agrícola,16.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1021-B,Remesas Familiares,13.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1021-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1101-A,Financiamiento de Equipo,15.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1101-B,Ahorro Plazo Fijo,18.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1101-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1102-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1102-B,Remesas Familiares,11.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1102-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1103-A,Financiamiento de Equipo,8.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1103-B,Ahorro Plazo Fijo,10.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1103-C,Crédito Artesanal,8.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1104-A,Microcrédito Agrícola,17.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1104-B,Remesas Familiares,8.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1104-C,Crédito Artesanal,17.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1105-A,Financiamiento de Equipo,8.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1105-B,Ahorro Plazo Fijo,7.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1105-C,Crédito Artesanal,11.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1106-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1106-B,Remesas Familiares,11.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1106-C,Crédito Artesanal,9.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1107-A,Financiamiento de Equipo,16.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1107-B,Ahorro Plazo Fijo,11.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1107-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1108-A,Microcrédito Agrícola,14.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1108-B,Remesas Familiares,14.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1108-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1109-A,Financiamiento de Equipo,12.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1109-B,Ahorro Plazo Fijo,18.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1109-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1201-A,Microcrédito Agrícola,8.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1201-B,Remesas Familiares,17.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1201-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1202-A,Financiamiento de Equipo,13.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1202-B,Ahorro Plazo Fijo,18.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1202-C,Crédito Artesanal,18.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1203-A,Microcrédito Agrícola,11.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1203-B,Remesas Familiares,17.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1203-C,Crédito Artesanal,6.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1204-A,Financiamiento de Equipo,16.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1204-B,Ahorro Plazo Fijo,10.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1204-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1205-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1205-B,Remesas Familiares,7.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1205-C,Crédito Artesanal,6.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1206-A,Financiamiento de Equipo,15.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1206-B,Ahorro Plazo Fijo,18.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1206-C,Crédito Artesanal,9.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1207-A,Microcrédito Agrícola,7.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1207-B,Remesas Familiares,16.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1207-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1208-A,Financiamiento de Equipo,9.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1208-B,Ahorro Plazo Fijo,11.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1208-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1209-A,Microcrédito Agrícola,12.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1209-B,Remesas Familiares,17.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1209-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1210-A,Financiamiento de Equipo,11.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1210-B,Ahorro Plazo Fijo,10.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1210-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1211-A,Microcrédito Agrícola,13.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1211-B,Remesas Familiares,9.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1211-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1212-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1212-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1212-C,Crédito Artesanal,18.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1213-A,Microcrédito Agrícola,17.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1213-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1213-C,Crédito Artesanal,8.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1214-A,Financiamiento de Equipo,10.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1214-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1214-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1215-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1215-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1215-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1216-A,Financiamiento de Equipo,14.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1216-B,Ahorro Plazo Fijo,17.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1216-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1217-A,Microcrédito Agrícola,12.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1217-B,Remesas Familiares,14.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1217-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1218-A,Financiamiento de Equipo,15.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1218-B,Ahorro Plazo Fijo,13.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1218-C,Crédito Artesanal,9.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1219-A,Microcrédito Agrícola,18.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1219-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1219-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1220-A,Financiamiento de Equipo,7.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1220-B,Ahorro Plazo Fijo,12.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1220-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1221-A,Microcrédito Agrícola,6.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1221-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1221-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1222-A,Financiamiento de Equipo,15.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1222-B,Ahorro Plazo Fijo,15.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1222-C,Crédito Artesanal,15.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1223-A,Microcrédito Agrícola,10.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1223-B,Remesas Familiares,17.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1223-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1224-A,Financiamiento de Equipo,10.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1224-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1224-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1225-A,Microcrédito Agrícola,13.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1225-B,Remesas Familiares,11.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1225-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1226-A,Financiamiento de Equipo,11.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1226-B,Ahorro Plazo Fijo,16.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1226-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1227-A,Microcrédito Agrícola,10.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1227-B,Remesas Familiares,14.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1227-C,Crédito Artesanal,18.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1228-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1228-B,Ahorro Plazo Fijo,15.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1228-C,Crédito Artesanal,14.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1229-A,Microcrédito Agrícola,11.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1229-B,Remesas Familiares,10.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1229-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1230-A,Financiamiento de Equipo,8.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1230-B,Ahorro Plazo Fijo,8.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1230-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1301-A,Microcrédito Agrícola,12.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1301-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1301-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1302-A,Financiamiento de Equipo,14.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1302-B,Ahorro Plazo Fijo,9.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1302-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1303-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1303-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1303-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1304-A,Financiamiento de Equipo,10.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1304-B,Ahorro Plazo Fijo,8.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1304-C,Crédito Artesanal,15.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1305-A,Microcrédito Agrícola,8.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1305-B,Remesas Familiares,6.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1305-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1306-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1306-B,Ahorro Plazo Fijo,17.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1306-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1307-A,Microcrédito Agrícola,9.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1307-B,Remesas Familiares,7.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1307-C,Crédito Artesanal,17.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1308-A,Financiamiento de Equipo,7.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1308-B,Ahorro Plazo Fijo,18.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1308-C,Crédito Artesanal,18.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1309-A,Microcrédito Agrícola,6.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1309-B,Remesas Familiares,7.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1309-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1310-A,Financiamiento de Equipo,13.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1310-B,Ahorro Plazo Fijo,10.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1310-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1311-A,Microcrédito Agrícola,16.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1311-B,Remesas Familiares,18.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1311-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1312-A,Financiamiento de Equipo,15.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1312-B,Ahorro Plazo Fijo,15.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1312-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1313-A,Microcrédito Agrícola,6.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1313-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1313-C,Crédito Artesanal,15.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1314-A,Financiamiento de Equipo,11.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1314-B,Ahorro Plazo Fijo,14.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1314-C,Crédito Artesanal,14.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1315-A,Microcrédito Agrícola,7.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1315-B,Remesas Familiares,14.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1315-C,Crédito Artesanal,17.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1316-A,Financiamiento de Equipo,10.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1316-B,Ahorro Plazo Fijo,18.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1316-C,Crédito Artesanal,17.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1317-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1317-B,Remesas Familiares,11.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1317-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1318-A,Financiamiento de Equipo,8.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1318-B,Ahorro Plazo Fijo,12.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1318-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1319-A,Microcrédito Agrícola,12.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1319-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1319-C,Crédito Artesanal,7.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1320-A,Financiamiento de Equipo,7.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1320-B,Ahorro Plazo Fijo,13.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1320-C,Crédito Artesanal,17.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1321-A,Microcrédito Agrícola,14.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1321-B,Remesas Familiares,7.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1321-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1322-A,Financiamiento de Equipo,12.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1322-B,Ahorro Plazo Fijo,13.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1322-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1323-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1323-B,Remesas Familiares,10.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1323-C,Crédito Artesanal,9.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1324-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1324-B,Ahorro Plazo Fijo,16.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1324-C,Crédito Artesanal,8.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1325-A,Microcrédito Agrícola,16.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1325-B,Remesas Familiares,16.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1325-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1326-A,Financiamiento de Equipo,14.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1326-B,Ahorro Plazo Fijo,7.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1326-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1327-A,Microcrédito Agrícola,17.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1327-B,Remesas Familiares,17.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1327-C,Crédito Artesanal,7.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1328-A,Financiamiento de Equipo,9.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1328-B,Ahorro Plazo Fijo,9.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1328-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1329-A,Microcrédito Agrícola,12.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1329-B,Remesas Familiares,10.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1329-C,Crédito Artesanal,18.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1330-A,Financiamiento de Equipo,11.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1330-B,Ahorro Plazo Fijo,16.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1330-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1331-A,Microcrédito Agrícola,8.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1331-B,Remesas Familiares,7.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1331-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1332-A,Financiamiento de Equipo,13.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1332-B,Ahorro Plazo Fijo,16.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1332-C,Crédito Artesanal,6.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1333-A,Microcrédito Agrícola,17.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1333-B,Remesas Familiares,7.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1333-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1401-A,Financiamiento de Equipo,8.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1401-B,Ahorro Plazo Fijo,15.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1401-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1402-A,Microcrédito Agrícola,15.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1402-B,Remesas Familiares,18.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1402-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1403-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1403-B,Ahorro Plazo Fijo,9.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1403-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1404-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1404-B,Remesas Familiares,14.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1404-C,Crédito Artesanal,18.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1405-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1405-B,Ahorro Plazo Fijo,12.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1405-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1406-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1406-B,Remesas Familiares,13.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1406-C,Crédito Artesanal,6.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1407-A,Financiamiento de Equipo,8.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1407-B,Ahorro Plazo Fijo,17.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1407-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1408-A,Microcrédito Agrícola,8.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1408-B,Remesas Familiares,17.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1408-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1409-A,Financiamiento de Equipo,15.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1409-B,Ahorro Plazo Fijo,16.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1409-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1410-A,Microcrédito Agrícola,14.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1410-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1410-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1411-A,Financiamiento de Equipo,15.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1411-B,Ahorro Plazo Fijo,18.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1411-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1412-A,Microcrédito Agrícola,6.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1412-B,Remesas Familiares,8.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1412-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1413-A,Financiamiento de Equipo,18.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1413-B,Ahorro Plazo Fijo,12.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1413-C,Crédito Artesanal,12.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1414-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1414-B,Remesas Familiares,11.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1414-C,Crédito Artesanal,16.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1415-A,Financiamiento de Equipo,9.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1415-B,Ahorro Plazo Fijo,16.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1415-C,Crédito Artesanal,15.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1416-A,Microcrédito Agrícola,17.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1416-B,Remesas Familiares,10.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1416-C,Crédito Artesanal,11.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1417-A,Financiamiento de Equipo,6.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1417-B,Ahorro Plazo Fijo,6.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1417-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1418-A,Microcrédito Agrícola,15.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1418-B,Remesas Familiares,10.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1418-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1419-A,Financiamiento de Equipo,15.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1419-B,Ahorro Plazo Fijo,11.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1419-C,Crédito Artesanal,15.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1420-A,Microcrédito Agrícola,11.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1420-B,Remesas Familiares,18.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1420-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1421-A,Financiamiento de Equipo,11.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1421-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1421-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1501-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1501-B,Remesas Familiares,9.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1501-C,Crédito Artesanal,16.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1502-A,Financiamiento de Equipo,14.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1502-B,Ahorro Plazo Fijo,10.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1502-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1503-A,Microcrédito Agrícola,15.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1503-B,Remesas Familiares,18.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1503-C,Crédito Artesanal,15.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1504-A,Financiamiento de Equipo,17.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1504-B,Ahorro Plazo Fijo,15.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1504-C,Crédito Artesanal,10.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1505-A,Microcrédito Agrícola,15.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1505-B,Remesas Familiares,12.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1505-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1506-A,Financiamiento de Equipo,16.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1506-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1506-C,Crédito Artesanal,12.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1507-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1507-B,Remesas Familiares,12.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1507-C,Crédito Artesanal,15.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1508-A,Financiamiento de Equipo,16.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1508-B,Ahorro Plazo Fijo,6.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1508-C,Crédito Artesanal,15.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1601-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1601-B,Remesas Familiares,10.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1601-C,Crédito Artesanal,15.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1602-A,Financiamiento de Equipo,14.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1602-B,Ahorro Plazo Fijo,11.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1602-C,Crédito Artesanal,8.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1603-A,Microcrédito Agrícola,8.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1603-B,Remesas Familiares,12.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1603-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1604-A,Financiamiento de Equipo,16.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1604-B,Ahorro Plazo Fijo,12.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1604-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1605-A,Microcrédito Agrícola,10.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1605-B,Remesas Familiares,12.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1605-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1606-A,Financiamiento de Equipo,9.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1606-B,Ahorro Plazo Fijo,9.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1606-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1607-A,Microcrédito Agrícola,14.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1607-B,Remesas Familiares,12.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1607-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1608-A,Financiamiento de Equipo,10.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1608-B,Ahorro Plazo Fijo,6.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1608-C,Crédito Artesanal,18.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1609-A,Microcrédito Agrícola,16.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1609-B,Remesas Familiares,16.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1609-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1610-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1610-B,Ahorro Plazo Fijo,6.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1610-C,Crédito Artesanal,11.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1611-A,Microcrédito Agrícola,7.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1611-B,Remesas Familiares,11.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1611-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1612-A,Financiamiento de Equipo,9.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1612-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1612-C,Crédito Artesanal,14.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1613-A,Microcrédito Agrícola,13.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1613-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1613-C,Crédito Artesanal,18.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1614-A,Financiamiento de Equipo,11.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1614-B,Ahorro Plazo Fijo,18.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1614-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1615-A,Microcrédito Agrícola,8.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1615-B,Remesas Familiares,8.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1615-C,Crédito Artesanal,10.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1616-A,Financiamiento de Equipo,12.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1616-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1616-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1617-A,Microcrédito Agrícola,17.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1617-B,Remesas Familiares,11.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1617-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1701-A,Financiamiento de Equipo,10.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1701-B,Ahorro Plazo Fijo,11.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1701-C,Crédito Artesanal,17.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1702-A,Microcrédito Agrícola,10.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1702-B,Remesas Familiares,16.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1702-C,Crédito Artesanal,17.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1703-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1703-B,Ahorro Plazo Fijo,10.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1703-C,Crédito Artesanal,10.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1704-A,Microcrédito Agrícola,18.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1704-B,Remesas Familiares,14.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1704-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1705-A,Financiamiento de Equipo,6.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1705-B,Ahorro Plazo Fijo,10.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1705-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1706-A,Microcrédito Agrícola,10.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1706-B,Remesas Familiares,8.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1706-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1707-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1707-B,Ahorro Plazo Fijo,18.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1707-C,Crédito Artesanal,10.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1708-A,Microcrédito Agrícola,18.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1708-B,Remesas Familiares,13.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1708-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1709-A,Financiamiento de Equipo,7.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1709-B,Ahorro Plazo Fijo,17.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1709-C,Crédito Artesanal,14.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1710-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1710-B,Remesas Familiares,15.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1710-C,Crédito Artesanal,13.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1711-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1711-B,Ahorro Plazo Fijo,16.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1711-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1712-A,Microcrédito Agrícola,18.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1712-B,Remesas Familiares,6.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1712-C,Crédito Artesanal,9.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1713-A,Financiamiento de Equipo,11.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1713-B,Ahorro Plazo Fijo,7.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1713-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1714-A,Microcrédito Agrícola,15.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1714-B,Remesas Familiares,18.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1714-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1801-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1801-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1801-C,Crédito Artesanal,16.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1802-A,Microcrédito Agrícola,18.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1802-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1802-C,Crédito Artesanal,12.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1803-A,Financiamiento de Equipo,8.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1803-B,Ahorro Plazo Fijo,12.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1803-C,Crédito Artesanal,6.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1804-A,Microcrédito Agrícola,14.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1804-B,Remesas Familiares,7.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1804-C,Crédito Artesanal,9.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1805-A,Financiamiento de Equipo,17.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1805-B,Ahorro Plazo Fijo,6.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1805-C,Crédito Artesanal,15.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1901-A,Microcrédito Agrícola,15.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1901-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1901-C,Crédito Artesanal,11.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1902-A,Financiamiento de Equipo,15.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1902-B,Ahorro Plazo Fijo,6.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1902-C,Crédito Artesanal,18.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1903-A,Microcrédito Agrícola,16.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1903-B,Remesas Familiares,7.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1903-C,Crédito Artesanal,17.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1904-A,Financiamiento de Equipo,9.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1904-B,Ahorro Plazo Fijo,10.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT1904-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1905-A,Microcrédito Agrícola,12.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1905-B,Remesas Familiares,15.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1905-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1906-A,Financiamiento de Equipo,12.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1906-B,Ahorro Plazo Fijo,12.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT1906-C,Crédito Artesanal,6.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1907-A,Microcrédito Agrícola,10.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1907-B,Remesas Familiares,15.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1907-C,Crédito Artesanal,9.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1908-A,Financiamiento de Equipo,15.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1908-B,Ahorro Plazo Fijo,7.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT1908-C,Crédito Artesanal,13.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1909-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1909-B,Remesas Familiares,16.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1909-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1910-A,Financiamiento de Equipo,17.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT1910-B,Ahorro Plazo Fijo,17.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT1910-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT1911-A,Microcrédito Agrícola,14.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT1911-B,Remesas Familiares,6.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT1911-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2001-A,Financiamiento de Equipo,11.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2001-B,Ahorro Plazo Fijo,6.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT2001-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2002-A,Microcrédito Agrícola,10.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2002-B,Remesas Familiares,16.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2002-C,Crédito Artesanal,8.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2003-A,Financiamiento de Equipo,15.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2003-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT2003-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2004-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2004-B,Remesas Familiares,8.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2004-C,Crédito Artesanal,11.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2005-A,Financiamiento de Equipo,8.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2005-B,Ahorro Plazo Fijo,7.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT2005-C,Crédito Artesanal,6.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2006-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2006-B,Remesas Familiares,17.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2006-C,Crédito Artesanal,12.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2007-A,Financiamiento de Equipo,10.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2007-B,Ahorro Plazo Fijo,14.00,50000.00,Monto de apertura mínimo de Q500.
+ASO-GT2007-C,Crédito Artesanal,12.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2008-A,Microcrédito Agrícola,11.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2008-B,Remesas Familiares,18.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2008-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2009-A,Financiamiento de Equipo,6.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2009-B,Ahorro Plazo Fijo,8.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT2009-C,Crédito Artesanal,9.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2010-A,Microcrédito Agrícola,6.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2010-B,Remesas Familiares,10.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2010-C,Crédito Artesanal,17.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2011-A,Financiamiento de Equipo,12.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2011-B,Ahorro Plazo Fijo,13.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT2011-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2101-A,Microcrédito Agrícola,17.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2101-B,Remesas Familiares,13.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2101-C,Crédito Artesanal,7.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2102-A,Financiamiento de Equipo,7.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2102-B,Ahorro Plazo Fijo,7.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT2102-C,Crédito Artesanal,10.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2103-A,Microcrédito Agrícola,8.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2103-B,Remesas Familiares,15.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2103-C,Crédito Artesanal,15.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2104-A,Financiamiento de Equipo,14.00,25000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2104-B,Ahorro Plazo Fijo,12.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT2104-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2105-A,Microcrédito Agrícola,16.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2105-B,Remesas Familiares,11.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2105-C,Crédito Artesanal,10.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2106-A,Financiamiento de Equipo,12.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2106-B,Ahorro Plazo Fijo,15.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT2106-C,Crédito Artesanal,11.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2107-A,Microcrédito Agrícola,6.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2107-B,Remesas Familiares,13.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2107-C,Crédito Artesanal,13.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2201-A,Financiamiento de Equipo,15.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2201-B,Ahorro Plazo Fijo,11.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT2201-C,Crédito Artesanal,16.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2202-A,Microcrédito Agrícola,11.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2202-B,Remesas Familiares,9.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2202-C,Crédito Artesanal,18.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2203-A,Financiamiento de Equipo,11.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2203-B,Ahorro Plazo Fijo,17.00,10000.00,Monto de apertura mínimo de Q500.
+ASO-GT2203-C,Crédito Artesanal,14.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2204-A,Microcrédito Agrícola,7.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2204-B,Remesas Familiares,10.00,25000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2204-C,Crédito Artesanal,9.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2205-A,Financiamiento de Equipo,7.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2205-B,Ahorro Plazo Fijo,9.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT2205-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2206-A,Microcrédito Agrícola,10.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2206-B,Remesas Familiares,7.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2206-C,Crédito Artesanal,13.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2207-A,Financiamiento de Equipo,17.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2207-B,Ahorro Plazo Fijo,16.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT2207-C,Crédito Artesanal,11.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2208-A,Microcrédito Agrícola,11.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2208-B,Remesas Familiares,13.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2208-C,Crédito Artesanal,12.00,100000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2209-A,Financiamiento de Equipo,10.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2209-B,Ahorro Plazo Fijo,7.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT2209-C,Crédito Artesanal,18.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2210-A,Microcrédito Agrícola,15.00,25000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2210-B,Remesas Familiares,12.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2210-C,Crédito Artesanal,7.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2211-A,Financiamiento de Equipo,14.00,50000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2211-B,Ahorro Plazo Fijo,13.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT2211-C,Crédito Artesanal,16.00,25000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2212-A,Microcrédito Agrícola,13.00,10000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2212-B,Remesas Familiares,10.00,100000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2212-C,Crédito Artesanal,12.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2213-A,Financiamiento de Equipo,18.00,100000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2213-B,Ahorro Plazo Fijo,10.00,25000.00,Monto de apertura mínimo de Q500.
+ASO-GT2213-C,Crédito Artesanal,8.00,50000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2214-A,Microcrédito Agrícola,9.00,100000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2214-B,Remesas Familiares,10.00,10000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2214-C,Crédito Artesanal,14.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2215-A,Financiamiento de Equipo,6.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2215-B,Ahorro Plazo Fijo,14.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT2215-C,Crédito Artesanal,12.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2216-A,Microcrédito Agrícola,13.00,50000.00,Garantía de cosecha futura o aval de cooperativista.
+COOP-GT2216-B,Remesas Familiares,11.00,50000.00,Cuenta activa MICOOPE y documento de identidad (DPI).
+ASO-GT2216-C,Crédito Artesanal,15.00,10000.00,Presentación de plan de producción y muestras de tejidos.
+COOP-GT2217-A,Financiamiento de Equipo,18.00,10000.00,Cotización formal de maquinaria agrícola o herramientas.
+COOP-GT2217-B,Ahorro Plazo Fijo,7.00,100000.00,Monto de apertura mínimo de Q500.
+ASO-GT2217-C,Crédito Artesanal,8.00,25000.00,Presentación de plan de producción y muestras de tejidos.
