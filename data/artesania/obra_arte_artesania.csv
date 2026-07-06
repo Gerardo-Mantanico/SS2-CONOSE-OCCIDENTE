@@ -1,0 +1,1021 @@
+id_obra,codigo,nombre,tipo_obra_id,artista_id,taller_id,descripcion,tiempo_estimado_creacion_dias,precio_sugerido_q
+1,OBRA_GT0412_0000,Huipil Ceremonial Tradicional de Yepocapa,111,159,56,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,62,4903.29
+2,OBRA_GT0413_0001,Corte Jaspeado de Algodón de San Andrés Itzapa,122,947,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,61,6357.08
+3,OBRA_GT0414_0002,Máscara del Danzante de Tecún Umán de Parramos,135,480,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,78,1211.86
+4,OBRA_GT0415_0003,Cuadro Primitivista sobre la Feria de Zaragoza,149,647,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,24,8360.2
+5,OBRA_GT0416_0004,Marimba de Hormigo Sencilla de de El Tejar,158,952,791,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,63,2048.47
+6,OBRA_GT0700_0005,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,180,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,52,3599.94
+7,OBRA_GT0701_0006,Escultura en Jadeita de deidad Maya de Sololá,177,550,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,44,6084.27
+8,OBRA_GT0702_0007,Canasta decorativa de Mimbre de de San José Chacayá,190,873,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,27,3079.39
+9,OBRA_GT0703_0008,Huipil Ceremonial Tradicional de Santa María Visitación,191,660,900,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,35,2034.55
+10,OBRA_GT0704_0009,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,568,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,22,750.25
+11,OBRA_GT0705_0010,Máscara del Danzante de Monito de Nahualá,215,745,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,24,2986.19
+12,OBRA_GT0706_0011,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,41,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,21,2159.03
+13,OBRA_GT0707_0012,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,328,153,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,84,3971.26
+14,OBRA_GT0708_0013,Jarra utilitaria de Barro Rojo de Concepción,244,257,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,71,8140.54
+15,OBRA_GT0709_0014,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,571,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,16,8084.84
+16,OBRA_GT0710_0015,Canasta decorativa de Mimbre de de Panajachel,270,629,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,56,1143.93
+17,OBRA_GT0711_0016,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,693,942,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,84,506.32
+18,OBRA_GT0712_0017,Corte Jaspeado de Algodón de San Antonio Palopó,282,124,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,76,3048.92
+19,OBRA_GT0713_0018,Máscara del Danzante de Diablo de San Lucas Tolimán,295,345,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,63,1521.9
+20,OBRA_GT0714_0019,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,327,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,16,2668.02
+21,OBRA_GT0715_0020,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,289,794,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,52,5428.23
+22,OBRA_GT0716_0021,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,82,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,33,7005.04
+23,OBRA_GT0717_0022,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,570,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,66,8315.27
+24,OBRA_GT0718_0023,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,239,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,46,1464.17
+25,OBRA_GT0719_0024,Huipil Ceremonial Tradicional de Santiago Atitlán,351,417,331,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,26,3404.2
+26,OBRA_GT0801_0025,Corte Jaspeado de Algodón de Totonicapán,362,86,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,77,4162.77
+27,OBRA_GT0802_0026,Máscara del Danzante de Tecún Umán de San Cristóbal Totonicapán,375,348,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,18,1801.69
+28,OBRA_GT0803_0027,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,193,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,8,6650.56
+29,OBRA_GT0804_0028,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,955,158,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,10,2067.03
+30,OBRA_GT0805_0029,Jarra utilitaria de Barro Rojo de Momostenango,404,551,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,65,2980.32
+31,OBRA_GT0806_0030,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,398,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,73,5604.14
+32,OBRA_GT0807_0031,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,440,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,24,1176.09
+33,OBRA_GT0808_0032,Huipil Ceremonial Tradicional de San Bartolo,431,991,771,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,80,6424.72
+34,OBRA_GT0901_0033,Corte Jaspeado de Algodón de Quetzaltenango,442,65,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,40,6351.29
+35,OBRA_GT0902_0034,Máscara del Danzante de Diablo de Salcajá,455,188,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,55,2494.53
+36,OBRA_GT0903_0035,Cuadro Primitivista sobre la Feria de Olintepeque,469,919,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,57,2794.67
+37,OBRA_GT0904_0036,Marimba de Hormigo Sencilla de de San Carlos Sija,478,223,356,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,69,6989.65
+38,OBRA_GT0905_0037,Jarra utilitaria de Barro Rojo de Sibilia,484,144,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,61,5557.1
+39,OBRA_GT0906_0038,Escultura en Jadeita de deidad Maya de Cabricán,497,959,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,20,8123.22
+40,OBRA_GT0907_0039,Canasta decorativa de Mimbre de de Cajolá,510,692,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,38,446.2
+41,OBRA_GT0908_0040,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,703,604,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,50,841.8
+42,OBRA_GT0909_0041,Corte Jaspeado de Algodón de Ostuncalco,522,68,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,54,3133.29
+43,OBRA_GT0910_0042,Máscara del Danzante de Cacique de San Mateo,535,28,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,27,7286.27
+44,OBRA_GT0911_0043,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,259,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,7,2967.7
+45,OBRA_GT0912_0044,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,508,356,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,8,815.79
+46,OBRA_GT0913_0045,Jarra utilitaria de Barro Rojo de Almolonga,564,638,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,37,500.42
+47,OBRA_GT0914_0046,Escultura en Jadeita de deidad Maya de Cantel,577,417,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,39,3982.27
+48,OBRA_GT0915_0047,Canasta decorativa de Mimbre de de Huitán,590,427,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,47,5317.2
+49,OBRA_GT0916_0048,Huipil Ceremonial Tradicional de Zunil,591,522,665,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,11,5952.58
+50,OBRA_GT0917_0049,Corte Jaspeado de Algodón de Colomba,602,986,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,34,8033.41
+51,OBRA_GT0918_0050,Máscara del Danzante de Pascarín de San Francisco La Unión,615,726,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,85,5371.41
+52,OBRA_GT0919_0051,Cuadro Primitivista sobre la Feria de El Palmar,629,197,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,54,1401.24
+53,OBRA_GT0920_0052,Marimba de Hormigo Sencilla de de Coatepeque,638,510,1,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,50,7030.02
+54,OBRA_GT0921_0053,Jarra utilitaria de Barro Rojo de Génova,644,343,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,73,7172.05
+55,OBRA_GT0922_0054,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,160,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,61,8006.7
+56,OBRA_GT0923_0055,Canasta decorativa de Mimbre de de La Esperanza,670,106,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,74,259.6
+57,OBRA_GT0924_0056,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,921,1000,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,83,4897.94
+58,OBRA_GT1201_0057,Corte Jaspeado de Algodón de San Marcos,682,234,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,37,5867.71
+59,OBRA_GT1202_0058,Máscara del Danzante de Torito de San Pedro Sacatepéquez,695,139,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,33,4044.49
+60,OBRA_GT1203_0059,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,475,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,52,2548.14
+61,OBRA_GT1204_0060,Marimba de Hormigo Sencilla de de Comitancillo,718,516,573,Marimba tradicional afinada acústicamente de madera noble fabricada en Comitancillo.,18,2875.81
+62,OBRA_GT1205_0061,Jarra utilitaria de Barro Rojo de San Miguel Ixtahuacán,724,619,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Miguel Ixtahuacán.,20,6219.12
+63,OBRA_GT1206_0062,Escultura en Jadeita de deidad Maya de Concepción Tutuapa,737,367,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Concepción Tutuapa.,8,7405.4
+64,OBRA_GT1207_0063,Canasta decorativa de Mimbre de de Tacaná,750,557,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Tacaná.,41,4347.23
+65,OBRA_GT1208_0064,Huipil Ceremonial Tradicional de Sibinal,751,326,250,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Sibinal.,64,3959.23
+66,OBRA_GT1209_0065,Corte Jaspeado de Algodón de Tajumulco,762,20,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Tajumulco.,9,1560.33
+67,OBRA_GT1210_0066,Máscara del Danzante de Venado de Tejutla,775,114,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tejutla.,58,4072.22
+68,OBRA_GT1211_0067,Cuadro Primitivista sobre la Feria de San Rafael Pie de la Cuesta,789,787,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Rafael Pie de la Cuesta.,6,3106.55
+69,OBRA_GT1212_0068,Marimba de Hormigo Sencilla de de Nuevo Progreso,798,723,826,Marimba tradicional afinada acústicamente de madera noble fabricada en Nuevo Progreso.,52,6162.23
+70,OBRA_GT1213_0069,Jarra utilitaria de Barro Rojo de El Tumbador,804,878,,Vasija tradicional moldeada a mano y cocida en horno de leña en El Tumbador.,62,5028.89
+71,OBRA_GT1214_0070,Escultura en Jadeita de deidad Maya de El Rodeo,817,925,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de El Rodeo.,8,1234.68
+72,OBRA_GT1215_0071,Canasta decorativa de Mimbre de de Malacatán,830,754,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Malacatán.,53,5439.61
+73,OBRA_GT1216_0072,Huipil Ceremonial Tradicional de Catarina,831,151,72,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Catarina.,44,5233.45
+74,OBRA_GT1217_0073,Corte Jaspeado de Algodón de Ayutla,842,253,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ayutla.,62,3807.56
+75,OBRA_GT1218_0074,Máscara del Danzante de Conquistador de Ocós,855,943,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Ocós.,26,4249.53
+76,OBRA_GT1219_0075,Cuadro Primitivista sobre la Feria de San Pablo,869,307,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Pablo.,6,796.93
+77,OBRA_GT1220_0076,Marimba de Hormigo Sencilla de de El Quetzal,878,112,467,Marimba tradicional afinada acústicamente de madera noble fabricada en El Quetzal.,79,7045.7
+78,OBRA_GT1221_0077,Jarra utilitaria de Barro Rojo de La Reforma,884,199,,Vasija tradicional moldeada a mano y cocida en horno de leña en La Reforma.,51,7438.91
+79,OBRA_GT1222_0078,Escultura en Jadeita de deidad Maya de Pajapita,897,210,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Pajapita.,8,1410.79
+80,OBRA_GT1223_0079,Canasta decorativa de Mimbre de de Ixchiguán,910,288,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixchiguán.,75,2324.31
+81,OBRA_GT1224_0080,Huipil Ceremonial Tradicional de San José Ojetenam,911,607,748,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San José Ojetenam.,38,7870.12
+82,OBRA_GT1225_0081,Corte Jaspeado de Algodón de San Cristóbal Cucho,922,445,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Cristóbal Cucho.,76,8150.42
+83,OBRA_GT1226_0082,Máscara del Danzante de Pascarín de Sipacapa,935,989,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Sipacapa.,58,3259.37
+84,OBRA_GT1227_0083,Cuadro Primitivista sobre la Feria de Esquipulas Palo Gordo,949,708,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Esquipulas Palo Gordo.,43,571.98
+85,OBRA_GT1228_0084,Marimba de Hormigo Sencilla de de Río Blanco,958,954,738,Marimba tradicional afinada acústicamente de madera noble fabricada en Río Blanco.,77,7921.13
+86,OBRA_GT1229_0085,Jarra utilitaria de Barro Rojo de San Lorenzo,964,240,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Lorenzo.,28,2727.8
+87,OBRA_GT1230_0086,Escultura en Jadeita de deidad Maya de La Blanca,977,469,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de La Blanca.,58,8436.41
+88,OBRA_GT1301_0087,Canasta decorativa de Mimbre de de Huehuetenango,990,716,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huehuetenango.,7,3289.58
+89,OBRA_GT1302_0088,Huipil Ceremonial Tradicional de Chiantla,991,301,496,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Chiantla.,71,7994.41
+90,OBRA_GT1303_0089,Corte Jaspeado de Algodón de Malacatancito,1002,403,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Malacatancito.,51,4930.8
+91,OBRA_GT1304_0090,Máscara del Danzante de Alvarado de Cuilco,1015,487,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Cuilco.,31,2748.23
+92,OBRA_GT1305_0091,Cuadro Primitivista sobre la Feria de Nentón,571,886,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Nentón.,47,3418.34
+93,OBRA_GT1306_0092,Marimba de Hormigo Sencilla de de San Pedro Necta,69,320,283,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pedro Necta.,58,5726.35
+94,OBRA_GT1307_0093,Jarra utilitaria de Barro Rojo de Jacaltenango,836,955,,Vasija tradicional moldeada a mano y cocida en horno de leña en Jacaltenango.,62,5453.86
+95,OBRA_GT1308_0094,Escultura en Jadeita de deidad Maya de Soloma,66,951,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Soloma.,39,161.7
+96,OBRA_GT1309_0095,Canasta decorativa de Mimbre de de Ixtahuacán,874,806,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixtahuacán.,13,5603.56
+97,OBRA_GT1310_0096,Huipil Ceremonial Tradicional de Santa Bárbara,341,328,169,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Bárbara.,44,3693.56
+98,OBRA_GT1311_0097,Corte Jaspeado de Algodón de La Libertad,564,367,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie La Libertad.,68,1984.93
+99,OBRA_GT1312_0098,Máscara del Danzante de Torito de La Democracia,386,161,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de La Democracia.,4,1843.37
+100,OBRA_GT1313_0099,Cuadro Primitivista sobre la Feria de San Miguel Acatán,725,59,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Miguel Acatán.,63,726.72
+101,OBRA_GT1314_0100,Marimba de Hormigo Sencilla de de San Rafael La Independencia,992,222,27,Marimba tradicional afinada acústicamente de madera noble fabricada en San Rafael La Independencia.,16,5778.84
+102,OBRA_GT1315_0101,Jarra utilitaria de Barro Rojo de Todos Santos Cuchumatán,812,40,,Vasija tradicional moldeada a mano y cocida en horno de leña en Todos Santos Cuchumatán.,71,3853.02
+103,OBRA_GT1316_0102,Escultura en Jadeita de deidad Maya de San Juan Atitán,876,704,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan Atitán.,29,415.78
+104,OBRA_GT1317_0103,Canasta decorativa de Mimbre de de Santa Eulalia,611,41,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Eulalia.,45,4505.56
+105,OBRA_GT1318_0104,Huipil Ceremonial Tradicional de San Mateo Ixtatán,296,517,937,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Mateo Ixtatán.,8,8285.14
+106,OBRA_GT1319_0105,Corte Jaspeado de Algodón de Colotenango,400,468,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colotenango.,45,7072.83
+107,OBRA_GT1320_0106,Máscara del Danzante de Alvarado de San Sebastián Huehuetenango,161,717,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Sebastián Huehuetenango.,52,8461.55
+108,OBRA_GT1321_0107,Cuadro Primitivista sobre la Feria de Tectitán,229,572,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Tectitán.,67,6198.02
+109,OBRA_GT1322_0108,Marimba de Hormigo Sencilla de de Concepción Huista,935,550,430,Marimba tradicional afinada acústicamente de madera noble fabricada en Concepción Huista.,33,534.29
+110,OBRA_GT1323_0109,Jarra utilitaria de Barro Rojo de San Juan Ixcoy,770,125,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Juan Ixcoy.,60,4679.73
+111,OBRA_GT1324_0110,Escultura en Jadeita de deidad Maya de San Antonio Huista,832,186,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Antonio Huista.,76,5806.04
+112,OBRA_GT1325_0111,Canasta decorativa de Mimbre de de San Sebastián Coatán,895,851,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Sebastián Coatán.,6,2253.47
+113,OBRA_GT1326_0112,Huipil Ceremonial Tradicional de Barillas,261,268,49,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Barillas.,54,3944.94
+114,OBRA_GT1327_0113,Corte Jaspeado de Algodón de Aguacatán,870,401,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Aguacatán.,31,3516.12
+115,OBRA_GT1328_0114,Máscara del Danzante de Tecún Umán de San Rafael Petzal,736,563,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Rafael Petzal.,28,7240.33
+116,OBRA_GT1329_0115,Cuadro Primitivista sobre la Feria de San Gaspar Ixchil,72,192,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Gaspar Ixchil.,39,6885.91
+117,OBRA_GT1330_0116,Marimba de Hormigo Sencilla de de Santiago Chimaltenango,584,402,531,Marimba tradicional afinada acústicamente de madera noble fabricada en Santiago Chimaltenango.,89,2742.21
+118,OBRA_GT1331_0117,Jarra utilitaria de Barro Rojo de Santa Ana Huista,58,904,,Vasija tradicional moldeada a mano y cocida en horno de leña en Santa Ana Huista.,59,1057.79
+119,OBRA_GT1332_0118,Escultura en Jadeita de deidad Maya de Unión Cantinil,224,841,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Unión Cantinil.,87,2039.54
+120,OBRA_GT1333_0119,Canasta decorativa de Mimbre de de Petatán,288,744,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Petatán.,61,6813.46
+121,OBRA_GT1401_0120,Huipil Ceremonial Tradicional de Santa Cruz del Quiché,2,922,401,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Cruz del Quiché.,48,6817.93
+122,OBRA_GT1402_0121,Corte Jaspeado de Algodón de Chiché,421,436,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Chiché.,15,4340.96
+123,OBRA_GT1403_0122,Máscara del Danzante de Diablo de Chinique,832,572,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chinique.,61,307.32
+124,OBRA_GT1404_0123,Cuadro Primitivista sobre la Feria de Zacualpa,871,695,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zacualpa.,89,7589.06
+125,OBRA_GT1405_0124,Marimba de Hormigo Sencilla de de Chajul,221,293,980,Marimba tradicional afinada acústicamente de madera noble fabricada en Chajul.,69,2662.78
+126,OBRA_GT1406_0125,Jarra utilitaria de Barro Rojo de Chichicastenango,976,759,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chichicastenango.,63,4743.95
+127,OBRA_GT1407_0126,Escultura en Jadeita de deidad Maya de Patzité,936,14,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Patzité.,66,2381.07
+128,OBRA_GT1408_0127,Canasta decorativa de Mimbre de de San Antonio Ilotenango,300,301,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Antonio Ilotenango.,16,4222.1
+129,OBRA_GT1409_0128,Huipil Ceremonial Tradicional de San Pedro Jocopilas,61,148,678,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Pedro Jocopilas.,89,3464.35
+130,OBRA_GT1410_0129,Corte Jaspeado de Algodón de Cunén,113,350,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Cunén.,23,6159.66
+131,OBRA_GT1411_0130,Máscara del Danzante de Diablo de San Juan Cotzal,760,179,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Juan Cotzal.,69,1675.32
+132,OBRA_GT1412_0131,Cuadro Primitivista sobre la Feria de Joyabaj,770,172,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Joyabaj.,38,6072.02
+133,OBRA_GT1413_0132,Marimba de Hormigo Sencilla de de Nebaj,484,139,278,Marimba tradicional afinada acústicamente de madera noble fabricada en Nebaj.,32,6314.15
+134,OBRA_GT1414_0133,Jarra utilitaria de Barro Rojo de San Andrés Sajcabajá,240,789,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Andrés Sajcabajá.,63,7697.89
+135,OBRA_GT1415_0134,Escultura en Jadeita de deidad Maya de Uspantán,105,560,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Uspantán.,46,8188.61
+136,OBRA_GT1416_0135,Canasta decorativa de Mimbre de de Sacapulas,369,532,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Sacapulas.,84,8423.53
+137,OBRA_GT1417_0136,Huipil Ceremonial Tradicional de San Bartolomé Jocotenango,315,850,470,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolomé Jocotenango.,84,1895.85
+138,OBRA_GT1418_0137,Corte Jaspeado de Algodón de Canillá,37,86,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Canillá.,90,1127.61
+139,OBRA_GT1419_0138,Máscara del Danzante de Mexicano de Chicamán,239,247,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chicamán.,8,6123.88
+140,OBRA_GT1420_0139,Cuadro Primitivista sobre la Feria de Ixcán,654,548,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Ixcán.,74,8489.86
+141,OBRA_GT1421_0140,Marimba de Hormigo Sencilla de de Pachalum,310,225,763,Marimba tradicional afinada acústicamente de madera noble fabricada en Pachalum.,45,5954.27
+142,OBRA_GT1501_0141,Jarra utilitaria de Barro Rojo de Salamá,443,510,,Vasija tradicional moldeada a mano y cocida en horno de leña en Salamá.,86,8179.88
+143,OBRA_GT1502_0142,Escultura en Jadeita de deidad Maya de San Miguel Chicaj,412,6,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Miguel Chicaj.,47,4717.73
+144,OBRA_GT1503_0143,Canasta decorativa de Mimbre de de Rabinal,580,767,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Rabinal.,39,876.15
+145,OBRA_GT1504_0144,Huipil Ceremonial Tradicional de Cubulco,4,218,3,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Cubulco.,11,6154.53
+146,OBRA_GT1505_0145,Corte Jaspeado de Algodón de Granados,437,1012,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Granados.,48,7442.37
+147,OBRA_GT1506_0146,Máscara del Danzante de Alvarado de El Chol,676,599,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de El Chol.,80,691.79
+148,OBRA_GT1507_0147,Cuadro Primitivista sobre la Feria de San Jerónimo,79,894,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Jerónimo.,15,5153.22
+149,OBRA_GT1508_0148,Marimba de Hormigo Sencilla de de Purulhá,787,768,260,Marimba tradicional afinada acústicamente de madera noble fabricada en Purulhá.,77,7997.78
+150,OBRA_GT0401_0149,Jarra utilitaria de Barro Rojo de Chimaltenango,4,490,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chimaltenango.,12,5601.56
+151,OBRA_GT0402_0150,Escultura en Jadeita de deidad Maya de San José Poaquil,17,929,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San José Poaquil.,89,3158.53
+152,OBRA_GT0403_0151,Canasta decorativa de Mimbre de de San Martín Jilotepeque,30,749,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Martín Jilotepeque.,36,7489.61
+153,OBRA_GT0404_0152,Huipil Ceremonial Tradicional de Comalapa,31,794,903,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Comalapa.,40,7021.9
+154,OBRA_GT0405_0153,Corte Jaspeado de Algodón de Santa Apolonia,42,411,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Apolonia.,64,7646.64
+155,OBRA_GT0406_0154,Máscara del Danzante de Alvarado de Tecpán Guatemala,55,889,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tecpán Guatemala.,31,3727.44
+156,OBRA_GT0407_0155,Cuadro Primitivista sobre la Feria de Patzún,69,408,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Patzún.,83,5139.76
+157,OBRA_GT0408_0156,Marimba de Hormigo Sencilla de de Pochuta,78,706,604,Marimba tradicional afinada acústicamente de madera noble fabricada en Pochuta.,82,7649.9
+158,OBRA_GT0409_0157,Jarra utilitaria de Barro Rojo de Patzicía,84,29,,Vasija tradicional moldeada a mano y cocida en horno de leña en Patzicía.,31,843.11
+159,OBRA_GT0410_0158,Escultura en Jadeita de deidad Maya de Santa Cruz Balanyá,97,58,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa Cruz Balanyá.,27,349.68
+160,OBRA_GT0411_0159,Canasta decorativa de Mimbre de de Acatenango,110,136,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Acatenango.,7,4590.02
+161,OBRA_GT0412_0160,Huipil Ceremonial Tradicional de Yepocapa,111,988,41,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,39,1982.69
+162,OBRA_GT0413_0161,Corte Jaspeado de Algodón de San Andrés Itzapa,122,459,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,38,2002.53
+163,OBRA_GT0414_0162,Máscara del Danzante de Conquistador de Parramos,135,109,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,84,5686.05
+164,OBRA_GT0415_0163,Cuadro Primitivista sobre la Feria de Zaragoza,149,185,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,17,3696.07
+165,OBRA_GT0416_0164,Marimba de Hormigo Sencilla de de El Tejar,158,790,14,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,8,6256.94
+166,OBRA_GT0700_0165,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,505,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,83,8079.07
+167,OBRA_GT0701_0166,Escultura en Jadeita de deidad Maya de Sololá,177,94,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,34,807.51
+168,OBRA_GT0702_0167,Canasta decorativa de Mimbre de de San José Chacayá,190,464,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,9,5798.3
+169,OBRA_GT0703_0168,Huipil Ceremonial Tradicional de Santa María Visitación,191,650,351,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,19,1942.58
+170,OBRA_GT0704_0169,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,157,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,66,1193.82
+171,OBRA_GT0705_0170,Máscara del Danzante de Alvarado de Nahualá,215,807,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,34,1229.03
+172,OBRA_GT0706_0171,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,684,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,73,3340.34
+173,OBRA_GT0707_0172,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,559,341,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,22,8157.37
+174,OBRA_GT0708_0173,Jarra utilitaria de Barro Rojo de Concepción,244,531,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,25,6793.12
+175,OBRA_GT0709_0174,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,514,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,25,3087.45
+176,OBRA_GT0710_0175,Canasta decorativa de Mimbre de de Panajachel,270,109,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,73,432.12
+177,OBRA_GT0711_0176,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,62,17,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,63,6097.79
+178,OBRA_GT0712_0177,Corte Jaspeado de Algodón de San Antonio Palopó,282,988,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,69,1546.47
+179,OBRA_GT0713_0178,Máscara del Danzante de Español de San Lucas Tolimán,295,592,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,70,1536.29
+180,OBRA_GT0714_0179,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,327,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,41,1622.15
+181,OBRA_GT0715_0180,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,317,641,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,61,4372.1
+182,OBRA_GT0716_0181,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,12,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,68,5500.96
+183,OBRA_GT0717_0182,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,243,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,6,1474.1
+184,OBRA_GT0718_0183,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,275,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,48,7862.76
+185,OBRA_GT0719_0184,Huipil Ceremonial Tradicional de Santiago Atitlán,351,423,683,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,9,7962.32
+186,OBRA_GT0801_0185,Corte Jaspeado de Algodón de Totonicapán,362,1004,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,52,6287.58
+187,OBRA_GT0802_0186,Máscara del Danzante de Tecún Umán de San Cristóbal Totonicapán,375,751,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,86,8446.0
+188,OBRA_GT0803_0187,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,917,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,26,2984.14
+189,OBRA_GT0804_0188,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,746,836,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,70,2250.99
+190,OBRA_GT0805_0189,Jarra utilitaria de Barro Rojo de Momostenango,404,450,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,54,5699.78
+191,OBRA_GT0806_0190,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,403,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,22,3406.41
+192,OBRA_GT0807_0191,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,263,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,37,3067.98
+193,OBRA_GT0808_0192,Huipil Ceremonial Tradicional de San Bartolo,431,615,70,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,70,3704.29
+194,OBRA_GT0901_0193,Corte Jaspeado de Algodón de Quetzaltenango,442,717,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,23,8308.75
+195,OBRA_GT0902_0194,Máscara del Danzante de Gigante de Salcajá,455,378,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,82,6555.97
+196,OBRA_GT0903_0195,Cuadro Primitivista sobre la Feria de Olintepeque,469,168,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,17,5888.97
+197,OBRA_GT0904_0196,Marimba de Hormigo Sencilla de de San Carlos Sija,478,598,732,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,27,2619.03
+198,OBRA_GT0905_0197,Jarra utilitaria de Barro Rojo de Sibilia,484,8,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,71,4957.88
+199,OBRA_GT0906_0198,Escultura en Jadeita de deidad Maya de Cabricán,497,686,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,80,5411.45
+200,OBRA_GT0907_0199,Canasta decorativa de Mimbre de de Cajolá,510,744,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,57,3404.92
+201,OBRA_GT0908_0200,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,282,347,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,65,4261.31
+202,OBRA_GT0909_0201,Corte Jaspeado de Algodón de Ostuncalco,522,836,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,54,817.93
+203,OBRA_GT0910_0202,Máscara del Danzante de Pascarín de San Mateo,535,744,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,65,215.97
+204,OBRA_GT0911_0203,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,665,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,20,7223.21
+205,OBRA_GT0912_0204,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,392,1011,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,46,210.32
+206,OBRA_GT0913_0205,Jarra utilitaria de Barro Rojo de Almolonga,564,681,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,85,1999.58
+207,OBRA_GT0914_0206,Escultura en Jadeita de deidad Maya de Cantel,577,442,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,53,5827.51
+208,OBRA_GT0915_0207,Canasta decorativa de Mimbre de de Huitán,590,448,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,21,1596.91
+209,OBRA_GT0916_0208,Huipil Ceremonial Tradicional de Zunil,591,998,372,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,82,5629.88
+210,OBRA_GT0917_0209,Corte Jaspeado de Algodón de Colomba,602,394,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,20,6976.13
+211,OBRA_GT0918_0210,Máscara del Danzante de Diablo de San Francisco La Unión,615,908,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,74,7901.33
+212,OBRA_GT0919_0211,Cuadro Primitivista sobre la Feria de El Palmar,629,439,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,21,7354.42
+213,OBRA_GT0920_0212,Marimba de Hormigo Sencilla de de Coatepeque,638,41,941,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,70,4603.34
+214,OBRA_GT0921_0213,Jarra utilitaria de Barro Rojo de Génova,644,476,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,83,3996.99
+215,OBRA_GT0922_0214,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,16,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,33,6695.48
+216,OBRA_GT0923_0215,Canasta decorativa de Mimbre de de La Esperanza,670,116,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,34,4350.11
+217,OBRA_GT0924_0216,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,380,933,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,70,7426.33
+218,OBRA_GT1201_0217,Corte Jaspeado de Algodón de San Marcos,682,607,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,10,588.63
+219,OBRA_GT1202_0218,Máscara del Danzante de Torito de San Pedro Sacatepéquez,695,239,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,87,4352.07
+220,OBRA_GT1203_0219,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,896,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,71,2566.79
+221,OBRA_GT1204_0220,Marimba de Hormigo Sencilla de de Comitancillo,718,417,597,Marimba tradicional afinada acústicamente de madera noble fabricada en Comitancillo.,81,3452.15
+222,OBRA_GT1205_0221,Jarra utilitaria de Barro Rojo de San Miguel Ixtahuacán,724,918,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Miguel Ixtahuacán.,70,1325.73
+223,OBRA_GT1206_0222,Escultura en Jadeita de deidad Maya de Concepción Tutuapa,737,674,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Concepción Tutuapa.,31,6357.15
+224,OBRA_GT1207_0223,Canasta decorativa de Mimbre de de Tacaná,750,503,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Tacaná.,39,8106.29
+225,OBRA_GT1208_0224,Huipil Ceremonial Tradicional de Sibinal,751,229,679,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Sibinal.,68,8193.9
+226,OBRA_GT1209_0225,Corte Jaspeado de Algodón de Tajumulco,762,331,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Tajumulco.,74,3219.27
+227,OBRA_GT1210_0226,Máscara del Danzante de Tecún Umán de Tejutla,775,173,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tejutla.,47,7972.31
+228,OBRA_GT1211_0227,Cuadro Primitivista sobre la Feria de San Rafael Pie de la Cuesta,789,746,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Rafael Pie de la Cuesta.,37,5289.58
+229,OBRA_GT1212_0228,Marimba de Hormigo Sencilla de de Nuevo Progreso,798,91,693,Marimba tradicional afinada acústicamente de madera noble fabricada en Nuevo Progreso.,67,1592.94
+230,OBRA_GT1213_0229,Jarra utilitaria de Barro Rojo de El Tumbador,804,928,,Vasija tradicional moldeada a mano y cocida en horno de leña en El Tumbador.,90,8401.38
+231,OBRA_GT1214_0230,Escultura en Jadeita de deidad Maya de El Rodeo,817,646,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de El Rodeo.,89,1767.64
+232,OBRA_GT1215_0231,Canasta decorativa de Mimbre de de Malacatán,830,511,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Malacatán.,75,3630.85
+233,OBRA_GT1216_0232,Huipil Ceremonial Tradicional de Catarina,831,609,281,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Catarina.,58,5392.76
+234,OBRA_GT1217_0233,Corte Jaspeado de Algodón de Ayutla,842,742,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ayutla.,10,5904.63
+235,OBRA_GT1218_0234,Máscara del Danzante de Rey Kiche de Ocós,855,177,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Ocós.,10,673.87
+236,OBRA_GT1219_0235,Cuadro Primitivista sobre la Feria de San Pablo,869,73,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Pablo.,30,3332.14
+237,OBRA_GT1220_0236,Marimba de Hormigo Sencilla de de El Quetzal,878,267,767,Marimba tradicional afinada acústicamente de madera noble fabricada en El Quetzal.,55,724.66
+238,OBRA_GT1221_0237,Jarra utilitaria de Barro Rojo de La Reforma,884,632,,Vasija tradicional moldeada a mano y cocida en horno de leña en La Reforma.,11,2059.68
+239,OBRA_GT1222_0238,Escultura en Jadeita de deidad Maya de Pajapita,897,329,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Pajapita.,5,7501.52
+240,OBRA_GT1223_0239,Canasta decorativa de Mimbre de de Ixchiguán,910,44,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixchiguán.,49,2679.69
+241,OBRA_GT1224_0240,Huipil Ceremonial Tradicional de San José Ojetenam,911,81,793,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San José Ojetenam.,80,1567.96
+242,OBRA_GT1225_0241,Corte Jaspeado de Algodón de San Cristóbal Cucho,922,825,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Cristóbal Cucho.,78,770.14
+243,OBRA_GT1226_0242,Máscara del Danzante de Rey Kiche de Sipacapa,935,990,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Sipacapa.,44,7653.48
+244,OBRA_GT1227_0243,Cuadro Primitivista sobre la Feria de Esquipulas Palo Gordo,949,787,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Esquipulas Palo Gordo.,6,3932.65
+245,OBRA_GT1228_0244,Marimba de Hormigo Sencilla de de Río Blanco,958,627,693,Marimba tradicional afinada acústicamente de madera noble fabricada en Río Blanco.,4,3796.99
+246,OBRA_GT1229_0245,Jarra utilitaria de Barro Rojo de San Lorenzo,964,858,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Lorenzo.,15,5187.63
+247,OBRA_GT1230_0246,Escultura en Jadeita de deidad Maya de La Blanca,977,1008,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de La Blanca.,63,6933.97
+248,OBRA_GT1301_0247,Canasta decorativa de Mimbre de de Huehuetenango,990,954,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huehuetenango.,62,6442.08
+249,OBRA_GT1302_0248,Huipil Ceremonial Tradicional de Chiantla,991,822,822,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Chiantla.,64,5196.62
+250,OBRA_GT1303_0249,Corte Jaspeado de Algodón de Malacatancito,1002,174,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Malacatancito.,31,7401.92
+251,OBRA_GT1304_0250,Máscara del Danzante de Rey Kiche de Cuilco,1015,600,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Cuilco.,5,3859.32
+252,OBRA_GT1305_0251,Cuadro Primitivista sobre la Feria de Nentón,848,877,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Nentón.,75,1366.06
+253,OBRA_GT1306_0252,Marimba de Hormigo Sencilla de de San Pedro Necta,803,871,995,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pedro Necta.,64,7374.3
+254,OBRA_GT1307_0253,Jarra utilitaria de Barro Rojo de Jacaltenango,699,12,,Vasija tradicional moldeada a mano y cocida en horno de leña en Jacaltenango.,58,1223.16
+255,OBRA_GT1308_0254,Escultura en Jadeita de deidad Maya de Soloma,170,581,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Soloma.,57,4272.34
+256,OBRA_GT1309_0255,Canasta decorativa de Mimbre de de Ixtahuacán,151,110,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixtahuacán.,32,6812.33
+257,OBRA_GT1310_0256,Huipil Ceremonial Tradicional de Santa Bárbara,523,383,130,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Bárbara.,40,7346.89
+258,OBRA_GT1311_0257,Corte Jaspeado de Algodón de La Libertad,398,203,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie La Libertad.,15,4220.2
+259,OBRA_GT1312_0258,Máscara del Danzante de Español de La Democracia,176,140,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de La Democracia.,51,7193.41
+260,OBRA_GT1313_0259,Cuadro Primitivista sobre la Feria de San Miguel Acatán,5,661,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Miguel Acatán.,48,5189.39
+261,OBRA_GT1314_0260,Marimba de Hormigo Sencilla de de San Rafael La Independencia,20,833,943,Marimba tradicional afinada acústicamente de madera noble fabricada en San Rafael La Independencia.,17,826.11
+262,OBRA_GT1315_0261,Jarra utilitaria de Barro Rojo de Todos Santos Cuchumatán,402,802,,Vasija tradicional moldeada a mano y cocida en horno de leña en Todos Santos Cuchumatán.,72,1675.79
+263,OBRA_GT1316_0262,Escultura en Jadeita de deidad Maya de San Juan Atitán,1005,495,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan Atitán.,57,7929.53
+264,OBRA_GT1317_0263,Canasta decorativa de Mimbre de de Santa Eulalia,77,94,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Eulalia.,17,4328.7
+265,OBRA_GT1318_0264,Huipil Ceremonial Tradicional de San Mateo Ixtatán,54,528,218,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Mateo Ixtatán.,31,2460.04
+266,OBRA_GT1319_0265,Corte Jaspeado de Algodón de Colotenango,317,33,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colotenango.,35,4276.31
+267,OBRA_GT1320_0266,Máscara del Danzante de Diablo de San Sebastián Huehuetenango,911,711,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Sebastián Huehuetenango.,53,1278.32
+268,OBRA_GT1321_0267,Cuadro Primitivista sobre la Feria de Tectitán,140,138,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Tectitán.,65,1446.65
+269,OBRA_GT1322_0268,Marimba de Hormigo Sencilla de de Concepción Huista,160,550,408,Marimba tradicional afinada acústicamente de madera noble fabricada en Concepción Huista.,14,3730.28
+270,OBRA_GT1323_0269,Jarra utilitaria de Barro Rojo de San Juan Ixcoy,100,785,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Juan Ixcoy.,28,5574.19
+271,OBRA_GT1324_0270,Escultura en Jadeita de deidad Maya de San Antonio Huista,544,317,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Antonio Huista.,37,2277.63
+272,OBRA_GT1325_0271,Canasta decorativa de Mimbre de de San Sebastián Coatán,286,933,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Sebastián Coatán.,80,7294.17
+273,OBRA_GT1326_0272,Huipil Ceremonial Tradicional de Barillas,206,448,294,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Barillas.,23,1026.19
+274,OBRA_GT1327_0273,Corte Jaspeado de Algodón de Aguacatán,208,981,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Aguacatán.,77,5146.09
+275,OBRA_GT1328_0274,Máscara del Danzante de Diablo de San Rafael Petzal,212,1019,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Rafael Petzal.,69,5258.21
+276,OBRA_GT1329_0275,Cuadro Primitivista sobre la Feria de San Gaspar Ixchil,754,621,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Gaspar Ixchil.,87,728.59
+277,OBRA_GT1330_0276,Marimba de Hormigo Sencilla de de Santiago Chimaltenango,511,85,455,Marimba tradicional afinada acústicamente de madera noble fabricada en Santiago Chimaltenango.,55,2380.31
+278,OBRA_GT1331_0277,Jarra utilitaria de Barro Rojo de Santa Ana Huista,988,216,,Vasija tradicional moldeada a mano y cocida en horno de leña en Santa Ana Huista.,86,2974.63
+279,OBRA_GT1332_0278,Escultura en Jadeita de deidad Maya de Unión Cantinil,550,661,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Unión Cantinil.,82,2897.31
+280,OBRA_GT1333_0279,Canasta decorativa de Mimbre de de Petatán,687,782,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Petatán.,6,6634.4
+281,OBRA_GT1401_0280,Huipil Ceremonial Tradicional de Santa Cruz del Quiché,877,388,672,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Cruz del Quiché.,25,1493.88
+282,OBRA_GT1402_0281,Corte Jaspeado de Algodón de Chiché,1005,407,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Chiché.,62,6200.64
+283,OBRA_GT1403_0282,Máscara del Danzante de Diablo de Chinique,505,745,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chinique.,63,5521.96
+284,OBRA_GT1404_0283,Cuadro Primitivista sobre la Feria de Zacualpa,300,1016,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zacualpa.,46,2548.02
+285,OBRA_GT1405_0284,Marimba de Hormigo Sencilla de de Chajul,740,122,45,Marimba tradicional afinada acústicamente de madera noble fabricada en Chajul.,3,4886.47
+286,OBRA_GT1406_0285,Jarra utilitaria de Barro Rojo de Chichicastenango,1001,705,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chichicastenango.,12,8400.06
+287,OBRA_GT1407_0286,Escultura en Jadeita de deidad Maya de Patzité,928,286,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Patzité.,87,721.76
+288,OBRA_GT1408_0287,Canasta decorativa de Mimbre de de San Antonio Ilotenango,563,167,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Antonio Ilotenango.,84,1972.24
+289,OBRA_GT1409_0288,Huipil Ceremonial Tradicional de San Pedro Jocopilas,517,150,552,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Pedro Jocopilas.,60,5106.92
+290,OBRA_GT1410_0289,Corte Jaspeado de Algodón de Cunén,794,801,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Cunén.,29,6341.13
+291,OBRA_GT1411_0290,Máscara del Danzante de Monito de San Juan Cotzal,523,871,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Juan Cotzal.,11,1666.68
+292,OBRA_GT1412_0291,Cuadro Primitivista sobre la Feria de Joyabaj,291,205,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Joyabaj.,81,5622.72
+293,OBRA_GT1413_0292,Marimba de Hormigo Sencilla de de Nebaj,8,748,466,Marimba tradicional afinada acústicamente de madera noble fabricada en Nebaj.,24,7085.74
+294,OBRA_GT1414_0293,Jarra utilitaria de Barro Rojo de San Andrés Sajcabajá,948,565,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Andrés Sajcabajá.,39,290.62
+295,OBRA_GT1415_0294,Escultura en Jadeita de deidad Maya de Uspantán,619,89,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Uspantán.,16,5160.73
+296,OBRA_GT1416_0295,Canasta decorativa de Mimbre de de Sacapulas,893,562,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Sacapulas.,80,2192.33
+297,OBRA_GT1417_0296,Huipil Ceremonial Tradicional de San Bartolomé Jocotenango,564,198,104,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolomé Jocotenango.,31,1696.65
+298,OBRA_GT1418_0297,Corte Jaspeado de Algodón de Canillá,268,68,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Canillá.,74,7106.0
+299,OBRA_GT1419_0298,Máscara del Danzante de Alvarado de Chicamán,701,541,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chicamán.,18,6941.49
+300,OBRA_GT1420_0299,Cuadro Primitivista sobre la Feria de Ixcán,634,367,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Ixcán.,8,5703.61
+301,OBRA_GT1421_0300,Marimba de Hormigo Sencilla de de Pachalum,19,618,477,Marimba tradicional afinada acústicamente de madera noble fabricada en Pachalum.,63,5629.96
+302,OBRA_GT1501_0301,Jarra utilitaria de Barro Rojo de Salamá,256,179,,Vasija tradicional moldeada a mano y cocida en horno de leña en Salamá.,50,2307.26
+303,OBRA_GT1502_0302,Escultura en Jadeita de deidad Maya de San Miguel Chicaj,689,142,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Miguel Chicaj.,7,6700.48
+304,OBRA_GT1503_0303,Canasta decorativa de Mimbre de de Rabinal,191,731,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Rabinal.,25,696.14
+305,OBRA_GT1504_0304,Huipil Ceremonial Tradicional de Cubulco,255,818,915,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Cubulco.,4,5322.6
+306,OBRA_GT1505_0305,Corte Jaspeado de Algodón de Granados,675,222,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Granados.,58,6283.22
+307,OBRA_GT1506_0306,Máscara del Danzante de Diablo de El Chol,358,983,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de El Chol.,30,610.12
+308,OBRA_GT1507_0307,Cuadro Primitivista sobre la Feria de San Jerónimo,809,792,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Jerónimo.,35,5104.6
+309,OBRA_GT1508_0308,Marimba de Hormigo Sencilla de de Purulhá,280,945,906,Marimba tradicional afinada acústicamente de madera noble fabricada en Purulhá.,37,4348.43
+310,OBRA_GT0401_0309,Jarra utilitaria de Barro Rojo de Chimaltenango,4,226,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chimaltenango.,12,7020.62
+311,OBRA_GT0402_0310,Escultura en Jadeita de deidad Maya de San José Poaquil,17,392,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San José Poaquil.,24,3698.56
+312,OBRA_GT0403_0311,Canasta decorativa de Mimbre de de San Martín Jilotepeque,30,609,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Martín Jilotepeque.,65,762.04
+313,OBRA_GT0404_0312,Huipil Ceremonial Tradicional de Comalapa,31,729,125,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Comalapa.,77,518.88
+314,OBRA_GT0405_0313,Corte Jaspeado de Algodón de Santa Apolonia,42,423,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Apolonia.,34,6568.82
+315,OBRA_GT0406_0314,Máscara del Danzante de Cacique de Tecpán Guatemala,55,68,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tecpán Guatemala.,61,5158.99
+316,OBRA_GT0407_0315,Cuadro Primitivista sobre la Feria de Patzún,69,601,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Patzún.,35,1545.53
+317,OBRA_GT0408_0316,Marimba de Hormigo Sencilla de de Pochuta,78,968,261,Marimba tradicional afinada acústicamente de madera noble fabricada en Pochuta.,57,8273.82
+318,OBRA_GT0409_0317,Jarra utilitaria de Barro Rojo de Patzicía,84,139,,Vasija tradicional moldeada a mano y cocida en horno de leña en Patzicía.,72,4550.88
+319,OBRA_GT0410_0318,Escultura en Jadeita de deidad Maya de Santa Cruz Balanyá,97,991,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa Cruz Balanyá.,33,4327.22
+320,OBRA_GT0411_0319,Canasta decorativa de Mimbre de de Acatenango,110,712,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Acatenango.,26,2338.47
+321,OBRA_GT0412_0320,Huipil Ceremonial Tradicional de Yepocapa,111,124,616,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,14,5397.34
+322,OBRA_GT0413_0321,Corte Jaspeado de Algodón de San Andrés Itzapa,122,363,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,54,7104.6
+323,OBRA_GT0414_0322,Máscara del Danzante de Rey Kiche de Parramos,135,519,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,21,7969.33
+324,OBRA_GT0415_0323,Cuadro Primitivista sobre la Feria de Zaragoza,149,475,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,47,4798.02
+325,OBRA_GT0416_0324,Marimba de Hormigo Sencilla de de El Tejar,158,63,365,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,4,1528.88
+326,OBRA_GT0700_0325,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,272,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,3,3146.61
+327,OBRA_GT0701_0326,Escultura en Jadeita de deidad Maya de Sololá,177,990,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,20,1089.15
+328,OBRA_GT0702_0327,Canasta decorativa de Mimbre de de San José Chacayá,190,511,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,61,1545.28
+329,OBRA_GT0703_0328,Huipil Ceremonial Tradicional de Santa María Visitación,191,235,787,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,22,8472.58
+330,OBRA_GT0704_0329,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,809,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,59,916.74
+331,OBRA_GT0705_0330,Máscara del Danzante de Gigante de Nahualá,215,751,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,38,1692.88
+332,OBRA_GT0706_0331,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,858,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,58,5224.41
+333,OBRA_GT0707_0332,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,255,27,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,88,7783.61
+334,OBRA_GT0708_0333,Jarra utilitaria de Barro Rojo de Concepción,244,383,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,26,5647.36
+335,OBRA_GT0709_0334,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,94,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,12,7999.64
+336,OBRA_GT0710_0335,Canasta decorativa de Mimbre de de Panajachel,270,419,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,9,3843.0
+337,OBRA_GT0711_0336,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,675,931,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,25,2287.33
+338,OBRA_GT0712_0337,Corte Jaspeado de Algodón de San Antonio Palopó,282,849,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,20,2048.38
+339,OBRA_GT0713_0338,Máscara del Danzante de Pascarín de San Lucas Tolimán,295,201,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,82,2066.02
+340,OBRA_GT0714_0339,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,948,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,73,3572.43
+341,OBRA_GT0715_0340,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,582,534,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,88,5252.95
+342,OBRA_GT0716_0341,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,97,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,6,6818.68
+343,OBRA_GT0717_0342,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,215,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,64,5244.46
+344,OBRA_GT0718_0343,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,520,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,19,3811.93
+345,OBRA_GT0719_0344,Huipil Ceremonial Tradicional de Santiago Atitlán,351,632,526,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,42,7081.64
+346,OBRA_GT0801_0345,Corte Jaspeado de Algodón de Totonicapán,362,810,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,12,754.54
+347,OBRA_GT0802_0346,Máscara del Danzante de Torito de San Cristóbal Totonicapán,375,796,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,53,1917.4
+348,OBRA_GT0803_0347,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,412,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,42,364.33
+349,OBRA_GT0804_0348,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,652,152,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,82,3874.54
+350,OBRA_GT0805_0349,Jarra utilitaria de Barro Rojo de Momostenango,404,501,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,16,5323.06
+351,OBRA_GT0806_0350,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,528,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,26,1584.84
+352,OBRA_GT0807_0351,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,254,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,40,4421.7
+353,OBRA_GT0808_0352,Huipil Ceremonial Tradicional de San Bartolo,431,460,1019,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,15,8276.56
+354,OBRA_GT0901_0353,Corte Jaspeado de Algodón de Quetzaltenango,442,995,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,37,5812.19
+355,OBRA_GT0902_0354,Máscara del Danzante de Torito de Salcajá,455,140,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,58,2741.8
+356,OBRA_GT0903_0355,Cuadro Primitivista sobre la Feria de Olintepeque,469,405,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,12,4598.96
+357,OBRA_GT0904_0356,Marimba de Hormigo Sencilla de de San Carlos Sija,478,918,901,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,13,4959.08
+358,OBRA_GT0905_0357,Jarra utilitaria de Barro Rojo de Sibilia,484,919,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,9,8033.74
+359,OBRA_GT0906_0358,Escultura en Jadeita de deidad Maya de Cabricán,497,534,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,22,1999.76
+360,OBRA_GT0907_0359,Canasta decorativa de Mimbre de de Cajolá,510,140,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,24,1677.51
+361,OBRA_GT0908_0360,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,734,69,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,21,5659.77
+362,OBRA_GT0909_0361,Corte Jaspeado de Algodón de Ostuncalco,522,815,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,22,4064.94
+363,OBRA_GT0910_0362,Máscara del Danzante de Tecún Umán de San Mateo,535,927,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,58,1368.86
+364,OBRA_GT0911_0363,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,784,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,40,7506.16
+365,OBRA_GT0912_0364,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,395,115,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,28,615.2
+366,OBRA_GT0913_0365,Jarra utilitaria de Barro Rojo de Almolonga,564,846,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,20,8451.7
+367,OBRA_GT0914_0366,Escultura en Jadeita de deidad Maya de Cantel,577,23,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,48,5753.4
+368,OBRA_GT0915_0367,Canasta decorativa de Mimbre de de Huitán,590,912,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,72,7070.87
+369,OBRA_GT0916_0368,Huipil Ceremonial Tradicional de Zunil,591,957,758,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,30,8449.77
+370,OBRA_GT0917_0369,Corte Jaspeado de Algodón de Colomba,602,306,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,55,1210.69
+371,OBRA_GT0918_0370,Máscara del Danzante de Monito de San Francisco La Unión,615,946,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,39,5250.83
+372,OBRA_GT0919_0371,Cuadro Primitivista sobre la Feria de El Palmar,629,1014,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,37,827.78
+373,OBRA_GT0920_0372,Marimba de Hormigo Sencilla de de Coatepeque,638,76,541,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,53,6410.23
+374,OBRA_GT0921_0373,Jarra utilitaria de Barro Rojo de Génova,644,622,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,13,1652.35
+375,OBRA_GT0922_0374,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,92,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,66,7286.03
+376,OBRA_GT0923_0375,Canasta decorativa de Mimbre de de La Esperanza,670,671,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,83,8384.09
+377,OBRA_GT0924_0376,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,348,787,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,73,3349.25
+378,OBRA_GT1201_0377,Corte Jaspeado de Algodón de San Marcos,682,552,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,13,2336.4
+379,OBRA_GT1202_0378,Máscara del Danzante de Gigante de San Pedro Sacatepéquez,695,412,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,29,6642.27
+380,OBRA_GT1203_0379,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,37,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,83,3837.37
+381,OBRA_GT1204_0380,Marimba de Hormigo Sencilla de de Comitancillo,718,390,91,Marimba tradicional afinada acústicamente de madera noble fabricada en Comitancillo.,8,1590.29
+382,OBRA_GT1205_0381,Jarra utilitaria de Barro Rojo de San Miguel Ixtahuacán,724,213,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Miguel Ixtahuacán.,66,4324.16
+383,OBRA_GT1206_0382,Escultura en Jadeita de deidad Maya de Concepción Tutuapa,737,959,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Concepción Tutuapa.,85,342.98
+384,OBRA_GT1207_0383,Canasta decorativa de Mimbre de de Tacaná,750,460,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Tacaná.,45,3585.46
+385,OBRA_GT1208_0384,Huipil Ceremonial Tradicional de Sibinal,751,847,260,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Sibinal.,89,6986.59
+386,OBRA_GT1209_0385,Corte Jaspeado de Algodón de Tajumulco,762,294,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Tajumulco.,73,2213.31
+387,OBRA_GT1210_0386,Máscara del Danzante de Pascarín de Tejutla,775,436,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tejutla.,30,4411.21
+388,OBRA_GT1211_0387,Cuadro Primitivista sobre la Feria de San Rafael Pie de la Cuesta,789,553,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Rafael Pie de la Cuesta.,33,1793.12
+389,OBRA_GT1212_0388,Marimba de Hormigo Sencilla de de Nuevo Progreso,798,396,59,Marimba tradicional afinada acústicamente de madera noble fabricada en Nuevo Progreso.,11,7948.77
+390,OBRA_GT1213_0389,Jarra utilitaria de Barro Rojo de El Tumbador,804,77,,Vasija tradicional moldeada a mano y cocida en horno de leña en El Tumbador.,85,7261.48
+391,OBRA_GT1214_0390,Escultura en Jadeita de deidad Maya de El Rodeo,817,193,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de El Rodeo.,32,5881.51
+392,OBRA_GT1215_0391,Canasta decorativa de Mimbre de de Malacatán,830,825,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Malacatán.,26,3909.14
+393,OBRA_GT1216_0392,Huipil Ceremonial Tradicional de Catarina,831,935,113,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Catarina.,7,1654.54
+394,OBRA_GT1217_0393,Corte Jaspeado de Algodón de Ayutla,842,172,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ayutla.,23,7340.72
+395,OBRA_GT1218_0394,Máscara del Danzante de Alvarado de Ocós,855,161,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Ocós.,20,1985.75
+396,OBRA_GT1219_0395,Cuadro Primitivista sobre la Feria de San Pablo,869,481,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Pablo.,28,3310.98
+397,OBRA_GT1220_0396,Marimba de Hormigo Sencilla de de El Quetzal,878,360,409,Marimba tradicional afinada acústicamente de madera noble fabricada en El Quetzal.,32,1679.03
+398,OBRA_GT1221_0397,Jarra utilitaria de Barro Rojo de La Reforma,884,560,,Vasija tradicional moldeada a mano y cocida en horno de leña en La Reforma.,73,574.66
+399,OBRA_GT1222_0398,Escultura en Jadeita de deidad Maya de Pajapita,897,650,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Pajapita.,36,1649.39
+400,OBRA_GT1223_0399,Canasta decorativa de Mimbre de de Ixchiguán,910,890,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixchiguán.,82,4282.84
+401,OBRA_GT1224_0400,Huipil Ceremonial Tradicional de San José Ojetenam,911,173,817,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San José Ojetenam.,66,1077.61
+402,OBRA_GT1225_0401,Corte Jaspeado de Algodón de San Cristóbal Cucho,922,713,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Cristóbal Cucho.,56,7678.98
+403,OBRA_GT1226_0402,Máscara del Danzante de Cacique de Sipacapa,935,877,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Sipacapa.,78,6105.19
+404,OBRA_GT1227_0403,Cuadro Primitivista sobre la Feria de Esquipulas Palo Gordo,949,299,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Esquipulas Palo Gordo.,19,2598.55
+405,OBRA_GT1228_0404,Marimba de Hormigo Sencilla de de Río Blanco,958,682,920,Marimba tradicional afinada acústicamente de madera noble fabricada en Río Blanco.,69,6701.51
+406,OBRA_GT1229_0405,Jarra utilitaria de Barro Rojo de San Lorenzo,964,800,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Lorenzo.,37,977.21
+407,OBRA_GT1230_0406,Escultura en Jadeita de deidad Maya de La Blanca,977,43,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de La Blanca.,62,2295.49
+408,OBRA_GT1301_0407,Canasta decorativa de Mimbre de de Huehuetenango,990,271,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huehuetenango.,58,1603.01
+409,OBRA_GT1302_0408,Huipil Ceremonial Tradicional de Chiantla,991,745,9,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Chiantla.,56,363.15
+410,OBRA_GT1303_0409,Corte Jaspeado de Algodón de Malacatancito,1002,779,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Malacatancito.,27,4540.16
+411,OBRA_GT1304_0410,Máscara del Danzante de Alvarado de Cuilco,1015,71,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Cuilco.,64,2740.37
+412,OBRA_GT1305_0411,Cuadro Primitivista sobre la Feria de Nentón,207,251,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Nentón.,90,3631.94
+413,OBRA_GT1306_0412,Marimba de Hormigo Sencilla de de San Pedro Necta,371,7,449,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pedro Necta.,17,8126.99
+414,OBRA_GT1307_0413,Jarra utilitaria de Barro Rojo de Jacaltenango,603,722,,Vasija tradicional moldeada a mano y cocida en horno de leña en Jacaltenango.,14,2723.67
+415,OBRA_GT1308_0414,Escultura en Jadeita de deidad Maya de Soloma,660,883,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Soloma.,33,1935.49
+416,OBRA_GT1309_0415,Canasta decorativa de Mimbre de de Ixtahuacán,56,859,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixtahuacán.,28,7350.75
+417,OBRA_GT1310_0416,Huipil Ceremonial Tradicional de Santa Bárbara,445,364,222,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Bárbara.,18,5730.57
+418,OBRA_GT1311_0417,Corte Jaspeado de Algodón de La Libertad,970,552,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie La Libertad.,29,1942.5
+419,OBRA_GT1312_0418,Máscara del Danzante de Cacique de La Democracia,969,91,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de La Democracia.,64,3310.0
+420,OBRA_GT1313_0419,Cuadro Primitivista sobre la Feria de San Miguel Acatán,657,569,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Miguel Acatán.,30,6285.22
+421,OBRA_GT1314_0420,Marimba de Hormigo Sencilla de de San Rafael La Independencia,305,733,563,Marimba tradicional afinada acústicamente de madera noble fabricada en San Rafael La Independencia.,18,1293.13
+422,OBRA_GT1315_0421,Jarra utilitaria de Barro Rojo de Todos Santos Cuchumatán,580,752,,Vasija tradicional moldeada a mano y cocida en horno de leña en Todos Santos Cuchumatán.,42,2158.11
+423,OBRA_GT1316_0422,Escultura en Jadeita de deidad Maya de San Juan Atitán,109,254,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan Atitán.,10,970.35
+424,OBRA_GT1317_0423,Canasta decorativa de Mimbre de de Santa Eulalia,32,739,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Eulalia.,85,1880.15
+425,OBRA_GT1318_0424,Huipil Ceremonial Tradicional de San Mateo Ixtatán,956,821,63,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Mateo Ixtatán.,3,999.43
+426,OBRA_GT1319_0425,Corte Jaspeado de Algodón de Colotenango,83,4,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colotenango.,29,6592.79
+427,OBRA_GT1320_0426,Máscara del Danzante de Torito de San Sebastián Huehuetenango,691,558,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Sebastián Huehuetenango.,29,4320.21
+428,OBRA_GT1321_0427,Cuadro Primitivista sobre la Feria de Tectitán,166,286,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Tectitán.,4,7358.45
+429,OBRA_GT1322_0428,Marimba de Hormigo Sencilla de de Concepción Huista,765,323,518,Marimba tradicional afinada acústicamente de madera noble fabricada en Concepción Huista.,72,2267.71
+430,OBRA_GT1323_0429,Jarra utilitaria de Barro Rojo de San Juan Ixcoy,367,728,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Juan Ixcoy.,12,2181.92
+431,OBRA_GT1324_0430,Escultura en Jadeita de deidad Maya de San Antonio Huista,87,93,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Antonio Huista.,53,1762.69
+432,OBRA_GT1325_0431,Canasta decorativa de Mimbre de de San Sebastián Coatán,927,730,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Sebastián Coatán.,62,2032.29
+433,OBRA_GT1326_0432,Huipil Ceremonial Tradicional de Barillas,719,829,875,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Barillas.,24,3975.98
+434,OBRA_GT1327_0433,Corte Jaspeado de Algodón de Aguacatán,1012,785,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Aguacatán.,87,819.8
+435,OBRA_GT1328_0434,Máscara del Danzante de Tecún Umán de San Rafael Petzal,191,200,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Rafael Petzal.,16,3823.93
+436,OBRA_GT1329_0435,Cuadro Primitivista sobre la Feria de San Gaspar Ixchil,601,829,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Gaspar Ixchil.,10,900.29
+437,OBRA_GT1330_0436,Marimba de Hormigo Sencilla de de Santiago Chimaltenango,881,103,494,Marimba tradicional afinada acústicamente de madera noble fabricada en Santiago Chimaltenango.,23,8220.15
+438,OBRA_GT1331_0437,Jarra utilitaria de Barro Rojo de Santa Ana Huista,418,971,,Vasija tradicional moldeada a mano y cocida en horno de leña en Santa Ana Huista.,84,5348.77
+439,OBRA_GT1332_0438,Escultura en Jadeita de deidad Maya de Unión Cantinil,40,815,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Unión Cantinil.,14,7116.7
+440,OBRA_GT1333_0439,Canasta decorativa de Mimbre de de Petatán,320,244,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Petatán.,10,4874.86
+441,OBRA_GT1401_0440,Huipil Ceremonial Tradicional de Santa Cruz del Quiché,527,742,84,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Cruz del Quiché.,38,4870.42
+442,OBRA_GT1402_0441,Corte Jaspeado de Algodón de Chiché,627,401,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Chiché.,71,2794.95
+443,OBRA_GT1403_0442,Máscara del Danzante de Tecún Umán de Chinique,610,221,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chinique.,60,6505.22
+444,OBRA_GT1404_0443,Cuadro Primitivista sobre la Feria de Zacualpa,112,422,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zacualpa.,62,7230.21
+445,OBRA_GT1405_0444,Marimba de Hormigo Sencilla de de Chajul,596,621,813,Marimba tradicional afinada acústicamente de madera noble fabricada en Chajul.,68,3481.27
+446,OBRA_GT1406_0445,Jarra utilitaria de Barro Rojo de Chichicastenango,373,795,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chichicastenango.,5,507.02
+447,OBRA_GT1407_0446,Escultura en Jadeita de deidad Maya de Patzité,911,116,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Patzité.,4,2877.78
+448,OBRA_GT1408_0447,Canasta decorativa de Mimbre de de San Antonio Ilotenango,403,956,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Antonio Ilotenango.,54,3053.2
+449,OBRA_GT1409_0448,Huipil Ceremonial Tradicional de San Pedro Jocopilas,37,294,96,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Pedro Jocopilas.,69,7789.49
+450,OBRA_GT1410_0449,Corte Jaspeado de Algodón de Cunén,971,846,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Cunén.,8,8306.05
+451,OBRA_GT1411_0450,Máscara del Danzante de Venado de San Juan Cotzal,331,421,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Juan Cotzal.,84,7212.86
+452,OBRA_GT1412_0451,Cuadro Primitivista sobre la Feria de Joyabaj,769,776,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Joyabaj.,83,7122.01
+453,OBRA_GT1413_0452,Marimba de Hormigo Sencilla de de Nebaj,543,339,12,Marimba tradicional afinada acústicamente de madera noble fabricada en Nebaj.,65,5306.93
+454,OBRA_GT1414_0453,Jarra utilitaria de Barro Rojo de San Andrés Sajcabajá,230,856,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Andrés Sajcabajá.,44,3015.73
+455,OBRA_GT1415_0454,Escultura en Jadeita de deidad Maya de Uspantán,108,466,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Uspantán.,15,1891.58
+456,OBRA_GT1416_0455,Canasta decorativa de Mimbre de de Sacapulas,805,466,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Sacapulas.,51,5095.8
+457,OBRA_GT1417_0456,Huipil Ceremonial Tradicional de San Bartolomé Jocotenango,937,131,463,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolomé Jocotenango.,56,8404.89
+458,OBRA_GT1418_0457,Corte Jaspeado de Algodón de Canillá,292,889,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Canillá.,90,5534.76
+459,OBRA_GT1419_0458,Máscara del Danzante de Rey Kiche de Chicamán,583,863,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chicamán.,11,4158.2
+460,OBRA_GT1420_0459,Cuadro Primitivista sobre la Feria de Ixcán,149,917,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Ixcán.,70,5911.47
+461,OBRA_GT1421_0460,Marimba de Hormigo Sencilla de de Pachalum,949,632,173,Marimba tradicional afinada acústicamente de madera noble fabricada en Pachalum.,32,6791.56
+462,OBRA_GT1501_0461,Jarra utilitaria de Barro Rojo de Salamá,726,191,,Vasija tradicional moldeada a mano y cocida en horno de leña en Salamá.,53,3962.02
+463,OBRA_GT1502_0462,Escultura en Jadeita de deidad Maya de San Miguel Chicaj,959,284,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Miguel Chicaj.,6,4897.98
+464,OBRA_GT1503_0463,Canasta decorativa de Mimbre de de Rabinal,753,133,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Rabinal.,17,2640.79
+465,OBRA_GT1504_0464,Huipil Ceremonial Tradicional de Cubulco,328,141,656,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Cubulco.,80,4208.86
+466,OBRA_GT1505_0465,Corte Jaspeado de Algodón de Granados,954,553,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Granados.,7,7470.91
+467,OBRA_GT1506_0466,Máscara del Danzante de Cacique de El Chol,490,190,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de El Chol.,50,2251.83
+468,OBRA_GT1507_0467,Cuadro Primitivista sobre la Feria de San Jerónimo,28,606,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Jerónimo.,85,4450.28
+469,OBRA_GT1508_0468,Marimba de Hormigo Sencilla de de Purulhá,870,584,122,Marimba tradicional afinada acústicamente de madera noble fabricada en Purulhá.,12,383.82
+470,OBRA_GT0401_0469,Jarra utilitaria de Barro Rojo de Chimaltenango,4,704,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chimaltenango.,87,8275.55
+471,OBRA_GT0402_0470,Escultura en Jadeita de deidad Maya de San José Poaquil,17,193,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San José Poaquil.,49,4522.26
+472,OBRA_GT0403_0471,Canasta decorativa de Mimbre de de San Martín Jilotepeque,30,369,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Martín Jilotepeque.,53,2007.47
+473,OBRA_GT0404_0472,Huipil Ceremonial Tradicional de Comalapa,31,715,511,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Comalapa.,87,7819.81
+474,OBRA_GT0405_0473,Corte Jaspeado de Algodón de Santa Apolonia,42,959,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Apolonia.,89,6503.28
+475,OBRA_GT0406_0474,Máscara del Danzante de Gigante de Tecpán Guatemala,55,28,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tecpán Guatemala.,43,1581.93
+476,OBRA_GT0407_0475,Cuadro Primitivista sobre la Feria de Patzún,69,13,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Patzún.,51,3089.39
+477,OBRA_GT0408_0476,Marimba de Hormigo Sencilla de de Pochuta,78,501,507,Marimba tradicional afinada acústicamente de madera noble fabricada en Pochuta.,81,7420.51
+478,OBRA_GT0409_0477,Jarra utilitaria de Barro Rojo de Patzicía,84,564,,Vasija tradicional moldeada a mano y cocida en horno de leña en Patzicía.,26,8224.18
+479,OBRA_GT0410_0478,Escultura en Jadeita de deidad Maya de Santa Cruz Balanyá,97,670,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa Cruz Balanyá.,73,5677.73
+480,OBRA_GT0411_0479,Canasta decorativa de Mimbre de de Acatenango,110,114,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Acatenango.,80,4061.42
+481,OBRA_GT0412_0480,Huipil Ceremonial Tradicional de Yepocapa,111,303,65,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,66,8180.88
+482,OBRA_GT0413_0481,Corte Jaspeado de Algodón de San Andrés Itzapa,122,587,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,64,1853.17
+483,OBRA_GT0414_0482,Máscara del Danzante de Pascarín de Parramos,135,1001,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,58,1973.72
+484,OBRA_GT0415_0483,Cuadro Primitivista sobre la Feria de Zaragoza,149,334,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,24,5128.7
+485,OBRA_GT0416_0484,Marimba de Hormigo Sencilla de de El Tejar,158,501,1,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,43,3025.24
+486,OBRA_GT0700_0485,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,439,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,26,6936.69
+487,OBRA_GT0701_0486,Escultura en Jadeita de deidad Maya de Sololá,177,1007,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,54,7533.67
+488,OBRA_GT0702_0487,Canasta decorativa de Mimbre de de San José Chacayá,190,494,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,33,4226.85
+489,OBRA_GT0703_0488,Huipil Ceremonial Tradicional de Santa María Visitación,191,626,18,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,20,3096.1
+490,OBRA_GT0704_0489,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,469,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,35,6845.11
+491,OBRA_GT0705_0490,Máscara del Danzante de Mexicano de Nahualá,215,904,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,11,6441.34
+492,OBRA_GT0706_0491,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,470,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,80,6356.71
+493,OBRA_GT0707_0492,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,195,75,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,67,1153.78
+494,OBRA_GT0708_0493,Jarra utilitaria de Barro Rojo de Concepción,244,436,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,66,6670.89
+495,OBRA_GT0709_0494,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,895,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,31,5241.27
+496,OBRA_GT0710_0495,Canasta decorativa de Mimbre de de Panajachel,270,843,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,42,4605.67
+497,OBRA_GT0711_0496,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,753,768,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,5,1466.33
+498,OBRA_GT0712_0497,Corte Jaspeado de Algodón de San Antonio Palopó,282,937,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,9,7493.8
+499,OBRA_GT0713_0498,Máscara del Danzante de Español de San Lucas Tolimán,295,266,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,67,7683.19
+500,OBRA_GT0714_0499,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,920,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,20,8254.63
+501,OBRA_GT0715_0500,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,783,125,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,7,7886.91
+502,OBRA_GT0716_0501,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,840,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,75,643.64
+503,OBRA_GT0717_0502,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,508,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,13,6466.95
+504,OBRA_GT0718_0503,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,352,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,28,6590.12
+505,OBRA_GT0719_0504,Huipil Ceremonial Tradicional de Santiago Atitlán,351,415,220,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,62,4893.53
+506,OBRA_GT0801_0505,Corte Jaspeado de Algodón de Totonicapán,362,757,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,63,5534.59
+507,OBRA_GT0802_0506,Máscara del Danzante de Rey Kiche de San Cristóbal Totonicapán,375,294,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,77,6916.85
+508,OBRA_GT0803_0507,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,888,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,39,7928.2
+509,OBRA_GT0804_0508,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,328,116,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,24,1067.25
+510,OBRA_GT0805_0509,Jarra utilitaria de Barro Rojo de Momostenango,404,97,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,22,1054.99
+511,OBRA_GT0806_0510,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,272,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,41,4923.95
+512,OBRA_GT0807_0511,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,621,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,75,8224.54
+513,OBRA_GT0808_0512,Huipil Ceremonial Tradicional de San Bartolo,431,493,737,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,81,316.94
+514,OBRA_GT0901_0513,Corte Jaspeado de Algodón de Quetzaltenango,442,975,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,73,3552.18
+515,OBRA_GT0902_0514,Máscara del Danzante de Español de Salcajá,455,610,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,74,8001.42
+516,OBRA_GT0903_0515,Cuadro Primitivista sobre la Feria de Olintepeque,469,705,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,33,4808.92
+517,OBRA_GT0904_0516,Marimba de Hormigo Sencilla de de San Carlos Sija,478,661,1018,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,90,774.67
+518,OBRA_GT0905_0517,Jarra utilitaria de Barro Rojo de Sibilia,484,571,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,58,7127.56
+519,OBRA_GT0906_0518,Escultura en Jadeita de deidad Maya de Cabricán,497,143,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,88,4990.69
+520,OBRA_GT0907_0519,Canasta decorativa de Mimbre de de Cajolá,510,750,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,53,5466.72
+521,OBRA_GT0908_0520,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,793,735,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,82,3532.99
+522,OBRA_GT0909_0521,Corte Jaspeado de Algodón de Ostuncalco,522,297,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,54,6703.13
+523,OBRA_GT0910_0522,Máscara del Danzante de Español de San Mateo,535,6,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,81,4384.28
+524,OBRA_GT0911_0523,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,106,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,49,4919.76
+525,OBRA_GT0912_0524,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,295,714,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,89,2743.47
+526,OBRA_GT0913_0525,Jarra utilitaria de Barro Rojo de Almolonga,564,576,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,29,3779.13
+527,OBRA_GT0914_0526,Escultura en Jadeita de deidad Maya de Cantel,577,90,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,15,7644.77
+528,OBRA_GT0915_0527,Canasta decorativa de Mimbre de de Huitán,590,824,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,55,1253.92
+529,OBRA_GT0916_0528,Huipil Ceremonial Tradicional de Zunil,591,13,679,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,29,5672.68
+530,OBRA_GT0917_0529,Corte Jaspeado de Algodón de Colomba,602,44,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,44,8189.97
+531,OBRA_GT0918_0530,Máscara del Danzante de Pascarín de San Francisco La Unión,615,433,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,19,5394.48
+532,OBRA_GT0919_0531,Cuadro Primitivista sobre la Feria de El Palmar,629,942,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,5,5125.76
+533,OBRA_GT0920_0532,Marimba de Hormigo Sencilla de de Coatepeque,638,739,796,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,3,7970.99
+534,OBRA_GT0921_0533,Jarra utilitaria de Barro Rojo de Génova,644,528,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,81,6524.37
+535,OBRA_GT0922_0534,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,936,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,65,2063.5
+536,OBRA_GT0923_0535,Canasta decorativa de Mimbre de de La Esperanza,670,549,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,30,7981.43
+537,OBRA_GT0924_0536,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,755,535,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,74,6471.01
+538,OBRA_GT1201_0537,Corte Jaspeado de Algodón de San Marcos,682,449,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,57,585.08
+539,OBRA_GT1202_0538,Máscara del Danzante de Conquistador de San Pedro Sacatepéquez,695,94,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,39,1746.83
+540,OBRA_GT1203_0539,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,84,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,61,2461.65
+541,OBRA_GT1204_0540,Marimba de Hormigo Sencilla de de Comitancillo,718,461,906,Marimba tradicional afinada acústicamente de madera noble fabricada en Comitancillo.,23,3959.67
+542,OBRA_GT1205_0541,Jarra utilitaria de Barro Rojo de San Miguel Ixtahuacán,724,887,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Miguel Ixtahuacán.,78,325.72
+543,OBRA_GT1206_0542,Escultura en Jadeita de deidad Maya de Concepción Tutuapa,737,198,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Concepción Tutuapa.,20,403.12
+544,OBRA_GT1207_0543,Canasta decorativa de Mimbre de de Tacaná,750,771,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Tacaná.,82,7442.61
+545,OBRA_GT1208_0544,Huipil Ceremonial Tradicional de Sibinal,751,897,856,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Sibinal.,48,1067.21
+546,OBRA_GT1209_0545,Corte Jaspeado de Algodón de Tajumulco,762,196,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Tajumulco.,22,4147.15
+547,OBRA_GT1210_0546,Máscara del Danzante de Mexicano de Tejutla,775,608,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tejutla.,59,8154.75
+548,OBRA_GT1211_0547,Cuadro Primitivista sobre la Feria de San Rafael Pie de la Cuesta,789,649,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Rafael Pie de la Cuesta.,67,3193.43
+549,OBRA_GT1212_0548,Marimba de Hormigo Sencilla de de Nuevo Progreso,798,477,191,Marimba tradicional afinada acústicamente de madera noble fabricada en Nuevo Progreso.,49,3634.27
+550,OBRA_GT1213_0549,Jarra utilitaria de Barro Rojo de El Tumbador,804,144,,Vasija tradicional moldeada a mano y cocida en horno de leña en El Tumbador.,52,2940.57
+551,OBRA_GT1214_0550,Escultura en Jadeita de deidad Maya de El Rodeo,817,27,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de El Rodeo.,70,6425.97
+552,OBRA_GT1215_0551,Canasta decorativa de Mimbre de de Malacatán,830,948,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Malacatán.,28,493.13
+553,OBRA_GT1216_0552,Huipil Ceremonial Tradicional de Catarina,831,935,477,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Catarina.,40,1868.15
+554,OBRA_GT1217_0553,Corte Jaspeado de Algodón de Ayutla,842,950,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ayutla.,10,1415.14
+555,OBRA_GT1218_0554,Máscara del Danzante de Español de Ocós,855,84,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Ocós.,9,6980.99
+556,OBRA_GT1219_0555,Cuadro Primitivista sobre la Feria de San Pablo,869,350,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Pablo.,21,6147.28
+557,OBRA_GT1220_0556,Marimba de Hormigo Sencilla de de El Quetzal,878,530,583,Marimba tradicional afinada acústicamente de madera noble fabricada en El Quetzal.,74,8004.56
+558,OBRA_GT1221_0557,Jarra utilitaria de Barro Rojo de La Reforma,884,954,,Vasija tradicional moldeada a mano y cocida en horno de leña en La Reforma.,34,3336.54
+559,OBRA_GT1222_0558,Escultura en Jadeita de deidad Maya de Pajapita,897,178,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Pajapita.,43,5786.45
+560,OBRA_GT1223_0559,Canasta decorativa de Mimbre de de Ixchiguán,910,335,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixchiguán.,84,1021.04
+561,OBRA_GT1224_0560,Huipil Ceremonial Tradicional de San José Ojetenam,911,359,740,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San José Ojetenam.,59,2178.03
+562,OBRA_GT1225_0561,Corte Jaspeado de Algodón de San Cristóbal Cucho,922,894,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Cristóbal Cucho.,65,3354.42
+563,OBRA_GT1226_0562,Máscara del Danzante de Venado de Sipacapa,935,420,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Sipacapa.,9,5829.96
+564,OBRA_GT1227_0563,Cuadro Primitivista sobre la Feria de Esquipulas Palo Gordo,949,161,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Esquipulas Palo Gordo.,41,703.38
+565,OBRA_GT1228_0564,Marimba de Hormigo Sencilla de de Río Blanco,958,43,796,Marimba tradicional afinada acústicamente de madera noble fabricada en Río Blanco.,13,3497.26
+566,OBRA_GT1229_0565,Jarra utilitaria de Barro Rojo de San Lorenzo,964,626,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Lorenzo.,72,4049.62
+567,OBRA_GT1230_0566,Escultura en Jadeita de deidad Maya de La Blanca,977,473,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de La Blanca.,20,634.03
+568,OBRA_GT1301_0567,Canasta decorativa de Mimbre de de Huehuetenango,990,827,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huehuetenango.,61,5666.0
+569,OBRA_GT1302_0568,Huipil Ceremonial Tradicional de Chiantla,991,570,45,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Chiantla.,24,1895.04
+570,OBRA_GT1303_0569,Corte Jaspeado de Algodón de Malacatancito,1002,223,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Malacatancito.,23,5931.46
+571,OBRA_GT1304_0570,Máscara del Danzante de Tecún Umán de Cuilco,1015,629,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Cuilco.,27,1306.79
+572,OBRA_GT1305_0571,Cuadro Primitivista sobre la Feria de Nentón,830,196,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Nentón.,26,4534.03
+573,OBRA_GT1306_0572,Marimba de Hormigo Sencilla de de San Pedro Necta,194,239,147,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pedro Necta.,71,7885.25
+574,OBRA_GT1307_0573,Jarra utilitaria de Barro Rojo de Jacaltenango,753,782,,Vasija tradicional moldeada a mano y cocida en horno de leña en Jacaltenango.,78,5861.47
+575,OBRA_GT1308_0574,Escultura en Jadeita de deidad Maya de Soloma,569,480,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Soloma.,43,7204.1
+576,OBRA_GT1309_0575,Canasta decorativa de Mimbre de de Ixtahuacán,825,760,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixtahuacán.,14,2431.53
+577,OBRA_GT1310_0576,Huipil Ceremonial Tradicional de Santa Bárbara,137,331,77,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Bárbara.,73,6229.28
+578,OBRA_GT1311_0577,Corte Jaspeado de Algodón de La Libertad,79,180,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie La Libertad.,11,7074.01
+579,OBRA_GT1312_0578,Máscara del Danzante de Cacique de La Democracia,420,283,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de La Democracia.,28,6860.9
+580,OBRA_GT1313_0579,Cuadro Primitivista sobre la Feria de San Miguel Acatán,435,681,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Miguel Acatán.,22,3785.95
+581,OBRA_GT1314_0580,Marimba de Hormigo Sencilla de de San Rafael La Independencia,848,25,769,Marimba tradicional afinada acústicamente de madera noble fabricada en San Rafael La Independencia.,18,6197.26
+582,OBRA_GT1315_0581,Jarra utilitaria de Barro Rojo de Todos Santos Cuchumatán,491,856,,Vasija tradicional moldeada a mano y cocida en horno de leña en Todos Santos Cuchumatán.,87,2706.78
+583,OBRA_GT1316_0582,Escultura en Jadeita de deidad Maya de San Juan Atitán,780,145,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan Atitán.,4,2422.09
+584,OBRA_GT1317_0583,Canasta decorativa de Mimbre de de Santa Eulalia,642,379,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Eulalia.,88,8348.38
+585,OBRA_GT1318_0584,Huipil Ceremonial Tradicional de San Mateo Ixtatán,515,368,562,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Mateo Ixtatán.,48,6525.1
+586,OBRA_GT1319_0585,Corte Jaspeado de Algodón de Colotenango,207,319,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colotenango.,6,451.72
+587,OBRA_GT1320_0586,Máscara del Danzante de Mexicano de San Sebastián Huehuetenango,228,322,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Sebastián Huehuetenango.,50,812.23
+588,OBRA_GT1321_0587,Cuadro Primitivista sobre la Feria de Tectitán,206,492,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Tectitán.,36,2766.99
+589,OBRA_GT1322_0588,Marimba de Hormigo Sencilla de de Concepción Huista,404,54,475,Marimba tradicional afinada acústicamente de madera noble fabricada en Concepción Huista.,27,4028.9
+590,OBRA_GT1323_0589,Jarra utilitaria de Barro Rojo de San Juan Ixcoy,828,58,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Juan Ixcoy.,25,2673.79
+591,OBRA_GT1324_0590,Escultura en Jadeita de deidad Maya de San Antonio Huista,185,85,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Antonio Huista.,30,2335.44
+592,OBRA_GT1325_0591,Canasta decorativa de Mimbre de de San Sebastián Coatán,437,1011,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Sebastián Coatán.,14,4947.96
+593,OBRA_GT1326_0592,Huipil Ceremonial Tradicional de Barillas,405,794,810,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Barillas.,16,7105.49
+594,OBRA_GT1327_0593,Corte Jaspeado de Algodón de Aguacatán,845,882,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Aguacatán.,77,776.16
+595,OBRA_GT1328_0594,Máscara del Danzante de Gigante de San Rafael Petzal,699,847,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Rafael Petzal.,9,5730.73
+596,OBRA_GT1329_0595,Cuadro Primitivista sobre la Feria de San Gaspar Ixchil,756,689,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Gaspar Ixchil.,36,8192.46
+597,OBRA_GT1330_0596,Marimba de Hormigo Sencilla de de Santiago Chimaltenango,798,575,403,Marimba tradicional afinada acústicamente de madera noble fabricada en Santiago Chimaltenango.,65,4083.27
+598,OBRA_GT1331_0597,Jarra utilitaria de Barro Rojo de Santa Ana Huista,558,66,,Vasija tradicional moldeada a mano y cocida en horno de leña en Santa Ana Huista.,71,6552.35
+599,OBRA_GT1332_0598,Escultura en Jadeita de deidad Maya de Unión Cantinil,659,799,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Unión Cantinil.,44,1459.73
+600,OBRA_GT1333_0599,Canasta decorativa de Mimbre de de Petatán,266,376,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Petatán.,54,4025.06
+601,OBRA_GT1401_0600,Huipil Ceremonial Tradicional de Santa Cruz del Quiché,216,86,939,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Cruz del Quiché.,23,752.0
+602,OBRA_GT1402_0601,Corte Jaspeado de Algodón de Chiché,171,331,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Chiché.,29,4911.64
+603,OBRA_GT1403_0602,Máscara del Danzante de Rey Kiche de Chinique,876,649,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chinique.,34,832.91
+604,OBRA_GT1404_0603,Cuadro Primitivista sobre la Feria de Zacualpa,370,378,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zacualpa.,19,5810.22
+605,OBRA_GT1405_0604,Marimba de Hormigo Sencilla de de Chajul,575,636,504,Marimba tradicional afinada acústicamente de madera noble fabricada en Chajul.,71,7592.44
+606,OBRA_GT1406_0605,Jarra utilitaria de Barro Rojo de Chichicastenango,55,673,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chichicastenango.,84,8480.95
+607,OBRA_GT1407_0606,Escultura en Jadeita de deidad Maya de Patzité,1014,140,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Patzité.,13,1605.29
+608,OBRA_GT1408_0607,Canasta decorativa de Mimbre de de San Antonio Ilotenango,262,983,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Antonio Ilotenango.,54,1555.31
+609,OBRA_GT1409_0608,Huipil Ceremonial Tradicional de San Pedro Jocopilas,282,433,567,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Pedro Jocopilas.,64,4139.73
+610,OBRA_GT1410_0609,Corte Jaspeado de Algodón de Cunén,915,545,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Cunén.,70,3467.32
+611,OBRA_GT1411_0610,Máscara del Danzante de Venado de San Juan Cotzal,688,553,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Juan Cotzal.,70,4395.58
+612,OBRA_GT1412_0611,Cuadro Primitivista sobre la Feria de Joyabaj,669,360,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Joyabaj.,90,7501.39
+613,OBRA_GT1413_0612,Marimba de Hormigo Sencilla de de Nebaj,497,480,866,Marimba tradicional afinada acústicamente de madera noble fabricada en Nebaj.,85,2062.16
+614,OBRA_GT1414_0613,Jarra utilitaria de Barro Rojo de San Andrés Sajcabajá,111,465,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Andrés Sajcabajá.,76,5089.73
+615,OBRA_GT1415_0614,Escultura en Jadeita de deidad Maya de Uspantán,327,20,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Uspantán.,58,2077.5
+616,OBRA_GT1416_0615,Canasta decorativa de Mimbre de de Sacapulas,993,142,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Sacapulas.,30,6381.83
+617,OBRA_GT1417_0616,Huipil Ceremonial Tradicional de San Bartolomé Jocotenango,484,962,968,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolomé Jocotenango.,63,8299.74
+618,OBRA_GT1418_0617,Corte Jaspeado de Algodón de Canillá,794,79,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Canillá.,64,5366.76
+619,OBRA_GT1419_0618,Máscara del Danzante de Tecún Umán de Chicamán,356,793,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chicamán.,7,5457.76
+620,OBRA_GT1420_0619,Cuadro Primitivista sobre la Feria de Ixcán,360,13,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Ixcán.,14,5407.18
+621,OBRA_GT1421_0620,Marimba de Hormigo Sencilla de de Pachalum,773,324,761,Marimba tradicional afinada acústicamente de madera noble fabricada en Pachalum.,61,5753.43
+622,OBRA_GT1501_0621,Jarra utilitaria de Barro Rojo de Salamá,721,135,,Vasija tradicional moldeada a mano y cocida en horno de leña en Salamá.,59,8411.64
+623,OBRA_GT1502_0622,Escultura en Jadeita de deidad Maya de San Miguel Chicaj,14,1019,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Miguel Chicaj.,45,3422.8
+624,OBRA_GT1503_0623,Canasta decorativa de Mimbre de de Rabinal,868,111,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Rabinal.,76,3381.97
+625,OBRA_GT1504_0624,Huipil Ceremonial Tradicional de Cubulco,579,201,379,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Cubulco.,13,3258.56
+626,OBRA_GT1505_0625,Corte Jaspeado de Algodón de Granados,772,121,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Granados.,43,3091.15
+627,OBRA_GT1506_0626,Máscara del Danzante de Pascarín de El Chol,346,233,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de El Chol.,87,7912.12
+628,OBRA_GT1507_0627,Cuadro Primitivista sobre la Feria de San Jerónimo,903,311,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Jerónimo.,13,5846.84
+629,OBRA_GT1508_0628,Marimba de Hormigo Sencilla de de Purulhá,44,486,128,Marimba tradicional afinada acústicamente de madera noble fabricada en Purulhá.,90,3171.53
+630,OBRA_GT0401_0629,Jarra utilitaria de Barro Rojo de Chimaltenango,4,317,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chimaltenango.,53,1946.13
+631,OBRA_GT0402_0630,Escultura en Jadeita de deidad Maya de San José Poaquil,17,933,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San José Poaquil.,9,2447.8
+632,OBRA_GT0403_0631,Canasta decorativa de Mimbre de de San Martín Jilotepeque,30,105,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Martín Jilotepeque.,79,1584.76
+633,OBRA_GT0404_0632,Huipil Ceremonial Tradicional de Comalapa,31,603,430,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Comalapa.,29,1884.4
+634,OBRA_GT0405_0633,Corte Jaspeado de Algodón de Santa Apolonia,42,212,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Apolonia.,58,6771.81
+635,OBRA_GT0406_0634,Máscara del Danzante de Cacique de Tecpán Guatemala,55,34,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tecpán Guatemala.,86,2729.89
+636,OBRA_GT0407_0635,Cuadro Primitivista sobre la Feria de Patzún,69,662,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Patzún.,61,3612.68
+637,OBRA_GT0408_0636,Marimba de Hormigo Sencilla de de Pochuta,78,794,628,Marimba tradicional afinada acústicamente de madera noble fabricada en Pochuta.,32,8352.87
+638,OBRA_GT0409_0637,Jarra utilitaria de Barro Rojo de Patzicía,84,74,,Vasija tradicional moldeada a mano y cocida en horno de leña en Patzicía.,49,981.57
+639,OBRA_GT0410_0638,Escultura en Jadeita de deidad Maya de Santa Cruz Balanyá,97,30,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa Cruz Balanyá.,52,3595.28
+640,OBRA_GT0411_0639,Canasta decorativa de Mimbre de de Acatenango,110,73,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Acatenango.,37,6559.63
+641,OBRA_GT0412_0640,Huipil Ceremonial Tradicional de Yepocapa,111,665,363,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,82,3624.51
+642,OBRA_GT0413_0641,Corte Jaspeado de Algodón de San Andrés Itzapa,122,917,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,43,5857.45
+643,OBRA_GT0414_0642,Máscara del Danzante de Alvarado de Parramos,135,492,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,89,3650.69
+644,OBRA_GT0415_0643,Cuadro Primitivista sobre la Feria de Zaragoza,149,112,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,37,5628.07
+645,OBRA_GT0416_0644,Marimba de Hormigo Sencilla de de El Tejar,158,834,496,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,27,7036.78
+646,OBRA_GT0700_0645,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,376,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,37,4709.83
+647,OBRA_GT0701_0646,Escultura en Jadeita de deidad Maya de Sololá,177,741,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,58,3639.89
+648,OBRA_GT0702_0647,Canasta decorativa de Mimbre de de San José Chacayá,190,489,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,54,8360.18
+649,OBRA_GT0703_0648,Huipil Ceremonial Tradicional de Santa María Visitación,191,582,490,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,42,3732.96
+650,OBRA_GT0704_0649,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,741,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,79,3295.36
+651,OBRA_GT0705_0650,Máscara del Danzante de Tecún Umán de Nahualá,215,513,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,5,7006.22
+652,OBRA_GT0706_0651,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,594,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,86,3254.45
+653,OBRA_GT0707_0652,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,430,213,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,26,4390.29
+654,OBRA_GT0708_0653,Jarra utilitaria de Barro Rojo de Concepción,244,325,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,89,2451.26
+655,OBRA_GT0709_0654,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,724,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,16,7820.77
+656,OBRA_GT0710_0655,Canasta decorativa de Mimbre de de Panajachel,270,77,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,23,5115.94
+657,OBRA_GT0711_0656,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,944,211,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,49,2086.98
+658,OBRA_GT0712_0657,Corte Jaspeado de Algodón de San Antonio Palopó,282,767,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,79,2299.93
+659,OBRA_GT0713_0658,Máscara del Danzante de Español de San Lucas Tolimán,295,769,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,22,2329.77
+660,OBRA_GT0714_0659,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,691,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,42,2391.09
+661,OBRA_GT0715_0660,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,733,793,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,19,6645.36
+662,OBRA_GT0716_0661,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,712,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,7,4322.46
+663,OBRA_GT0717_0662,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,969,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,29,1374.93
+664,OBRA_GT0718_0663,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,599,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,77,7385.8
+665,OBRA_GT0719_0664,Huipil Ceremonial Tradicional de Santiago Atitlán,351,648,589,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,12,3432.64
+666,OBRA_GT0801_0665,Corte Jaspeado de Algodón de Totonicapán,362,924,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,6,3612.1
+667,OBRA_GT0802_0666,Máscara del Danzante de Torito de San Cristóbal Totonicapán,375,89,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,6,4087.79
+668,OBRA_GT0803_0667,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,619,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,45,8467.09
+669,OBRA_GT0804_0668,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,414,685,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,9,8473.04
+670,OBRA_GT0805_0669,Jarra utilitaria de Barro Rojo de Momostenango,404,771,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,41,1253.86
+671,OBRA_GT0806_0670,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,391,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,44,4668.73
+672,OBRA_GT0807_0671,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,485,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,31,6363.15
+673,OBRA_GT0808_0672,Huipil Ceremonial Tradicional de San Bartolo,431,521,80,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,68,8042.81
+674,OBRA_GT0901_0673,Corte Jaspeado de Algodón de Quetzaltenango,442,121,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,18,4880.38
+675,OBRA_GT0902_0674,Máscara del Danzante de Gigante de Salcajá,455,695,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,47,963.61
+676,OBRA_GT0903_0675,Cuadro Primitivista sobre la Feria de Olintepeque,469,783,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,31,4902.51
+677,OBRA_GT0904_0676,Marimba de Hormigo Sencilla de de San Carlos Sija,478,515,548,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,82,1332.42
+678,OBRA_GT0905_0677,Jarra utilitaria de Barro Rojo de Sibilia,484,35,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,23,745.71
+679,OBRA_GT0906_0678,Escultura en Jadeita de deidad Maya de Cabricán,497,742,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,3,8476.09
+680,OBRA_GT0907_0679,Canasta decorativa de Mimbre de de Cajolá,510,409,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,79,7609.99
+681,OBRA_GT0908_0680,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,392,746,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,76,6204.44
+682,OBRA_GT0909_0681,Corte Jaspeado de Algodón de Ostuncalco,522,636,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,12,3040.06
+683,OBRA_GT0910_0682,Máscara del Danzante de Gigante de San Mateo,535,367,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,27,8202.73
+684,OBRA_GT0911_0683,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,397,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,62,1941.32
+685,OBRA_GT0912_0684,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,145,858,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,35,5636.05
+686,OBRA_GT0913_0685,Jarra utilitaria de Barro Rojo de Almolonga,564,588,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,16,6036.58
+687,OBRA_GT0914_0686,Escultura en Jadeita de deidad Maya de Cantel,577,868,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,7,1618.44
+688,OBRA_GT0915_0687,Canasta decorativa de Mimbre de de Huitán,590,875,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,87,7180.97
+689,OBRA_GT0916_0688,Huipil Ceremonial Tradicional de Zunil,591,85,5,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,46,236.32
+690,OBRA_GT0917_0689,Corte Jaspeado de Algodón de Colomba,602,907,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,22,2916.55
+691,OBRA_GT0918_0690,Máscara del Danzante de Diablo de San Francisco La Unión,615,649,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,6,3843.47
+692,OBRA_GT0919_0691,Cuadro Primitivista sobre la Feria de El Palmar,629,479,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,68,2686.8
+693,OBRA_GT0920_0692,Marimba de Hormigo Sencilla de de Coatepeque,638,349,687,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,8,1827.85
+694,OBRA_GT0921_0693,Jarra utilitaria de Barro Rojo de Génova,644,686,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,34,2036.93
+695,OBRA_GT0922_0694,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,115,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,10,2557.95
+696,OBRA_GT0923_0695,Canasta decorativa de Mimbre de de La Esperanza,670,626,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,3,6115.15
+697,OBRA_GT0924_0696,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,294,509,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,77,7969.3
+698,OBRA_GT1201_0697,Corte Jaspeado de Algodón de San Marcos,682,961,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,34,6181.62
+699,OBRA_GT1202_0698,Máscara del Danzante de Rey Kiche de San Pedro Sacatepéquez,695,46,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,17,7283.42
+700,OBRA_GT1203_0699,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,24,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,75,4090.6
+701,OBRA_GT1204_0700,Marimba de Hormigo Sencilla de de Comitancillo,718,118,800,Marimba tradicional afinada acústicamente de madera noble fabricada en Comitancillo.,42,7856.14
+702,OBRA_GT1205_0701,Jarra utilitaria de Barro Rojo de San Miguel Ixtahuacán,724,671,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Miguel Ixtahuacán.,57,3422.67
+703,OBRA_GT1206_0702,Escultura en Jadeita de deidad Maya de Concepción Tutuapa,737,59,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Concepción Tutuapa.,16,4365.43
+704,OBRA_GT1207_0703,Canasta decorativa de Mimbre de de Tacaná,750,418,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Tacaná.,15,6244.31
+705,OBRA_GT1208_0704,Huipil Ceremonial Tradicional de Sibinal,751,137,924,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Sibinal.,18,7789.67
+706,OBRA_GT1209_0705,Corte Jaspeado de Algodón de Tajumulco,762,1003,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Tajumulco.,12,5874.9
+707,OBRA_GT1210_0706,Máscara del Danzante de Venado de Tejutla,775,280,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tejutla.,26,1535.65
+708,OBRA_GT1211_0707,Cuadro Primitivista sobre la Feria de San Rafael Pie de la Cuesta,789,593,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Rafael Pie de la Cuesta.,3,6183.42
+709,OBRA_GT1212_0708,Marimba de Hormigo Sencilla de de Nuevo Progreso,798,170,52,Marimba tradicional afinada acústicamente de madera noble fabricada en Nuevo Progreso.,56,5061.06
+710,OBRA_GT1213_0709,Jarra utilitaria de Barro Rojo de El Tumbador,804,710,,Vasija tradicional moldeada a mano y cocida en horno de leña en El Tumbador.,62,688.64
+711,OBRA_GT1214_0710,Escultura en Jadeita de deidad Maya de El Rodeo,817,926,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de El Rodeo.,63,8056.43
+712,OBRA_GT1215_0711,Canasta decorativa de Mimbre de de Malacatán,830,615,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Malacatán.,59,3734.83
+713,OBRA_GT1216_0712,Huipil Ceremonial Tradicional de Catarina,831,6,299,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Catarina.,31,2203.74
+714,OBRA_GT1217_0713,Corte Jaspeado de Algodón de Ayutla,842,577,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ayutla.,14,4517.61
+715,OBRA_GT1218_0714,Máscara del Danzante de Mexicano de Ocós,855,2,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Ocós.,83,186.47
+716,OBRA_GT1219_0715,Cuadro Primitivista sobre la Feria de San Pablo,869,465,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Pablo.,82,6220.42
+717,OBRA_GT1220_0716,Marimba de Hormigo Sencilla de de El Quetzal,878,465,232,Marimba tradicional afinada acústicamente de madera noble fabricada en El Quetzal.,82,7863.99
+718,OBRA_GT1221_0717,Jarra utilitaria de Barro Rojo de La Reforma,884,52,,Vasija tradicional moldeada a mano y cocida en horno de leña en La Reforma.,48,5072.15
+719,OBRA_GT1222_0718,Escultura en Jadeita de deidad Maya de Pajapita,897,928,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Pajapita.,61,3859.21
+720,OBRA_GT1223_0719,Canasta decorativa de Mimbre de de Ixchiguán,910,770,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixchiguán.,72,1798.12
+721,OBRA_GT1224_0720,Huipil Ceremonial Tradicional de San José Ojetenam,911,576,729,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San José Ojetenam.,67,4160.55
+722,OBRA_GT1225_0721,Corte Jaspeado de Algodón de San Cristóbal Cucho,922,753,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Cristóbal Cucho.,66,7517.04
+723,OBRA_GT1226_0722,Máscara del Danzante de Mexicano de Sipacapa,935,301,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Sipacapa.,36,1728.27
+724,OBRA_GT1227_0723,Cuadro Primitivista sobre la Feria de Esquipulas Palo Gordo,949,523,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Esquipulas Palo Gordo.,23,4180.02
+725,OBRA_GT1228_0724,Marimba de Hormigo Sencilla de de Río Blanco,958,284,342,Marimba tradicional afinada acústicamente de madera noble fabricada en Río Blanco.,36,2885.43
+726,OBRA_GT1229_0725,Jarra utilitaria de Barro Rojo de San Lorenzo,964,758,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Lorenzo.,13,5180.79
+727,OBRA_GT1230_0726,Escultura en Jadeita de deidad Maya de La Blanca,977,87,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de La Blanca.,55,2322.29
+728,OBRA_GT1301_0727,Canasta decorativa de Mimbre de de Huehuetenango,990,506,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huehuetenango.,8,3396.46
+729,OBRA_GT1302_0728,Huipil Ceremonial Tradicional de Chiantla,991,942,381,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Chiantla.,77,2604.81
+730,OBRA_GT1303_0729,Corte Jaspeado de Algodón de Malacatancito,1002,127,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Malacatancito.,44,7523.52
+731,OBRA_GT1304_0730,Máscara del Danzante de Torito de Cuilco,1015,40,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Cuilco.,11,833.7
+732,OBRA_GT1305_0731,Cuadro Primitivista sobre la Feria de Nentón,115,373,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Nentón.,88,880.37
+733,OBRA_GT1306_0732,Marimba de Hormigo Sencilla de de San Pedro Necta,46,882,191,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pedro Necta.,70,5970.16
+734,OBRA_GT1307_0733,Jarra utilitaria de Barro Rojo de Jacaltenango,90,478,,Vasija tradicional moldeada a mano y cocida en horno de leña en Jacaltenango.,68,5350.78
+735,OBRA_GT1308_0734,Escultura en Jadeita de deidad Maya de Soloma,347,344,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Soloma.,69,3140.03
+736,OBRA_GT1309_0735,Canasta decorativa de Mimbre de de Ixtahuacán,865,429,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixtahuacán.,81,8044.29
+737,OBRA_GT1310_0736,Huipil Ceremonial Tradicional de Santa Bárbara,511,919,484,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Bárbara.,81,1600.45
+738,OBRA_GT1311_0737,Corte Jaspeado de Algodón de La Libertad,96,597,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie La Libertad.,4,4426.58
+739,OBRA_GT1312_0738,Máscara del Danzante de Diablo de La Democracia,428,900,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de La Democracia.,41,6762.16
+740,OBRA_GT1313_0739,Cuadro Primitivista sobre la Feria de San Miguel Acatán,884,948,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Miguel Acatán.,18,7278.43
+741,OBRA_GT1314_0740,Marimba de Hormigo Sencilla de de San Rafael La Independencia,962,728,542,Marimba tradicional afinada acústicamente de madera noble fabricada en San Rafael La Independencia.,80,7300.76
+742,OBRA_GT1315_0741,Jarra utilitaria de Barro Rojo de Todos Santos Cuchumatán,374,172,,Vasija tradicional moldeada a mano y cocida en horno de leña en Todos Santos Cuchumatán.,3,616.76
+743,OBRA_GT1316_0742,Escultura en Jadeita de deidad Maya de San Juan Atitán,684,816,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan Atitán.,69,319.66
+744,OBRA_GT1317_0743,Canasta decorativa de Mimbre de de Santa Eulalia,637,259,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Eulalia.,32,2937.41
+745,OBRA_GT1318_0744,Huipil Ceremonial Tradicional de San Mateo Ixtatán,1016,704,25,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Mateo Ixtatán.,56,8054.98
+746,OBRA_GT1319_0745,Corte Jaspeado de Algodón de Colotenango,487,906,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colotenango.,26,5670.88
+747,OBRA_GT1320_0746,Máscara del Danzante de Mexicano de San Sebastián Huehuetenango,560,366,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Sebastián Huehuetenango.,12,3487.13
+748,OBRA_GT1321_0747,Cuadro Primitivista sobre la Feria de Tectitán,251,173,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Tectitán.,25,6505.1
+749,OBRA_GT1322_0748,Marimba de Hormigo Sencilla de de Concepción Huista,192,232,967,Marimba tradicional afinada acústicamente de madera noble fabricada en Concepción Huista.,20,3432.2
+750,OBRA_GT1323_0749,Jarra utilitaria de Barro Rojo de San Juan Ixcoy,367,716,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Juan Ixcoy.,9,5215.98
+751,OBRA_GT1324_0750,Escultura en Jadeita de deidad Maya de San Antonio Huista,3,985,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Antonio Huista.,49,4289.83
+752,OBRA_GT1325_0751,Canasta decorativa de Mimbre de de San Sebastián Coatán,403,876,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Sebastián Coatán.,11,245.89
+753,OBRA_GT1326_0752,Huipil Ceremonial Tradicional de Barillas,708,706,205,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Barillas.,48,2974.84
+754,OBRA_GT1327_0753,Corte Jaspeado de Algodón de Aguacatán,492,961,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Aguacatán.,17,5016.56
+755,OBRA_GT1328_0754,Máscara del Danzante de Venado de San Rafael Petzal,44,857,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Rafael Petzal.,82,5830.34
+756,OBRA_GT1329_0755,Cuadro Primitivista sobre la Feria de San Gaspar Ixchil,970,50,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Gaspar Ixchil.,57,3400.3
+757,OBRA_GT1330_0756,Marimba de Hormigo Sencilla de de Santiago Chimaltenango,772,242,27,Marimba tradicional afinada acústicamente de madera noble fabricada en Santiago Chimaltenango.,78,4731.06
+758,OBRA_GT1331_0757,Jarra utilitaria de Barro Rojo de Santa Ana Huista,226,95,,Vasija tradicional moldeada a mano y cocida en horno de leña en Santa Ana Huista.,29,1533.85
+759,OBRA_GT1332_0758,Escultura en Jadeita de deidad Maya de Unión Cantinil,385,44,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Unión Cantinil.,37,6007.52
+760,OBRA_GT1333_0759,Canasta decorativa de Mimbre de de Petatán,415,848,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Petatán.,21,1956.37
+761,OBRA_GT1401_0760,Huipil Ceremonial Tradicional de Santa Cruz del Quiché,34,688,636,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Cruz del Quiché.,62,2771.42
+762,OBRA_GT1402_0761,Corte Jaspeado de Algodón de Chiché,806,990,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Chiché.,29,7858.09
+763,OBRA_GT1403_0762,Máscara del Danzante de Diablo de Chinique,779,888,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chinique.,9,5827.06
+764,OBRA_GT1404_0763,Cuadro Primitivista sobre la Feria de Zacualpa,675,942,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zacualpa.,67,8166.04
+765,OBRA_GT1405_0764,Marimba de Hormigo Sencilla de de Chajul,411,159,559,Marimba tradicional afinada acústicamente de madera noble fabricada en Chajul.,86,1022.57
+766,OBRA_GT1406_0765,Jarra utilitaria de Barro Rojo de Chichicastenango,790,54,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chichicastenango.,73,1133.45
+767,OBRA_GT1407_0766,Escultura en Jadeita de deidad Maya de Patzité,470,994,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Patzité.,26,8023.82
+768,OBRA_GT1408_0767,Canasta decorativa de Mimbre de de San Antonio Ilotenango,63,13,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Antonio Ilotenango.,41,6919.34
+769,OBRA_GT1409_0768,Huipil Ceremonial Tradicional de San Pedro Jocopilas,244,637,793,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Pedro Jocopilas.,17,2284.92
+770,OBRA_GT1410_0769,Corte Jaspeado de Algodón de Cunén,511,860,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Cunén.,19,386.69
+771,OBRA_GT1411_0770,Máscara del Danzante de Diablo de San Juan Cotzal,115,982,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Juan Cotzal.,12,181.47
+772,OBRA_GT1412_0771,Cuadro Primitivista sobre la Feria de Joyabaj,960,647,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Joyabaj.,71,7642.54
+773,OBRA_GT1413_0772,Marimba de Hormigo Sencilla de de Nebaj,399,295,630,Marimba tradicional afinada acústicamente de madera noble fabricada en Nebaj.,64,2286.4
+774,OBRA_GT1414_0773,Jarra utilitaria de Barro Rojo de San Andrés Sajcabajá,204,225,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Andrés Sajcabajá.,79,2716.05
+775,OBRA_GT1415_0774,Escultura en Jadeita de deidad Maya de Uspantán,995,50,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Uspantán.,30,3602.29
+776,OBRA_GT1416_0775,Canasta decorativa de Mimbre de de Sacapulas,393,737,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Sacapulas.,70,5251.34
+777,OBRA_GT1417_0776,Huipil Ceremonial Tradicional de San Bartolomé Jocotenango,504,909,453,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolomé Jocotenango.,80,4314.88
+778,OBRA_GT1418_0777,Corte Jaspeado de Algodón de Canillá,941,105,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Canillá.,79,8488.83
+779,OBRA_GT1419_0778,Máscara del Danzante de Conquistador de Chicamán,40,54,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chicamán.,9,8016.82
+780,OBRA_GT1420_0779,Cuadro Primitivista sobre la Feria de Ixcán,220,522,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Ixcán.,58,2417.81
+781,OBRA_GT1421_0780,Marimba de Hormigo Sencilla de de Pachalum,936,196,1018,Marimba tradicional afinada acústicamente de madera noble fabricada en Pachalum.,88,1478.66
+782,OBRA_GT1501_0781,Jarra utilitaria de Barro Rojo de Salamá,77,362,,Vasija tradicional moldeada a mano y cocida en horno de leña en Salamá.,32,5937.22
+783,OBRA_GT1502_0782,Escultura en Jadeita de deidad Maya de San Miguel Chicaj,805,679,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Miguel Chicaj.,45,2236.16
+784,OBRA_GT1503_0783,Canasta decorativa de Mimbre de de Rabinal,54,247,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Rabinal.,5,6441.01
+785,OBRA_GT1504_0784,Huipil Ceremonial Tradicional de Cubulco,431,7,701,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Cubulco.,9,613.26
+786,OBRA_GT1505_0785,Corte Jaspeado de Algodón de Granados,449,61,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Granados.,54,4052.03
+787,OBRA_GT1506_0786,Máscara del Danzante de Torito de El Chol,165,713,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de El Chol.,90,4857.84
+788,OBRA_GT1507_0787,Cuadro Primitivista sobre la Feria de San Jerónimo,36,125,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Jerónimo.,80,8063.19
+789,OBRA_GT1508_0788,Marimba de Hormigo Sencilla de de Purulhá,955,60,436,Marimba tradicional afinada acústicamente de madera noble fabricada en Purulhá.,24,1154.3
+790,OBRA_GT0401_0789,Jarra utilitaria de Barro Rojo de Chimaltenango,4,741,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chimaltenango.,83,7284.16
+791,OBRA_GT0402_0790,Escultura en Jadeita de deidad Maya de San José Poaquil,17,770,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San José Poaquil.,83,6319.37
+792,OBRA_GT0403_0791,Canasta decorativa de Mimbre de de San Martín Jilotepeque,30,455,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Martín Jilotepeque.,43,306.6
+793,OBRA_GT0404_0792,Huipil Ceremonial Tradicional de Comalapa,31,509,276,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Comalapa.,52,5665.64
+794,OBRA_GT0405_0793,Corte Jaspeado de Algodón de Santa Apolonia,42,652,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Apolonia.,24,2203.73
+795,OBRA_GT0406_0794,Máscara del Danzante de Mexicano de Tecpán Guatemala,55,363,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tecpán Guatemala.,68,4934.02
+796,OBRA_GT0407_0795,Cuadro Primitivista sobre la Feria de Patzún,69,13,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Patzún.,34,969.01
+797,OBRA_GT0408_0796,Marimba de Hormigo Sencilla de de Pochuta,78,993,565,Marimba tradicional afinada acústicamente de madera noble fabricada en Pochuta.,14,1135.72
+798,OBRA_GT0409_0797,Jarra utilitaria de Barro Rojo de Patzicía,84,469,,Vasija tradicional moldeada a mano y cocida en horno de leña en Patzicía.,37,4891.21
+799,OBRA_GT0410_0798,Escultura en Jadeita de deidad Maya de Santa Cruz Balanyá,97,687,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa Cruz Balanyá.,26,6523.78
+800,OBRA_GT0411_0799,Canasta decorativa de Mimbre de de Acatenango,110,1007,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Acatenango.,26,7094.22
+801,OBRA_GT0412_0800,Huipil Ceremonial Tradicional de Yepocapa,111,526,804,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,38,1289.46
+802,OBRA_GT0413_0801,Corte Jaspeado de Algodón de San Andrés Itzapa,122,678,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,23,1399.47
+803,OBRA_GT0414_0802,Máscara del Danzante de Venado de Parramos,135,430,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,62,6392.9
+804,OBRA_GT0415_0803,Cuadro Primitivista sobre la Feria de Zaragoza,149,487,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,53,534.8
+805,OBRA_GT0416_0804,Marimba de Hormigo Sencilla de de El Tejar,158,261,1013,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,53,6815.54
+806,OBRA_GT0700_0805,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,594,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,68,6427.95
+807,OBRA_GT0701_0806,Escultura en Jadeita de deidad Maya de Sololá,177,706,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,32,5948.73
+808,OBRA_GT0702_0807,Canasta decorativa de Mimbre de de San José Chacayá,190,153,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,15,413.52
+809,OBRA_GT0703_0808,Huipil Ceremonial Tradicional de Santa María Visitación,191,483,200,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,10,3516.38
+810,OBRA_GT0704_0809,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,818,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,46,7732.56
+811,OBRA_GT0705_0810,Máscara del Danzante de Venado de Nahualá,215,157,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,52,572.38
+812,OBRA_GT0706_0811,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,139,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,9,5611.01
+813,OBRA_GT0707_0812,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,451,662,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,85,5011.51
+814,OBRA_GT0708_0813,Jarra utilitaria de Barro Rojo de Concepción,244,526,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,65,5435.47
+815,OBRA_GT0709_0814,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,426,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,89,5836.63
+816,OBRA_GT0710_0815,Canasta decorativa de Mimbre de de Panajachel,270,937,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,26,7655.0
+817,OBRA_GT0711_0816,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,316,864,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,43,6631.58
+818,OBRA_GT0712_0817,Corte Jaspeado de Algodón de San Antonio Palopó,282,897,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,80,5275.03
+819,OBRA_GT0713_0818,Máscara del Danzante de Conquistador de San Lucas Tolimán,295,343,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,85,1063.75
+820,OBRA_GT0714_0819,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,583,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,19,474.82
+821,OBRA_GT0715_0820,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,210,669,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,6,2183.1
+822,OBRA_GT0716_0821,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,1000,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,84,3500.74
+823,OBRA_GT0717_0822,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,358,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,22,2659.6
+824,OBRA_GT0718_0823,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,159,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,26,2541.65
+825,OBRA_GT0719_0824,Huipil Ceremonial Tradicional de Santiago Atitlán,351,287,714,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,9,2244.42
+826,OBRA_GT0801_0825,Corte Jaspeado de Algodón de Totonicapán,362,533,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,15,5672.22
+827,OBRA_GT0802_0826,Máscara del Danzante de Mexicano de San Cristóbal Totonicapán,375,691,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,34,217.15
+828,OBRA_GT0803_0827,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,457,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,32,6722.56
+829,OBRA_GT0804_0828,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,70,164,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,34,7738.73
+830,OBRA_GT0805_0829,Jarra utilitaria de Barro Rojo de Momostenango,404,527,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,33,6020.05
+831,OBRA_GT0806_0830,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,948,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,78,6945.76
+832,OBRA_GT0807_0831,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,84,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,64,2833.68
+833,OBRA_GT0808_0832,Huipil Ceremonial Tradicional de San Bartolo,431,355,175,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,18,768.89
+834,OBRA_GT0901_0833,Corte Jaspeado de Algodón de Quetzaltenango,442,309,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,7,3076.7
+835,OBRA_GT0902_0834,Máscara del Danzante de Diablo de Salcajá,455,813,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,21,493.11
+836,OBRA_GT0903_0835,Cuadro Primitivista sobre la Feria de Olintepeque,469,930,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,4,1651.03
+837,OBRA_GT0904_0836,Marimba de Hormigo Sencilla de de San Carlos Sija,478,187,912,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,81,436.37
+838,OBRA_GT0905_0837,Jarra utilitaria de Barro Rojo de Sibilia,484,806,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,16,6962.32
+839,OBRA_GT0906_0838,Escultura en Jadeita de deidad Maya de Cabricán,497,4,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,43,962.87
+840,OBRA_GT0907_0839,Canasta decorativa de Mimbre de de Cajolá,510,808,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,65,8382.25
+841,OBRA_GT0908_0840,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,52,879,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,27,7896.97
+842,OBRA_GT0909_0841,Corte Jaspeado de Algodón de Ostuncalco,522,400,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,19,2404.78
+843,OBRA_GT0910_0842,Máscara del Danzante de Gigante de San Mateo,535,359,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,26,2346.1
+844,OBRA_GT0911_0843,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,654,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,29,2908.82
+845,OBRA_GT0912_0844,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,281,189,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,54,4389.51
+846,OBRA_GT0913_0845,Jarra utilitaria de Barro Rojo de Almolonga,564,333,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,67,7383.53
+847,OBRA_GT0914_0846,Escultura en Jadeita de deidad Maya de Cantel,577,30,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,8,3629.73
+848,OBRA_GT0915_0847,Canasta decorativa de Mimbre de de Huitán,590,457,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,55,4201.81
+849,OBRA_GT0916_0848,Huipil Ceremonial Tradicional de Zunil,591,828,572,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,9,5518.48
+850,OBRA_GT0917_0849,Corte Jaspeado de Algodón de Colomba,602,60,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,13,2631.65
+851,OBRA_GT0918_0850,Máscara del Danzante de Torito de San Francisco La Unión,615,92,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,67,1773.01
+852,OBRA_GT0919_0851,Cuadro Primitivista sobre la Feria de El Palmar,629,813,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,78,3844.8
+853,OBRA_GT0920_0852,Marimba de Hormigo Sencilla de de Coatepeque,638,47,174,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,10,5136.74
+854,OBRA_GT0921_0853,Jarra utilitaria de Barro Rojo de Génova,644,841,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,47,1439.85
+855,OBRA_GT0922_0854,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,601,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,27,5204.23
+856,OBRA_GT0923_0855,Canasta decorativa de Mimbre de de La Esperanza,670,368,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,59,961.13
+857,OBRA_GT0924_0856,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,338,1003,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,53,6900.21
+858,OBRA_GT1201_0857,Corte Jaspeado de Algodón de San Marcos,682,805,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,45,7563.16
+859,OBRA_GT1202_0858,Máscara del Danzante de Español de San Pedro Sacatepéquez,695,114,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,71,6890.53
+860,OBRA_GT1203_0859,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,647,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,38,619.18
+861,OBRA_GT1204_0860,Marimba de Hormigo Sencilla de de Comitancillo,718,633,677,Marimba tradicional afinada acústicamente de madera noble fabricada en Comitancillo.,37,718.52
+862,OBRA_GT1205_0861,Jarra utilitaria de Barro Rojo de San Miguel Ixtahuacán,724,373,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Miguel Ixtahuacán.,60,5741.82
+863,OBRA_GT1206_0862,Escultura en Jadeita de deidad Maya de Concepción Tutuapa,737,579,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Concepción Tutuapa.,39,3287.73
+864,OBRA_GT1207_0863,Canasta decorativa de Mimbre de de Tacaná,750,735,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Tacaná.,16,2791.56
+865,OBRA_GT1208_0864,Huipil Ceremonial Tradicional de Sibinal,751,731,94,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Sibinal.,27,5927.82
+866,OBRA_GT1209_0865,Corte Jaspeado de Algodón de Tajumulco,762,203,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Tajumulco.,67,6583.56
+867,OBRA_GT1210_0866,Máscara del Danzante de Conquistador de Tejutla,775,216,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tejutla.,10,804.44
+868,OBRA_GT1211_0867,Cuadro Primitivista sobre la Feria de San Rafael Pie de la Cuesta,789,275,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Rafael Pie de la Cuesta.,77,1758.8
+869,OBRA_GT1212_0868,Marimba de Hormigo Sencilla de de Nuevo Progreso,798,252,459,Marimba tradicional afinada acústicamente de madera noble fabricada en Nuevo Progreso.,80,5856.51
+870,OBRA_GT1213_0869,Jarra utilitaria de Barro Rojo de El Tumbador,804,426,,Vasija tradicional moldeada a mano y cocida en horno de leña en El Tumbador.,23,6039.3
+871,OBRA_GT1214_0870,Escultura en Jadeita de deidad Maya de El Rodeo,817,467,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de El Rodeo.,3,2391.16
+872,OBRA_GT1215_0871,Canasta decorativa de Mimbre de de Malacatán,830,781,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Malacatán.,42,1039.8
+873,OBRA_GT1216_0872,Huipil Ceremonial Tradicional de Catarina,831,370,183,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Catarina.,81,2931.47
+874,OBRA_GT1217_0873,Corte Jaspeado de Algodón de Ayutla,842,627,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ayutla.,29,3791.44
+875,OBRA_GT1218_0874,Máscara del Danzante de Rey Kiche de Ocós,855,64,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Ocós.,44,3441.81
+876,OBRA_GT1219_0875,Cuadro Primitivista sobre la Feria de San Pablo,869,313,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Pablo.,27,6882.03
+877,OBRA_GT1220_0876,Marimba de Hormigo Sencilla de de El Quetzal,878,523,124,Marimba tradicional afinada acústicamente de madera noble fabricada en El Quetzal.,88,6852.94
+878,OBRA_GT1221_0877,Jarra utilitaria de Barro Rojo de La Reforma,884,93,,Vasija tradicional moldeada a mano y cocida en horno de leña en La Reforma.,26,2819.94
+879,OBRA_GT1222_0878,Escultura en Jadeita de deidad Maya de Pajapita,897,241,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Pajapita.,14,5377.73
+880,OBRA_GT1223_0879,Canasta decorativa de Mimbre de de Ixchiguán,910,855,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixchiguán.,23,4391.16
+881,OBRA_GT1224_0880,Huipil Ceremonial Tradicional de San José Ojetenam,911,22,542,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San José Ojetenam.,83,5306.84
+882,OBRA_GT1225_0881,Corte Jaspeado de Algodón de San Cristóbal Cucho,922,685,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Cristóbal Cucho.,89,401.93
+883,OBRA_GT1226_0882,Máscara del Danzante de Español de Sipacapa,935,619,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Sipacapa.,10,605.11
+884,OBRA_GT1227_0883,Cuadro Primitivista sobre la Feria de Esquipulas Palo Gordo,949,809,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Esquipulas Palo Gordo.,13,6766.69
+885,OBRA_GT1228_0884,Marimba de Hormigo Sencilla de de Río Blanco,958,9,926,Marimba tradicional afinada acústicamente de madera noble fabricada en Río Blanco.,38,2387.22
+886,OBRA_GT1229_0885,Jarra utilitaria de Barro Rojo de San Lorenzo,964,265,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Lorenzo.,64,1469.0
+887,OBRA_GT1230_0886,Escultura en Jadeita de deidad Maya de La Blanca,977,114,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de La Blanca.,18,1113.2
+888,OBRA_GT1301_0887,Canasta decorativa de Mimbre de de Huehuetenango,990,541,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huehuetenango.,31,3937.84
+889,OBRA_GT1302_0888,Huipil Ceremonial Tradicional de Chiantla,991,30,536,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Chiantla.,7,6360.32
+890,OBRA_GT1303_0889,Corte Jaspeado de Algodón de Malacatancito,1002,948,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Malacatancito.,53,4973.4
+891,OBRA_GT1304_0890,Máscara del Danzante de Torito de Cuilco,1015,694,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Cuilco.,45,4010.11
+892,OBRA_GT1305_0891,Cuadro Primitivista sobre la Feria de Nentón,497,302,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Nentón.,21,2872.9
+893,OBRA_GT1306_0892,Marimba de Hormigo Sencilla de de San Pedro Necta,13,679,967,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pedro Necta.,28,7710.89
+894,OBRA_GT1307_0893,Jarra utilitaria de Barro Rojo de Jacaltenango,726,908,,Vasija tradicional moldeada a mano y cocida en horno de leña en Jacaltenango.,78,8007.89
+895,OBRA_GT1308_0894,Escultura en Jadeita de deidad Maya de Soloma,702,433,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Soloma.,37,1180.87
+896,OBRA_GT1309_0895,Canasta decorativa de Mimbre de de Ixtahuacán,550,970,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Ixtahuacán.,16,4120.34
+897,OBRA_GT1310_0896,Huipil Ceremonial Tradicional de Santa Bárbara,996,602,459,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Bárbara.,4,384.3
+898,OBRA_GT1311_0897,Corte Jaspeado de Algodón de La Libertad,719,709,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie La Libertad.,28,2126.73
+899,OBRA_GT1312_0898,Máscara del Danzante de Torito de La Democracia,394,489,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de La Democracia.,82,6340.37
+900,OBRA_GT1313_0899,Cuadro Primitivista sobre la Feria de San Miguel Acatán,141,552,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Miguel Acatán.,36,7340.23
+901,OBRA_GT1314_0900,Marimba de Hormigo Sencilla de de San Rafael La Independencia,193,586,688,Marimba tradicional afinada acústicamente de madera noble fabricada en San Rafael La Independencia.,72,1782.1
+902,OBRA_GT1315_0901,Jarra utilitaria de Barro Rojo de Todos Santos Cuchumatán,704,143,,Vasija tradicional moldeada a mano y cocida en horno de leña en Todos Santos Cuchumatán.,30,6909.71
+903,OBRA_GT1316_0902,Escultura en Jadeita de deidad Maya de San Juan Atitán,781,701,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan Atitán.,73,3784.24
+904,OBRA_GT1317_0903,Canasta decorativa de Mimbre de de Santa Eulalia,765,492,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Eulalia.,85,6772.81
+905,OBRA_GT1318_0904,Huipil Ceremonial Tradicional de San Mateo Ixtatán,198,359,878,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Mateo Ixtatán.,11,7341.81
+906,OBRA_GT1319_0905,Corte Jaspeado de Algodón de Colotenango,96,161,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colotenango.,83,3482.73
+907,OBRA_GT1320_0906,Máscara del Danzante de Conquistador de San Sebastián Huehuetenango,69,511,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Sebastián Huehuetenango.,3,6979.46
+908,OBRA_GT1321_0907,Cuadro Primitivista sobre la Feria de Tectitán,48,687,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Tectitán.,55,3270.56
+909,OBRA_GT1322_0908,Marimba de Hormigo Sencilla de de Concepción Huista,510,198,88,Marimba tradicional afinada acústicamente de madera noble fabricada en Concepción Huista.,65,530.44
+910,OBRA_GT1323_0909,Jarra utilitaria de Barro Rojo de San Juan Ixcoy,20,130,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Juan Ixcoy.,37,8033.91
+911,OBRA_GT1324_0910,Escultura en Jadeita de deidad Maya de San Antonio Huista,769,973,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Antonio Huista.,38,4099.86
+912,OBRA_GT1325_0911,Canasta decorativa de Mimbre de de San Sebastián Coatán,84,78,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Sebastián Coatán.,51,8315.7
+913,OBRA_GT1326_0912,Huipil Ceremonial Tradicional de Barillas,197,81,359,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Barillas.,77,3859.04
+914,OBRA_GT1327_0913,Corte Jaspeado de Algodón de Aguacatán,999,469,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Aguacatán.,9,5587.17
+915,OBRA_GT1328_0914,Máscara del Danzante de Alvarado de San Rafael Petzal,161,885,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Rafael Petzal.,72,8284.93
+916,OBRA_GT1329_0915,Cuadro Primitivista sobre la Feria de San Gaspar Ixchil,204,73,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Gaspar Ixchil.,38,4892.04
+917,OBRA_GT1330_0916,Marimba de Hormigo Sencilla de de Santiago Chimaltenango,869,164,910,Marimba tradicional afinada acústicamente de madera noble fabricada en Santiago Chimaltenango.,22,1762.6
+918,OBRA_GT1331_0917,Jarra utilitaria de Barro Rojo de Santa Ana Huista,657,623,,Vasija tradicional moldeada a mano y cocida en horno de leña en Santa Ana Huista.,83,2993.78
+919,OBRA_GT1332_0918,Escultura en Jadeita de deidad Maya de Unión Cantinil,521,794,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Unión Cantinil.,4,3573.32
+920,OBRA_GT1333_0919,Canasta decorativa de Mimbre de de Petatán,661,606,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Petatán.,37,4541.04
+921,OBRA_GT1401_0920,Huipil Ceremonial Tradicional de Santa Cruz del Quiché,385,153,409,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Cruz del Quiché.,74,4807.78
+922,OBRA_GT1402_0921,Corte Jaspeado de Algodón de Chiché,476,882,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Chiché.,70,188.95
+923,OBRA_GT1403_0922,Máscara del Danzante de Monito de Chinique,95,895,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chinique.,32,2147.98
+924,OBRA_GT1404_0923,Cuadro Primitivista sobre la Feria de Zacualpa,553,217,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zacualpa.,6,7778.09
+925,OBRA_GT1405_0924,Marimba de Hormigo Sencilla de de Chajul,31,373,722,Marimba tradicional afinada acústicamente de madera noble fabricada en Chajul.,8,5253.41
+926,OBRA_GT1406_0925,Jarra utilitaria de Barro Rojo de Chichicastenango,751,707,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chichicastenango.,73,5277.02
+927,OBRA_GT1407_0926,Escultura en Jadeita de deidad Maya de Patzité,839,446,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Patzité.,5,3666.0
+928,OBRA_GT1408_0927,Canasta decorativa de Mimbre de de San Antonio Ilotenango,965,154,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Antonio Ilotenango.,54,2691.87
+929,OBRA_GT1409_0928,Huipil Ceremonial Tradicional de San Pedro Jocopilas,495,710,866,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Pedro Jocopilas.,39,1607.69
+930,OBRA_GT1410_0929,Corte Jaspeado de Algodón de Cunén,430,71,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Cunén.,28,6157.74
+931,OBRA_GT1411_0930,Máscara del Danzante de Diablo de San Juan Cotzal,642,990,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Juan Cotzal.,32,3343.75
+932,OBRA_GT1412_0931,Cuadro Primitivista sobre la Feria de Joyabaj,544,520,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Joyabaj.,40,2708.45
+933,OBRA_GT1413_0932,Marimba de Hormigo Sencilla de de Nebaj,425,484,128,Marimba tradicional afinada acústicamente de madera noble fabricada en Nebaj.,63,1613.04
+934,OBRA_GT1414_0933,Jarra utilitaria de Barro Rojo de San Andrés Sajcabajá,854,774,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Andrés Sajcabajá.,48,4789.32
+935,OBRA_GT1415_0934,Escultura en Jadeita de deidad Maya de Uspantán,667,738,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Uspantán.,44,1609.54
+936,OBRA_GT1416_0935,Canasta decorativa de Mimbre de de Sacapulas,269,66,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Sacapulas.,66,3824.22
+937,OBRA_GT1417_0936,Huipil Ceremonial Tradicional de San Bartolomé Jocotenango,348,797,244,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolomé Jocotenango.,57,4180.83
+938,OBRA_GT1418_0937,Corte Jaspeado de Algodón de Canillá,770,42,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Canillá.,29,2047.57
+939,OBRA_GT1419_0938,Máscara del Danzante de Diablo de Chicamán,191,980,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Chicamán.,69,5596.98
+940,OBRA_GT1420_0939,Cuadro Primitivista sobre la Feria de Ixcán,698,73,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Ixcán.,31,7499.47
+941,OBRA_GT1421_0940,Marimba de Hormigo Sencilla de de Pachalum,607,580,621,Marimba tradicional afinada acústicamente de madera noble fabricada en Pachalum.,80,239.73
+942,OBRA_GT1501_0941,Jarra utilitaria de Barro Rojo de Salamá,24,879,,Vasija tradicional moldeada a mano y cocida en horno de leña en Salamá.,69,3525.33
+943,OBRA_GT1502_0942,Escultura en Jadeita de deidad Maya de San Miguel Chicaj,671,877,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Miguel Chicaj.,58,6572.28
+944,OBRA_GT1503_0943,Canasta decorativa de Mimbre de de Rabinal,952,894,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Rabinal.,36,3240.42
+945,OBRA_GT1504_0944,Huipil Ceremonial Tradicional de Cubulco,445,358,232,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Cubulco.,4,2026.8
+946,OBRA_GT1505_0945,Corte Jaspeado de Algodón de Granados,702,210,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Granados.,52,3620.89
+947,OBRA_GT1506_0946,Máscara del Danzante de Venado de El Chol,453,703,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de El Chol.,22,6798.11
+948,OBRA_GT1507_0947,Cuadro Primitivista sobre la Feria de San Jerónimo,24,357,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Jerónimo.,48,7132.35
+949,OBRA_GT1508_0948,Marimba de Hormigo Sencilla de de Purulhá,636,821,651,Marimba tradicional afinada acústicamente de madera noble fabricada en Purulhá.,48,3350.89
+950,OBRA_GT0401_0949,Jarra utilitaria de Barro Rojo de Chimaltenango,4,464,,Vasija tradicional moldeada a mano y cocida en horno de leña en Chimaltenango.,60,6987.66
+951,OBRA_GT0402_0950,Escultura en Jadeita de deidad Maya de San José Poaquil,17,312,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San José Poaquil.,49,7835.76
+952,OBRA_GT0403_0951,Canasta decorativa de Mimbre de de San Martín Jilotepeque,30,796,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Martín Jilotepeque.,57,6158.09
+953,OBRA_GT0404_0952,Huipil Ceremonial Tradicional de Comalapa,31,566,344,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Comalapa.,36,5966.1
+954,OBRA_GT0405_0953,Corte Jaspeado de Algodón de Santa Apolonia,42,752,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Apolonia.,37,7521.18
+955,OBRA_GT0406_0954,Máscara del Danzante de Tecún Umán de Tecpán Guatemala,55,625,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Tecpán Guatemala.,20,163.33
+956,OBRA_GT0407_0955,Cuadro Primitivista sobre la Feria de Patzún,69,502,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Patzún.,40,1883.27
+957,OBRA_GT0408_0956,Marimba de Hormigo Sencilla de de Pochuta,78,958,986,Marimba tradicional afinada acústicamente de madera noble fabricada en Pochuta.,23,1111.6
+958,OBRA_GT0409_0957,Jarra utilitaria de Barro Rojo de Patzicía,84,831,,Vasija tradicional moldeada a mano y cocida en horno de leña en Patzicía.,10,7924.59
+959,OBRA_GT0410_0958,Escultura en Jadeita de deidad Maya de Santa Cruz Balanyá,97,726,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa Cruz Balanyá.,86,7678.92
+960,OBRA_GT0411_0959,Canasta decorativa de Mimbre de de Acatenango,110,1020,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Acatenango.,85,905.53
+961,OBRA_GT0412_0960,Huipil Ceremonial Tradicional de Yepocapa,111,179,322,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Yepocapa.,82,8080.66
+962,OBRA_GT0413_0961,Corte Jaspeado de Algodón de San Andrés Itzapa,122,343,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Andrés Itzapa.,9,3652.7
+963,OBRA_GT0414_0962,Máscara del Danzante de Gigante de Parramos,135,798,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Parramos.,82,3846.63
+964,OBRA_GT0415_0963,Cuadro Primitivista sobre la Feria de Zaragoza,149,427,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Zaragoza.,64,8289.16
+965,OBRA_GT0416_0964,Marimba de Hormigo Sencilla de de El Tejar,158,830,120,Marimba tradicional afinada acústicamente de madera noble fabricada en El Tejar.,47,8005.05
+966,OBRA_GT0700_0965,Jarra utilitaria de Barro Rojo de Lago De Atitlan,164,48,,Vasija tradicional moldeada a mano y cocida en horno de leña en Lago De Atitlan.,48,7243.02
+967,OBRA_GT0701_0966,Escultura en Jadeita de deidad Maya de Sololá,177,327,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Sololá.,19,4984.41
+968,OBRA_GT0702_0967,Canasta decorativa de Mimbre de de San José Chacayá,190,167,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San José Chacayá.,48,1657.83
+969,OBRA_GT0703_0968,Huipil Ceremonial Tradicional de Santa María Visitación,191,366,142,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa María Visitación.,3,2107.99
+970,OBRA_GT0704_0969,Corte Jaspeado de Algodón de Santa Lucía Utatlán,202,289,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Santa Lucía Utatlán.,48,1604.22
+971,OBRA_GT0705_0970,Máscara del Danzante de Tecún Umán de Nahualá,215,121,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Nahualá.,70,467.51
+972,OBRA_GT0706_0971,Cuadro Primitivista sobre la Feria de Santa Catarina Ixtahuacán,229,209,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Catarina Ixtahuacán.,20,7570.84
+973,OBRA_GT0707_0972,Marimba de Hormigo Sencilla de de Santa Clara La Laguna,238,106,843,Marimba tradicional afinada acústicamente de madera noble fabricada en Santa Clara La Laguna.,52,7292.5
+974,OBRA_GT0708_0973,Jarra utilitaria de Barro Rojo de Concepción,244,655,,Vasija tradicional moldeada a mano y cocida en horno de leña en Concepción.,12,6654.39
+975,OBRA_GT0709_0974,Escultura en Jadeita de deidad Maya de San Andrés Semetabaj,257,698,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Andrés Semetabaj.,83,7270.93
+976,OBRA_GT0710_0975,Canasta decorativa de Mimbre de de Panajachel,270,390,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Panajachel.,69,6757.61
+977,OBRA_GT0711_0976,Huipil Ceremonial Tradicional de Santa Catarina Palopó,271,577,101,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santa Catarina Palopó.,89,919.31
+978,OBRA_GT0712_0977,Corte Jaspeado de Algodón de San Antonio Palopó,282,868,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Antonio Palopó.,38,1991.74
+979,OBRA_GT0713_0978,Máscara del Danzante de Gigante de San Lucas Tolimán,295,272,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Lucas Tolimán.,57,6859.97
+980,OBRA_GT0714_0979,Cuadro Primitivista sobre la Feria de Santa Cruz La Laguna,309,230,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Santa Cruz La Laguna.,46,2330.66
+981,OBRA_GT0715_0980,Marimba de Hormigo Sencilla de de San Pablo La Laguna,318,106,449,Marimba tradicional afinada acústicamente de madera noble fabricada en San Pablo La Laguna.,50,951.43
+982,OBRA_GT0716_0981,Jarra utilitaria de Barro Rojo de San Marcos La Laguna,324,368,,Vasija tradicional moldeada a mano y cocida en horno de leña en San Marcos La Laguna.,85,1594.47
+983,OBRA_GT0717_0982,Escultura en Jadeita de deidad Maya de San Juan La Laguna,337,538,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de San Juan La Laguna.,9,4458.76
+984,OBRA_GT0718_0983,Canasta decorativa de Mimbre de de San Pedro La Laguna,350,809,,Tejido fino de fibras naturales útil para almacenamiento tradicional de San Pedro La Laguna.,8,5230.42
+985,OBRA_GT0719_0984,Huipil Ceremonial Tradicional de Santiago Atitlán,351,87,52,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Santiago Atitlán.,40,829.23
+986,OBRA_GT0801_0985,Corte Jaspeado de Algodón de Totonicapán,362,249,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Totonicapán.,79,7044.29
+987,OBRA_GT0802_0986,Máscara del Danzante de Mexicano de San Cristóbal Totonicapán,375,1008,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Cristóbal Totonicapán.,27,6521.75
+988,OBRA_GT0803_0987,Cuadro Primitivista sobre la Feria de San Francisco El Alto,389,808,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Francisco El Alto.,35,8068.5
+989,OBRA_GT0804_0988,Marimba de Hormigo Sencilla de de San Andrés Xecul,398,855,962,Marimba tradicional afinada acústicamente de madera noble fabricada en San Andrés Xecul.,28,7351.78
+990,OBRA_GT0805_0989,Jarra utilitaria de Barro Rojo de Momostenango,404,473,,Vasija tradicional moldeada a mano y cocida en horno de leña en Momostenango.,26,4319.96
+991,OBRA_GT0806_0990,Escultura en Jadeita de deidad Maya de Santa María Chiquimula,417,609,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Santa María Chiquimula.,84,7621.48
+992,OBRA_GT0807_0991,Canasta decorativa de Mimbre de de Santa Lucía La Reforma,430,67,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Santa Lucía La Reforma.,10,3933.32
+993,OBRA_GT0808_0992,Huipil Ceremonial Tradicional de San Bartolo,431,487,593,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Bartolo.,58,6242.82
+994,OBRA_GT0901_0993,Corte Jaspeado de Algodón de Quetzaltenango,442,968,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Quetzaltenango.,74,2797.91
+995,OBRA_GT0902_0994,Máscara del Danzante de Pascarín de Salcajá,455,316,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de Salcajá.,17,376.77
+996,OBRA_GT0903_0995,Cuadro Primitivista sobre la Feria de Olintepeque,469,397,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Olintepeque.,47,5954.54
+997,OBRA_GT0904_0996,Marimba de Hormigo Sencilla de de San Carlos Sija,478,202,928,Marimba tradicional afinada acústicamente de madera noble fabricada en San Carlos Sija.,53,1662.85
+998,OBRA_GT0905_0997,Jarra utilitaria de Barro Rojo de Sibilia,484,324,,Vasija tradicional moldeada a mano y cocida en horno de leña en Sibilia.,81,1189.63
+999,OBRA_GT0906_0998,Escultura en Jadeita de deidad Maya de Cabricán,497,804,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cabricán.,52,2797.57
+1000,OBRA_GT0907_0999,Canasta decorativa de Mimbre de de Cajolá,510,611,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Cajolá.,85,536.64
+1001,OBRA_GT0908_1000,Huipil Ceremonial Tradicional de San Miguel Sigüila,511,601,930,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual San Miguel Sigüila.,57,1822.39
+1002,OBRA_GT0909_1001,Corte Jaspeado de Algodón de Ostuncalco,522,874,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Ostuncalco.,50,7553.63
+1003,OBRA_GT0910_1002,Máscara del Danzante de Rey Kiche de San Mateo,535,638,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Mateo.,31,1702.28
+1004,OBRA_GT0911_1003,Cuadro Primitivista sobre la Feria de Concepción Chiquirichapa,549,580,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de Concepción Chiquirichapa.,11,3381.17
+1005,OBRA_GT0912_1004,Marimba de Hormigo Sencilla de de San Martín Sacatepéquez,558,13,73,Marimba tradicional afinada acústicamente de madera noble fabricada en San Martín Sacatepéquez.,75,7256.82
+1006,OBRA_GT0913_1005,Jarra utilitaria de Barro Rojo de Almolonga,564,269,,Vasija tradicional moldeada a mano y cocida en horno de leña en Almolonga.,87,1820.93
+1007,OBRA_GT0914_1006,Escultura en Jadeita de deidad Maya de Cantel,577,396,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Cantel.,55,3084.86
+1008,OBRA_GT0915_1007,Canasta decorativa de Mimbre de de Huitán,590,51,,Tejido fino de fibras naturales útil para almacenamiento tradicional de Huitán.,5,7332.52
+1009,OBRA_GT0916_1008,Huipil Ceremonial Tradicional de Zunil,591,971,939,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Zunil.,35,8155.19
+1010,OBRA_GT0917_1009,Corte Jaspeado de Algodón de Colomba,602,562,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie Colomba.,6,1674.03
+1011,OBRA_GT0918_1010,Máscara del Danzante de Venado de San Francisco La Unión,615,810,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Francisco La Unión.,74,3635.51
+1012,OBRA_GT0919_1011,Cuadro Primitivista sobre la Feria de El Palmar,629,177,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de El Palmar.,12,4658.37
+1013,OBRA_GT0920_1012,Marimba de Hormigo Sencilla de de Coatepeque,638,176,651,Marimba tradicional afinada acústicamente de madera noble fabricada en Coatepeque.,57,7120.16
+1014,OBRA_GT0921_1013,Jarra utilitaria de Barro Rojo de Génova,644,785,,Vasija tradicional moldeada a mano y cocida en horno de leña en Génova.,70,5850.5
+1015,OBRA_GT0922_1014,Escultura en Jadeita de deidad Maya de Flores Costa Cuca,657,284,,Talla artística de jade verde pulido inspirada en vestigios arqueológicos de Flores Costa Cuca.,68,502.24
+1016,OBRA_GT0923_1015,Canasta decorativa de Mimbre de de La Esperanza,670,75,,Tejido fino de fibras naturales útil para almacenamiento tradicional de La Esperanza.,59,1616.99
+1017,OBRA_GT0924_1016,Huipil Ceremonial Tradicional de Palestina de Los Altos,671,898,555,Textil fino con brocados de figuras geométricas y zoomorfas de valor espiritual Palestina de Los Altos.,33,5529.12
+1018,OBRA_GT1201_1017,Corte Jaspeado de Algodón de San Marcos,682,281,,Prenda inferior teñida con amarras de jaspe y tejida en telar de pie San Marcos.,13,1317.75
+1019,OBRA_GT1202_1018,Máscara del Danzante de Alvarado de San Pedro Sacatepéquez,695,400,,Máscara de madera tallada de cedro pintada a mano para el baile tradicional de San Pedro Sacatepéquez.,57,5027.28
+1020,OBRA_GT1203_1019,Cuadro Primitivista sobre la Feria de San Antonio Sacatepéquez,709,597,,Pintura al óleo sobre lienzo que retrata detalladamente las fiestas patronales de San Antonio Sacatepéquez.,36,2420.93

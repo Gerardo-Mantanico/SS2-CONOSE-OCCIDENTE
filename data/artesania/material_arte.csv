@@ -1,0 +1,1021 @@
+id_material,codigo,nombre,descripcion
+1,ALGODON_BLANCO_GT0413,Hilo de Algodón Blanco Seleccionado de San Andrés Itzapa,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+2,ALGODON_CUYUSCATE_GT0413,Hilo de Algodón Cuyuscate Natural Seleccionado de San Andrés Itzapa,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+3,BARRO_ROJO_GT0413,Arcilla de Barro Rojo Seleccionado de San Andrés Itzapa,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+4,JADE_JADEITA_GT0413,Jadeita Verde Seleccionado de San Andrés Itzapa,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+5,MADERA_HORMIGO_GT0413,Madera de Hormigo Seleccionado de San Andrés Itzapa,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+6,MADERA_CEDRO_GT0413,Madera de Cedro Seleccionado de San Andrés Itzapa,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+7,TINTE_NATURAL_COCHINILLA_GT0413,Tinte Orgánico de Cochinilla de San Andrés Itzapa,Tinte de origen vegetal/animal obtenido de Cochinilla en San Andrés Itzapa.
+8,LANA_OVEJA_GT0413,Lana de Oveja Natural Seleccionado de San Andrés Itzapa,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+9,FIBRA_MIMBRE_GT0413,Fibras de Mimbre Seleccionado de San Andrés Itzapa,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+10,PINTURA_ACRILICA_GT0413,Pintura Acrílica Profesional Seleccionado de San Andrés Itzapa,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Andrés Itzapa.
+11,ALGODON_BLANCO_GT0414,Hilo de Algodón Blanco Seleccionado de Parramos,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Parramos.
+12,ALGODON_CUYUSCATE_GT0414,Hilo de Algodón Cuyuscate Natural Seleccionado de Parramos,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Parramos.
+13,BARRO_ROJO_GT0414,Arcilla de Barro Rojo Seleccionado de Parramos,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Parramos.
+14,JADE_JADEITA_GT0414,Jadeita Verde Seleccionado de Parramos,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Parramos.
+15,MADERA_HORMIGO_GT0414,Madera de Hormigo Seleccionado de Parramos,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Parramos.
+16,MADERA_CEDRO_GT0414,Madera de Cedro Seleccionado de Parramos,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Parramos.
+17,TINTE_NATURAL_AÑIL_GT0414,Tinte Orgánico de Añil de Parramos,Tinte de origen vegetal/animal obtenido de Añil en Parramos.
+18,LANA_OVEJA_GT0414,Lana de Oveja Natural Seleccionado de Parramos,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Parramos.
+19,FIBRA_MIMBRE_GT0414,Fibras de Mimbre Seleccionado de Parramos,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Parramos.
+20,PINTURA_ACRILICA_GT0414,Pintura Acrílica Profesional Seleccionado de Parramos,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Parramos.
+21,ALGODON_BLANCO_GT0415,Hilo de Algodón Blanco Seleccionado de Zaragoza,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Zaragoza.
+22,ALGODON_CUYUSCATE_GT0415,Hilo de Algodón Cuyuscate Natural Seleccionado de Zaragoza,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Zaragoza.
+23,BARRO_ROJO_GT0415,Arcilla de Barro Rojo Seleccionado de Zaragoza,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Zaragoza.
+24,JADE_JADEITA_GT0415,Jadeita Verde Seleccionado de Zaragoza,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Zaragoza.
+25,MADERA_HORMIGO_GT0415,Madera de Hormigo Seleccionado de Zaragoza,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Zaragoza.
+26,MADERA_CEDRO_GT0415,Madera de Cedro Seleccionado de Zaragoza,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Zaragoza.
+27,TINTE_NATURAL_PALO_DE_CAMPECHE_GT0415,Tinte Orgánico de Palo de Campeche de Zaragoza,Tinte de origen vegetal/animal obtenido de Palo de Campeche en Zaragoza.
+28,LANA_OVEJA_GT0415,Lana de Oveja Natural Seleccionado de Zaragoza,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Zaragoza.
+29,FIBRA_MIMBRE_GT0415,Fibras de Mimbre Seleccionado de Zaragoza,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Zaragoza.
+30,PINTURA_ACRILICA_GT0415,Pintura Acrílica Profesional Seleccionado de Zaragoza,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Zaragoza.
+31,ALGODON_BLANCO_GT0416,Hilo de Algodón Blanco Seleccionado de El Tejar,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de El Tejar.
+32,ALGODON_CUYUSCATE_GT0416,Hilo de Algodón Cuyuscate Natural Seleccionado de El Tejar,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de El Tejar.
+33,BARRO_ROJO_GT0416,Arcilla de Barro Rojo Seleccionado de El Tejar,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de El Tejar.
+34,JADE_JADEITA_GT0416,Jadeita Verde Seleccionado de El Tejar,Jadeita Verde de alta calidad recolectado en las zonas montañosas de El Tejar.
+35,MADERA_HORMIGO_GT0416,Madera de Hormigo Seleccionado de El Tejar,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de El Tejar.
+36,MADERA_CEDRO_GT0416,Madera de Cedro Seleccionado de El Tejar,Madera de Cedro de alta calidad recolectado en las zonas montañosas de El Tejar.
+37,TINTE_NATURAL_SACCHIL_GT0416,Tinte Orgánico de Sacchil de El Tejar,Tinte de origen vegetal/animal obtenido de Sacchil en El Tejar.
+38,LANA_OVEJA_GT0416,Lana de Oveja Natural Seleccionado de El Tejar,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de El Tejar.
+39,FIBRA_MIMBRE_GT0416,Fibras de Mimbre Seleccionado de El Tejar,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de El Tejar.
+40,PINTURA_ACRILICA_GT0416,Pintura Acrílica Profesional Seleccionado de El Tejar,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de El Tejar.
+41,ALGODON_BLANCO_GT0700,Hilo de Algodón Blanco Seleccionado de Lago De Atitlan,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+42,ALGODON_CUYUSCATE_GT0700,Hilo de Algodón Cuyuscate Natural Seleccionado de Lago De Atitlan,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+43,BARRO_ROJO_GT0700,Arcilla de Barro Rojo Seleccionado de Lago De Atitlan,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+44,JADE_JADEITA_GT0700,Jadeita Verde Seleccionado de Lago De Atitlan,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+45,MADERA_HORMIGO_GT0700,Madera de Hormigo Seleccionado de Lago De Atitlan,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+46,MADERA_CEDRO_GT0700,Madera de Cedro Seleccionado de Lago De Atitlan,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+47,TINTE_NATURAL_EUCALIPTO_GT0700,Tinte Orgánico de Eucalipto de Lago De Atitlan,Tinte de origen vegetal/animal obtenido de Eucalipto en Lago De Atitlan.
+48,LANA_OVEJA_GT0700,Lana de Oveja Natural Seleccionado de Lago De Atitlan,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+49,FIBRA_MIMBRE_GT0700,Fibras de Mimbre Seleccionado de Lago De Atitlan,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+50,PINTURA_ACRILICA_GT0700,Pintura Acrílica Profesional Seleccionado de Lago De Atitlan,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Lago De Atitlan.
+51,ALGODON_BLANCO_GT0701,Hilo de Algodón Blanco Seleccionado de Sololá,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Sololá.
+52,ALGODON_CUYUSCATE_GT0701,Hilo de Algodón Cuyuscate Natural Seleccionado de Sololá,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Sololá.
+53,BARRO_ROJO_GT0701,Arcilla de Barro Rojo Seleccionado de Sololá,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Sololá.
+54,JADE_JADEITA_GT0701,Jadeita Verde Seleccionado de Sololá,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Sololá.
+55,MADERA_HORMIGO_GT0701,Madera de Hormigo Seleccionado de Sololá,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Sololá.
+56,MADERA_CEDRO_GT0701,Madera de Cedro Seleccionado de Sololá,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Sololá.
+57,TINTE_NATURAL_NOGAL_GT0701,Tinte Orgánico de Nogal de Sololá,Tinte de origen vegetal/animal obtenido de Nogal en Sololá.
+58,LANA_OVEJA_GT0701,Lana de Oveja Natural Seleccionado de Sololá,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Sololá.
+59,FIBRA_MIMBRE_GT0701,Fibras de Mimbre Seleccionado de Sololá,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Sololá.
+60,PINTURA_ACRILICA_GT0701,Pintura Acrílica Profesional Seleccionado de Sololá,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Sololá.
+61,ALGODON_BLANCO_GT0702,Hilo de Algodón Blanco Seleccionado de San José Chacayá,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+62,ALGODON_CUYUSCATE_GT0702,Hilo de Algodón Cuyuscate Natural Seleccionado de San José Chacayá,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+63,BARRO_ROJO_GT0702,Arcilla de Barro Rojo Seleccionado de San José Chacayá,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+64,JADE_JADEITA_GT0702,Jadeita Verde Seleccionado de San José Chacayá,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+65,MADERA_HORMIGO_GT0702,Madera de Hormigo Seleccionado de San José Chacayá,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+66,MADERA_CEDRO_GT0702,Madera de Cedro Seleccionado de San José Chacayá,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+67,TINTE_NATURAL_CEBOLLA_GT0702,Tinte Orgánico de Cebolla de San José Chacayá,Tinte de origen vegetal/animal obtenido de Cebolla en San José Chacayá.
+68,LANA_OVEJA_GT0702,Lana de Oveja Natural Seleccionado de San José Chacayá,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+69,FIBRA_MIMBRE_GT0702,Fibras de Mimbre Seleccionado de San José Chacayá,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+70,PINTURA_ACRILICA_GT0702,Pintura Acrílica Profesional Seleccionado de San José Chacayá,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San José Chacayá.
+71,ALGODON_BLANCO_GT0703,Hilo de Algodón Blanco Seleccionado de Santa María Visitación,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+72,ALGODON_CUYUSCATE_GT0703,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa María Visitación,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+73,BARRO_ROJO_GT0703,Arcilla de Barro Rojo Seleccionado de Santa María Visitación,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+74,JADE_JADEITA_GT0703,Jadeita Verde Seleccionado de Santa María Visitación,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+75,MADERA_HORMIGO_GT0703,Madera de Hormigo Seleccionado de Santa María Visitación,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+76,MADERA_CEDRO_GT0703,Madera de Cedro Seleccionado de Santa María Visitación,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+77,TINTE_NATURAL_CAFÉ_GT0703,Tinte Orgánico de Café de Santa María Visitación,Tinte de origen vegetal/animal obtenido de Café en Santa María Visitación.
+78,LANA_OVEJA_GT0703,Lana de Oveja Natural Seleccionado de Santa María Visitación,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+79,FIBRA_MIMBRE_GT0703,Fibras de Mimbre Seleccionado de Santa María Visitación,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+80,PINTURA_ACRILICA_GT0703,Pintura Acrílica Profesional Seleccionado de Santa María Visitación,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa María Visitación.
+81,ALGODON_BLANCO_GT0704,Hilo de Algodón Blanco Seleccionado de Santa Lucía Utatlán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+82,ALGODON_CUYUSCATE_GT0704,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Lucía Utatlán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+83,BARRO_ROJO_GT0704,Arcilla de Barro Rojo Seleccionado de Santa Lucía Utatlán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+84,JADE_JADEITA_GT0704,Jadeita Verde Seleccionado de Santa Lucía Utatlán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+85,MADERA_HORMIGO_GT0704,Madera de Hormigo Seleccionado de Santa Lucía Utatlán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+86,MADERA_CEDRO_GT0704,Madera de Cedro Seleccionado de Santa Lucía Utatlán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+87,TINTE_NATURAL_SACATE_GT0704,Tinte Orgánico de Sacate de Santa Lucía Utatlán,Tinte de origen vegetal/animal obtenido de Sacate en Santa Lucía Utatlán.
+88,LANA_OVEJA_GT0704,Lana de Oveja Natural Seleccionado de Santa Lucía Utatlán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+89,FIBRA_MIMBRE_GT0704,Fibras de Mimbre Seleccionado de Santa Lucía Utatlán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+90,PINTURA_ACRILICA_GT0704,Pintura Acrílica Profesional Seleccionado de Santa Lucía Utatlán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Lucía Utatlán.
+91,ALGODON_BLANCO_GT0705,Hilo de Algodón Blanco Seleccionado de Nahualá,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Nahualá.
+92,ALGODON_CUYUSCATE_GT0705,Hilo de Algodón Cuyuscate Natural Seleccionado de Nahualá,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Nahualá.
+93,BARRO_ROJO_GT0705,Arcilla de Barro Rojo Seleccionado de Nahualá,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Nahualá.
+94,JADE_JADEITA_GT0705,Jadeita Verde Seleccionado de Nahualá,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Nahualá.
+95,MADERA_HORMIGO_GT0705,Madera de Hormigo Seleccionado de Nahualá,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Nahualá.
+96,MADERA_CEDRO_GT0705,Madera de Cedro Seleccionado de Nahualá,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Nahualá.
+97,TINTE_NATURAL_CÚRCUMA_GT0705,Tinte Orgánico de Cúrcuma de Nahualá,Tinte de origen vegetal/animal obtenido de Cúrcuma en Nahualá.
+98,LANA_OVEJA_GT0705,Lana de Oveja Natural Seleccionado de Nahualá,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Nahualá.
+99,FIBRA_MIMBRE_GT0705,Fibras de Mimbre Seleccionado de Nahualá,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Nahualá.
+100,PINTURA_ACRILICA_GT0705,Pintura Acrílica Profesional Seleccionado de Nahualá,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Nahualá.
+101,ALGODON_BLANCO_GT0706,Hilo de Algodón Blanco Seleccionado de Santa Catarina Ixtahuacán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+102,ALGODON_CUYUSCATE_GT0706,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Catarina Ixtahuacán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+103,BARRO_ROJO_GT0706,Arcilla de Barro Rojo Seleccionado de Santa Catarina Ixtahuacán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+104,JADE_JADEITA_GT0706,Jadeita Verde Seleccionado de Santa Catarina Ixtahuacán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+105,MADERA_HORMIGO_GT0706,Madera de Hormigo Seleccionado de Santa Catarina Ixtahuacán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+106,MADERA_CEDRO_GT0706,Madera de Cedro Seleccionado de Santa Catarina Ixtahuacán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+107,TINTE_NATURAL_PÚRPURA_GT0706,Tinte Orgánico de Púrpura de Santa Catarina Ixtahuacán,Tinte de origen vegetal/animal obtenido de Púrpura en Santa Catarina Ixtahuacán.
+108,LANA_OVEJA_GT0706,Lana de Oveja Natural Seleccionado de Santa Catarina Ixtahuacán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+109,FIBRA_MIMBRE_GT0706,Fibras de Mimbre Seleccionado de Santa Catarina Ixtahuacán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+110,PINTURA_ACRILICA_GT0706,Pintura Acrílica Profesional Seleccionado de Santa Catarina Ixtahuacán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Catarina Ixtahuacán.
+111,ALGODON_BLANCO_GT0707,Hilo de Algodón Blanco Seleccionado de Santa Clara La Laguna,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+112,ALGODON_CUYUSCATE_GT0707,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Clara La Laguna,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+113,BARRO_ROJO_GT0707,Arcilla de Barro Rojo Seleccionado de Santa Clara La Laguna,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+114,JADE_JADEITA_GT0707,Jadeita Verde Seleccionado de Santa Clara La Laguna,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+115,MADERA_HORMIGO_GT0707,Madera de Hormigo Seleccionado de Santa Clara La Laguna,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+116,MADERA_CEDRO_GT0707,Madera de Cedro Seleccionado de Santa Clara La Laguna,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+117,TINTE_NATURAL_GRANA_COCHINILLA_GT0707,Tinte Orgánico de Grana Cochinilla de Santa Clara La Laguna,Tinte de origen vegetal/animal obtenido de Grana Cochinilla en Santa Clara La Laguna.
+118,LANA_OVEJA_GT0707,Lana de Oveja Natural Seleccionado de Santa Clara La Laguna,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+119,FIBRA_MIMBRE_GT0707,Fibras de Mimbre Seleccionado de Santa Clara La Laguna,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+120,PINTURA_ACRILICA_GT0707,Pintura Acrílica Profesional Seleccionado de Santa Clara La Laguna,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Clara La Laguna.
+121,ALGODON_BLANCO_GT0708,Hilo de Algodón Blanco Seleccionado de Concepción,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Concepción.
+122,ALGODON_CUYUSCATE_GT0708,Hilo de Algodón Cuyuscate Natural Seleccionado de Concepción,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Concepción.
+123,BARRO_ROJO_GT0708,Arcilla de Barro Rojo Seleccionado de Concepción,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Concepción.
+124,JADE_JADEITA_GT0708,Jadeita Verde Seleccionado de Concepción,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Concepción.
+125,MADERA_HORMIGO_GT0708,Madera de Hormigo Seleccionado de Concepción,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Concepción.
+126,MADERA_CEDRO_GT0708,Madera de Cedro Seleccionado de Concepción,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Concepción.
+127,TINTE_NATURAL_ACHIOTE_GT0708,Tinte Orgánico de Achiote de Concepción,Tinte de origen vegetal/animal obtenido de Achiote en Concepción.
+128,LANA_OVEJA_GT0708,Lana de Oveja Natural Seleccionado de Concepción,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Concepción.
+129,FIBRA_MIMBRE_GT0708,Fibras de Mimbre Seleccionado de Concepción,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Concepción.
+130,PINTURA_ACRILICA_GT0708,Pintura Acrílica Profesional Seleccionado de Concepción,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Concepción.
+131,ALGODON_BLANCO_GT0709,Hilo de Algodón Blanco Seleccionado de San Andrés Semetabaj,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+132,ALGODON_CUYUSCATE_GT0709,Hilo de Algodón Cuyuscate Natural Seleccionado de San Andrés Semetabaj,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+133,BARRO_ROJO_GT0709,Arcilla de Barro Rojo Seleccionado de San Andrés Semetabaj,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+134,JADE_JADEITA_GT0709,Jadeita Verde Seleccionado de San Andrés Semetabaj,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+135,MADERA_HORMIGO_GT0709,Madera de Hormigo Seleccionado de San Andrés Semetabaj,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+136,MADERA_CEDRO_GT0709,Madera de Cedro Seleccionado de San Andrés Semetabaj,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+137,TINTE_NATURAL_LICHEN_GT0709,Tinte Orgánico de Lichen de San Andrés Semetabaj,Tinte de origen vegetal/animal obtenido de Lichen en San Andrés Semetabaj.
+138,LANA_OVEJA_GT0709,Lana de Oveja Natural Seleccionado de San Andrés Semetabaj,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+139,FIBRA_MIMBRE_GT0709,Fibras de Mimbre Seleccionado de San Andrés Semetabaj,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+140,PINTURA_ACRILICA_GT0709,Pintura Acrílica Profesional Seleccionado de San Andrés Semetabaj,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Andrés Semetabaj.
+141,ALGODON_BLANCO_GT0710,Hilo de Algodón Blanco Seleccionado de Panajachel,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Panajachel.
+142,ALGODON_CUYUSCATE_GT0710,Hilo de Algodón Cuyuscate Natural Seleccionado de Panajachel,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Panajachel.
+143,BARRO_ROJO_GT0710,Arcilla de Barro Rojo Seleccionado de Panajachel,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Panajachel.
+144,JADE_JADEITA_GT0710,Jadeita Verde Seleccionado de Panajachel,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Panajachel.
+145,MADERA_HORMIGO_GT0710,Madera de Hormigo Seleccionado de Panajachel,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Panajachel.
+146,MADERA_CEDRO_GT0710,Madera de Cedro Seleccionado de Panajachel,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Panajachel.
+147,TINTE_NATURAL_OCOTE_GT0710,Tinte Orgánico de Ocote de Panajachel,Tinte de origen vegetal/animal obtenido de Ocote en Panajachel.
+148,LANA_OVEJA_GT0710,Lana de Oveja Natural Seleccionado de Panajachel,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Panajachel.
+149,FIBRA_MIMBRE_GT0710,Fibras de Mimbre Seleccionado de Panajachel,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Panajachel.
+150,PINTURA_ACRILICA_GT0710,Pintura Acrílica Profesional Seleccionado de Panajachel,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Panajachel.
+151,ALGODON_BLANCO_GT0711,Hilo de Algodón Blanco Seleccionado de Santa Catarina Palopó,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+152,ALGODON_CUYUSCATE_GT0711,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Catarina Palopó,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+153,BARRO_ROJO_GT0711,Arcilla de Barro Rojo Seleccionado de Santa Catarina Palopó,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+154,JADE_JADEITA_GT0711,Jadeita Verde Seleccionado de Santa Catarina Palopó,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+155,MADERA_HORMIGO_GT0711,Madera de Hormigo Seleccionado de Santa Catarina Palopó,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+156,MADERA_CEDRO_GT0711,Madera de Cedro Seleccionado de Santa Catarina Palopó,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+157,TINTE_NATURAL_AGUACATE_GT0711,Tinte Orgánico de Aguacate de Santa Catarina Palopó,Tinte de origen vegetal/animal obtenido de Aguacate en Santa Catarina Palopó.
+158,LANA_OVEJA_GT0711,Lana de Oveja Natural Seleccionado de Santa Catarina Palopó,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+159,FIBRA_MIMBRE_GT0711,Fibras de Mimbre Seleccionado de Santa Catarina Palopó,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+160,PINTURA_ACRILICA_GT0711,Pintura Acrílica Profesional Seleccionado de Santa Catarina Palopó,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Catarina Palopó.
+161,ALGODON_BLANCO_GT0712,Hilo de Algodón Blanco Seleccionado de San Antonio Palopó,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+162,ALGODON_CUYUSCATE_GT0712,Hilo de Algodón Cuyuscate Natural Seleccionado de San Antonio Palopó,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+163,BARRO_ROJO_GT0712,Arcilla de Barro Rojo Seleccionado de San Antonio Palopó,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+164,JADE_JADEITA_GT0712,Jadeita Verde Seleccionado de San Antonio Palopó,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+165,MADERA_HORMIGO_GT0712,Madera de Hormigo Seleccionado de San Antonio Palopó,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+166,MADERA_CEDRO_GT0712,Madera de Cedro Seleccionado de San Antonio Palopó,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+167,TINTE_NATURAL_MANZANILLA_GT0712,Tinte Orgánico de Manzanilla de San Antonio Palopó,Tinte de origen vegetal/animal obtenido de Manzanilla en San Antonio Palopó.
+168,LANA_OVEJA_GT0712,Lana de Oveja Natural Seleccionado de San Antonio Palopó,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+169,FIBRA_MIMBRE_GT0712,Fibras de Mimbre Seleccionado de San Antonio Palopó,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+170,PINTURA_ACRILICA_GT0712,Pintura Acrílica Profesional Seleccionado de San Antonio Palopó,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Antonio Palopó.
+171,ALGODON_BLANCO_GT0713,Hilo de Algodón Blanco Seleccionado de San Lucas Tolimán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+172,ALGODON_CUYUSCATE_GT0713,Hilo de Algodón Cuyuscate Natural Seleccionado de San Lucas Tolimán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+173,BARRO_ROJO_GT0713,Arcilla de Barro Rojo Seleccionado de San Lucas Tolimán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+174,JADE_JADEITA_GT0713,Jadeita Verde Seleccionado de San Lucas Tolimán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+175,MADERA_HORMIGO_GT0713,Madera de Hormigo Seleccionado de San Lucas Tolimán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+176,MADERA_CEDRO_GT0713,Madera de Cedro Seleccionado de San Lucas Tolimán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+177,TINTE_NATURAL_MORAS_GT0713,Tinte Orgánico de Moras de San Lucas Tolimán,Tinte de origen vegetal/animal obtenido de Moras en San Lucas Tolimán.
+178,LANA_OVEJA_GT0713,Lana de Oveja Natural Seleccionado de San Lucas Tolimán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+179,FIBRA_MIMBRE_GT0713,Fibras de Mimbre Seleccionado de San Lucas Tolimán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+180,PINTURA_ACRILICA_GT0713,Pintura Acrílica Profesional Seleccionado de San Lucas Tolimán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Lucas Tolimán.
+181,ALGODON_BLANCO_GT0714,Hilo de Algodón Blanco Seleccionado de Santa Cruz La Laguna,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+182,ALGODON_CUYUSCATE_GT0714,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Cruz La Laguna,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+183,BARRO_ROJO_GT0714,Arcilla de Barro Rojo Seleccionado de Santa Cruz La Laguna,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+184,JADE_JADEITA_GT0714,Jadeita Verde Seleccionado de Santa Cruz La Laguna,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+185,MADERA_HORMIGO_GT0714,Madera de Hormigo Seleccionado de Santa Cruz La Laguna,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+186,MADERA_CEDRO_GT0714,Madera de Cedro Seleccionado de Santa Cruz La Laguna,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+187,TINTE_NATURAL_CAMPANILLA_GT0714,Tinte Orgánico de Campanilla de Santa Cruz La Laguna,Tinte de origen vegetal/animal obtenido de Campanilla en Santa Cruz La Laguna.
+188,LANA_OVEJA_GT0714,Lana de Oveja Natural Seleccionado de Santa Cruz La Laguna,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+189,FIBRA_MIMBRE_GT0714,Fibras de Mimbre Seleccionado de Santa Cruz La Laguna,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+190,PINTURA_ACRILICA_GT0714,Pintura Acrílica Profesional Seleccionado de Santa Cruz La Laguna,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Cruz La Laguna.
+191,ALGODON_BLANCO_GT0715,Hilo de Algodón Blanco Seleccionado de San Pablo La Laguna,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+192,ALGODON_CUYUSCATE_GT0715,Hilo de Algodón Cuyuscate Natural Seleccionado de San Pablo La Laguna,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+193,BARRO_ROJO_GT0715,Arcilla de Barro Rojo Seleccionado de San Pablo La Laguna,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+194,JADE_JADEITA_GT0715,Jadeita Verde Seleccionado de San Pablo La Laguna,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+195,MADERA_HORMIGO_GT0715,Madera de Hormigo Seleccionado de San Pablo La Laguna,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+196,MADERA_CEDRO_GT0715,Madera de Cedro Seleccionado de San Pablo La Laguna,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+197,TINTE_NATURAL_CANELA_GT0715,Tinte Orgánico de Canela de San Pablo La Laguna,Tinte de origen vegetal/animal obtenido de Canela en San Pablo La Laguna.
+198,LANA_OVEJA_GT0715,Lana de Oveja Natural Seleccionado de San Pablo La Laguna,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+199,FIBRA_MIMBRE_GT0715,Fibras de Mimbre Seleccionado de San Pablo La Laguna,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+200,PINTURA_ACRILICA_GT0715,Pintura Acrílica Profesional Seleccionado de San Pablo La Laguna,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Pablo La Laguna.
+201,ALGODON_BLANCO_GT0716,Hilo de Algodón Blanco Seleccionado de San Marcos La Laguna,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+202,ALGODON_CUYUSCATE_GT0716,Hilo de Algodón Cuyuscate Natural Seleccionado de San Marcos La Laguna,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+203,BARRO_ROJO_GT0716,Arcilla de Barro Rojo Seleccionado de San Marcos La Laguna,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+204,JADE_JADEITA_GT0716,Jadeita Verde Seleccionado de San Marcos La Laguna,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+205,MADERA_HORMIGO_GT0716,Madera de Hormigo Seleccionado de San Marcos La Laguna,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+206,MADERA_CEDRO_GT0716,Madera de Cedro Seleccionado de San Marcos La Laguna,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+207,TINTE_NATURAL_COCHINILLA_GT0716,Tinte Orgánico de Cochinilla de San Marcos La Laguna,Tinte de origen vegetal/animal obtenido de Cochinilla en San Marcos La Laguna.
+208,LANA_OVEJA_GT0716,Lana de Oveja Natural Seleccionado de San Marcos La Laguna,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+209,FIBRA_MIMBRE_GT0716,Fibras de Mimbre Seleccionado de San Marcos La Laguna,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+210,PINTURA_ACRILICA_GT0716,Pintura Acrílica Profesional Seleccionado de San Marcos La Laguna,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Marcos La Laguna.
+211,ALGODON_BLANCO_GT0717,Hilo de Algodón Blanco Seleccionado de San Juan La Laguna,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+212,ALGODON_CUYUSCATE_GT0717,Hilo de Algodón Cuyuscate Natural Seleccionado de San Juan La Laguna,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+213,BARRO_ROJO_GT0717,Arcilla de Barro Rojo Seleccionado de San Juan La Laguna,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+214,JADE_JADEITA_GT0717,Jadeita Verde Seleccionado de San Juan La Laguna,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+215,MADERA_HORMIGO_GT0717,Madera de Hormigo Seleccionado de San Juan La Laguna,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+216,MADERA_CEDRO_GT0717,Madera de Cedro Seleccionado de San Juan La Laguna,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+217,TINTE_NATURAL_AÑIL_GT0717,Tinte Orgánico de Añil de San Juan La Laguna,Tinte de origen vegetal/animal obtenido de Añil en San Juan La Laguna.
+218,LANA_OVEJA_GT0717,Lana de Oveja Natural Seleccionado de San Juan La Laguna,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+219,FIBRA_MIMBRE_GT0717,Fibras de Mimbre Seleccionado de San Juan La Laguna,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+220,PINTURA_ACRILICA_GT0717,Pintura Acrílica Profesional Seleccionado de San Juan La Laguna,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Juan La Laguna.
+221,ALGODON_BLANCO_GT0718,Hilo de Algodón Blanco Seleccionado de San Pedro La Laguna,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+222,ALGODON_CUYUSCATE_GT0718,Hilo de Algodón Cuyuscate Natural Seleccionado de San Pedro La Laguna,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+223,BARRO_ROJO_GT0718,Arcilla de Barro Rojo Seleccionado de San Pedro La Laguna,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+224,JADE_JADEITA_GT0718,Jadeita Verde Seleccionado de San Pedro La Laguna,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+225,MADERA_HORMIGO_GT0718,Madera de Hormigo Seleccionado de San Pedro La Laguna,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+226,MADERA_CEDRO_GT0718,Madera de Cedro Seleccionado de San Pedro La Laguna,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+227,TINTE_NATURAL_PALO_DE_CAMPECHE_GT0718,Tinte Orgánico de Palo de Campeche de San Pedro La Laguna,Tinte de origen vegetal/animal obtenido de Palo de Campeche en San Pedro La Laguna.
+228,LANA_OVEJA_GT0718,Lana de Oveja Natural Seleccionado de San Pedro La Laguna,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+229,FIBRA_MIMBRE_GT0718,Fibras de Mimbre Seleccionado de San Pedro La Laguna,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+230,PINTURA_ACRILICA_GT0718,Pintura Acrílica Profesional Seleccionado de San Pedro La Laguna,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Pedro La Laguna.
+231,ALGODON_BLANCO_GT0719,Hilo de Algodón Blanco Seleccionado de Santiago Atitlán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+232,ALGODON_CUYUSCATE_GT0719,Hilo de Algodón Cuyuscate Natural Seleccionado de Santiago Atitlán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+233,BARRO_ROJO_GT0719,Arcilla de Barro Rojo Seleccionado de Santiago Atitlán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+234,JADE_JADEITA_GT0719,Jadeita Verde Seleccionado de Santiago Atitlán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+235,MADERA_HORMIGO_GT0719,Madera de Hormigo Seleccionado de Santiago Atitlán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+236,MADERA_CEDRO_GT0719,Madera de Cedro Seleccionado de Santiago Atitlán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+237,TINTE_NATURAL_SACCHIL_GT0719,Tinte Orgánico de Sacchil de Santiago Atitlán,Tinte de origen vegetal/animal obtenido de Sacchil en Santiago Atitlán.
+238,LANA_OVEJA_GT0719,Lana de Oveja Natural Seleccionado de Santiago Atitlán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+239,FIBRA_MIMBRE_GT0719,Fibras de Mimbre Seleccionado de Santiago Atitlán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+240,PINTURA_ACRILICA_GT0719,Pintura Acrílica Profesional Seleccionado de Santiago Atitlán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santiago Atitlán.
+241,ALGODON_BLANCO_GT0801,Hilo de Algodón Blanco Seleccionado de Totonicapán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Totonicapán.
+242,ALGODON_CUYUSCATE_GT0801,Hilo de Algodón Cuyuscate Natural Seleccionado de Totonicapán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Totonicapán.
+243,BARRO_ROJO_GT0801,Arcilla de Barro Rojo Seleccionado de Totonicapán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Totonicapán.
+244,JADE_JADEITA_GT0801,Jadeita Verde Seleccionado de Totonicapán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Totonicapán.
+245,MADERA_HORMIGO_GT0801,Madera de Hormigo Seleccionado de Totonicapán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Totonicapán.
+246,MADERA_CEDRO_GT0801,Madera de Cedro Seleccionado de Totonicapán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Totonicapán.
+247,TINTE_NATURAL_EUCALIPTO_GT0801,Tinte Orgánico de Eucalipto de Totonicapán,Tinte de origen vegetal/animal obtenido de Eucalipto en Totonicapán.
+248,LANA_OVEJA_GT0801,Lana de Oveja Natural Seleccionado de Totonicapán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Totonicapán.
+249,FIBRA_MIMBRE_GT0801,Fibras de Mimbre Seleccionado de Totonicapán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Totonicapán.
+250,PINTURA_ACRILICA_GT0801,Pintura Acrílica Profesional Seleccionado de Totonicapán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Totonicapán.
+251,ALGODON_BLANCO_GT0802,Hilo de Algodón Blanco Seleccionado de San Cristóbal Totonicapán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+252,ALGODON_CUYUSCATE_GT0802,Hilo de Algodón Cuyuscate Natural Seleccionado de San Cristóbal Totonicapán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+253,BARRO_ROJO_GT0802,Arcilla de Barro Rojo Seleccionado de San Cristóbal Totonicapán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+254,JADE_JADEITA_GT0802,Jadeita Verde Seleccionado de San Cristóbal Totonicapán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+255,MADERA_HORMIGO_GT0802,Madera de Hormigo Seleccionado de San Cristóbal Totonicapán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+256,MADERA_CEDRO_GT0802,Madera de Cedro Seleccionado de San Cristóbal Totonicapán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+257,TINTE_NATURAL_NOGAL_GT0802,Tinte Orgánico de Nogal de San Cristóbal Totonicapán,Tinte de origen vegetal/animal obtenido de Nogal en San Cristóbal Totonicapán.
+258,LANA_OVEJA_GT0802,Lana de Oveja Natural Seleccionado de San Cristóbal Totonicapán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+259,FIBRA_MIMBRE_GT0802,Fibras de Mimbre Seleccionado de San Cristóbal Totonicapán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+260,PINTURA_ACRILICA_GT0802,Pintura Acrílica Profesional Seleccionado de San Cristóbal Totonicapán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Cristóbal Totonicapán.
+261,ALGODON_BLANCO_GT0803,Hilo de Algodón Blanco Seleccionado de San Francisco El Alto,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+262,ALGODON_CUYUSCATE_GT0803,Hilo de Algodón Cuyuscate Natural Seleccionado de San Francisco El Alto,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+263,BARRO_ROJO_GT0803,Arcilla de Barro Rojo Seleccionado de San Francisco El Alto,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+264,JADE_JADEITA_GT0803,Jadeita Verde Seleccionado de San Francisco El Alto,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+265,MADERA_HORMIGO_GT0803,Madera de Hormigo Seleccionado de San Francisco El Alto,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+266,MADERA_CEDRO_GT0803,Madera de Cedro Seleccionado de San Francisco El Alto,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+267,TINTE_NATURAL_CEBOLLA_GT0803,Tinte Orgánico de Cebolla de San Francisco El Alto,Tinte de origen vegetal/animal obtenido de Cebolla en San Francisco El Alto.
+268,LANA_OVEJA_GT0803,Lana de Oveja Natural Seleccionado de San Francisco El Alto,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+269,FIBRA_MIMBRE_GT0803,Fibras de Mimbre Seleccionado de San Francisco El Alto,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+270,PINTURA_ACRILICA_GT0803,Pintura Acrílica Profesional Seleccionado de San Francisco El Alto,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Francisco El Alto.
+271,ALGODON_BLANCO_GT0804,Hilo de Algodón Blanco Seleccionado de San Andrés Xecul,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+272,ALGODON_CUYUSCATE_GT0804,Hilo de Algodón Cuyuscate Natural Seleccionado de San Andrés Xecul,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+273,BARRO_ROJO_GT0804,Arcilla de Barro Rojo Seleccionado de San Andrés Xecul,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+274,JADE_JADEITA_GT0804,Jadeita Verde Seleccionado de San Andrés Xecul,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+275,MADERA_HORMIGO_GT0804,Madera de Hormigo Seleccionado de San Andrés Xecul,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+276,MADERA_CEDRO_GT0804,Madera de Cedro Seleccionado de San Andrés Xecul,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+277,TINTE_NATURAL_CAFÉ_GT0804,Tinte Orgánico de Café de San Andrés Xecul,Tinte de origen vegetal/animal obtenido de Café en San Andrés Xecul.
+278,LANA_OVEJA_GT0804,Lana de Oveja Natural Seleccionado de San Andrés Xecul,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+279,FIBRA_MIMBRE_GT0804,Fibras de Mimbre Seleccionado de San Andrés Xecul,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+280,PINTURA_ACRILICA_GT0804,Pintura Acrílica Profesional Seleccionado de San Andrés Xecul,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Andrés Xecul.
+281,ALGODON_BLANCO_GT0805,Hilo de Algodón Blanco Seleccionado de Momostenango,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Momostenango.
+282,ALGODON_CUYUSCATE_GT0805,Hilo de Algodón Cuyuscate Natural Seleccionado de Momostenango,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Momostenango.
+283,BARRO_ROJO_GT0805,Arcilla de Barro Rojo Seleccionado de Momostenango,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Momostenango.
+284,JADE_JADEITA_GT0805,Jadeita Verde Seleccionado de Momostenango,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Momostenango.
+285,MADERA_HORMIGO_GT0805,Madera de Hormigo Seleccionado de Momostenango,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Momostenango.
+286,MADERA_CEDRO_GT0805,Madera de Cedro Seleccionado de Momostenango,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Momostenango.
+287,TINTE_NATURAL_SACATE_GT0805,Tinte Orgánico de Sacate de Momostenango,Tinte de origen vegetal/animal obtenido de Sacate en Momostenango.
+288,LANA_OVEJA_GT0805,Lana de Oveja Natural Seleccionado de Momostenango,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Momostenango.
+289,FIBRA_MIMBRE_GT0805,Fibras de Mimbre Seleccionado de Momostenango,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Momostenango.
+290,PINTURA_ACRILICA_GT0805,Pintura Acrílica Profesional Seleccionado de Momostenango,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Momostenango.
+291,ALGODON_BLANCO_GT0806,Hilo de Algodón Blanco Seleccionado de Santa María Chiquimula,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+292,ALGODON_CUYUSCATE_GT0806,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa María Chiquimula,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+293,BARRO_ROJO_GT0806,Arcilla de Barro Rojo Seleccionado de Santa María Chiquimula,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+294,JADE_JADEITA_GT0806,Jadeita Verde Seleccionado de Santa María Chiquimula,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+295,MADERA_HORMIGO_GT0806,Madera de Hormigo Seleccionado de Santa María Chiquimula,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+296,MADERA_CEDRO_GT0806,Madera de Cedro Seleccionado de Santa María Chiquimula,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+297,TINTE_NATURAL_CÚRCUMA_GT0806,Tinte Orgánico de Cúrcuma de Santa María Chiquimula,Tinte de origen vegetal/animal obtenido de Cúrcuma en Santa María Chiquimula.
+298,LANA_OVEJA_GT0806,Lana de Oveja Natural Seleccionado de Santa María Chiquimula,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+299,FIBRA_MIMBRE_GT0806,Fibras de Mimbre Seleccionado de Santa María Chiquimula,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+300,PINTURA_ACRILICA_GT0806,Pintura Acrílica Profesional Seleccionado de Santa María Chiquimula,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa María Chiquimula.
+301,ALGODON_BLANCO_GT0807,Hilo de Algodón Blanco Seleccionado de Santa Lucía La Reforma,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+302,ALGODON_CUYUSCATE_GT0807,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Lucía La Reforma,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+303,BARRO_ROJO_GT0807,Arcilla de Barro Rojo Seleccionado de Santa Lucía La Reforma,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+304,JADE_JADEITA_GT0807,Jadeita Verde Seleccionado de Santa Lucía La Reforma,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+305,MADERA_HORMIGO_GT0807,Madera de Hormigo Seleccionado de Santa Lucía La Reforma,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+306,MADERA_CEDRO_GT0807,Madera de Cedro Seleccionado de Santa Lucía La Reforma,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+307,TINTE_NATURAL_PÚRPURA_GT0807,Tinte Orgánico de Púrpura de Santa Lucía La Reforma,Tinte de origen vegetal/animal obtenido de Púrpura en Santa Lucía La Reforma.
+308,LANA_OVEJA_GT0807,Lana de Oveja Natural Seleccionado de Santa Lucía La Reforma,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+309,FIBRA_MIMBRE_GT0807,Fibras de Mimbre Seleccionado de Santa Lucía La Reforma,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+310,PINTURA_ACRILICA_GT0807,Pintura Acrílica Profesional Seleccionado de Santa Lucía La Reforma,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Lucía La Reforma.
+311,ALGODON_BLANCO_GT0808,Hilo de Algodón Blanco Seleccionado de San Bartolo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Bartolo.
+312,ALGODON_CUYUSCATE_GT0808,Hilo de Algodón Cuyuscate Natural Seleccionado de San Bartolo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Bartolo.
+313,BARRO_ROJO_GT0808,Arcilla de Barro Rojo Seleccionado de San Bartolo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Bartolo.
+314,JADE_JADEITA_GT0808,Jadeita Verde Seleccionado de San Bartolo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Bartolo.
+315,MADERA_HORMIGO_GT0808,Madera de Hormigo Seleccionado de San Bartolo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Bartolo.
+316,MADERA_CEDRO_GT0808,Madera de Cedro Seleccionado de San Bartolo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Bartolo.
+317,TINTE_NATURAL_GRANA_COCHINILLA_GT0808,Tinte Orgánico de Grana Cochinilla de San Bartolo,Tinte de origen vegetal/animal obtenido de Grana Cochinilla en San Bartolo.
+318,LANA_OVEJA_GT0808,Lana de Oveja Natural Seleccionado de San Bartolo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Bartolo.
+319,FIBRA_MIMBRE_GT0808,Fibras de Mimbre Seleccionado de San Bartolo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Bartolo.
+320,PINTURA_ACRILICA_GT0808,Pintura Acrílica Profesional Seleccionado de San Bartolo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Bartolo.
+321,ALGODON_BLANCO_GT0901,Hilo de Algodón Blanco Seleccionado de Quetzaltenango,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+322,ALGODON_CUYUSCATE_GT0901,Hilo de Algodón Cuyuscate Natural Seleccionado de Quetzaltenango,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+323,BARRO_ROJO_GT0901,Arcilla de Barro Rojo Seleccionado de Quetzaltenango,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+324,JADE_JADEITA_GT0901,Jadeita Verde Seleccionado de Quetzaltenango,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+325,MADERA_HORMIGO_GT0901,Madera de Hormigo Seleccionado de Quetzaltenango,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+326,MADERA_CEDRO_GT0901,Madera de Cedro Seleccionado de Quetzaltenango,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+327,TINTE_NATURAL_ACHIOTE_GT0901,Tinte Orgánico de Achiote de Quetzaltenango,Tinte de origen vegetal/animal obtenido de Achiote en Quetzaltenango.
+328,LANA_OVEJA_GT0901,Lana de Oveja Natural Seleccionado de Quetzaltenango,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+329,FIBRA_MIMBRE_GT0901,Fibras de Mimbre Seleccionado de Quetzaltenango,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+330,PINTURA_ACRILICA_GT0901,Pintura Acrílica Profesional Seleccionado de Quetzaltenango,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Quetzaltenango.
+331,ALGODON_BLANCO_GT0902,Hilo de Algodón Blanco Seleccionado de Salcajá,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Salcajá.
+332,ALGODON_CUYUSCATE_GT0902,Hilo de Algodón Cuyuscate Natural Seleccionado de Salcajá,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Salcajá.
+333,BARRO_ROJO_GT0902,Arcilla de Barro Rojo Seleccionado de Salcajá,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Salcajá.
+334,JADE_JADEITA_GT0902,Jadeita Verde Seleccionado de Salcajá,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Salcajá.
+335,MADERA_HORMIGO_GT0902,Madera de Hormigo Seleccionado de Salcajá,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Salcajá.
+336,MADERA_CEDRO_GT0902,Madera de Cedro Seleccionado de Salcajá,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Salcajá.
+337,TINTE_NATURAL_LICHEN_GT0902,Tinte Orgánico de Lichen de Salcajá,Tinte de origen vegetal/animal obtenido de Lichen en Salcajá.
+338,LANA_OVEJA_GT0902,Lana de Oveja Natural Seleccionado de Salcajá,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Salcajá.
+339,FIBRA_MIMBRE_GT0902,Fibras de Mimbre Seleccionado de Salcajá,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Salcajá.
+340,PINTURA_ACRILICA_GT0902,Pintura Acrílica Profesional Seleccionado de Salcajá,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Salcajá.
+341,ALGODON_BLANCO_GT0903,Hilo de Algodón Blanco Seleccionado de Olintepeque,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Olintepeque.
+342,ALGODON_CUYUSCATE_GT0903,Hilo de Algodón Cuyuscate Natural Seleccionado de Olintepeque,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Olintepeque.
+343,BARRO_ROJO_GT0903,Arcilla de Barro Rojo Seleccionado de Olintepeque,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Olintepeque.
+344,JADE_JADEITA_GT0903,Jadeita Verde Seleccionado de Olintepeque,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Olintepeque.
+345,MADERA_HORMIGO_GT0903,Madera de Hormigo Seleccionado de Olintepeque,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Olintepeque.
+346,MADERA_CEDRO_GT0903,Madera de Cedro Seleccionado de Olintepeque,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Olintepeque.
+347,TINTE_NATURAL_OCOTE_GT0903,Tinte Orgánico de Ocote de Olintepeque,Tinte de origen vegetal/animal obtenido de Ocote en Olintepeque.
+348,LANA_OVEJA_GT0903,Lana de Oveja Natural Seleccionado de Olintepeque,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Olintepeque.
+349,FIBRA_MIMBRE_GT0903,Fibras de Mimbre Seleccionado de Olintepeque,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Olintepeque.
+350,PINTURA_ACRILICA_GT0903,Pintura Acrílica Profesional Seleccionado de Olintepeque,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Olintepeque.
+351,ALGODON_BLANCO_GT0904,Hilo de Algodón Blanco Seleccionado de San Carlos Sija,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+352,ALGODON_CUYUSCATE_GT0904,Hilo de Algodón Cuyuscate Natural Seleccionado de San Carlos Sija,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+353,BARRO_ROJO_GT0904,Arcilla de Barro Rojo Seleccionado de San Carlos Sija,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+354,JADE_JADEITA_GT0904,Jadeita Verde Seleccionado de San Carlos Sija,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+355,MADERA_HORMIGO_GT0904,Madera de Hormigo Seleccionado de San Carlos Sija,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+356,MADERA_CEDRO_GT0904,Madera de Cedro Seleccionado de San Carlos Sija,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+357,TINTE_NATURAL_AGUACATE_GT0904,Tinte Orgánico de Aguacate de San Carlos Sija,Tinte de origen vegetal/animal obtenido de Aguacate en San Carlos Sija.
+358,LANA_OVEJA_GT0904,Lana de Oveja Natural Seleccionado de San Carlos Sija,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+359,FIBRA_MIMBRE_GT0904,Fibras de Mimbre Seleccionado de San Carlos Sija,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+360,PINTURA_ACRILICA_GT0904,Pintura Acrílica Profesional Seleccionado de San Carlos Sija,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Carlos Sija.
+361,ALGODON_BLANCO_GT0905,Hilo de Algodón Blanco Seleccionado de Sibilia,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Sibilia.
+362,ALGODON_CUYUSCATE_GT0905,Hilo de Algodón Cuyuscate Natural Seleccionado de Sibilia,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Sibilia.
+363,BARRO_ROJO_GT0905,Arcilla de Barro Rojo Seleccionado de Sibilia,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Sibilia.
+364,JADE_JADEITA_GT0905,Jadeita Verde Seleccionado de Sibilia,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Sibilia.
+365,MADERA_HORMIGO_GT0905,Madera de Hormigo Seleccionado de Sibilia,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Sibilia.
+366,MADERA_CEDRO_GT0905,Madera de Cedro Seleccionado de Sibilia,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Sibilia.
+367,TINTE_NATURAL_MANZANILLA_GT0905,Tinte Orgánico de Manzanilla de Sibilia,Tinte de origen vegetal/animal obtenido de Manzanilla en Sibilia.
+368,LANA_OVEJA_GT0905,Lana de Oveja Natural Seleccionado de Sibilia,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Sibilia.
+369,FIBRA_MIMBRE_GT0905,Fibras de Mimbre Seleccionado de Sibilia,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Sibilia.
+370,PINTURA_ACRILICA_GT0905,Pintura Acrílica Profesional Seleccionado de Sibilia,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Sibilia.
+371,ALGODON_BLANCO_GT0906,Hilo de Algodón Blanco Seleccionado de Cabricán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Cabricán.
+372,ALGODON_CUYUSCATE_GT0906,Hilo de Algodón Cuyuscate Natural Seleccionado de Cabricán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Cabricán.
+373,BARRO_ROJO_GT0906,Arcilla de Barro Rojo Seleccionado de Cabricán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Cabricán.
+374,JADE_JADEITA_GT0906,Jadeita Verde Seleccionado de Cabricán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Cabricán.
+375,MADERA_HORMIGO_GT0906,Madera de Hormigo Seleccionado de Cabricán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Cabricán.
+376,MADERA_CEDRO_GT0906,Madera de Cedro Seleccionado de Cabricán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Cabricán.
+377,TINTE_NATURAL_MORAS_GT0906,Tinte Orgánico de Moras de Cabricán,Tinte de origen vegetal/animal obtenido de Moras en Cabricán.
+378,LANA_OVEJA_GT0906,Lana de Oveja Natural Seleccionado de Cabricán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Cabricán.
+379,FIBRA_MIMBRE_GT0906,Fibras de Mimbre Seleccionado de Cabricán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Cabricán.
+380,PINTURA_ACRILICA_GT0906,Pintura Acrílica Profesional Seleccionado de Cabricán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Cabricán.
+381,ALGODON_BLANCO_GT0907,Hilo de Algodón Blanco Seleccionado de Cajolá,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Cajolá.
+382,ALGODON_CUYUSCATE_GT0907,Hilo de Algodón Cuyuscate Natural Seleccionado de Cajolá,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Cajolá.
+383,BARRO_ROJO_GT0907,Arcilla de Barro Rojo Seleccionado de Cajolá,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Cajolá.
+384,JADE_JADEITA_GT0907,Jadeita Verde Seleccionado de Cajolá,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Cajolá.
+385,MADERA_HORMIGO_GT0907,Madera de Hormigo Seleccionado de Cajolá,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Cajolá.
+386,MADERA_CEDRO_GT0907,Madera de Cedro Seleccionado de Cajolá,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Cajolá.
+387,TINTE_NATURAL_CAMPANILLA_GT0907,Tinte Orgánico de Campanilla de Cajolá,Tinte de origen vegetal/animal obtenido de Campanilla en Cajolá.
+388,LANA_OVEJA_GT0907,Lana de Oveja Natural Seleccionado de Cajolá,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Cajolá.
+389,FIBRA_MIMBRE_GT0907,Fibras de Mimbre Seleccionado de Cajolá,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Cajolá.
+390,PINTURA_ACRILICA_GT0907,Pintura Acrílica Profesional Seleccionado de Cajolá,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Cajolá.
+391,ALGODON_BLANCO_GT0908,Hilo de Algodón Blanco Seleccionado de San Miguel Sigüila,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+392,ALGODON_CUYUSCATE_GT0908,Hilo de Algodón Cuyuscate Natural Seleccionado de San Miguel Sigüila,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+393,BARRO_ROJO_GT0908,Arcilla de Barro Rojo Seleccionado de San Miguel Sigüila,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+394,JADE_JADEITA_GT0908,Jadeita Verde Seleccionado de San Miguel Sigüila,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+395,MADERA_HORMIGO_GT0908,Madera de Hormigo Seleccionado de San Miguel Sigüila,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+396,MADERA_CEDRO_GT0908,Madera de Cedro Seleccionado de San Miguel Sigüila,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+397,TINTE_NATURAL_CANELA_GT0908,Tinte Orgánico de Canela de San Miguel Sigüila,Tinte de origen vegetal/animal obtenido de Canela en San Miguel Sigüila.
+398,LANA_OVEJA_GT0908,Lana de Oveja Natural Seleccionado de San Miguel Sigüila,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+399,FIBRA_MIMBRE_GT0908,Fibras de Mimbre Seleccionado de San Miguel Sigüila,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+400,PINTURA_ACRILICA_GT0908,Pintura Acrílica Profesional Seleccionado de San Miguel Sigüila,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Miguel Sigüila.
+401,ALGODON_BLANCO_GT0909,Hilo de Algodón Blanco Seleccionado de Ostuncalco,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+402,ALGODON_CUYUSCATE_GT0909,Hilo de Algodón Cuyuscate Natural Seleccionado de Ostuncalco,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+403,BARRO_ROJO_GT0909,Arcilla de Barro Rojo Seleccionado de Ostuncalco,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+404,JADE_JADEITA_GT0909,Jadeita Verde Seleccionado de Ostuncalco,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+405,MADERA_HORMIGO_GT0909,Madera de Hormigo Seleccionado de Ostuncalco,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+406,MADERA_CEDRO_GT0909,Madera de Cedro Seleccionado de Ostuncalco,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+407,TINTE_NATURAL_COCHINILLA_GT0909,Tinte Orgánico de Cochinilla de Ostuncalco,Tinte de origen vegetal/animal obtenido de Cochinilla en Ostuncalco.
+408,LANA_OVEJA_GT0909,Lana de Oveja Natural Seleccionado de Ostuncalco,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+409,FIBRA_MIMBRE_GT0909,Fibras de Mimbre Seleccionado de Ostuncalco,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+410,PINTURA_ACRILICA_GT0909,Pintura Acrílica Profesional Seleccionado de Ostuncalco,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Ostuncalco.
+411,ALGODON_BLANCO_GT0910,Hilo de Algodón Blanco Seleccionado de San Mateo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Mateo.
+412,ALGODON_CUYUSCATE_GT0910,Hilo de Algodón Cuyuscate Natural Seleccionado de San Mateo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Mateo.
+413,BARRO_ROJO_GT0910,Arcilla de Barro Rojo Seleccionado de San Mateo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Mateo.
+414,JADE_JADEITA_GT0910,Jadeita Verde Seleccionado de San Mateo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Mateo.
+415,MADERA_HORMIGO_GT0910,Madera de Hormigo Seleccionado de San Mateo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Mateo.
+416,MADERA_CEDRO_GT0910,Madera de Cedro Seleccionado de San Mateo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Mateo.
+417,TINTE_NATURAL_AÑIL_GT0910,Tinte Orgánico de Añil de San Mateo,Tinte de origen vegetal/animal obtenido de Añil en San Mateo.
+418,LANA_OVEJA_GT0910,Lana de Oveja Natural Seleccionado de San Mateo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Mateo.
+419,FIBRA_MIMBRE_GT0910,Fibras de Mimbre Seleccionado de San Mateo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Mateo.
+420,PINTURA_ACRILICA_GT0910,Pintura Acrílica Profesional Seleccionado de San Mateo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Mateo.
+421,ALGODON_BLANCO_GT0911,Hilo de Algodón Blanco Seleccionado de Concepción Chiquirichapa,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+422,ALGODON_CUYUSCATE_GT0911,Hilo de Algodón Cuyuscate Natural Seleccionado de Concepción Chiquirichapa,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+423,BARRO_ROJO_GT0911,Arcilla de Barro Rojo Seleccionado de Concepción Chiquirichapa,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+424,JADE_JADEITA_GT0911,Jadeita Verde Seleccionado de Concepción Chiquirichapa,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+425,MADERA_HORMIGO_GT0911,Madera de Hormigo Seleccionado de Concepción Chiquirichapa,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+426,MADERA_CEDRO_GT0911,Madera de Cedro Seleccionado de Concepción Chiquirichapa,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+427,TINTE_NATURAL_PALO_DE_CAMPECHE_GT0911,Tinte Orgánico de Palo de Campeche de Concepción Chiquirichapa,Tinte de origen vegetal/animal obtenido de Palo de Campeche en Concepción Chiquirichapa.
+428,LANA_OVEJA_GT0911,Lana de Oveja Natural Seleccionado de Concepción Chiquirichapa,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+429,FIBRA_MIMBRE_GT0911,Fibras de Mimbre Seleccionado de Concepción Chiquirichapa,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+430,PINTURA_ACRILICA_GT0911,Pintura Acrílica Profesional Seleccionado de Concepción Chiquirichapa,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Concepción Chiquirichapa.
+431,ALGODON_BLANCO_GT0912,Hilo de Algodón Blanco Seleccionado de San Martín Sacatepéquez,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+432,ALGODON_CUYUSCATE_GT0912,Hilo de Algodón Cuyuscate Natural Seleccionado de San Martín Sacatepéquez,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+433,BARRO_ROJO_GT0912,Arcilla de Barro Rojo Seleccionado de San Martín Sacatepéquez,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+434,JADE_JADEITA_GT0912,Jadeita Verde Seleccionado de San Martín Sacatepéquez,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+435,MADERA_HORMIGO_GT0912,Madera de Hormigo Seleccionado de San Martín Sacatepéquez,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+436,MADERA_CEDRO_GT0912,Madera de Cedro Seleccionado de San Martín Sacatepéquez,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+437,TINTE_NATURAL_SACCHIL_GT0912,Tinte Orgánico de Sacchil de San Martín Sacatepéquez,Tinte de origen vegetal/animal obtenido de Sacchil en San Martín Sacatepéquez.
+438,LANA_OVEJA_GT0912,Lana de Oveja Natural Seleccionado de San Martín Sacatepéquez,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+439,FIBRA_MIMBRE_GT0912,Fibras de Mimbre Seleccionado de San Martín Sacatepéquez,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+440,PINTURA_ACRILICA_GT0912,Pintura Acrílica Profesional Seleccionado de San Martín Sacatepéquez,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Martín Sacatepéquez.
+441,ALGODON_BLANCO_GT0913,Hilo de Algodón Blanco Seleccionado de Almolonga,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Almolonga.
+442,ALGODON_CUYUSCATE_GT0913,Hilo de Algodón Cuyuscate Natural Seleccionado de Almolonga,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Almolonga.
+443,BARRO_ROJO_GT0913,Arcilla de Barro Rojo Seleccionado de Almolonga,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Almolonga.
+444,JADE_JADEITA_GT0913,Jadeita Verde Seleccionado de Almolonga,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Almolonga.
+445,MADERA_HORMIGO_GT0913,Madera de Hormigo Seleccionado de Almolonga,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Almolonga.
+446,MADERA_CEDRO_GT0913,Madera de Cedro Seleccionado de Almolonga,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Almolonga.
+447,TINTE_NATURAL_EUCALIPTO_GT0913,Tinte Orgánico de Eucalipto de Almolonga,Tinte de origen vegetal/animal obtenido de Eucalipto en Almolonga.
+448,LANA_OVEJA_GT0913,Lana de Oveja Natural Seleccionado de Almolonga,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Almolonga.
+449,FIBRA_MIMBRE_GT0913,Fibras de Mimbre Seleccionado de Almolonga,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Almolonga.
+450,PINTURA_ACRILICA_GT0913,Pintura Acrílica Profesional Seleccionado de Almolonga,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Almolonga.
+451,ALGODON_BLANCO_GT0914,Hilo de Algodón Blanco Seleccionado de Cantel,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Cantel.
+452,ALGODON_CUYUSCATE_GT0914,Hilo de Algodón Cuyuscate Natural Seleccionado de Cantel,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Cantel.
+453,BARRO_ROJO_GT0914,Arcilla de Barro Rojo Seleccionado de Cantel,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Cantel.
+454,JADE_JADEITA_GT0914,Jadeita Verde Seleccionado de Cantel,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Cantel.
+455,MADERA_HORMIGO_GT0914,Madera de Hormigo Seleccionado de Cantel,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Cantel.
+456,MADERA_CEDRO_GT0914,Madera de Cedro Seleccionado de Cantel,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Cantel.
+457,TINTE_NATURAL_NOGAL_GT0914,Tinte Orgánico de Nogal de Cantel,Tinte de origen vegetal/animal obtenido de Nogal en Cantel.
+458,LANA_OVEJA_GT0914,Lana de Oveja Natural Seleccionado de Cantel,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Cantel.
+459,FIBRA_MIMBRE_GT0914,Fibras de Mimbre Seleccionado de Cantel,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Cantel.
+460,PINTURA_ACRILICA_GT0914,Pintura Acrílica Profesional Seleccionado de Cantel,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Cantel.
+461,ALGODON_BLANCO_GT0915,Hilo de Algodón Blanco Seleccionado de Huitán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Huitán.
+462,ALGODON_CUYUSCATE_GT0915,Hilo de Algodón Cuyuscate Natural Seleccionado de Huitán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Huitán.
+463,BARRO_ROJO_GT0915,Arcilla de Barro Rojo Seleccionado de Huitán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Huitán.
+464,JADE_JADEITA_GT0915,Jadeita Verde Seleccionado de Huitán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Huitán.
+465,MADERA_HORMIGO_GT0915,Madera de Hormigo Seleccionado de Huitán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Huitán.
+466,MADERA_CEDRO_GT0915,Madera de Cedro Seleccionado de Huitán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Huitán.
+467,TINTE_NATURAL_CEBOLLA_GT0915,Tinte Orgánico de Cebolla de Huitán,Tinte de origen vegetal/animal obtenido de Cebolla en Huitán.
+468,LANA_OVEJA_GT0915,Lana de Oveja Natural Seleccionado de Huitán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Huitán.
+469,FIBRA_MIMBRE_GT0915,Fibras de Mimbre Seleccionado de Huitán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Huitán.
+470,PINTURA_ACRILICA_GT0915,Pintura Acrílica Profesional Seleccionado de Huitán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Huitán.
+471,ALGODON_BLANCO_GT0916,Hilo de Algodón Blanco Seleccionado de Zunil,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Zunil.
+472,ALGODON_CUYUSCATE_GT0916,Hilo de Algodón Cuyuscate Natural Seleccionado de Zunil,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Zunil.
+473,BARRO_ROJO_GT0916,Arcilla de Barro Rojo Seleccionado de Zunil,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Zunil.
+474,JADE_JADEITA_GT0916,Jadeita Verde Seleccionado de Zunil,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Zunil.
+475,MADERA_HORMIGO_GT0916,Madera de Hormigo Seleccionado de Zunil,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Zunil.
+476,MADERA_CEDRO_GT0916,Madera de Cedro Seleccionado de Zunil,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Zunil.
+477,TINTE_NATURAL_CAFÉ_GT0916,Tinte Orgánico de Café de Zunil,Tinte de origen vegetal/animal obtenido de Café en Zunil.
+478,LANA_OVEJA_GT0916,Lana de Oveja Natural Seleccionado de Zunil,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Zunil.
+479,FIBRA_MIMBRE_GT0916,Fibras de Mimbre Seleccionado de Zunil,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Zunil.
+480,PINTURA_ACRILICA_GT0916,Pintura Acrílica Profesional Seleccionado de Zunil,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Zunil.
+481,ALGODON_BLANCO_GT0917,Hilo de Algodón Blanco Seleccionado de Colomba,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Colomba.
+482,ALGODON_CUYUSCATE_GT0917,Hilo de Algodón Cuyuscate Natural Seleccionado de Colomba,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Colomba.
+483,BARRO_ROJO_GT0917,Arcilla de Barro Rojo Seleccionado de Colomba,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Colomba.
+484,JADE_JADEITA_GT0917,Jadeita Verde Seleccionado de Colomba,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Colomba.
+485,MADERA_HORMIGO_GT0917,Madera de Hormigo Seleccionado de Colomba,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Colomba.
+486,MADERA_CEDRO_GT0917,Madera de Cedro Seleccionado de Colomba,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Colomba.
+487,TINTE_NATURAL_SACATE_GT0917,Tinte Orgánico de Sacate de Colomba,Tinte de origen vegetal/animal obtenido de Sacate en Colomba.
+488,LANA_OVEJA_GT0917,Lana de Oveja Natural Seleccionado de Colomba,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Colomba.
+489,FIBRA_MIMBRE_GT0917,Fibras de Mimbre Seleccionado de Colomba,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Colomba.
+490,PINTURA_ACRILICA_GT0917,Pintura Acrílica Profesional Seleccionado de Colomba,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Colomba.
+491,ALGODON_BLANCO_GT0918,Hilo de Algodón Blanco Seleccionado de San Francisco La Unión,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+492,ALGODON_CUYUSCATE_GT0918,Hilo de Algodón Cuyuscate Natural Seleccionado de San Francisco La Unión,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+493,BARRO_ROJO_GT0918,Arcilla de Barro Rojo Seleccionado de San Francisco La Unión,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+494,JADE_JADEITA_GT0918,Jadeita Verde Seleccionado de San Francisco La Unión,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+495,MADERA_HORMIGO_GT0918,Madera de Hormigo Seleccionado de San Francisco La Unión,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+496,MADERA_CEDRO_GT0918,Madera de Cedro Seleccionado de San Francisco La Unión,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+497,TINTE_NATURAL_CÚRCUMA_GT0918,Tinte Orgánico de Cúrcuma de San Francisco La Unión,Tinte de origen vegetal/animal obtenido de Cúrcuma en San Francisco La Unión.
+498,LANA_OVEJA_GT0918,Lana de Oveja Natural Seleccionado de San Francisco La Unión,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+499,FIBRA_MIMBRE_GT0918,Fibras de Mimbre Seleccionado de San Francisco La Unión,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+500,PINTURA_ACRILICA_GT0918,Pintura Acrílica Profesional Seleccionado de San Francisco La Unión,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Francisco La Unión.
+501,ALGODON_BLANCO_GT0919,Hilo de Algodón Blanco Seleccionado de El Palmar,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de El Palmar.
+502,ALGODON_CUYUSCATE_GT0919,Hilo de Algodón Cuyuscate Natural Seleccionado de El Palmar,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de El Palmar.
+503,BARRO_ROJO_GT0919,Arcilla de Barro Rojo Seleccionado de El Palmar,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de El Palmar.
+504,JADE_JADEITA_GT0919,Jadeita Verde Seleccionado de El Palmar,Jadeita Verde de alta calidad recolectado en las zonas montañosas de El Palmar.
+505,MADERA_HORMIGO_GT0919,Madera de Hormigo Seleccionado de El Palmar,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de El Palmar.
+506,MADERA_CEDRO_GT0919,Madera de Cedro Seleccionado de El Palmar,Madera de Cedro de alta calidad recolectado en las zonas montañosas de El Palmar.
+507,TINTE_NATURAL_PÚRPURA_GT0919,Tinte Orgánico de Púrpura de El Palmar,Tinte de origen vegetal/animal obtenido de Púrpura en El Palmar.
+508,LANA_OVEJA_GT0919,Lana de Oveja Natural Seleccionado de El Palmar,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de El Palmar.
+509,FIBRA_MIMBRE_GT0919,Fibras de Mimbre Seleccionado de El Palmar,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de El Palmar.
+510,PINTURA_ACRILICA_GT0919,Pintura Acrílica Profesional Seleccionado de El Palmar,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de El Palmar.
+511,ALGODON_BLANCO_GT0920,Hilo de Algodón Blanco Seleccionado de Coatepeque,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Coatepeque.
+512,ALGODON_CUYUSCATE_GT0920,Hilo de Algodón Cuyuscate Natural Seleccionado de Coatepeque,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Coatepeque.
+513,BARRO_ROJO_GT0920,Arcilla de Barro Rojo Seleccionado de Coatepeque,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Coatepeque.
+514,JADE_JADEITA_GT0920,Jadeita Verde Seleccionado de Coatepeque,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Coatepeque.
+515,MADERA_HORMIGO_GT0920,Madera de Hormigo Seleccionado de Coatepeque,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Coatepeque.
+516,MADERA_CEDRO_GT0920,Madera de Cedro Seleccionado de Coatepeque,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Coatepeque.
+517,TINTE_NATURAL_GRANA_COCHINILLA_GT0920,Tinte Orgánico de Grana Cochinilla de Coatepeque,Tinte de origen vegetal/animal obtenido de Grana Cochinilla en Coatepeque.
+518,LANA_OVEJA_GT0920,Lana de Oveja Natural Seleccionado de Coatepeque,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Coatepeque.
+519,FIBRA_MIMBRE_GT0920,Fibras de Mimbre Seleccionado de Coatepeque,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Coatepeque.
+520,PINTURA_ACRILICA_GT0920,Pintura Acrílica Profesional Seleccionado de Coatepeque,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Coatepeque.
+521,ALGODON_BLANCO_GT0921,Hilo de Algodón Blanco Seleccionado de Génova,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Génova.
+522,ALGODON_CUYUSCATE_GT0921,Hilo de Algodón Cuyuscate Natural Seleccionado de Génova,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Génova.
+523,BARRO_ROJO_GT0921,Arcilla de Barro Rojo Seleccionado de Génova,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Génova.
+524,JADE_JADEITA_GT0921,Jadeita Verde Seleccionado de Génova,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Génova.
+525,MADERA_HORMIGO_GT0921,Madera de Hormigo Seleccionado de Génova,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Génova.
+526,MADERA_CEDRO_GT0921,Madera de Cedro Seleccionado de Génova,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Génova.
+527,TINTE_NATURAL_ACHIOTE_GT0921,Tinte Orgánico de Achiote de Génova,Tinte de origen vegetal/animal obtenido de Achiote en Génova.
+528,LANA_OVEJA_GT0921,Lana de Oveja Natural Seleccionado de Génova,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Génova.
+529,FIBRA_MIMBRE_GT0921,Fibras de Mimbre Seleccionado de Génova,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Génova.
+530,PINTURA_ACRILICA_GT0921,Pintura Acrílica Profesional Seleccionado de Génova,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Génova.
+531,ALGODON_BLANCO_GT0922,Hilo de Algodón Blanco Seleccionado de Flores Costa Cuca,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+532,ALGODON_CUYUSCATE_GT0922,Hilo de Algodón Cuyuscate Natural Seleccionado de Flores Costa Cuca,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+533,BARRO_ROJO_GT0922,Arcilla de Barro Rojo Seleccionado de Flores Costa Cuca,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+534,JADE_JADEITA_GT0922,Jadeita Verde Seleccionado de Flores Costa Cuca,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+535,MADERA_HORMIGO_GT0922,Madera de Hormigo Seleccionado de Flores Costa Cuca,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+536,MADERA_CEDRO_GT0922,Madera de Cedro Seleccionado de Flores Costa Cuca,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+537,TINTE_NATURAL_LICHEN_GT0922,Tinte Orgánico de Lichen de Flores Costa Cuca,Tinte de origen vegetal/animal obtenido de Lichen en Flores Costa Cuca.
+538,LANA_OVEJA_GT0922,Lana de Oveja Natural Seleccionado de Flores Costa Cuca,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+539,FIBRA_MIMBRE_GT0922,Fibras de Mimbre Seleccionado de Flores Costa Cuca,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+540,PINTURA_ACRILICA_GT0922,Pintura Acrílica Profesional Seleccionado de Flores Costa Cuca,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Flores Costa Cuca.
+541,ALGODON_BLANCO_GT0923,Hilo de Algodón Blanco Seleccionado de La Esperanza,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de La Esperanza.
+542,ALGODON_CUYUSCATE_GT0923,Hilo de Algodón Cuyuscate Natural Seleccionado de La Esperanza,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de La Esperanza.
+543,BARRO_ROJO_GT0923,Arcilla de Barro Rojo Seleccionado de La Esperanza,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de La Esperanza.
+544,JADE_JADEITA_GT0923,Jadeita Verde Seleccionado de La Esperanza,Jadeita Verde de alta calidad recolectado en las zonas montañosas de La Esperanza.
+545,MADERA_HORMIGO_GT0923,Madera de Hormigo Seleccionado de La Esperanza,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de La Esperanza.
+546,MADERA_CEDRO_GT0923,Madera de Cedro Seleccionado de La Esperanza,Madera de Cedro de alta calidad recolectado en las zonas montañosas de La Esperanza.
+547,TINTE_NATURAL_OCOTE_GT0923,Tinte Orgánico de Ocote de La Esperanza,Tinte de origen vegetal/animal obtenido de Ocote en La Esperanza.
+548,LANA_OVEJA_GT0923,Lana de Oveja Natural Seleccionado de La Esperanza,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de La Esperanza.
+549,FIBRA_MIMBRE_GT0923,Fibras de Mimbre Seleccionado de La Esperanza,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de La Esperanza.
+550,PINTURA_ACRILICA_GT0923,Pintura Acrílica Profesional Seleccionado de La Esperanza,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de La Esperanza.
+551,ALGODON_BLANCO_GT0924,Hilo de Algodón Blanco Seleccionado de Palestina de Los Altos,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+552,ALGODON_CUYUSCATE_GT0924,Hilo de Algodón Cuyuscate Natural Seleccionado de Palestina de Los Altos,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+553,BARRO_ROJO_GT0924,Arcilla de Barro Rojo Seleccionado de Palestina de Los Altos,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+554,JADE_JADEITA_GT0924,Jadeita Verde Seleccionado de Palestina de Los Altos,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+555,MADERA_HORMIGO_GT0924,Madera de Hormigo Seleccionado de Palestina de Los Altos,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+556,MADERA_CEDRO_GT0924,Madera de Cedro Seleccionado de Palestina de Los Altos,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+557,TINTE_NATURAL_AGUACATE_GT0924,Tinte Orgánico de Aguacate de Palestina de Los Altos,Tinte de origen vegetal/animal obtenido de Aguacate en Palestina de Los Altos.
+558,LANA_OVEJA_GT0924,Lana de Oveja Natural Seleccionado de Palestina de Los Altos,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+559,FIBRA_MIMBRE_GT0924,Fibras de Mimbre Seleccionado de Palestina de Los Altos,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+560,PINTURA_ACRILICA_GT0924,Pintura Acrílica Profesional Seleccionado de Palestina de Los Altos,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Palestina de Los Altos.
+561,ALGODON_BLANCO_GT1201,Hilo de Algodón Blanco Seleccionado de San Marcos,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Marcos.
+562,ALGODON_CUYUSCATE_GT1201,Hilo de Algodón Cuyuscate Natural Seleccionado de San Marcos,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Marcos.
+563,BARRO_ROJO_GT1201,Arcilla de Barro Rojo Seleccionado de San Marcos,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Marcos.
+564,JADE_JADEITA_GT1201,Jadeita Verde Seleccionado de San Marcos,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Marcos.
+565,MADERA_HORMIGO_GT1201,Madera de Hormigo Seleccionado de San Marcos,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Marcos.
+566,MADERA_CEDRO_GT1201,Madera de Cedro Seleccionado de San Marcos,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Marcos.
+567,TINTE_NATURAL_MANZANILLA_GT1201,Tinte Orgánico de Manzanilla de San Marcos,Tinte de origen vegetal/animal obtenido de Manzanilla en San Marcos.
+568,LANA_OVEJA_GT1201,Lana de Oveja Natural Seleccionado de San Marcos,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Marcos.
+569,FIBRA_MIMBRE_GT1201,Fibras de Mimbre Seleccionado de San Marcos,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Marcos.
+570,PINTURA_ACRILICA_GT1201,Pintura Acrílica Profesional Seleccionado de San Marcos,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Marcos.
+571,ALGODON_BLANCO_GT1202,Hilo de Algodón Blanco Seleccionado de San Pedro Sacatepéquez,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+572,ALGODON_CUYUSCATE_GT1202,Hilo de Algodón Cuyuscate Natural Seleccionado de San Pedro Sacatepéquez,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+573,BARRO_ROJO_GT1202,Arcilla de Barro Rojo Seleccionado de San Pedro Sacatepéquez,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+574,JADE_JADEITA_GT1202,Jadeita Verde Seleccionado de San Pedro Sacatepéquez,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+575,MADERA_HORMIGO_GT1202,Madera de Hormigo Seleccionado de San Pedro Sacatepéquez,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+576,MADERA_CEDRO_GT1202,Madera de Cedro Seleccionado de San Pedro Sacatepéquez,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+577,TINTE_NATURAL_MORAS_GT1202,Tinte Orgánico de Moras de San Pedro Sacatepéquez,Tinte de origen vegetal/animal obtenido de Moras en San Pedro Sacatepéquez.
+578,LANA_OVEJA_GT1202,Lana de Oveja Natural Seleccionado de San Pedro Sacatepéquez,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+579,FIBRA_MIMBRE_GT1202,Fibras de Mimbre Seleccionado de San Pedro Sacatepéquez,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+580,PINTURA_ACRILICA_GT1202,Pintura Acrílica Profesional Seleccionado de San Pedro Sacatepéquez,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Pedro Sacatepéquez.
+581,ALGODON_BLANCO_GT1203,Hilo de Algodón Blanco Seleccionado de San Antonio Sacatepéquez,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+582,ALGODON_CUYUSCATE_GT1203,Hilo de Algodón Cuyuscate Natural Seleccionado de San Antonio Sacatepéquez,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+583,BARRO_ROJO_GT1203,Arcilla de Barro Rojo Seleccionado de San Antonio Sacatepéquez,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+584,JADE_JADEITA_GT1203,Jadeita Verde Seleccionado de San Antonio Sacatepéquez,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+585,MADERA_HORMIGO_GT1203,Madera de Hormigo Seleccionado de San Antonio Sacatepéquez,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+586,MADERA_CEDRO_GT1203,Madera de Cedro Seleccionado de San Antonio Sacatepéquez,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+587,TINTE_NATURAL_CAMPANILLA_GT1203,Tinte Orgánico de Campanilla de San Antonio Sacatepéquez,Tinte de origen vegetal/animal obtenido de Campanilla en San Antonio Sacatepéquez.
+588,LANA_OVEJA_GT1203,Lana de Oveja Natural Seleccionado de San Antonio Sacatepéquez,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+589,FIBRA_MIMBRE_GT1203,Fibras de Mimbre Seleccionado de San Antonio Sacatepéquez,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+590,PINTURA_ACRILICA_GT1203,Pintura Acrílica Profesional Seleccionado de San Antonio Sacatepéquez,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Antonio Sacatepéquez.
+591,ALGODON_BLANCO_GT1204,Hilo de Algodón Blanco Seleccionado de Comitancillo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Comitancillo.
+592,ALGODON_CUYUSCATE_GT1204,Hilo de Algodón Cuyuscate Natural Seleccionado de Comitancillo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Comitancillo.
+593,BARRO_ROJO_GT1204,Arcilla de Barro Rojo Seleccionado de Comitancillo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Comitancillo.
+594,JADE_JADEITA_GT1204,Jadeita Verde Seleccionado de Comitancillo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Comitancillo.
+595,MADERA_HORMIGO_GT1204,Madera de Hormigo Seleccionado de Comitancillo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Comitancillo.
+596,MADERA_CEDRO_GT1204,Madera de Cedro Seleccionado de Comitancillo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Comitancillo.
+597,TINTE_NATURAL_CANELA_GT1204,Tinte Orgánico de Canela de Comitancillo,Tinte de origen vegetal/animal obtenido de Canela en Comitancillo.
+598,LANA_OVEJA_GT1204,Lana de Oveja Natural Seleccionado de Comitancillo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Comitancillo.
+599,FIBRA_MIMBRE_GT1204,Fibras de Mimbre Seleccionado de Comitancillo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Comitancillo.
+600,PINTURA_ACRILICA_GT1204,Pintura Acrílica Profesional Seleccionado de Comitancillo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Comitancillo.
+601,ALGODON_BLANCO_GT1205,Hilo de Algodón Blanco Seleccionado de San Miguel Ixtahuacán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+602,ALGODON_CUYUSCATE_GT1205,Hilo de Algodón Cuyuscate Natural Seleccionado de San Miguel Ixtahuacán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+603,BARRO_ROJO_GT1205,Arcilla de Barro Rojo Seleccionado de San Miguel Ixtahuacán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+604,JADE_JADEITA_GT1205,Jadeita Verde Seleccionado de San Miguel Ixtahuacán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+605,MADERA_HORMIGO_GT1205,Madera de Hormigo Seleccionado de San Miguel Ixtahuacán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+606,MADERA_CEDRO_GT1205,Madera de Cedro Seleccionado de San Miguel Ixtahuacán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+607,TINTE_NATURAL_COCHINILLA_GT1205,Tinte Orgánico de Cochinilla de San Miguel Ixtahuacán,Tinte de origen vegetal/animal obtenido de Cochinilla en San Miguel Ixtahuacán.
+608,LANA_OVEJA_GT1205,Lana de Oveja Natural Seleccionado de San Miguel Ixtahuacán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+609,FIBRA_MIMBRE_GT1205,Fibras de Mimbre Seleccionado de San Miguel Ixtahuacán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+610,PINTURA_ACRILICA_GT1205,Pintura Acrílica Profesional Seleccionado de San Miguel Ixtahuacán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Miguel Ixtahuacán.
+611,ALGODON_BLANCO_GT1206,Hilo de Algodón Blanco Seleccionado de Concepción Tutuapa,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+612,ALGODON_CUYUSCATE_GT1206,Hilo de Algodón Cuyuscate Natural Seleccionado de Concepción Tutuapa,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+613,BARRO_ROJO_GT1206,Arcilla de Barro Rojo Seleccionado de Concepción Tutuapa,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+614,JADE_JADEITA_GT1206,Jadeita Verde Seleccionado de Concepción Tutuapa,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+615,MADERA_HORMIGO_GT1206,Madera de Hormigo Seleccionado de Concepción Tutuapa,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+616,MADERA_CEDRO_GT1206,Madera de Cedro Seleccionado de Concepción Tutuapa,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+617,TINTE_NATURAL_AÑIL_GT1206,Tinte Orgánico de Añil de Concepción Tutuapa,Tinte de origen vegetal/animal obtenido de Añil en Concepción Tutuapa.
+618,LANA_OVEJA_GT1206,Lana de Oveja Natural Seleccionado de Concepción Tutuapa,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+619,FIBRA_MIMBRE_GT1206,Fibras de Mimbre Seleccionado de Concepción Tutuapa,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+620,PINTURA_ACRILICA_GT1206,Pintura Acrílica Profesional Seleccionado de Concepción Tutuapa,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Concepción Tutuapa.
+621,ALGODON_BLANCO_GT1207,Hilo de Algodón Blanco Seleccionado de Tacaná,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Tacaná.
+622,ALGODON_CUYUSCATE_GT1207,Hilo de Algodón Cuyuscate Natural Seleccionado de Tacaná,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Tacaná.
+623,BARRO_ROJO_GT1207,Arcilla de Barro Rojo Seleccionado de Tacaná,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Tacaná.
+624,JADE_JADEITA_GT1207,Jadeita Verde Seleccionado de Tacaná,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Tacaná.
+625,MADERA_HORMIGO_GT1207,Madera de Hormigo Seleccionado de Tacaná,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Tacaná.
+626,MADERA_CEDRO_GT1207,Madera de Cedro Seleccionado de Tacaná,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Tacaná.
+627,TINTE_NATURAL_PALO_DE_CAMPECHE_GT1207,Tinte Orgánico de Palo de Campeche de Tacaná,Tinte de origen vegetal/animal obtenido de Palo de Campeche en Tacaná.
+628,LANA_OVEJA_GT1207,Lana de Oveja Natural Seleccionado de Tacaná,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Tacaná.
+629,FIBRA_MIMBRE_GT1207,Fibras de Mimbre Seleccionado de Tacaná,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Tacaná.
+630,PINTURA_ACRILICA_GT1207,Pintura Acrílica Profesional Seleccionado de Tacaná,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Tacaná.
+631,ALGODON_BLANCO_GT1208,Hilo de Algodón Blanco Seleccionado de Sibinal,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Sibinal.
+632,ALGODON_CUYUSCATE_GT1208,Hilo de Algodón Cuyuscate Natural Seleccionado de Sibinal,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Sibinal.
+633,BARRO_ROJO_GT1208,Arcilla de Barro Rojo Seleccionado de Sibinal,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Sibinal.
+634,JADE_JADEITA_GT1208,Jadeita Verde Seleccionado de Sibinal,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Sibinal.
+635,MADERA_HORMIGO_GT1208,Madera de Hormigo Seleccionado de Sibinal,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Sibinal.
+636,MADERA_CEDRO_GT1208,Madera de Cedro Seleccionado de Sibinal,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Sibinal.
+637,TINTE_NATURAL_SACCHIL_GT1208,Tinte Orgánico de Sacchil de Sibinal,Tinte de origen vegetal/animal obtenido de Sacchil en Sibinal.
+638,LANA_OVEJA_GT1208,Lana de Oveja Natural Seleccionado de Sibinal,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Sibinal.
+639,FIBRA_MIMBRE_GT1208,Fibras de Mimbre Seleccionado de Sibinal,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Sibinal.
+640,PINTURA_ACRILICA_GT1208,Pintura Acrílica Profesional Seleccionado de Sibinal,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Sibinal.
+641,ALGODON_BLANCO_GT1209,Hilo de Algodón Blanco Seleccionado de Tajumulco,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Tajumulco.
+642,ALGODON_CUYUSCATE_GT1209,Hilo de Algodón Cuyuscate Natural Seleccionado de Tajumulco,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Tajumulco.
+643,BARRO_ROJO_GT1209,Arcilla de Barro Rojo Seleccionado de Tajumulco,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Tajumulco.
+644,JADE_JADEITA_GT1209,Jadeita Verde Seleccionado de Tajumulco,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Tajumulco.
+645,MADERA_HORMIGO_GT1209,Madera de Hormigo Seleccionado de Tajumulco,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Tajumulco.
+646,MADERA_CEDRO_GT1209,Madera de Cedro Seleccionado de Tajumulco,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Tajumulco.
+647,TINTE_NATURAL_EUCALIPTO_GT1209,Tinte Orgánico de Eucalipto de Tajumulco,Tinte de origen vegetal/animal obtenido de Eucalipto en Tajumulco.
+648,LANA_OVEJA_GT1209,Lana de Oveja Natural Seleccionado de Tajumulco,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Tajumulco.
+649,FIBRA_MIMBRE_GT1209,Fibras de Mimbre Seleccionado de Tajumulco,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Tajumulco.
+650,PINTURA_ACRILICA_GT1209,Pintura Acrílica Profesional Seleccionado de Tajumulco,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Tajumulco.
+651,ALGODON_BLANCO_GT1210,Hilo de Algodón Blanco Seleccionado de Tejutla,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Tejutla.
+652,ALGODON_CUYUSCATE_GT1210,Hilo de Algodón Cuyuscate Natural Seleccionado de Tejutla,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Tejutla.
+653,BARRO_ROJO_GT1210,Arcilla de Barro Rojo Seleccionado de Tejutla,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Tejutla.
+654,JADE_JADEITA_GT1210,Jadeita Verde Seleccionado de Tejutla,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Tejutla.
+655,MADERA_HORMIGO_GT1210,Madera de Hormigo Seleccionado de Tejutla,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Tejutla.
+656,MADERA_CEDRO_GT1210,Madera de Cedro Seleccionado de Tejutla,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Tejutla.
+657,TINTE_NATURAL_NOGAL_GT1210,Tinte Orgánico de Nogal de Tejutla,Tinte de origen vegetal/animal obtenido de Nogal en Tejutla.
+658,LANA_OVEJA_GT1210,Lana de Oveja Natural Seleccionado de Tejutla,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Tejutla.
+659,FIBRA_MIMBRE_GT1210,Fibras de Mimbre Seleccionado de Tejutla,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Tejutla.
+660,PINTURA_ACRILICA_GT1210,Pintura Acrílica Profesional Seleccionado de Tejutla,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Tejutla.
+661,ALGODON_BLANCO_GT1211,Hilo de Algodón Blanco Seleccionado de San Rafael Pie de la Cuesta,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+662,ALGODON_CUYUSCATE_GT1211,Hilo de Algodón Cuyuscate Natural Seleccionado de San Rafael Pie de la Cuesta,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+663,BARRO_ROJO_GT1211,Arcilla de Barro Rojo Seleccionado de San Rafael Pie de la Cuesta,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+664,JADE_JADEITA_GT1211,Jadeita Verde Seleccionado de San Rafael Pie de la Cuesta,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+665,MADERA_HORMIGO_GT1211,Madera de Hormigo Seleccionado de San Rafael Pie de la Cuesta,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+666,MADERA_CEDRO_GT1211,Madera de Cedro Seleccionado de San Rafael Pie de la Cuesta,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+667,TINTE_NATURAL_CEBOLLA_GT1211,Tinte Orgánico de Cebolla de San Rafael Pie de la Cuesta,Tinte de origen vegetal/animal obtenido de Cebolla en San Rafael Pie de la Cuesta.
+668,LANA_OVEJA_GT1211,Lana de Oveja Natural Seleccionado de San Rafael Pie de la Cuesta,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+669,FIBRA_MIMBRE_GT1211,Fibras de Mimbre Seleccionado de San Rafael Pie de la Cuesta,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+670,PINTURA_ACRILICA_GT1211,Pintura Acrílica Profesional Seleccionado de San Rafael Pie de la Cuesta,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Rafael Pie de la Cuesta.
+671,ALGODON_BLANCO_GT1212,Hilo de Algodón Blanco Seleccionado de Nuevo Progreso,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+672,ALGODON_CUYUSCATE_GT1212,Hilo de Algodón Cuyuscate Natural Seleccionado de Nuevo Progreso,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+673,BARRO_ROJO_GT1212,Arcilla de Barro Rojo Seleccionado de Nuevo Progreso,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+674,JADE_JADEITA_GT1212,Jadeita Verde Seleccionado de Nuevo Progreso,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+675,MADERA_HORMIGO_GT1212,Madera de Hormigo Seleccionado de Nuevo Progreso,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+676,MADERA_CEDRO_GT1212,Madera de Cedro Seleccionado de Nuevo Progreso,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+677,TINTE_NATURAL_CAFÉ_GT1212,Tinte Orgánico de Café de Nuevo Progreso,Tinte de origen vegetal/animal obtenido de Café en Nuevo Progreso.
+678,LANA_OVEJA_GT1212,Lana de Oveja Natural Seleccionado de Nuevo Progreso,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+679,FIBRA_MIMBRE_GT1212,Fibras de Mimbre Seleccionado de Nuevo Progreso,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+680,PINTURA_ACRILICA_GT1212,Pintura Acrílica Profesional Seleccionado de Nuevo Progreso,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Nuevo Progreso.
+681,ALGODON_BLANCO_GT1213,Hilo de Algodón Blanco Seleccionado de El Tumbador,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de El Tumbador.
+682,ALGODON_CUYUSCATE_GT1213,Hilo de Algodón Cuyuscate Natural Seleccionado de El Tumbador,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de El Tumbador.
+683,BARRO_ROJO_GT1213,Arcilla de Barro Rojo Seleccionado de El Tumbador,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de El Tumbador.
+684,JADE_JADEITA_GT1213,Jadeita Verde Seleccionado de El Tumbador,Jadeita Verde de alta calidad recolectado en las zonas montañosas de El Tumbador.
+685,MADERA_HORMIGO_GT1213,Madera de Hormigo Seleccionado de El Tumbador,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de El Tumbador.
+686,MADERA_CEDRO_GT1213,Madera de Cedro Seleccionado de El Tumbador,Madera de Cedro de alta calidad recolectado en las zonas montañosas de El Tumbador.
+687,TINTE_NATURAL_SACATE_GT1213,Tinte Orgánico de Sacate de El Tumbador,Tinte de origen vegetal/animal obtenido de Sacate en El Tumbador.
+688,LANA_OVEJA_GT1213,Lana de Oveja Natural Seleccionado de El Tumbador,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de El Tumbador.
+689,FIBRA_MIMBRE_GT1213,Fibras de Mimbre Seleccionado de El Tumbador,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de El Tumbador.
+690,PINTURA_ACRILICA_GT1213,Pintura Acrílica Profesional Seleccionado de El Tumbador,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de El Tumbador.
+691,ALGODON_BLANCO_GT1214,Hilo de Algodón Blanco Seleccionado de El Rodeo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de El Rodeo.
+692,ALGODON_CUYUSCATE_GT1214,Hilo de Algodón Cuyuscate Natural Seleccionado de El Rodeo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de El Rodeo.
+693,BARRO_ROJO_GT1214,Arcilla de Barro Rojo Seleccionado de El Rodeo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de El Rodeo.
+694,JADE_JADEITA_GT1214,Jadeita Verde Seleccionado de El Rodeo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de El Rodeo.
+695,MADERA_HORMIGO_GT1214,Madera de Hormigo Seleccionado de El Rodeo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de El Rodeo.
+696,MADERA_CEDRO_GT1214,Madera de Cedro Seleccionado de El Rodeo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de El Rodeo.
+697,TINTE_NATURAL_CÚRCUMA_GT1214,Tinte Orgánico de Cúrcuma de El Rodeo,Tinte de origen vegetal/animal obtenido de Cúrcuma en El Rodeo.
+698,LANA_OVEJA_GT1214,Lana de Oveja Natural Seleccionado de El Rodeo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de El Rodeo.
+699,FIBRA_MIMBRE_GT1214,Fibras de Mimbre Seleccionado de El Rodeo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de El Rodeo.
+700,PINTURA_ACRILICA_GT1214,Pintura Acrílica Profesional Seleccionado de El Rodeo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de El Rodeo.
+701,ALGODON_BLANCO_GT1215,Hilo de Algodón Blanco Seleccionado de Malacatán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Malacatán.
+702,ALGODON_CUYUSCATE_GT1215,Hilo de Algodón Cuyuscate Natural Seleccionado de Malacatán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Malacatán.
+703,BARRO_ROJO_GT1215,Arcilla de Barro Rojo Seleccionado de Malacatán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Malacatán.
+704,JADE_JADEITA_GT1215,Jadeita Verde Seleccionado de Malacatán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Malacatán.
+705,MADERA_HORMIGO_GT1215,Madera de Hormigo Seleccionado de Malacatán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Malacatán.
+706,MADERA_CEDRO_GT1215,Madera de Cedro Seleccionado de Malacatán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Malacatán.
+707,TINTE_NATURAL_PÚRPURA_GT1215,Tinte Orgánico de Púrpura de Malacatán,Tinte de origen vegetal/animal obtenido de Púrpura en Malacatán.
+708,LANA_OVEJA_GT1215,Lana de Oveja Natural Seleccionado de Malacatán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Malacatán.
+709,FIBRA_MIMBRE_GT1215,Fibras de Mimbre Seleccionado de Malacatán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Malacatán.
+710,PINTURA_ACRILICA_GT1215,Pintura Acrílica Profesional Seleccionado de Malacatán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Malacatán.
+711,ALGODON_BLANCO_GT1216,Hilo de Algodón Blanco Seleccionado de Catarina,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Catarina.
+712,ALGODON_CUYUSCATE_GT1216,Hilo de Algodón Cuyuscate Natural Seleccionado de Catarina,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Catarina.
+713,BARRO_ROJO_GT1216,Arcilla de Barro Rojo Seleccionado de Catarina,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Catarina.
+714,JADE_JADEITA_GT1216,Jadeita Verde Seleccionado de Catarina,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Catarina.
+715,MADERA_HORMIGO_GT1216,Madera de Hormigo Seleccionado de Catarina,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Catarina.
+716,MADERA_CEDRO_GT1216,Madera de Cedro Seleccionado de Catarina,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Catarina.
+717,TINTE_NATURAL_GRANA_COCHINILLA_GT1216,Tinte Orgánico de Grana Cochinilla de Catarina,Tinte de origen vegetal/animal obtenido de Grana Cochinilla en Catarina.
+718,LANA_OVEJA_GT1216,Lana de Oveja Natural Seleccionado de Catarina,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Catarina.
+719,FIBRA_MIMBRE_GT1216,Fibras de Mimbre Seleccionado de Catarina,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Catarina.
+720,PINTURA_ACRILICA_GT1216,Pintura Acrílica Profesional Seleccionado de Catarina,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Catarina.
+721,ALGODON_BLANCO_GT1217,Hilo de Algodón Blanco Seleccionado de Ayutla,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Ayutla.
+722,ALGODON_CUYUSCATE_GT1217,Hilo de Algodón Cuyuscate Natural Seleccionado de Ayutla,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Ayutla.
+723,BARRO_ROJO_GT1217,Arcilla de Barro Rojo Seleccionado de Ayutla,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Ayutla.
+724,JADE_JADEITA_GT1217,Jadeita Verde Seleccionado de Ayutla,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Ayutla.
+725,MADERA_HORMIGO_GT1217,Madera de Hormigo Seleccionado de Ayutla,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Ayutla.
+726,MADERA_CEDRO_GT1217,Madera de Cedro Seleccionado de Ayutla,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Ayutla.
+727,TINTE_NATURAL_ACHIOTE_GT1217,Tinte Orgánico de Achiote de Ayutla,Tinte de origen vegetal/animal obtenido de Achiote en Ayutla.
+728,LANA_OVEJA_GT1217,Lana de Oveja Natural Seleccionado de Ayutla,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Ayutla.
+729,FIBRA_MIMBRE_GT1217,Fibras de Mimbre Seleccionado de Ayutla,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Ayutla.
+730,PINTURA_ACRILICA_GT1217,Pintura Acrílica Profesional Seleccionado de Ayutla,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Ayutla.
+731,ALGODON_BLANCO_GT1218,Hilo de Algodón Blanco Seleccionado de Ocós,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Ocós.
+732,ALGODON_CUYUSCATE_GT1218,Hilo de Algodón Cuyuscate Natural Seleccionado de Ocós,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Ocós.
+733,BARRO_ROJO_GT1218,Arcilla de Barro Rojo Seleccionado de Ocós,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Ocós.
+734,JADE_JADEITA_GT1218,Jadeita Verde Seleccionado de Ocós,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Ocós.
+735,MADERA_HORMIGO_GT1218,Madera de Hormigo Seleccionado de Ocós,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Ocós.
+736,MADERA_CEDRO_GT1218,Madera de Cedro Seleccionado de Ocós,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Ocós.
+737,TINTE_NATURAL_LICHEN_GT1218,Tinte Orgánico de Lichen de Ocós,Tinte de origen vegetal/animal obtenido de Lichen en Ocós.
+738,LANA_OVEJA_GT1218,Lana de Oveja Natural Seleccionado de Ocós,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Ocós.
+739,FIBRA_MIMBRE_GT1218,Fibras de Mimbre Seleccionado de Ocós,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Ocós.
+740,PINTURA_ACRILICA_GT1218,Pintura Acrílica Profesional Seleccionado de Ocós,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Ocós.
+741,ALGODON_BLANCO_GT1219,Hilo de Algodón Blanco Seleccionado de San Pablo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Pablo.
+742,ALGODON_CUYUSCATE_GT1219,Hilo de Algodón Cuyuscate Natural Seleccionado de San Pablo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Pablo.
+743,BARRO_ROJO_GT1219,Arcilla de Barro Rojo Seleccionado de San Pablo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Pablo.
+744,JADE_JADEITA_GT1219,Jadeita Verde Seleccionado de San Pablo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Pablo.
+745,MADERA_HORMIGO_GT1219,Madera de Hormigo Seleccionado de San Pablo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Pablo.
+746,MADERA_CEDRO_GT1219,Madera de Cedro Seleccionado de San Pablo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Pablo.
+747,TINTE_NATURAL_OCOTE_GT1219,Tinte Orgánico de Ocote de San Pablo,Tinte de origen vegetal/animal obtenido de Ocote en San Pablo.
+748,LANA_OVEJA_GT1219,Lana de Oveja Natural Seleccionado de San Pablo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Pablo.
+749,FIBRA_MIMBRE_GT1219,Fibras de Mimbre Seleccionado de San Pablo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Pablo.
+750,PINTURA_ACRILICA_GT1219,Pintura Acrílica Profesional Seleccionado de San Pablo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Pablo.
+751,ALGODON_BLANCO_GT1220,Hilo de Algodón Blanco Seleccionado de El Quetzal,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de El Quetzal.
+752,ALGODON_CUYUSCATE_GT1220,Hilo de Algodón Cuyuscate Natural Seleccionado de El Quetzal,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de El Quetzal.
+753,BARRO_ROJO_GT1220,Arcilla de Barro Rojo Seleccionado de El Quetzal,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de El Quetzal.
+754,JADE_JADEITA_GT1220,Jadeita Verde Seleccionado de El Quetzal,Jadeita Verde de alta calidad recolectado en las zonas montañosas de El Quetzal.
+755,MADERA_HORMIGO_GT1220,Madera de Hormigo Seleccionado de El Quetzal,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de El Quetzal.
+756,MADERA_CEDRO_GT1220,Madera de Cedro Seleccionado de El Quetzal,Madera de Cedro de alta calidad recolectado en las zonas montañosas de El Quetzal.
+757,TINTE_NATURAL_AGUACATE_GT1220,Tinte Orgánico de Aguacate de El Quetzal,Tinte de origen vegetal/animal obtenido de Aguacate en El Quetzal.
+758,LANA_OVEJA_GT1220,Lana de Oveja Natural Seleccionado de El Quetzal,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de El Quetzal.
+759,FIBRA_MIMBRE_GT1220,Fibras de Mimbre Seleccionado de El Quetzal,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de El Quetzal.
+760,PINTURA_ACRILICA_GT1220,Pintura Acrílica Profesional Seleccionado de El Quetzal,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de El Quetzal.
+761,ALGODON_BLANCO_GT1221,Hilo de Algodón Blanco Seleccionado de La Reforma,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de La Reforma.
+762,ALGODON_CUYUSCATE_GT1221,Hilo de Algodón Cuyuscate Natural Seleccionado de La Reforma,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de La Reforma.
+763,BARRO_ROJO_GT1221,Arcilla de Barro Rojo Seleccionado de La Reforma,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de La Reforma.
+764,JADE_JADEITA_GT1221,Jadeita Verde Seleccionado de La Reforma,Jadeita Verde de alta calidad recolectado en las zonas montañosas de La Reforma.
+765,MADERA_HORMIGO_GT1221,Madera de Hormigo Seleccionado de La Reforma,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de La Reforma.
+766,MADERA_CEDRO_GT1221,Madera de Cedro Seleccionado de La Reforma,Madera de Cedro de alta calidad recolectado en las zonas montañosas de La Reforma.
+767,TINTE_NATURAL_MANZANILLA_GT1221,Tinte Orgánico de Manzanilla de La Reforma,Tinte de origen vegetal/animal obtenido de Manzanilla en La Reforma.
+768,LANA_OVEJA_GT1221,Lana de Oveja Natural Seleccionado de La Reforma,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de La Reforma.
+769,FIBRA_MIMBRE_GT1221,Fibras de Mimbre Seleccionado de La Reforma,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de La Reforma.
+770,PINTURA_ACRILICA_GT1221,Pintura Acrílica Profesional Seleccionado de La Reforma,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de La Reforma.
+771,ALGODON_BLANCO_GT1222,Hilo de Algodón Blanco Seleccionado de Pajapita,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Pajapita.
+772,ALGODON_CUYUSCATE_GT1222,Hilo de Algodón Cuyuscate Natural Seleccionado de Pajapita,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Pajapita.
+773,BARRO_ROJO_GT1222,Arcilla de Barro Rojo Seleccionado de Pajapita,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Pajapita.
+774,JADE_JADEITA_GT1222,Jadeita Verde Seleccionado de Pajapita,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Pajapita.
+775,MADERA_HORMIGO_GT1222,Madera de Hormigo Seleccionado de Pajapita,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Pajapita.
+776,MADERA_CEDRO_GT1222,Madera de Cedro Seleccionado de Pajapita,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Pajapita.
+777,TINTE_NATURAL_MORAS_GT1222,Tinte Orgánico de Moras de Pajapita,Tinte de origen vegetal/animal obtenido de Moras en Pajapita.
+778,LANA_OVEJA_GT1222,Lana de Oveja Natural Seleccionado de Pajapita,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Pajapita.
+779,FIBRA_MIMBRE_GT1222,Fibras de Mimbre Seleccionado de Pajapita,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Pajapita.
+780,PINTURA_ACRILICA_GT1222,Pintura Acrílica Profesional Seleccionado de Pajapita,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Pajapita.
+781,ALGODON_BLANCO_GT1223,Hilo de Algodón Blanco Seleccionado de Ixchiguán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+782,ALGODON_CUYUSCATE_GT1223,Hilo de Algodón Cuyuscate Natural Seleccionado de Ixchiguán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+783,BARRO_ROJO_GT1223,Arcilla de Barro Rojo Seleccionado de Ixchiguán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+784,JADE_JADEITA_GT1223,Jadeita Verde Seleccionado de Ixchiguán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+785,MADERA_HORMIGO_GT1223,Madera de Hormigo Seleccionado de Ixchiguán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+786,MADERA_CEDRO_GT1223,Madera de Cedro Seleccionado de Ixchiguán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+787,TINTE_NATURAL_CAMPANILLA_GT1223,Tinte Orgánico de Campanilla de Ixchiguán,Tinte de origen vegetal/animal obtenido de Campanilla en Ixchiguán.
+788,LANA_OVEJA_GT1223,Lana de Oveja Natural Seleccionado de Ixchiguán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+789,FIBRA_MIMBRE_GT1223,Fibras de Mimbre Seleccionado de Ixchiguán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+790,PINTURA_ACRILICA_GT1223,Pintura Acrílica Profesional Seleccionado de Ixchiguán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Ixchiguán.
+791,ALGODON_BLANCO_GT1224,Hilo de Algodón Blanco Seleccionado de San José Ojetenam,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+792,ALGODON_CUYUSCATE_GT1224,Hilo de Algodón Cuyuscate Natural Seleccionado de San José Ojetenam,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+793,BARRO_ROJO_GT1224,Arcilla de Barro Rojo Seleccionado de San José Ojetenam,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+794,JADE_JADEITA_GT1224,Jadeita Verde Seleccionado de San José Ojetenam,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+795,MADERA_HORMIGO_GT1224,Madera de Hormigo Seleccionado de San José Ojetenam,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+796,MADERA_CEDRO_GT1224,Madera de Cedro Seleccionado de San José Ojetenam,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+797,TINTE_NATURAL_CANELA_GT1224,Tinte Orgánico de Canela de San José Ojetenam,Tinte de origen vegetal/animal obtenido de Canela en San José Ojetenam.
+798,LANA_OVEJA_GT1224,Lana de Oveja Natural Seleccionado de San José Ojetenam,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+799,FIBRA_MIMBRE_GT1224,Fibras de Mimbre Seleccionado de San José Ojetenam,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+800,PINTURA_ACRILICA_GT1224,Pintura Acrílica Profesional Seleccionado de San José Ojetenam,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San José Ojetenam.
+801,ALGODON_BLANCO_GT1225,Hilo de Algodón Blanco Seleccionado de San Cristóbal Cucho,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+802,ALGODON_CUYUSCATE_GT1225,Hilo de Algodón Cuyuscate Natural Seleccionado de San Cristóbal Cucho,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+803,BARRO_ROJO_GT1225,Arcilla de Barro Rojo Seleccionado de San Cristóbal Cucho,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+804,JADE_JADEITA_GT1225,Jadeita Verde Seleccionado de San Cristóbal Cucho,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+805,MADERA_HORMIGO_GT1225,Madera de Hormigo Seleccionado de San Cristóbal Cucho,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+806,MADERA_CEDRO_GT1225,Madera de Cedro Seleccionado de San Cristóbal Cucho,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+807,TINTE_NATURAL_COCHINILLA_GT1225,Tinte Orgánico de Cochinilla de San Cristóbal Cucho,Tinte de origen vegetal/animal obtenido de Cochinilla en San Cristóbal Cucho.
+808,LANA_OVEJA_GT1225,Lana de Oveja Natural Seleccionado de San Cristóbal Cucho,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+809,FIBRA_MIMBRE_GT1225,Fibras de Mimbre Seleccionado de San Cristóbal Cucho,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+810,PINTURA_ACRILICA_GT1225,Pintura Acrílica Profesional Seleccionado de San Cristóbal Cucho,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Cristóbal Cucho.
+811,ALGODON_BLANCO_GT1226,Hilo de Algodón Blanco Seleccionado de Sipacapa,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Sipacapa.
+812,ALGODON_CUYUSCATE_GT1226,Hilo de Algodón Cuyuscate Natural Seleccionado de Sipacapa,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Sipacapa.
+813,BARRO_ROJO_GT1226,Arcilla de Barro Rojo Seleccionado de Sipacapa,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Sipacapa.
+814,JADE_JADEITA_GT1226,Jadeita Verde Seleccionado de Sipacapa,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Sipacapa.
+815,MADERA_HORMIGO_GT1226,Madera de Hormigo Seleccionado de Sipacapa,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Sipacapa.
+816,MADERA_CEDRO_GT1226,Madera de Cedro Seleccionado de Sipacapa,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Sipacapa.
+817,TINTE_NATURAL_AÑIL_GT1226,Tinte Orgánico de Añil de Sipacapa,Tinte de origen vegetal/animal obtenido de Añil en Sipacapa.
+818,LANA_OVEJA_GT1226,Lana de Oveja Natural Seleccionado de Sipacapa,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Sipacapa.
+819,FIBRA_MIMBRE_GT1226,Fibras de Mimbre Seleccionado de Sipacapa,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Sipacapa.
+820,PINTURA_ACRILICA_GT1226,Pintura Acrílica Profesional Seleccionado de Sipacapa,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Sipacapa.
+821,ALGODON_BLANCO_GT1227,Hilo de Algodón Blanco Seleccionado de Esquipulas Palo Gordo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+822,ALGODON_CUYUSCATE_GT1227,Hilo de Algodón Cuyuscate Natural Seleccionado de Esquipulas Palo Gordo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+823,BARRO_ROJO_GT1227,Arcilla de Barro Rojo Seleccionado de Esquipulas Palo Gordo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+824,JADE_JADEITA_GT1227,Jadeita Verde Seleccionado de Esquipulas Palo Gordo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+825,MADERA_HORMIGO_GT1227,Madera de Hormigo Seleccionado de Esquipulas Palo Gordo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+826,MADERA_CEDRO_GT1227,Madera de Cedro Seleccionado de Esquipulas Palo Gordo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+827,TINTE_NATURAL_PALO_DE_CAMPECHE_GT1227,Tinte Orgánico de Palo de Campeche de Esquipulas Palo Gordo,Tinte de origen vegetal/animal obtenido de Palo de Campeche en Esquipulas Palo Gordo.
+828,LANA_OVEJA_GT1227,Lana de Oveja Natural Seleccionado de Esquipulas Palo Gordo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+829,FIBRA_MIMBRE_GT1227,Fibras de Mimbre Seleccionado de Esquipulas Palo Gordo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+830,PINTURA_ACRILICA_GT1227,Pintura Acrílica Profesional Seleccionado de Esquipulas Palo Gordo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Esquipulas Palo Gordo.
+831,ALGODON_BLANCO_GT1228,Hilo de Algodón Blanco Seleccionado de Río Blanco,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Río Blanco.
+832,ALGODON_CUYUSCATE_GT1228,Hilo de Algodón Cuyuscate Natural Seleccionado de Río Blanco,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Río Blanco.
+833,BARRO_ROJO_GT1228,Arcilla de Barro Rojo Seleccionado de Río Blanco,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Río Blanco.
+834,JADE_JADEITA_GT1228,Jadeita Verde Seleccionado de Río Blanco,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Río Blanco.
+835,MADERA_HORMIGO_GT1228,Madera de Hormigo Seleccionado de Río Blanco,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Río Blanco.
+836,MADERA_CEDRO_GT1228,Madera de Cedro Seleccionado de Río Blanco,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Río Blanco.
+837,TINTE_NATURAL_SACCHIL_GT1228,Tinte Orgánico de Sacchil de Río Blanco,Tinte de origen vegetal/animal obtenido de Sacchil en Río Blanco.
+838,LANA_OVEJA_GT1228,Lana de Oveja Natural Seleccionado de Río Blanco,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Río Blanco.
+839,FIBRA_MIMBRE_GT1228,Fibras de Mimbre Seleccionado de Río Blanco,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Río Blanco.
+840,PINTURA_ACRILICA_GT1228,Pintura Acrílica Profesional Seleccionado de Río Blanco,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Río Blanco.
+841,ALGODON_BLANCO_GT1229,Hilo de Algodón Blanco Seleccionado de San Lorenzo,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+842,ALGODON_CUYUSCATE_GT1229,Hilo de Algodón Cuyuscate Natural Seleccionado de San Lorenzo,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+843,BARRO_ROJO_GT1229,Arcilla de Barro Rojo Seleccionado de San Lorenzo,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+844,JADE_JADEITA_GT1229,Jadeita Verde Seleccionado de San Lorenzo,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+845,MADERA_HORMIGO_GT1229,Madera de Hormigo Seleccionado de San Lorenzo,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+846,MADERA_CEDRO_GT1229,Madera de Cedro Seleccionado de San Lorenzo,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+847,TINTE_NATURAL_EUCALIPTO_GT1229,Tinte Orgánico de Eucalipto de San Lorenzo,Tinte de origen vegetal/animal obtenido de Eucalipto en San Lorenzo.
+848,LANA_OVEJA_GT1229,Lana de Oveja Natural Seleccionado de San Lorenzo,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+849,FIBRA_MIMBRE_GT1229,Fibras de Mimbre Seleccionado de San Lorenzo,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+850,PINTURA_ACRILICA_GT1229,Pintura Acrílica Profesional Seleccionado de San Lorenzo,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Lorenzo.
+851,ALGODON_BLANCO_GT1230,Hilo de Algodón Blanco Seleccionado de La Blanca,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de La Blanca.
+852,ALGODON_CUYUSCATE_GT1230,Hilo de Algodón Cuyuscate Natural Seleccionado de La Blanca,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de La Blanca.
+853,BARRO_ROJO_GT1230,Arcilla de Barro Rojo Seleccionado de La Blanca,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de La Blanca.
+854,JADE_JADEITA_GT1230,Jadeita Verde Seleccionado de La Blanca,Jadeita Verde de alta calidad recolectado en las zonas montañosas de La Blanca.
+855,MADERA_HORMIGO_GT1230,Madera de Hormigo Seleccionado de La Blanca,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de La Blanca.
+856,MADERA_CEDRO_GT1230,Madera de Cedro Seleccionado de La Blanca,Madera de Cedro de alta calidad recolectado en las zonas montañosas de La Blanca.
+857,TINTE_NATURAL_NOGAL_GT1230,Tinte Orgánico de Nogal de La Blanca,Tinte de origen vegetal/animal obtenido de Nogal en La Blanca.
+858,LANA_OVEJA_GT1230,Lana de Oveja Natural Seleccionado de La Blanca,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de La Blanca.
+859,FIBRA_MIMBRE_GT1230,Fibras de Mimbre Seleccionado de La Blanca,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de La Blanca.
+860,PINTURA_ACRILICA_GT1230,Pintura Acrílica Profesional Seleccionado de La Blanca,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de La Blanca.
+861,ALGODON_BLANCO_GT1301,Hilo de Algodón Blanco Seleccionado de Huehuetenango,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+862,ALGODON_CUYUSCATE_GT1301,Hilo de Algodón Cuyuscate Natural Seleccionado de Huehuetenango,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+863,BARRO_ROJO_GT1301,Arcilla de Barro Rojo Seleccionado de Huehuetenango,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+864,JADE_JADEITA_GT1301,Jadeita Verde Seleccionado de Huehuetenango,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+865,MADERA_HORMIGO_GT1301,Madera de Hormigo Seleccionado de Huehuetenango,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+866,MADERA_CEDRO_GT1301,Madera de Cedro Seleccionado de Huehuetenango,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+867,TINTE_NATURAL_CEBOLLA_GT1301,Tinte Orgánico de Cebolla de Huehuetenango,Tinte de origen vegetal/animal obtenido de Cebolla en Huehuetenango.
+868,LANA_OVEJA_GT1301,Lana de Oveja Natural Seleccionado de Huehuetenango,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+869,FIBRA_MIMBRE_GT1301,Fibras de Mimbre Seleccionado de Huehuetenango,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+870,PINTURA_ACRILICA_GT1301,Pintura Acrílica Profesional Seleccionado de Huehuetenango,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Huehuetenango.
+871,ALGODON_BLANCO_GT1302,Hilo de Algodón Blanco Seleccionado de Chiantla,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Chiantla.
+872,ALGODON_CUYUSCATE_GT1302,Hilo de Algodón Cuyuscate Natural Seleccionado de Chiantla,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Chiantla.
+873,BARRO_ROJO_GT1302,Arcilla de Barro Rojo Seleccionado de Chiantla,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Chiantla.
+874,JADE_JADEITA_GT1302,Jadeita Verde Seleccionado de Chiantla,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Chiantla.
+875,MADERA_HORMIGO_GT1302,Madera de Hormigo Seleccionado de Chiantla,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Chiantla.
+876,MADERA_CEDRO_GT1302,Madera de Cedro Seleccionado de Chiantla,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Chiantla.
+877,TINTE_NATURAL_CAFÉ_GT1302,Tinte Orgánico de Café de Chiantla,Tinte de origen vegetal/animal obtenido de Café en Chiantla.
+878,LANA_OVEJA_GT1302,Lana de Oveja Natural Seleccionado de Chiantla,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Chiantla.
+879,FIBRA_MIMBRE_GT1302,Fibras de Mimbre Seleccionado de Chiantla,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Chiantla.
+880,PINTURA_ACRILICA_GT1302,Pintura Acrílica Profesional Seleccionado de Chiantla,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Chiantla.
+881,ALGODON_BLANCO_GT1303,Hilo de Algodón Blanco Seleccionado de Malacatancito,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Malacatancito.
+882,ALGODON_CUYUSCATE_GT1303,Hilo de Algodón Cuyuscate Natural Seleccionado de Malacatancito,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Malacatancito.
+883,BARRO_ROJO_GT1303,Arcilla de Barro Rojo Seleccionado de Malacatancito,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Malacatancito.
+884,JADE_JADEITA_GT1303,Jadeita Verde Seleccionado de Malacatancito,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Malacatancito.
+885,MADERA_HORMIGO_GT1303,Madera de Hormigo Seleccionado de Malacatancito,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Malacatancito.
+886,MADERA_CEDRO_GT1303,Madera de Cedro Seleccionado de Malacatancito,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Malacatancito.
+887,TINTE_NATURAL_SACATE_GT1303,Tinte Orgánico de Sacate de Malacatancito,Tinte de origen vegetal/animal obtenido de Sacate en Malacatancito.
+888,LANA_OVEJA_GT1303,Lana de Oveja Natural Seleccionado de Malacatancito,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Malacatancito.
+889,FIBRA_MIMBRE_GT1303,Fibras de Mimbre Seleccionado de Malacatancito,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Malacatancito.
+890,PINTURA_ACRILICA_GT1303,Pintura Acrílica Profesional Seleccionado de Malacatancito,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Malacatancito.
+891,ALGODON_BLANCO_GT1304,Hilo de Algodón Blanco Seleccionado de Cuilco,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Cuilco.
+892,ALGODON_CUYUSCATE_GT1304,Hilo de Algodón Cuyuscate Natural Seleccionado de Cuilco,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Cuilco.
+893,BARRO_ROJO_GT1304,Arcilla de Barro Rojo Seleccionado de Cuilco,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Cuilco.
+894,JADE_JADEITA_GT1304,Jadeita Verde Seleccionado de Cuilco,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Cuilco.
+895,MADERA_HORMIGO_GT1304,Madera de Hormigo Seleccionado de Cuilco,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Cuilco.
+896,MADERA_CEDRO_GT1304,Madera de Cedro Seleccionado de Cuilco,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Cuilco.
+897,TINTE_NATURAL_CÚRCUMA_GT1304,Tinte Orgánico de Cúrcuma de Cuilco,Tinte de origen vegetal/animal obtenido de Cúrcuma en Cuilco.
+898,LANA_OVEJA_GT1304,Lana de Oveja Natural Seleccionado de Cuilco,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Cuilco.
+899,FIBRA_MIMBRE_GT1304,Fibras de Mimbre Seleccionado de Cuilco,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Cuilco.
+900,PINTURA_ACRILICA_GT1304,Pintura Acrílica Profesional Seleccionado de Cuilco,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Cuilco.
+901,ALGODON_BLANCO_GT1305,Hilo de Algodón Blanco Seleccionado de Nentón,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Nentón.
+902,ALGODON_CUYUSCATE_GT1305,Hilo de Algodón Cuyuscate Natural Seleccionado de Nentón,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Nentón.
+903,BARRO_ROJO_GT1305,Arcilla de Barro Rojo Seleccionado de Nentón,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Nentón.
+904,JADE_JADEITA_GT1305,Jadeita Verde Seleccionado de Nentón,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Nentón.
+905,MADERA_HORMIGO_GT1305,Madera de Hormigo Seleccionado de Nentón,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Nentón.
+906,MADERA_CEDRO_GT1305,Madera de Cedro Seleccionado de Nentón,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Nentón.
+907,TINTE_NATURAL_PÚRPURA_GT1305,Tinte Orgánico de Púrpura de Nentón,Tinte de origen vegetal/animal obtenido de Púrpura en Nentón.
+908,LANA_OVEJA_GT1305,Lana de Oveja Natural Seleccionado de Nentón,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Nentón.
+909,FIBRA_MIMBRE_GT1305,Fibras de Mimbre Seleccionado de Nentón,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Nentón.
+910,PINTURA_ACRILICA_GT1305,Pintura Acrílica Profesional Seleccionado de Nentón,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Nentón.
+911,ALGODON_BLANCO_GT1306,Hilo de Algodón Blanco Seleccionado de San Pedro Necta,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+912,ALGODON_CUYUSCATE_GT1306,Hilo de Algodón Cuyuscate Natural Seleccionado de San Pedro Necta,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+913,BARRO_ROJO_GT1306,Arcilla de Barro Rojo Seleccionado de San Pedro Necta,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+914,JADE_JADEITA_GT1306,Jadeita Verde Seleccionado de San Pedro Necta,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+915,MADERA_HORMIGO_GT1306,Madera de Hormigo Seleccionado de San Pedro Necta,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+916,MADERA_CEDRO_GT1306,Madera de Cedro Seleccionado de San Pedro Necta,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+917,TINTE_NATURAL_GRANA_COCHINILLA_GT1306,Tinte Orgánico de Grana Cochinilla de San Pedro Necta,Tinte de origen vegetal/animal obtenido de Grana Cochinilla en San Pedro Necta.
+918,LANA_OVEJA_GT1306,Lana de Oveja Natural Seleccionado de San Pedro Necta,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+919,FIBRA_MIMBRE_GT1306,Fibras de Mimbre Seleccionado de San Pedro Necta,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+920,PINTURA_ACRILICA_GT1306,Pintura Acrílica Profesional Seleccionado de San Pedro Necta,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Pedro Necta.
+921,ALGODON_BLANCO_GT1307,Hilo de Algodón Blanco Seleccionado de Jacaltenango,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+922,ALGODON_CUYUSCATE_GT1307,Hilo de Algodón Cuyuscate Natural Seleccionado de Jacaltenango,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+923,BARRO_ROJO_GT1307,Arcilla de Barro Rojo Seleccionado de Jacaltenango,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+924,JADE_JADEITA_GT1307,Jadeita Verde Seleccionado de Jacaltenango,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+925,MADERA_HORMIGO_GT1307,Madera de Hormigo Seleccionado de Jacaltenango,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+926,MADERA_CEDRO_GT1307,Madera de Cedro Seleccionado de Jacaltenango,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+927,TINTE_NATURAL_ACHIOTE_GT1307,Tinte Orgánico de Achiote de Jacaltenango,Tinte de origen vegetal/animal obtenido de Achiote en Jacaltenango.
+928,LANA_OVEJA_GT1307,Lana de Oveja Natural Seleccionado de Jacaltenango,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+929,FIBRA_MIMBRE_GT1307,Fibras de Mimbre Seleccionado de Jacaltenango,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+930,PINTURA_ACRILICA_GT1307,Pintura Acrílica Profesional Seleccionado de Jacaltenango,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Jacaltenango.
+931,ALGODON_BLANCO_GT1308,Hilo de Algodón Blanco Seleccionado de Soloma,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Soloma.
+932,ALGODON_CUYUSCATE_GT1308,Hilo de Algodón Cuyuscate Natural Seleccionado de Soloma,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Soloma.
+933,BARRO_ROJO_GT1308,Arcilla de Barro Rojo Seleccionado de Soloma,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Soloma.
+934,JADE_JADEITA_GT1308,Jadeita Verde Seleccionado de Soloma,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Soloma.
+935,MADERA_HORMIGO_GT1308,Madera de Hormigo Seleccionado de Soloma,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Soloma.
+936,MADERA_CEDRO_GT1308,Madera de Cedro Seleccionado de Soloma,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Soloma.
+937,TINTE_NATURAL_LICHEN_GT1308,Tinte Orgánico de Lichen de Soloma,Tinte de origen vegetal/animal obtenido de Lichen en Soloma.
+938,LANA_OVEJA_GT1308,Lana de Oveja Natural Seleccionado de Soloma,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Soloma.
+939,FIBRA_MIMBRE_GT1308,Fibras de Mimbre Seleccionado de Soloma,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Soloma.
+940,PINTURA_ACRILICA_GT1308,Pintura Acrílica Profesional Seleccionado de Soloma,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Soloma.
+941,ALGODON_BLANCO_GT1309,Hilo de Algodón Blanco Seleccionado de Ixtahuacán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+942,ALGODON_CUYUSCATE_GT1309,Hilo de Algodón Cuyuscate Natural Seleccionado de Ixtahuacán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+943,BARRO_ROJO_GT1309,Arcilla de Barro Rojo Seleccionado de Ixtahuacán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+944,JADE_JADEITA_GT1309,Jadeita Verde Seleccionado de Ixtahuacán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+945,MADERA_HORMIGO_GT1309,Madera de Hormigo Seleccionado de Ixtahuacán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+946,MADERA_CEDRO_GT1309,Madera de Cedro Seleccionado de Ixtahuacán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+947,TINTE_NATURAL_OCOTE_GT1309,Tinte Orgánico de Ocote de Ixtahuacán,Tinte de origen vegetal/animal obtenido de Ocote en Ixtahuacán.
+948,LANA_OVEJA_GT1309,Lana de Oveja Natural Seleccionado de Ixtahuacán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+949,FIBRA_MIMBRE_GT1309,Fibras de Mimbre Seleccionado de Ixtahuacán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+950,PINTURA_ACRILICA_GT1309,Pintura Acrílica Profesional Seleccionado de Ixtahuacán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Ixtahuacán.
+951,ALGODON_BLANCO_GT1310,Hilo de Algodón Blanco Seleccionado de Santa Bárbara,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+952,ALGODON_CUYUSCATE_GT1310,Hilo de Algodón Cuyuscate Natural Seleccionado de Santa Bárbara,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+953,BARRO_ROJO_GT1310,Arcilla de Barro Rojo Seleccionado de Santa Bárbara,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+954,JADE_JADEITA_GT1310,Jadeita Verde Seleccionado de Santa Bárbara,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+955,MADERA_HORMIGO_GT1310,Madera de Hormigo Seleccionado de Santa Bárbara,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+956,MADERA_CEDRO_GT1310,Madera de Cedro Seleccionado de Santa Bárbara,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+957,TINTE_NATURAL_AGUACATE_GT1310,Tinte Orgánico de Aguacate de Santa Bárbara,Tinte de origen vegetal/animal obtenido de Aguacate en Santa Bárbara.
+958,LANA_OVEJA_GT1310,Lana de Oveja Natural Seleccionado de Santa Bárbara,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+959,FIBRA_MIMBRE_GT1310,Fibras de Mimbre Seleccionado de Santa Bárbara,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+960,PINTURA_ACRILICA_GT1310,Pintura Acrílica Profesional Seleccionado de Santa Bárbara,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Santa Bárbara.
+961,ALGODON_BLANCO_GT1311,Hilo de Algodón Blanco Seleccionado de La Libertad,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de La Libertad.
+962,ALGODON_CUYUSCATE_GT1311,Hilo de Algodón Cuyuscate Natural Seleccionado de La Libertad,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de La Libertad.
+963,BARRO_ROJO_GT1311,Arcilla de Barro Rojo Seleccionado de La Libertad,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de La Libertad.
+964,JADE_JADEITA_GT1311,Jadeita Verde Seleccionado de La Libertad,Jadeita Verde de alta calidad recolectado en las zonas montañosas de La Libertad.
+965,MADERA_HORMIGO_GT1311,Madera de Hormigo Seleccionado de La Libertad,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de La Libertad.
+966,MADERA_CEDRO_GT1311,Madera de Cedro Seleccionado de La Libertad,Madera de Cedro de alta calidad recolectado en las zonas montañosas de La Libertad.
+967,TINTE_NATURAL_MANZANILLA_GT1311,Tinte Orgánico de Manzanilla de La Libertad,Tinte de origen vegetal/animal obtenido de Manzanilla en La Libertad.
+968,LANA_OVEJA_GT1311,Lana de Oveja Natural Seleccionado de La Libertad,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de La Libertad.
+969,FIBRA_MIMBRE_GT1311,Fibras de Mimbre Seleccionado de La Libertad,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de La Libertad.
+970,PINTURA_ACRILICA_GT1311,Pintura Acrílica Profesional Seleccionado de La Libertad,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de La Libertad.
+971,ALGODON_BLANCO_GT1312,Hilo de Algodón Blanco Seleccionado de La Democracia,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de La Democracia.
+972,ALGODON_CUYUSCATE_GT1312,Hilo de Algodón Cuyuscate Natural Seleccionado de La Democracia,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de La Democracia.
+973,BARRO_ROJO_GT1312,Arcilla de Barro Rojo Seleccionado de La Democracia,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de La Democracia.
+974,JADE_JADEITA_GT1312,Jadeita Verde Seleccionado de La Democracia,Jadeita Verde de alta calidad recolectado en las zonas montañosas de La Democracia.
+975,MADERA_HORMIGO_GT1312,Madera de Hormigo Seleccionado de La Democracia,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de La Democracia.
+976,MADERA_CEDRO_GT1312,Madera de Cedro Seleccionado de La Democracia,Madera de Cedro de alta calidad recolectado en las zonas montañosas de La Democracia.
+977,TINTE_NATURAL_MORAS_GT1312,Tinte Orgánico de Moras de La Democracia,Tinte de origen vegetal/animal obtenido de Moras en La Democracia.
+978,LANA_OVEJA_GT1312,Lana de Oveja Natural Seleccionado de La Democracia,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de La Democracia.
+979,FIBRA_MIMBRE_GT1312,Fibras de Mimbre Seleccionado de La Democracia,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de La Democracia.
+980,PINTURA_ACRILICA_GT1312,Pintura Acrílica Profesional Seleccionado de La Democracia,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de La Democracia.
+981,ALGODON_BLANCO_GT1313,Hilo de Algodón Blanco Seleccionado de San Miguel Acatán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+982,ALGODON_CUYUSCATE_GT1313,Hilo de Algodón Cuyuscate Natural Seleccionado de San Miguel Acatán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+983,BARRO_ROJO_GT1313,Arcilla de Barro Rojo Seleccionado de San Miguel Acatán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+984,JADE_JADEITA_GT1313,Jadeita Verde Seleccionado de San Miguel Acatán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+985,MADERA_HORMIGO_GT1313,Madera de Hormigo Seleccionado de San Miguel Acatán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+986,MADERA_CEDRO_GT1313,Madera de Cedro Seleccionado de San Miguel Acatán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+987,TINTE_NATURAL_CAMPANILLA_GT1313,Tinte Orgánico de Campanilla de San Miguel Acatán,Tinte de origen vegetal/animal obtenido de Campanilla en San Miguel Acatán.
+988,LANA_OVEJA_GT1313,Lana de Oveja Natural Seleccionado de San Miguel Acatán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+989,FIBRA_MIMBRE_GT1313,Fibras de Mimbre Seleccionado de San Miguel Acatán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+990,PINTURA_ACRILICA_GT1313,Pintura Acrílica Profesional Seleccionado de San Miguel Acatán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Miguel Acatán.
+991,ALGODON_BLANCO_GT1314,Hilo de Algodón Blanco Seleccionado de San Rafael La Independencia,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+992,ALGODON_CUYUSCATE_GT1314,Hilo de Algodón Cuyuscate Natural Seleccionado de San Rafael La Independencia,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+993,BARRO_ROJO_GT1314,Arcilla de Barro Rojo Seleccionado de San Rafael La Independencia,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+994,JADE_JADEITA_GT1314,Jadeita Verde Seleccionado de San Rafael La Independencia,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+995,MADERA_HORMIGO_GT1314,Madera de Hormigo Seleccionado de San Rafael La Independencia,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+996,MADERA_CEDRO_GT1314,Madera de Cedro Seleccionado de San Rafael La Independencia,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+997,TINTE_NATURAL_CANELA_GT1314,Tinte Orgánico de Canela de San Rafael La Independencia,Tinte de origen vegetal/animal obtenido de Canela en San Rafael La Independencia.
+998,LANA_OVEJA_GT1314,Lana de Oveja Natural Seleccionado de San Rafael La Independencia,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+999,FIBRA_MIMBRE_GT1314,Fibras de Mimbre Seleccionado de San Rafael La Independencia,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+1000,PINTURA_ACRILICA_GT1314,Pintura Acrílica Profesional Seleccionado de San Rafael La Independencia,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Rafael La Independencia.
+1001,ALGODON_BLANCO_GT1315,Hilo de Algodón Blanco Seleccionado de Todos Santos Cuchumatán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1002,ALGODON_CUYUSCATE_GT1315,Hilo de Algodón Cuyuscate Natural Seleccionado de Todos Santos Cuchumatán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1003,BARRO_ROJO_GT1315,Arcilla de Barro Rojo Seleccionado de Todos Santos Cuchumatán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1004,JADE_JADEITA_GT1315,Jadeita Verde Seleccionado de Todos Santos Cuchumatán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1005,MADERA_HORMIGO_GT1315,Madera de Hormigo Seleccionado de Todos Santos Cuchumatán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1006,MADERA_CEDRO_GT1315,Madera de Cedro Seleccionado de Todos Santos Cuchumatán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1007,TINTE_NATURAL_COCHINILLA_GT1315,Tinte Orgánico de Cochinilla de Todos Santos Cuchumatán,Tinte de origen vegetal/animal obtenido de Cochinilla en Todos Santos Cuchumatán.
+1008,LANA_OVEJA_GT1315,Lana de Oveja Natural Seleccionado de Todos Santos Cuchumatán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1009,FIBRA_MIMBRE_GT1315,Fibras de Mimbre Seleccionado de Todos Santos Cuchumatán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1010,PINTURA_ACRILICA_GT1315,Pintura Acrílica Profesional Seleccionado de Todos Santos Cuchumatán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de Todos Santos Cuchumatán.
+1011,ALGODON_BLANCO_GT1316,Hilo de Algodón Blanco Seleccionado de San Juan Atitán,Hilo de Algodón Blanco de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1012,ALGODON_CUYUSCATE_GT1316,Hilo de Algodón Cuyuscate Natural Seleccionado de San Juan Atitán,Hilo de Algodón Cuyuscate Natural de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1013,BARRO_ROJO_GT1316,Arcilla de Barro Rojo Seleccionado de San Juan Atitán,Arcilla de Barro Rojo de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1014,JADE_JADEITA_GT1316,Jadeita Verde Seleccionado de San Juan Atitán,Jadeita Verde de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1015,MADERA_HORMIGO_GT1316,Madera de Hormigo Seleccionado de San Juan Atitán,Madera de Hormigo de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1016,MADERA_CEDRO_GT1316,Madera de Cedro Seleccionado de San Juan Atitán,Madera de Cedro de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1017,TINTE_NATURAL_AÑIL_GT1316,Tinte Orgánico de Añil de San Juan Atitán,Tinte de origen vegetal/animal obtenido de Añil en San Juan Atitán.
+1018,LANA_OVEJA_GT1316,Lana de Oveja Natural Seleccionado de San Juan Atitán,Lana de Oveja Natural de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1019,FIBRA_MIMBRE_GT1316,Fibras de Mimbre Seleccionado de San Juan Atitán,Fibras de Mimbre de alta calidad recolectado en las zonas montañosas de San Juan Atitán.
+1020,PINTURA_ACRILICA_GT1316,Pintura Acrílica Profesional Seleccionado de San Juan Atitán,Pintura Acrílica Profesional de alta calidad recolectado en las zonas montañosas de San Juan Atitán.

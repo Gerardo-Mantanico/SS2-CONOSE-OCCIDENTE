@@ -1,0 +1,1021 @@
+id_artista,codigo,nombre_completo,genero,fecha_nacimiento,departamento_pcode,municipio_pcode,taller_id,especialidad_principal,reconocimientos
+1,ART_GT0404_0000,Elena Coché Tupul,Femenino,1953-06-15,GT04,GT0404,,Danzante de Danza Folklórica,Premio local de Arte Popular 2018 en Comalapa.
+2,ART_GT0405_0001,Tomas Ixcol Mendoza,Masculino,1998-02-04,GT04,GT0405,864,Maestro Tallador de Jade,
+3,ART_GT0406_0002,Antonia Tzoc Chavez,Femenino,1995-08-10,GT04,GT0406,766,Pintor Paisajista Contemporáneo,
+4,ART_GT0407_0003,Miguel Chox Ajcalón,Masculino,1993-10-24,GT04,GT0407,548,Constructor de Marimbas,
+5,ART_GT0408_0004,Elena Tupul Quiché,Femenino,1958-04-06,GT04,GT0408,956,Maestro Tallador de Jade,Premio local de Arte Popular 2021 en Pochuta.
+6,ART_GT0409_0005,Pedro Mendoza Yac,Masculino,1996-06-09,GT04,GT0409,,Constructor de Marimbas,
+7,ART_GT0410_0006,Tomasa Chavez Guarcax,Femenino,1995-11-06,GT04,GT0410,725,Constructor de Marimbas,
+8,ART_GT0411_0007,Santiago Ajcalón Cux,Masculino,2001-01-20,GT04,GT0411,549,Pintor Paisajista Contemporáneo,
+9,ART_GT0412_0008,Antonia Quiché Xiquín,Femenino,1951-08-12,GT04,GT0412,322,Alfarero Tradicional,Premio local de Arte Popular 2025 en Yepocapa.
+10,ART_GT0413_0009,Jacinto Yac Tuy,Masculino,1998-04-25,GT04,GT0413,330,Intérprete de Marimba,
+11,ART_GT0414_0010,Maria Guarcax Tax,Femenino,1958-10-16,GT04,GT0414,,Pintor Primitivista,
+12,ART_GT0415_0011,Juan Cux Coché,Masculino,1951-12-18,GT04,GT0415,223,Maestro Tallador de Jade,
+13,ART_GT0416_0012,Maria Xiquín Ixcol,Femenino,1973-08-25,GT04,GT0416,142,Pintor Primitivista,Premio local de Arte Popular 2016 en El Tejar.
+14,ART_GT0700_0013,Lucas Tuy Tzoc,Masculino,1979-05-03,GT07,GT0700,952,Talabartero de Cuero,
+15,ART_GT0701_0014,Isabel Tax Chox,Femenino,2005-09-17,GT07,GT0701,267,Danzante de Danza Folklórica,
+16,ART_GT0702_0015,Santiago Coché Tupul,Masculino,1992-08-11,GT07,GT0702,,Pintor Primitivista,
+17,ART_GT0703_0016,Manuela Ixcol Mendoza,Femenino,1961-10-10,GT07,GT0703,400,Danzante de Danza Folklórica,Premio local de Arte Popular 2014 en Santa María Visitación.
+18,ART_GT0704_0017,Gaspar Tzoc Chavez,Masculino,1996-09-18,GT07,GT0704,466,Cestero de Fibras Naturales,
+19,ART_GT0705_0018,Antonia Chox Ajcalón,Femenino,1979-06-21,GT07,GT0705,787,Constructor de Marimbas,
+20,ART_GT0706_0019,Jacinto Tupul Quiché,Masculino,1968-05-09,GT07,GT0706,1011,Alfarero Tradicional,
+21,ART_GT0707_0020,Juana Mendoza Yac,Femenino,1978-07-15,GT07,GT0707,,Alfarero Tradicional,Premio local de Arte Popular 2012 en Santa Clara La Laguna.
+22,ART_GT0708_0021,Miguel Chavez Guarcax,Masculino,1961-01-12,GT07,GT0708,441,Maestro Tallador de Jade,
+23,ART_GT0709_0022,Maria Ajcalón Cux,Femenino,2001-03-08,GT07,GT0709,262,Tejedora de Telar de Cintura,
+24,ART_GT0710_0023,Mateo Quiché Xiquín,Masculino,1974-08-22,GT07,GT0710,284,Cestero de Fibras Naturales,
+25,ART_GT0711_0024,Petrona Yac Tuy,Femenino,1999-03-04,GT07,GT0711,267,Tejedora de Telar de Cintura,Premio local de Arte Popular 2025 en Santa Catarina Palopó.
+26,ART_GT0712_0025,Lucas Guarcax Tax,Masculino,1965-11-20,GT07,GT0712,,Pintor Paisajista Contemporáneo,
+27,ART_GT0713_0026,Tomasa Cux Coché,Femenino,1993-02-19,GT07,GT0713,808,Constructor de Marimbas,
+28,ART_GT0714_0027,Jacinto Xiquín Ixcol,Masculino,1960-01-04,GT07,GT0714,968,Escultor en Madera,
+29,ART_GT0715_0028,Magdalena Tuy Tzoc,Femenino,1970-09-21,GT07,GT0715,390,Danzante de Danza Folklórica,Premio local de Arte Popular 2025 en San Pablo La Laguna.
+30,ART_GT0716_0029,Pedro Tax Chox,Masculino,1982-08-22,GT07,GT0716,98,Pintor Primitivista,
+31,ART_GT0717_0030,Manuela Coché Tupul,Femenino,1993-06-12,GT07,GT0717,,Danzante de Danza Folklórica,
+32,ART_GT0718_0031,Pedro Ixcol Mendoza,Masculino,1956-12-25,GT07,GT0718,1009,Intérprete de Marimba,
+33,ART_GT0719_0032,Manuela Tzoc Chavez,Femenino,1961-04-25,GT07,GT0719,365,Intérprete de Marimba,Premio local de Arte Popular 2019 en Santiago Atitlán.
+34,ART_GT0801_0033,Gaspar Chox Ajcalón,Masculino,1993-03-21,GT08,GT0801,1005,Constructor de Marimbas,
+35,ART_GT0802_0034,Tomasa Tupul Quiché,Femenino,1987-04-05,GT08,GT0802,875,Intérprete de Marimba,
+36,ART_GT0803_0035,Francisco Mendoza Yac,Masculino,1963-04-21,GT08,GT0803,,Intérprete de Marimba,
+37,ART_GT0804_0036,Manuela Chavez Guarcax,Femenino,1971-07-09,GT08,GT0804,584,Intérprete de Marimba,Premio local de Arte Popular 2018 en San Andrés Xecul.
+38,ART_GT0805_0037,Francisco Ajcalón Cux,Masculino,1975-07-18,GT08,GT0805,736,Tejedora de Telar de Cintura,
+39,ART_GT0806_0038,Elena Quiché Xiquín,Femenino,1963-01-15,GT08,GT0806,41,Pintor Paisajista Contemporáneo,
+40,ART_GT0807_0039,Tomas Yac Tuy,Masculino,1993-11-04,GT08,GT0807,754,Tejedora de Telar de Cintura,
+41,ART_GT0808_0040,Petrona Guarcax Tax,Femenino,1982-08-04,GT08,GT0808,,Talabartero de Cuero,Premio local de Arte Popular 2024 en San Bartolo.
+42,ART_GT0901_0041,Jacinto Cux Coché,Masculino,1977-04-23,GT09,GT0901,698,Pintor Primitivista,
+43,ART_GT0902_0042,Tomasa Xiquín Ixcol,Femenino,1967-09-04,GT09,GT0902,617,Alfarero Tradicional,
+44,ART_GT0903_0043,Jacinto Tuy Tzoc,Masculino,1975-08-18,GT09,GT0903,805,Constructor de Marimbas,
+45,ART_GT0904_0044,Antonia Tax Chox,Femenino,1987-07-04,GT09,GT0904,834,Intérprete de Marimba,Premio local de Arte Popular 2011 en San Carlos Sija.
+46,ART_GT0905_0045,Tomas Coché Tupul,Masculino,1971-01-24,GT09,GT0905,,Constructor de Marimbas,
+47,ART_GT0906_0046,Manuela Ixcol Mendoza,Femenino,1976-12-07,GT09,GT0906,341,Danzante de Danza Folklórica,
+48,ART_GT0907_0047,Lucas Tzoc Chavez,Masculino,1987-06-23,GT09,GT0907,117,Maestro Tallador de Jade,
+49,ART_GT0908_0048,Catarina Chox Ajcalón,Femenino,1967-08-22,GT09,GT0908,852,Escultor en Madera,Premio local de Arte Popular 2013 en San Miguel Sigüila.
+50,ART_GT0909_0049,Tomas Tupul Quiché,Masculino,1981-09-26,GT09,GT0909,833,Talabartero de Cuero,
+51,ART_GT0910_0050,Elena Mendoza Yac,Femenino,1997-01-10,GT09,GT0910,,Alfarero Tradicional,
+52,ART_GT0911_0051,Gaspar Chavez Guarcax,Masculino,1967-03-20,GT09,GT0911,440,Escultor en Madera,
+53,ART_GT0912_0052,Juana Ajcalón Cux,Femenino,1958-06-18,GT09,GT0912,966,Alfarero Tradicional,Premio local de Arte Popular 2018 en San Martín Sacatepéquez.
+54,ART_GT0913_0053,Juan Quiché Xiquín,Masculino,1985-08-18,GT09,GT0913,358,Pintor Primitivista,
+55,ART_GT0914_0054,Manuela Yac Tuy,Femenino,1952-03-05,GT09,GT0914,949,Maestro Tallador de Jade,
+56,ART_GT0915_0055,Pedro Guarcax Tax,Masculino,1999-05-03,GT09,GT0915,,Tejedor de Telar de Pie,
+57,ART_GT0916_0056,Magdalena Cux Coché,Femenino,1997-10-06,GT09,GT0916,628,Talabartero de Cuero,Premio local de Arte Popular 2023 en Zunil.
+58,ART_GT0917_0057,Miguel Xiquín Ixcol,Masculino,2002-04-05,GT09,GT0917,956,Intérprete de Marimba,
+59,ART_GT0918_0058,Tomasa Tuy Tzoc,Femenino,1987-01-25,GT09,GT0918,265,Tejedora de Telar de Cintura,
+60,ART_GT0919_0059,Francisco Tax Chox,Masculino,1980-02-04,GT09,GT0919,929,Danzante de Danza Folklórica,
+61,ART_GT0920_0060,Maria Coché Tupul,Femenino,1988-02-16,GT09,GT0920,,Alfarero Tradicional,Premio local de Arte Popular 2011 en Coatepeque.
+62,ART_GT0921_0061,Lucas Ixcol Mendoza,Masculino,1982-06-15,GT09,GT0921,379,Intérprete de Marimba,
+63,ART_GT0922_0062,Tomasa Tzoc Chavez,Femenino,1959-06-09,GT09,GT0922,391,Cestero de Fibras Naturales,
+64,ART_GT0923_0063,Lucas Chox Ajcalón,Masculino,1956-10-12,GT09,GT0923,473,Danzante de Danza Folklórica,
+65,ART_GT0924_0064,Elena Tupul Quiché,Femenino,1969-01-03,GT09,GT0924,89,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2017 en Palestina de Los Altos.
+66,ART_GT1201_0065,Gaspar Mendoza Yac,Masculino,1987-12-02,GT12,GT1201,,Tejedor de Telar de Pie,
+67,ART_GT1202_0066,Elena Chavez Guarcax,Femenino,2005-01-13,GT12,GT1202,33,Escultor en Madera,
+68,ART_GT1203_0067,Lucas Ajcalón Cux,Masculino,1990-09-14,GT12,GT1203,314,Cestero de Fibras Naturales,
+69,ART_GT1204_0068,Juana Quiché Xiquín,Femenino,1964-03-03,GT12,GT1204,913,Talabartero de Cuero,Premio local de Arte Popular 2018 en Comitancillo.
+70,ART_GT1205_0069,Jacinto Yac Tuy,Masculino,1953-04-26,GT12,GT1205,245,Talabartero de Cuero,
+71,ART_GT1206_0070,Juana Guarcax Tax,Femenino,2002-03-08,GT12,GT1206,,Intérprete de Marimba,
+72,ART_GT1207_0071,Miguel Cux Coché,Masculino,1950-08-03,GT12,GT1207,606,Escultor en Madera,
+73,ART_GT1208_0072,Juana Xiquín Ixcol,Femenino,1991-10-10,GT12,GT1208,475,Pintor Primitivista,Premio local de Arte Popular 2011 en Sibinal.
+74,ART_GT1209_0073,Francisco Tuy Tzoc,Masculino,1964-10-15,GT12,GT1209,474,Maestro Tallador de Jade,
+75,ART_GT1210_0074,Manuela Tax Chox,Femenino,1962-11-24,GT12,GT1210,238,Alfarero Tradicional,
+76,ART_GT1211_0075,Santiago Coché Tupul,Masculino,1977-10-22,GT12,GT1211,,Maestro Tallador de Jade,
+77,ART_GT1212_0076,Antonia Ixcol Mendoza,Femenino,1963-01-26,GT12,GT1212,904,Tejedor de Telar de Pie,Premio local de Arte Popular 2013 en Nuevo Progreso.
+78,ART_GT1213_0077,Miguel Tzoc Chavez,Masculino,1983-08-05,GT12,GT1213,830,Tejedor de Telar de Pie,
+79,ART_GT1214_0078,Manuela Chox Ajcalón,Femenino,1959-05-01,GT12,GT1214,905,Tejedora de Telar de Cintura,
+80,ART_GT1215_0079,Pedro Tupul Quiché,Masculino,1987-10-27,GT12,GT1215,471,Cestero de Fibras Naturales,
+81,ART_GT1216_0080,Magdalena Mendoza Yac,Femenino,1950-06-06,GT12,GT1216,,Escultor en Madera,Premio local de Arte Popular 2021 en Catarina.
+82,ART_GT1217_0081,Pedro Chavez Guarcax,Masculino,2003-09-06,GT12,GT1217,40,Danzante de Danza Folklórica,
+83,ART_GT1218_0082,Manuela Ajcalón Cux,Femenino,1967-06-13,GT12,GT1218,609,Constructor de Marimbas,
+84,ART_GT1219_0083,Santiago Quiché Xiquín,Masculino,1965-01-28,GT12,GT1219,918,Cestero de Fibras Naturales,
+85,ART_GT1220_0084,Isabel Yac Tuy,Femenino,1967-12-27,GT12,GT1220,865,Talabartero de Cuero,Premio local de Arte Popular 2021 en El Quetzal.
+86,ART_GT1221_0085,Miguel Guarcax Tax,Masculino,1976-12-01,GT12,GT1221,,Cestero de Fibras Naturales,
+87,ART_GT1222_0086,Manuela Cux Coché,Femenino,1994-12-10,GT12,GT1222,531,Danzante de Danza Folklórica,
+88,ART_GT1223_0087,Francisco Xiquín Ixcol,Masculino,1990-08-19,GT12,GT1223,559,Intérprete de Marimba,
+89,ART_GT1224_0088,Antonia Tuy Tzoc,Femenino,1988-04-09,GT12,GT1224,594,Alfarero Tradicional,Premio local de Arte Popular 2024 en San José Ojetenam.
+90,ART_GT1225_0089,Gaspar Tax Chox,Masculino,1962-03-09,GT12,GT1225,20,Danzante de Danza Folklórica,
+91,ART_GT1226_0090,Magdalena Coché Tupul,Femenino,1988-01-13,GT12,GT1226,,Tejedora de Telar de Cintura,
+92,ART_GT1227_0091,Lucas Ixcol Mendoza,Masculino,1995-03-24,GT12,GT1227,321,Intérprete de Marimba,
+93,ART_GT1228_0092,Catarina Tzoc Chavez,Femenino,1961-03-19,GT12,GT1228,604,Tejedor de Telar de Pie,Premio local de Arte Popular 2013 en Río Blanco.
+94,ART_GT1229_0093,Santiago Chox Ajcalón,Masculino,1957-01-03,GT12,GT1229,767,Danzante de Danza Folklórica,
+95,ART_GT1230_0094,Antonia Tupul Quiché,Femenino,1954-03-04,GT12,GT1230,393,Tejedora de Telar de Cintura,
+96,ART_GT1301_0095,Gaspar Mendoza Yac,Masculino,1974-11-05,GT13,GT1301,,Talabartero de Cuero,
+97,ART_GT1302_0096,Isabel Chavez Guarcax,Femenino,1959-02-10,GT13,GT1302,413,Constructor de Marimbas,Premio local de Arte Popular 2014 en Chiantla.
+98,ART_GT1303_0097,Gaspar Ajcalón Cux,Masculino,1953-06-15,GT13,GT1303,390,Cestero de Fibras Naturales,
+99,ART_GT1304_0098,Catarina Quiché Xiquín,Femenino,1961-07-22,GT13,GT1304,782,Cestero de Fibras Naturales,
+100,ART_GT1305_0099,Gaspar Yac Tuy,Masculino,1986-04-13,GT13,GT1305,230,Tejedor de Telar de Pie,
+101,ART_GT1306_0100,Petrona Guarcax Tax,Femenino,1955-03-21,GT13,GT1306,,Escultor en Madera,Premio local de Arte Popular 2015 en San Pedro Necta.
+102,ART_GT1307_0101,Pedro Cux Coché,Masculino,1975-06-06,GT13,GT1307,899,Constructor de Marimbas,
+103,ART_GT1308_0102,Petrona Xiquín Ixcol,Femenino,1995-11-13,GT13,GT1308,287,Maestro Tallador de Jade,
+104,ART_GT1309_0103,Juan Tuy Tzoc,Masculino,1994-10-24,GT13,GT1309,103,Constructor de Marimbas,
+105,ART_GT1310_0104,Catarina Tax Chox,Femenino,1990-02-03,GT13,GT1310,391,Talabartero de Cuero,Premio local de Arte Popular 2014 en Santa Bárbara.
+106,ART_GT1311_0105,Tomas Coché Tupul,Masculino,2003-09-09,GT13,GT1311,,Tejedor de Telar de Pie,
+107,ART_GT1312_0106,Magdalena Ixcol Mendoza,Femenino,1990-02-26,GT13,GT1312,162,Escultor en Madera,
+108,ART_GT1313_0107,Mateo Tzoc Chavez,Masculino,1979-03-09,GT13,GT1313,693,Escultor en Madera,
+109,ART_GT1314_0108,Isabel Chox Ajcalón,Femenino,1961-11-14,GT13,GT1314,14,Tejedor de Telar de Pie,Premio local de Arte Popular 2024 en San Rafael La Independencia.
+110,ART_GT1315_0109,Pedro Tupul Quiché,Masculino,2002-08-24,GT13,GT1315,425,Pintor Paisajista Contemporáneo,
+111,ART_GT1316_0110,Juana Mendoza Yac,Femenino,1992-03-20,GT13,GT1316,,Maestro Tallador de Jade,
+112,ART_GT1317_0111,Gaspar Chavez Guarcax,Masculino,1970-11-08,GT13,GT1317,199,Maestro Tallador de Jade,
+113,ART_GT1318_0112,Catarina Ajcalón Cux,Femenino,1992-07-05,GT13,GT1318,254,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2019 en San Mateo Ixtatán.
+114,ART_GT1319_0113,Jacinto Quiché Xiquín,Masculino,1964-03-20,GT13,GT1319,485,Alfarero Tradicional,
+115,ART_GT1320_0114,Tomasa Yac Tuy,Femenino,1962-10-18,GT13,GT1320,505,Cestero de Fibras Naturales,
+116,ART_GT1321_0115,Tomas Guarcax Tax,Masculino,2005-01-21,GT13,GT1321,,Intérprete de Marimba,
+117,ART_GT1322_0116,Elena Cux Coché,Femenino,1959-04-15,GT13,GT1322,402,Constructor de Marimbas,Premio local de Arte Popular 2023 en Concepción Huista.
+118,ART_GT1323_0117,Juan Xiquín Ixcol,Masculino,2003-03-28,GT13,GT1323,953,Talabartero de Cuero,
+119,ART_GT1324_0118,Magdalena Tuy Tzoc,Femenino,1982-11-06,GT13,GT1324,893,Pintor Paisajista Contemporáneo,
+120,ART_GT1325_0119,Francisco Tax Chox,Masculino,1997-01-26,GT13,GT1325,826,Intérprete de Marimba,
+121,ART_GT1326_0120,Maria Coché Tupul,Femenino,1984-04-18,GT13,GT1326,,Intérprete de Marimba,Premio local de Arte Popular 2025 en Barillas.
+122,ART_GT1327_0121,Gaspar Ixcol Mendoza,Masculino,1985-03-23,GT13,GT1327,916,Maestro Tallador de Jade,
+123,ART_GT1328_0122,Catarina Tzoc Chavez,Femenino,1970-06-11,GT13,GT1328,219,Cestero de Fibras Naturales,
+124,ART_GT1329_0123,Lucas Chox Ajcalón,Masculino,1997-03-21,GT13,GT1329,894,Constructor de Marimbas,
+125,ART_GT1330_0124,Tomasa Tupul Quiché,Femenino,1974-12-10,GT13,GT1330,155,Pintor Primitivista,Premio local de Arte Popular 2015 en Santiago Chimaltenango.
+126,ART_GT1331_0125,Santiago Mendoza Yac,Masculino,1958-08-05,GT13,GT1331,,Tejedora de Telar de Cintura,
+127,ART_GT1332_0126,Petrona Chavez Guarcax,Femenino,1993-06-24,GT13,GT1332,252,Tejedora de Telar de Cintura,
+128,ART_GT1333_0127,Lucas Ajcalón Cux,Masculino,1955-11-11,GT13,GT1333,224,Escultor en Madera,
+129,ART_GT1401_0128,Juana Quiché Xiquín,Femenino,1968-11-26,GT14,GT1401,977,Danzante de Danza Folklórica,Premio local de Arte Popular 2014 en Santa Cruz del Quiché.
+130,ART_GT1402_0129,Pedro Yac Tuy,Masculino,1950-02-20,GT14,GT1402,54,Pintor Primitivista,
+131,ART_GT1403_0130,Tomasa Guarcax Tax,Femenino,1991-05-14,GT14,GT1403,,Intérprete de Marimba,
+132,ART_GT1404_0131,Jacinto Cux Coché,Masculino,1982-05-24,GT14,GT1404,728,Cestero de Fibras Naturales,
+133,ART_GT1405_0132,Petrona Xiquín Ixcol,Femenino,2004-09-12,GT14,GT1405,800,Intérprete de Marimba,Premio local de Arte Popular 2011 en Chajul.
+134,ART_GT1406_0133,Tomas Tuy Tzoc,Masculino,1972-05-05,GT14,GT1406,101,Pintor Primitivista,
+135,ART_GT1407_0134,Juana Tax Chox,Femenino,1995-01-20,GT14,GT1407,710,Pintor Paisajista Contemporáneo,
+136,ART_GT1408_0135,Miguel Coché Tupul,Masculino,1969-04-25,GT14,GT1408,,Danzante de Danza Folklórica,
+137,ART_GT1409_0136,Isabel Ixcol Mendoza,Femenino,2005-08-06,GT14,GT1409,290,Danzante de Danza Folklórica,Premio local de Arte Popular 2014 en San Pedro Jocopilas.
+138,ART_GT1410_0137,Mateo Tzoc Chavez,Masculino,1956-10-05,GT14,GT1410,47,Constructor de Marimbas,
+139,ART_GT1411_0138,Manuela Chox Ajcalón,Femenino,1975-01-17,GT14,GT1411,915,Escultor en Madera,
+140,ART_GT1412_0139,Tomas Tupul Quiché,Masculino,1985-10-22,GT14,GT1412,333,Maestro Tallador de Jade,
+141,ART_GT1413_0140,Juana Mendoza Yac,Femenino,1991-11-06,GT14,GT1413,,Tejedor de Telar de Pie,Premio local de Arte Popular 2010 en Nebaj.
+142,ART_GT1414_0141,Lucas Chavez Guarcax,Masculino,1965-11-22,GT14,GT1414,988,Escultor en Madera,
+143,ART_GT1415_0142,Isabel Ajcalón Cux,Femenino,1956-09-02,GT14,GT1415,668,Danzante de Danza Folklórica,
+144,ART_GT1416_0143,Tomas Quiché Xiquín,Masculino,2005-04-04,GT14,GT1416,341,Maestro Tallador de Jade,
+145,ART_GT1417_0144,Maria Yac Tuy,Femenino,1980-08-17,GT14,GT1417,562,Tejedora de Telar de Cintura,Premio local de Arte Popular 2020 en San Bartolomé Jocotenango.
+146,ART_GT1418_0145,Miguel Guarcax Tax,Masculino,1965-02-24,GT14,GT1418,,Danzante de Danza Folklórica,
+147,ART_GT1419_0146,Manuela Cux Coché,Femenino,1986-09-15,GT14,GT1419,739,Cestero de Fibras Naturales,
+148,ART_GT1420_0147,Pedro Xiquín Ixcol,Masculino,1988-05-15,GT14,GT1420,687,Tejedora de Telar de Cintura,
+149,ART_GT1421_0148,Antonia Tuy Tzoc,Femenino,1950-01-25,GT14,GT1421,686,Cestero de Fibras Naturales,Premio local de Arte Popular 2018 en Pachalum.
+150,ART_GT1501_0149,Santiago Tax Chox,Masculino,1993-02-22,GT15,GT1501,475,Tejedora de Telar de Cintura,
+151,ART_GT1502_0150,Tomasa Coché Tupul,Femenino,1989-04-09,GT15,GT1502,,Intérprete de Marimba,
+152,ART_GT1503_0151,Tomas Ixcol Mendoza,Masculino,2003-04-27,GT15,GT1503,792,Danzante de Danza Folklórica,
+153,ART_GT1504_0152,Manuela Tzoc Chavez,Femenino,1962-01-28,GT15,GT1504,987,Pintor Primitivista,Premio local de Arte Popular 2025 en Cubulco.
+154,ART_GT1505_0153,Tomas Chox Ajcalón,Masculino,1998-02-17,GT15,GT1505,354,Danzante de Danza Folklórica,
+155,ART_GT1506_0154,Magdalena Tupul Quiché,Femenino,1984-09-14,GT15,GT1506,244,Danzante de Danza Folklórica,
+156,ART_GT1507_0155,Lucas Mendoza Yac,Masculino,1962-03-01,GT15,GT1507,,Maestro Tallador de Jade,
+157,ART_GT1508_0156,Antonia Chavez Guarcax,Femenino,2005-12-14,GT15,GT1508,542,Constructor de Marimbas,Premio local de Arte Popular 2013 en Purulhá.
+158,ART_GT0401_0157,Lucas Ajcalón Cux,Masculino,1972-11-18,GT04,GT0401,103,Intérprete de Marimba,
+159,ART_GT0402_0158,Antonia Quiché Xiquín,Femenino,1968-12-17,GT04,GT0402,575,Maestro Tallador de Jade,
+160,ART_GT0403_0159,Lucas Yac Tuy,Masculino,1982-08-17,GT04,GT0403,212,Tejedor de Telar de Pie,
+161,ART_GT0404_0160,Magdalena Guarcax Tax,Femenino,1977-12-02,GT04,GT0404,,Alfarero Tradicional,Premio local de Arte Popular 2019 en Comalapa.
+162,ART_GT0405_0161,Juan Cux Coché,Masculino,1955-11-09,GT04,GT0405,394,Talabartero de Cuero,
+163,ART_GT0406_0162,Elena Xiquín Ixcol,Femenino,2003-12-24,GT04,GT0406,537,Talabartero de Cuero,
+164,ART_GT0407_0163,Mateo Tuy Tzoc,Masculino,1977-12-16,GT04,GT0407,345,Pintor Paisajista Contemporáneo,
+165,ART_GT0408_0164,Magdalena Tax Chox,Femenino,1980-02-05,GT04,GT0408,287,Pintor Primitivista,Premio local de Arte Popular 2013 en Pochuta.
+166,ART_GT0409_0165,Juan Coché Tupul,Masculino,1991-11-03,GT04,GT0409,,Tejedor de Telar de Pie,
+167,ART_GT0410_0166,Manuela Ixcol Mendoza,Femenino,1979-02-06,GT04,GT0410,553,Intérprete de Marimba,
+168,ART_GT0411_0167,Juan Tzoc Chavez,Masculino,1961-04-08,GT04,GT0411,343,Pintor Primitivista,
+169,ART_GT0412_0168,Manuela Chox Ajcalón,Femenino,1967-09-22,GT04,GT0412,999,Maestro Tallador de Jade,Premio local de Arte Popular 2023 en Yepocapa.
+170,ART_GT0413_0169,Pedro Tupul Quiché,Masculino,1966-11-27,GT04,GT0413,202,Tejedor de Telar de Pie,
+171,ART_GT0414_0170,Elena Mendoza Yac,Femenino,1963-01-20,GT04,GT0414,,Tejedora de Telar de Cintura,
+172,ART_GT0415_0171,Francisco Chavez Guarcax,Masculino,2001-04-15,GT04,GT0415,871,Cestero de Fibras Naturales,
+173,ART_GT0416_0172,Maria Ajcalón Cux,Femenino,1976-06-11,GT04,GT0416,940,Constructor de Marimbas,Premio local de Arte Popular 2023 en El Tejar.
+174,ART_GT0700_0173,Pedro Quiché Xiquín,Masculino,1951-01-22,GT07,GT0700,791,Danzante de Danza Folklórica,
+175,ART_GT0701_0174,Maria Yac Tuy,Femenino,1991-12-23,GT07,GT0701,616,Pintor Primitivista,
+176,ART_GT0702_0175,Pedro Guarcax Tax,Masculino,1955-03-01,GT07,GT0702,,Tejedora de Telar de Cintura,
+177,ART_GT0703_0176,Manuela Cux Coché,Femenino,1951-10-16,GT07,GT0703,628,Intérprete de Marimba,Premio local de Arte Popular 2017 en Santa María Visitación.
+178,ART_GT0704_0177,Jacinto Xiquín Ixcol,Masculino,1982-12-01,GT07,GT0704,329,Intérprete de Marimba,
+179,ART_GT0705_0178,Juana Tuy Tzoc,Femenino,1967-04-17,GT07,GT0705,748,Cestero de Fibras Naturales,
+180,ART_GT0706_0179,Gaspar Tax Chox,Masculino,1995-09-07,GT07,GT0706,701,Pintor Paisajista Contemporáneo,
+181,ART_GT0707_0180,Isabel Coché Tupul,Femenino,1984-05-11,GT07,GT0707,,Tejedor de Telar de Pie,Premio local de Arte Popular 2013 en Santa Clara La Laguna.
+182,ART_GT0708_0181,Santiago Ixcol Mendoza,Masculino,1979-11-23,GT07,GT0708,112,Constructor de Marimbas,
+183,ART_GT0709_0182,Maria Tzoc Chavez,Femenino,1986-05-03,GT07,GT0709,837,Tejedora de Telar de Cintura,
+184,ART_GT0710_0183,Jacinto Chox Ajcalón,Masculino,2005-11-15,GT07,GT0710,974,Tejedor de Telar de Pie,
+185,ART_GT0711_0184,Maria Tupul Quiché,Femenino,1958-01-01,GT07,GT0711,758,Constructor de Marimbas,Premio local de Arte Popular 2025 en Santa Catarina Palopó.
+186,ART_GT0712_0185,Pedro Mendoza Yac,Masculino,1988-09-18,GT07,GT0712,,Talabartero de Cuero,
+187,ART_GT0713_0186,Maria Chavez Guarcax,Femenino,1984-05-14,GT07,GT0713,564,Talabartero de Cuero,
+188,ART_GT0714_0187,Lucas Ajcalón Cux,Masculino,1972-10-17,GT07,GT0714,635,Intérprete de Marimba,
+189,ART_GT0715_0188,Tomasa Quiché Xiquín,Femenino,1996-11-03,GT07,GT0715,875,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2017 en San Pablo La Laguna.
+190,ART_GT0716_0189,Santiago Yac Tuy,Masculino,1961-04-26,GT07,GT0716,263,Pintor Paisajista Contemporáneo,
+191,ART_GT0717_0190,Elena Guarcax Tax,Femenino,1993-10-24,GT07,GT0717,,Maestro Tallador de Jade,
+192,ART_GT0718_0191,Gaspar Cux Coché,Masculino,1993-09-07,GT07,GT0718,926,Intérprete de Marimba,
+193,ART_GT0719_0192,Juana Xiquín Ixcol,Femenino,1956-10-02,GT07,GT0719,471,Cestero de Fibras Naturales,Premio local de Arte Popular 2015 en Santiago Atitlán.
+194,ART_GT0801_0193,Francisco Tuy Tzoc,Masculino,1983-03-15,GT08,GT0801,47,Alfarero Tradicional,
+195,ART_GT0802_0194,Elena Tax Chox,Femenino,1950-09-03,GT08,GT0802,518,Cestero de Fibras Naturales,
+196,ART_GT0803_0195,Miguel Coché Tupul,Masculino,1993-11-02,GT08,GT0803,,Escultor en Madera,
+197,ART_GT0804_0196,Isabel Ixcol Mendoza,Femenino,1979-10-16,GT08,GT0804,274,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2020 en San Andrés Xecul.
+198,ART_GT0805_0197,Miguel Tzoc Chavez,Masculino,1990-05-25,GT08,GT0805,351,Escultor en Madera,
+199,ART_GT0806_0198,Catarina Chox Ajcalón,Femenino,1995-02-18,GT08,GT0806,140,Tejedor de Telar de Pie,
+200,ART_GT0807_0199,Miguel Tupul Quiché,Masculino,1993-02-03,GT08,GT0807,716,Tejedora de Telar de Cintura,
+201,ART_GT0808_0200,Manuela Mendoza Yac,Femenino,1963-04-27,GT08,GT0808,,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2012 en San Bartolo.
+202,ART_GT0901_0201,Santiago Chavez Guarcax,Masculino,1963-08-22,GT09,GT0901,252,Maestro Tallador de Jade,
+203,ART_GT0902_0202,Juana Ajcalón Cux,Femenino,1977-09-04,GT09,GT0902,931,Escultor en Madera,
+204,ART_GT0903_0203,Lucas Quiché Xiquín,Masculino,2000-05-16,GT09,GT0903,357,Tejedor de Telar de Pie,
+205,ART_GT0904_0204,Maria Yac Tuy,Femenino,1987-01-13,GT09,GT0904,870,Escultor en Madera,Premio local de Arte Popular 2018 en San Carlos Sija.
+206,ART_GT0905_0205,Jacinto Guarcax Tax,Masculino,1984-12-07,GT09,GT0905,,Constructor de Marimbas,
+207,ART_GT0906_0206,Tomasa Cux Coché,Femenino,1986-03-10,GT09,GT0906,529,Talabartero de Cuero,
+208,ART_GT0907_0207,Mateo Xiquín Ixcol,Masculino,1961-12-05,GT09,GT0907,712,Tejedor de Telar de Pie,
+209,ART_GT0908_0208,Elena Tuy Tzoc,Femenino,1972-01-27,GT09,GT0908,46,Cestero de Fibras Naturales,Premio local de Arte Popular 2011 en San Miguel Sigüila.
+210,ART_GT0909_0209,Lucas Tax Chox,Masculino,2004-04-03,GT09,GT0909,258,Danzante de Danza Folklórica,
+211,ART_GT0910_0210,Manuela Coché Tupul,Femenino,1956-05-12,GT09,GT0910,,Pintor Paisajista Contemporáneo,
+212,ART_GT0911_0211,Mateo Ixcol Mendoza,Masculino,1999-01-01,GT09,GT0911,981,Talabartero de Cuero,
+213,ART_GT0912_0212,Isabel Tzoc Chavez,Femenino,1952-05-26,GT09,GT0912,135,Escultor en Madera,Premio local de Arte Popular 2020 en San Martín Sacatepéquez.
+214,ART_GT0913_0213,Francisco Chox Ajcalón,Masculino,1960-02-27,GT09,GT0913,39,Tejedora de Telar de Cintura,
+215,ART_GT0914_0214,Manuela Tupul Quiché,Femenino,1992-07-03,GT09,GT0914,218,Alfarero Tradicional,
+216,ART_GT0915_0215,Lucas Mendoza Yac,Masculino,1955-10-08,GT09,GT0915,,Talabartero de Cuero,
+217,ART_GT0916_0216,Isabel Chavez Guarcax,Femenino,1998-12-15,GT09,GT0916,942,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2016 en Zunil.
+218,ART_GT0917_0217,Juan Ajcalón Cux,Masculino,2003-03-14,GT09,GT0917,945,Alfarero Tradicional,
+219,ART_GT0918_0218,Manuela Quiché Xiquín,Femenino,1950-05-27,GT09,GT0918,225,Alfarero Tradicional,
+220,ART_GT0919_0219,Francisco Yac Tuy,Masculino,1983-12-22,GT09,GT0919,634,Escultor en Madera,
+221,ART_GT0920_0220,Maria Guarcax Tax,Femenino,1999-08-04,GT09,GT0920,,Tejedora de Telar de Cintura,Premio local de Arte Popular 2021 en Coatepeque.
+222,ART_GT0921_0221,Juan Cux Coché,Masculino,1972-05-25,GT09,GT0921,691,Cestero de Fibras Naturales,
+223,ART_GT0922_0222,Tomasa Xiquín Ixcol,Femenino,1973-07-19,GT09,GT0922,858,Tejedor de Telar de Pie,
+224,ART_GT0923_0223,Mateo Tuy Tzoc,Masculino,1988-07-11,GT09,GT0923,80,Cestero de Fibras Naturales,
+225,ART_GT0924_0224,Catarina Tax Chox,Femenino,2001-12-11,GT09,GT0924,551,Tejedora de Telar de Cintura,Premio local de Arte Popular 2025 en Palestina de Los Altos.
+226,ART_GT1201_0225,Juan Coché Tupul,Masculino,1956-07-03,GT12,GT1201,,Talabartero de Cuero,
+227,ART_GT1202_0226,Manuela Ixcol Mendoza,Femenino,1996-07-17,GT12,GT1202,322,Maestro Tallador de Jade,
+228,ART_GT1203_0227,Lucas Tzoc Chavez,Masculino,1981-06-21,GT12,GT1203,44,Talabartero de Cuero,
+229,ART_GT1204_0228,Juana Chox Ajcalón,Femenino,1956-01-21,GT12,GT1204,669,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2020 en Comitancillo.
+230,ART_GT1205_0229,Gaspar Tupul Quiché,Masculino,1978-03-27,GT12,GT1205,608,Tejedor de Telar de Pie,
+231,ART_GT1206_0230,Antonia Mendoza Yac,Femenino,1955-07-27,GT12,GT1206,,Tejedora de Telar de Cintura,
+232,ART_GT1207_0231,Jacinto Chavez Guarcax,Masculino,1952-12-13,GT12,GT1207,824,Constructor de Marimbas,
+233,ART_GT1208_0232,Maria Ajcalón Cux,Femenino,2005-02-16,GT12,GT1208,638,Talabartero de Cuero,Premio local de Arte Popular 2023 en Sibinal.
+234,ART_GT1209_0233,Pedro Quiché Xiquín,Masculino,1956-06-26,GT12,GT1209,165,Tejedora de Telar de Cintura,
+235,ART_GT1210_0234,Tomasa Yac Tuy,Femenino,1997-07-16,GT12,GT1210,845,Danzante de Danza Folklórica,
+236,ART_GT1211_0235,Lucas Guarcax Tax,Masculino,1987-03-20,GT12,GT1211,,Tejedor de Telar de Pie,
+237,ART_GT1212_0236,Elena Cux Coché,Femenino,1950-03-06,GT12,GT1212,106,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2011 en Nuevo Progreso.
+238,ART_GT1213_0237,Santiago Xiquín Ixcol,Masculino,1963-11-17,GT12,GT1213,295,Talabartero de Cuero,
+239,ART_GT1214_0238,Antonia Tuy Tzoc,Femenino,1978-06-05,GT12,GT1214,91,Maestro Tallador de Jade,
+240,ART_GT1215_0239,Tomas Tax Chox,Masculino,1983-05-07,GT12,GT1215,1005,Pintor Primitivista,
+241,ART_GT1216_0240,Petrona Coché Tupul,Femenino,1950-09-18,GT12,GT1216,,Intérprete de Marimba,Premio local de Arte Popular 2014 en Catarina.
+242,ART_GT1217_0241,Miguel Ixcol Mendoza,Masculino,1969-08-13,GT12,GT1217,715,Tejedora de Telar de Cintura,
+243,ART_GT1218_0242,Maria Tzoc Chavez,Femenino,1971-04-11,GT12,GT1218,187,Constructor de Marimbas,
+244,ART_GT1219_0243,Miguel Chox Ajcalón,Masculino,1950-03-12,GT12,GT1219,335,Cestero de Fibras Naturales,
+245,ART_GT1220_0244,Maria Tupul Quiché,Femenino,1995-06-26,GT12,GT1220,118,Escultor en Madera,Premio local de Arte Popular 2018 en El Quetzal.
+246,ART_GT1221_0245,Francisco Mendoza Yac,Masculino,1993-02-16,GT12,GT1221,,Cestero de Fibras Naturales,
+247,ART_GT1222_0246,Tomasa Chavez Guarcax,Femenino,1956-06-05,GT12,GT1222,12,Intérprete de Marimba,
+248,ART_GT1223_0247,Francisco Ajcalón Cux,Masculino,2002-06-26,GT12,GT1223,418,Alfarero Tradicional,
+249,ART_GT1224_0248,Catarina Quiché Xiquín,Femenino,1951-11-11,GT12,GT1224,537,Intérprete de Marimba,Premio local de Arte Popular 2017 en San José Ojetenam.
+250,ART_GT1225_0249,Gaspar Yac Tuy,Masculino,1987-08-16,GT12,GT1225,670,Maestro Tallador de Jade,
+251,ART_GT1226_0250,Maria Guarcax Tax,Femenino,1977-12-02,GT12,GT1226,,Escultor en Madera,
+252,ART_GT1227_0251,Juan Cux Coché,Masculino,1961-08-21,GT12,GT1227,984,Talabartero de Cuero,
+253,ART_GT1228_0252,Magdalena Xiquín Ixcol,Femenino,2001-04-14,GT12,GT1228,198,Alfarero Tradicional,Premio local de Arte Popular 2014 en Río Blanco.
+254,ART_GT1229_0253,Juan Tuy Tzoc,Masculino,1998-02-07,GT12,GT1229,124,Tejedora de Telar de Cintura,
+255,ART_GT1230_0254,Catarina Tax Chox,Femenino,1981-03-17,GT12,GT1230,550,Tejedora de Telar de Cintura,
+256,ART_GT1301_0255,Tomas Coché Tupul,Masculino,1983-01-25,GT13,GT1301,,Constructor de Marimbas,
+257,ART_GT1302_0256,Magdalena Ixcol Mendoza,Femenino,1984-10-24,GT13,GT1302,1005,Cestero de Fibras Naturales,Premio local de Arte Popular 2015 en Chiantla.
+258,ART_GT1303_0257,Lucas Tzoc Chavez,Masculino,2003-04-13,GT13,GT1303,51,Tejedora de Telar de Cintura,
+259,ART_GT1304_0258,Manuela Chox Ajcalón,Femenino,1963-04-11,GT13,GT1304,1005,Pintor Paisajista Contemporáneo,
+260,ART_GT1305_0259,Santiago Tupul Quiché,Masculino,1994-05-07,GT13,GT1305,49,Danzante de Danza Folklórica,
+261,ART_GT1306_0260,Petrona Mendoza Yac,Femenino,1969-08-05,GT13,GT1306,,Constructor de Marimbas,Premio local de Arte Popular 2020 en San Pedro Necta.
+262,ART_GT1307_0261,Mateo Chavez Guarcax,Masculino,1998-07-11,GT13,GT1307,816,Cestero de Fibras Naturales,
+263,ART_GT1308_0262,Manuela Ajcalón Cux,Femenino,1999-09-28,GT13,GT1308,22,Maestro Tallador de Jade,
+264,ART_GT1309_0263,Juan Quiché Xiquín,Masculino,1952-10-01,GT13,GT1309,634,Maestro Tallador de Jade,
+265,ART_GT1310_0264,Catarina Yac Tuy,Femenino,1952-10-19,GT13,GT1310,477,Escultor en Madera,Premio local de Arte Popular 2014 en Santa Bárbara.
+266,ART_GT1311_0265,Pedro Guarcax Tax,Masculino,1989-06-01,GT13,GT1311,,Constructor de Marimbas,
+267,ART_GT1312_0266,Isabel Cux Coché,Femenino,1977-07-06,GT13,GT1312,443,Danzante de Danza Folklórica,
+268,ART_GT1313_0267,Francisco Xiquín Ixcol,Masculino,1951-11-20,GT13,GT1313,813,Intérprete de Marimba,
+269,ART_GT1314_0268,Juana Tuy Tzoc,Femenino,1982-07-16,GT13,GT1314,95,Intérprete de Marimba,Premio local de Arte Popular 2021 en San Rafael La Independencia.
+270,ART_GT1315_0269,Miguel Tax Chox,Masculino,2002-01-05,GT13,GT1315,257,Cestero de Fibras Naturales,
+271,ART_GT1316_0270,Isabel Coché Tupul,Femenino,1988-12-26,GT13,GT1316,,Talabartero de Cuero,
+272,ART_GT1317_0271,Jacinto Ixcol Mendoza,Masculino,1988-06-28,GT13,GT1317,729,Maestro Tallador de Jade,
+273,ART_GT1318_0272,Juana Tzoc Chavez,Femenino,1965-05-16,GT13,GT1318,812,Maestro Tallador de Jade,Premio local de Arte Popular 2024 en San Mateo Ixtatán.
+274,ART_GT1319_0273,Jacinto Chox Ajcalón,Masculino,1976-05-15,GT13,GT1319,660,Escultor en Madera,
+275,ART_GT1320_0274,Manuela Tupul Quiché,Femenino,1971-02-15,GT13,GT1320,634,Pintor Paisajista Contemporáneo,
+276,ART_GT1321_0275,Francisco Mendoza Yac,Masculino,1977-04-06,GT13,GT1321,,Pintor Paisajista Contemporáneo,
+277,ART_GT1322_0276,Antonia Chavez Guarcax,Femenino,1967-03-19,GT13,GT1322,521,Talabartero de Cuero,Premio local de Arte Popular 2016 en Concepción Huista.
+278,ART_GT1323_0277,Gaspar Ajcalón Cux,Masculino,1984-04-05,GT13,GT1323,451,Constructor de Marimbas,
+279,ART_GT1324_0278,Manuela Quiché Xiquín,Femenino,1953-02-02,GT13,GT1324,244,Danzante de Danza Folklórica,
+280,ART_GT1325_0279,Santiago Yac Tuy,Masculino,1958-11-19,GT13,GT1325,653,Constructor de Marimbas,
+281,ART_GT1326_0280,Maria Guarcax Tax,Femenino,2000-05-23,GT13,GT1326,,Constructor de Marimbas,Premio local de Arte Popular 2024 en Barillas.
+282,ART_GT1327_0281,Miguel Cux Coché,Masculino,1985-01-19,GT13,GT1327,328,Talabartero de Cuero,
+283,ART_GT1328_0282,Isabel Xiquín Ixcol,Femenino,1986-01-26,GT13,GT1328,778,Cestero de Fibras Naturales,
+284,ART_GT1329_0283,Lucas Tuy Tzoc,Masculino,1963-05-06,GT13,GT1329,163,Pintor Primitivista,
+285,ART_GT1330_0284,Juana Tax Chox,Femenino,1971-02-04,GT13,GT1330,50,Constructor de Marimbas,Premio local de Arte Popular 2020 en Santiago Chimaltenango.
+286,ART_GT1331_0285,Pedro Coché Tupul,Masculino,1992-11-12,GT13,GT1331,,Alfarero Tradicional,
+287,ART_GT1332_0286,Magdalena Ixcol Mendoza,Femenino,1981-06-16,GT13,GT1332,297,Intérprete de Marimba,
+288,ART_GT1333_0287,Mateo Tzoc Chavez,Masculino,1995-11-24,GT13,GT1333,409,Alfarero Tradicional,
+289,ART_GT1401_0288,Elena Chox Ajcalón,Femenino,1980-02-06,GT14,GT1401,486,Constructor de Marimbas,Premio local de Arte Popular 2010 en Santa Cruz del Quiché.
+290,ART_GT1402_0289,Juan Tupul Quiché,Masculino,1968-05-21,GT14,GT1402,118,Pintor Paisajista Contemporáneo,
+291,ART_GT1403_0290,Catarina Mendoza Yac,Femenino,2002-05-28,GT14,GT1403,,Tejedor de Telar de Pie,
+292,ART_GT1404_0291,Juan Chavez Guarcax,Masculino,1960-09-23,GT14,GT1404,811,Danzante de Danza Folklórica,
+293,ART_GT1405_0292,Catarina Ajcalón Cux,Femenino,1976-12-09,GT14,GT1405,725,Cestero de Fibras Naturales,Premio local de Arte Popular 2011 en Chajul.
+294,ART_GT1406_0293,Francisco Quiché Xiquín,Masculino,1984-08-16,GT14,GT1406,1018,Cestero de Fibras Naturales,
+295,ART_GT1407_0294,Juana Yac Tuy,Femenino,1998-12-01,GT14,GT1407,1002,Danzante de Danza Folklórica,
+296,ART_GT1408_0295,Jacinto Guarcax Tax,Masculino,1957-06-10,GT14,GT1408,,Pintor Primitivista,
+297,ART_GT1409_0296,Magdalena Cux Coché,Femenino,1990-01-05,GT14,GT1409,473,Cestero de Fibras Naturales,Premio local de Arte Popular 2025 en San Pedro Jocopilas.
+298,ART_GT1410_0297,Juan Xiquín Ixcol,Masculino,2003-03-17,GT14,GT1410,310,Tejedor de Telar de Pie,
+299,ART_GT1411_0298,Magdalena Tuy Tzoc,Femenino,1969-10-13,GT14,GT1411,100,Constructor de Marimbas,
+300,ART_GT1412_0299,Juan Tax Chox,Masculino,1959-10-03,GT14,GT1412,552,Pintor Primitivista,
+301,ART_GT1413_0300,Elena Coché Tupul,Femenino,1969-07-04,GT14,GT1413,,Intérprete de Marimba,Premio local de Arte Popular 2014 en Nebaj.
+302,ART_GT1414_0301,Mateo Ixcol Mendoza,Masculino,1967-01-05,GT14,GT1414,216,Intérprete de Marimba,
+303,ART_GT1415_0302,Magdalena Tzoc Chavez,Femenino,1969-12-28,GT14,GT1415,960,Cestero de Fibras Naturales,
+304,ART_GT1416_0303,Francisco Chox Ajcalón,Masculino,2000-11-11,GT14,GT1416,236,Constructor de Marimbas,
+305,ART_GT1417_0304,Elena Tupul Quiché,Femenino,1966-04-23,GT14,GT1417,708,Talabartero de Cuero,Premio local de Arte Popular 2017 en San Bartolomé Jocotenango.
+306,ART_GT1418_0305,Miguel Mendoza Yac,Masculino,1994-09-17,GT14,GT1418,,Talabartero de Cuero,
+307,ART_GT1419_0306,Antonia Chavez Guarcax,Femenino,2004-11-11,GT14,GT1419,610,Alfarero Tradicional,
+308,ART_GT1420_0307,Tomas Ajcalón Cux,Masculino,1964-01-16,GT14,GT1420,376,Tejedora de Telar de Cintura,
+309,ART_GT1421_0308,Elena Quiché Xiquín,Femenino,1993-11-21,GT14,GT1421,516,Maestro Tallador de Jade,Premio local de Arte Popular 2024 en Pachalum.
+310,ART_GT1501_0309,Santiago Yac Tuy,Masculino,1971-06-25,GT15,GT1501,29,Talabartero de Cuero,
+311,ART_GT1502_0310,Antonia Guarcax Tax,Femenino,1964-06-21,GT15,GT1502,,Danzante de Danza Folklórica,
+312,ART_GT1503_0311,Lucas Cux Coché,Masculino,1959-08-03,GT15,GT1503,275,Escultor en Madera,
+313,ART_GT1504_0312,Tomasa Xiquín Ixcol,Femenino,2004-02-09,GT15,GT1504,210,Cestero de Fibras Naturales,Premio local de Arte Popular 2025 en Cubulco.
+314,ART_GT1505_0313,Juan Tuy Tzoc,Masculino,1961-11-12,GT15,GT1505,995,Pintor Primitivista,
+315,ART_GT1506_0314,Elena Tax Chox,Femenino,2001-06-08,GT15,GT1506,531,Danzante de Danza Folklórica,
+316,ART_GT1507_0315,Santiago Coché Tupul,Masculino,1971-11-17,GT15,GT1507,,Constructor de Marimbas,
+317,ART_GT1508_0316,Antonia Ixcol Mendoza,Femenino,1986-01-13,GT15,GT1508,307,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2024 en Purulhá.
+318,ART_GT0401_0317,Pedro Tzoc Chavez,Masculino,1987-07-13,GT04,GT0401,266,Alfarero Tradicional,
+319,ART_GT0402_0318,Juana Chox Ajcalón,Femenino,1981-08-03,GT04,GT0402,901,Tejedor de Telar de Pie,
+320,ART_GT0403_0319,Juan Tupul Quiché,Masculino,1965-11-24,GT04,GT0403,935,Constructor de Marimbas,
+321,ART_GT0404_0320,Catarina Mendoza Yac,Femenino,1979-10-09,GT04,GT0404,,Intérprete de Marimba,Premio local de Arte Popular 2013 en Comalapa.
+322,ART_GT0405_0321,Gaspar Chavez Guarcax,Masculino,1970-09-24,GT04,GT0405,110,Maestro Tallador de Jade,
+323,ART_GT0406_0322,Tomasa Ajcalón Cux,Femenino,1952-08-13,GT04,GT0406,172,Cestero de Fibras Naturales,
+324,ART_GT0407_0323,Pedro Quiché Xiquín,Masculino,2000-06-06,GT04,GT0407,928,Pintor Primitivista,
+325,ART_GT0408_0324,Isabel Yac Tuy,Femenino,1965-05-22,GT04,GT0408,308,Danzante de Danza Folklórica,Premio local de Arte Popular 2017 en Pochuta.
+326,ART_GT0409_0325,Jacinto Guarcax Tax,Masculino,1964-07-03,GT04,GT0409,,Tejedora de Telar de Cintura,
+327,ART_GT0410_0326,Magdalena Cux Coché,Femenino,1976-06-21,GT04,GT0410,805,Constructor de Marimbas,
+328,ART_GT0411_0327,Lucas Xiquín Ixcol,Masculino,1980-09-11,GT04,GT0411,62,Danzante de Danza Folklórica,
+329,ART_GT0412_0328,Catarina Tuy Tzoc,Femenino,1990-01-21,GT04,GT0412,442,Constructor de Marimbas,Premio local de Arte Popular 2024 en Yepocapa.
+330,ART_GT0413_0329,Santiago Tax Chox,Masculino,1987-11-05,GT04,GT0413,658,Pintor Primitivista,
+331,ART_GT0414_0330,Elena Coché Tupul,Femenino,1957-03-15,GT04,GT0414,,Constructor de Marimbas,
+332,ART_GT0415_0331,Miguel Ixcol Mendoza,Masculino,1986-05-15,GT04,GT0415,808,Pintor Paisajista Contemporáneo,
+333,ART_GT0416_0332,Manuela Tzoc Chavez,Femenino,1970-08-16,GT04,GT0416,216,Talabartero de Cuero,Premio local de Arte Popular 2013 en El Tejar.
+334,ART_GT0700_0333,Gaspar Chox Ajcalón,Masculino,2002-01-07,GT07,GT0700,38,Constructor de Marimbas,
+335,ART_GT0701_0334,Isabel Tupul Quiché,Femenino,1996-03-20,GT07,GT0701,468,Tejedora de Telar de Cintura,
+336,ART_GT0702_0335,Gaspar Mendoza Yac,Masculino,1964-09-07,GT07,GT0702,,Tejedora de Telar de Cintura,
+337,ART_GT0703_0336,Catarina Chavez Guarcax,Femenino,1979-02-01,GT07,GT0703,77,Alfarero Tradicional,Premio local de Arte Popular 2024 en Santa María Visitación.
+338,ART_GT0704_0337,Lucas Ajcalón Cux,Masculino,2002-12-10,GT07,GT0704,640,Tejedor de Telar de Pie,
+339,ART_GT0705_0338,Magdalena Quiché Xiquín,Femenino,1968-07-25,GT07,GT0705,972,Pintor Primitivista,
+340,ART_GT0706_0339,Jacinto Yac Tuy,Masculino,1965-11-18,GT07,GT0706,729,Constructor de Marimbas,
+341,ART_GT0707_0340,Tomasa Guarcax Tax,Femenino,1995-08-02,GT07,GT0707,,Maestro Tallador de Jade,Premio local de Arte Popular 2020 en Santa Clara La Laguna.
+342,ART_GT0708_0341,Santiago Cux Coché,Masculino,2000-08-23,GT07,GT0708,89,Pintor Primitivista,
+343,ART_GT0709_0342,Antonia Xiquín Ixcol,Femenino,2004-05-06,GT07,GT0709,93,Pintor Paisajista Contemporáneo,
+344,ART_GT0710_0343,Jacinto Tuy Tzoc,Masculino,1999-02-26,GT07,GT0710,860,Alfarero Tradicional,
+345,ART_GT0711_0344,Elena Tax Chox,Femenino,1997-12-24,GT07,GT0711,181,Cestero de Fibras Naturales,Premio local de Arte Popular 2019 en Santa Catarina Palopó.
+346,ART_GT0712_0345,Gaspar Coché Tupul,Masculino,1992-09-14,GT07,GT0712,,Pintor Primitivista,
+347,ART_GT0713_0346,Petrona Ixcol Mendoza,Femenino,1981-07-10,GT07,GT0713,508,Tejedora de Telar de Cintura,
+348,ART_GT0714_0347,Mateo Tzoc Chavez,Masculino,1979-10-19,GT07,GT0714,872,Maestro Tallador de Jade,
+349,ART_GT0715_0348,Magdalena Chox Ajcalón,Femenino,1992-05-28,GT07,GT0715,103,Talabartero de Cuero,Premio local de Arte Popular 2015 en San Pablo La Laguna.
+350,ART_GT0716_0349,Jacinto Tupul Quiché,Masculino,1961-09-11,GT07,GT0716,767,Alfarero Tradicional,
+351,ART_GT0717_0350,Catarina Mendoza Yac,Femenino,1989-05-06,GT07,GT0717,,Maestro Tallador de Jade,
+352,ART_GT0718_0351,Santiago Chavez Guarcax,Masculino,1950-04-15,GT07,GT0718,936,Tejedora de Telar de Cintura,
+353,ART_GT0719_0352,Tomasa Ajcalón Cux,Femenino,1957-10-03,GT07,GT0719,885,Danzante de Danza Folklórica,Premio local de Arte Popular 2012 en Santiago Atitlán.
+354,ART_GT0801_0353,Miguel Quiché Xiquín,Masculino,1957-10-11,GT08,GT0801,883,Escultor en Madera,
+355,ART_GT0802_0354,Antonia Yac Tuy,Femenino,1958-09-11,GT08,GT0802,575,Pintor Paisajista Contemporáneo,
+356,ART_GT0803_0355,Lucas Guarcax Tax,Masculino,1997-09-17,GT08,GT0803,,Maestro Tallador de Jade,
+357,ART_GT0804_0356,Antonia Cux Coché,Femenino,1991-05-12,GT08,GT0804,873,Cestero de Fibras Naturales,Premio local de Arte Popular 2010 en San Andrés Xecul.
+358,ART_GT0805_0357,Santiago Xiquín Ixcol,Masculino,1998-10-18,GT08,GT0805,954,Alfarero Tradicional,
+359,ART_GT0806_0358,Tomasa Tuy Tzoc,Femenino,1969-11-12,GT08,GT0806,541,Talabartero de Cuero,
+360,ART_GT0807_0359,Francisco Tax Chox,Masculino,1955-10-18,GT08,GT0807,370,Talabartero de Cuero,
+361,ART_GT0808_0360,Antonia Coché Tupul,Femenino,1993-12-20,GT08,GT0808,,Danzante de Danza Folklórica,Premio local de Arte Popular 2022 en San Bartolo.
+362,ART_GT0901_0361,Santiago Ixcol Mendoza,Masculino,1983-12-10,GT09,GT0901,820,Maestro Tallador de Jade,
+363,ART_GT0902_0362,Antonia Tzoc Chavez,Femenino,1969-11-03,GT09,GT0902,392,Talabartero de Cuero,
+364,ART_GT0903_0363,Jacinto Chox Ajcalón,Masculino,1972-09-08,GT09,GT0903,346,Pintor Paisajista Contemporáneo,
+365,ART_GT0904_0364,Isabel Tupul Quiché,Femenino,1988-07-26,GT09,GT0904,407,Danzante de Danza Folklórica,Premio local de Arte Popular 2018 en San Carlos Sija.
+366,ART_GT0905_0365,Francisco Mendoza Yac,Masculino,1954-10-08,GT09,GT0905,,Tejedor de Telar de Pie,
+367,ART_GT0906_0366,Juana Chavez Guarcax,Femenino,1988-12-17,GT09,GT0906,668,Cestero de Fibras Naturales,
+368,ART_GT0907_0367,Jacinto Ajcalón Cux,Masculino,1981-05-09,GT09,GT0907,342,Maestro Tallador de Jade,
+369,ART_GT0908_0368,Manuela Quiché Xiquín,Femenino,1967-12-24,GT09,GT0908,659,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2011 en San Miguel Sigüila.
+370,ART_GT0909_0369,Mateo Yac Tuy,Masculino,1951-01-13,GT09,GT0909,960,Alfarero Tradicional,
+371,ART_GT0910_0370,Elena Guarcax Tax,Femenino,1976-12-16,GT09,GT0910,,Talabartero de Cuero,
+372,ART_GT0911_0371,Jacinto Cux Coché,Masculino,1997-03-10,GT09,GT0911,282,Maestro Tallador de Jade,
+373,ART_GT0912_0372,Antonia Xiquín Ixcol,Femenino,1976-07-15,GT09,GT0912,805,Cestero de Fibras Naturales,Premio local de Arte Popular 2014 en San Martín Sacatepéquez.
+374,ART_GT0913_0373,Jacinto Tuy Tzoc,Masculino,1972-03-02,GT09,GT0913,415,Talabartero de Cuero,
+375,ART_GT0914_0374,Petrona Tax Chox,Femenino,1996-01-03,GT09,GT0914,43,Escultor en Madera,
+376,ART_GT0915_0375,Lucas Coché Tupul,Masculino,1957-07-14,GT09,GT0915,,Tejedor de Telar de Pie,
+377,ART_GT0916_0376,Maria Ixcol Mendoza,Femenino,1997-05-22,GT09,GT0916,594,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2015 en Zunil.
+378,ART_GT0917_0377,Tomas Tzoc Chavez,Masculino,2003-08-10,GT09,GT0917,628,Constructor de Marimbas,
+379,ART_GT0918_0378,Antonia Chox Ajcalón,Femenino,1986-12-18,GT09,GT0918,661,Escultor en Madera,
+380,ART_GT0919_0379,Santiago Tupul Quiché,Masculino,2005-06-09,GT09,GT0919,54,Pintor Primitivista,
+381,ART_GT0920_0380,Antonia Mendoza Yac,Femenino,1991-10-03,GT09,GT0920,,Maestro Tallador de Jade,Premio local de Arte Popular 2012 en Coatepeque.
+382,ART_GT0921_0381,Santiago Chavez Guarcax,Masculino,1957-08-06,GT09,GT0921,676,Escultor en Madera,
+383,ART_GT0922_0382,Juana Ajcalón Cux,Femenino,1970-12-26,GT09,GT0922,73,Escultor en Madera,
+384,ART_GT0923_0383,Juan Quiché Xiquín,Masculino,2002-05-06,GT09,GT0923,998,Alfarero Tradicional,
+385,ART_GT0924_0384,Isabel Yac Tuy,Femenino,1980-06-17,GT09,GT0924,576,Escultor en Madera,Premio local de Arte Popular 2023 en Palestina de Los Altos.
+386,ART_GT1201_0385,Juan Guarcax Tax,Masculino,1977-09-07,GT12,GT1201,,Constructor de Marimbas,
+387,ART_GT1202_0386,Manuela Cux Coché,Femenino,1976-07-12,GT12,GT1202,492,Intérprete de Marimba,
+388,ART_GT1203_0387,Miguel Xiquín Ixcol,Masculino,1974-08-03,GT12,GT1203,939,Pintor Primitivista,
+389,ART_GT1204_0388,Magdalena Tuy Tzoc,Femenino,1971-06-27,GT12,GT1204,479,Escultor en Madera,Premio local de Arte Popular 2020 en Comitancillo.
+390,ART_GT1205_0389,Pedro Tax Chox,Masculino,1968-03-24,GT12,GT1205,994,Tejedora de Telar de Cintura,
+391,ART_GT1206_0390,Juana Coché Tupul,Femenino,1957-06-13,GT12,GT1206,,Cestero de Fibras Naturales,
+392,ART_GT1207_0391,Francisco Ixcol Mendoza,Masculino,1964-09-25,GT12,GT1207,223,Tejedor de Telar de Pie,
+393,ART_GT1208_0392,Manuela Tzoc Chavez,Femenino,1990-12-21,GT12,GT1208,783,Danzante de Danza Folklórica,Premio local de Arte Popular 2025 en Sibinal.
+394,ART_GT1209_0393,Lucas Chox Ajcalón,Masculino,1973-06-18,GT12,GT1209,341,Tejedor de Telar de Pie,
+395,ART_GT1210_0394,Catarina Tupul Quiché,Femenino,1985-05-27,GT12,GT1210,75,Maestro Tallador de Jade,
+396,ART_GT1211_0395,Jacinto Mendoza Yac,Masculino,1954-02-19,GT12,GT1211,,Cestero de Fibras Naturales,
+397,ART_GT1212_0396,Juana Chavez Guarcax,Femenino,1975-03-23,GT12,GT1212,67,Escultor en Madera,Premio local de Arte Popular 2018 en Nuevo Progreso.
+398,ART_GT1213_0397,Gaspar Ajcalón Cux,Masculino,1995-03-25,GT12,GT1213,984,Pintor Paisajista Contemporáneo,
+399,ART_GT1214_0398,Manuela Quiché Xiquín,Femenino,1967-12-18,GT12,GT1214,953,Cestero de Fibras Naturales,
+400,ART_GT1215_0399,Mateo Yac Tuy,Masculino,1966-02-22,GT12,GT1215,897,Maestro Tallador de Jade,
+401,ART_GT1216_0400,Catarina Guarcax Tax,Femenino,1981-04-07,GT12,GT1216,,Talabartero de Cuero,Premio local de Arte Popular 2012 en Catarina.
+402,ART_GT1217_0401,Pedro Cux Coché,Masculino,1983-11-08,GT12,GT1217,391,Tejedor de Telar de Pie,
+403,ART_GT1218_0402,Tomasa Xiquín Ixcol,Femenino,1958-06-11,GT12,GT1218,723,Intérprete de Marimba,
+404,ART_GT1219_0403,Francisco Tuy Tzoc,Masculino,1973-05-10,GT12,GT1219,901,Maestro Tallador de Jade,
+405,ART_GT1220_0404,Juana Tax Chox,Femenino,1996-12-09,GT12,GT1220,370,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2022 en El Quetzal.
+406,ART_GT1221_0405,Juan Coché Tupul,Masculino,1951-03-02,GT12,GT1221,,Tejedora de Telar de Cintura,
+407,ART_GT1222_0406,Magdalena Ixcol Mendoza,Femenino,1974-04-04,GT12,GT1222,811,Danzante de Danza Folklórica,
+408,ART_GT1223_0407,Juan Tzoc Chavez,Masculino,1987-02-26,GT12,GT1223,446,Tejedora de Telar de Cintura,
+409,ART_GT1224_0408,Petrona Chox Ajcalón,Femenino,1953-04-25,GT12,GT1224,441,Tejedor de Telar de Pie,Premio local de Arte Popular 2021 en San José Ojetenam.
+410,ART_GT1225_0409,Jacinto Tupul Quiché,Masculino,1993-04-11,GT12,GT1225,685,Danzante de Danza Folklórica,
+411,ART_GT1226_0410,Antonia Mendoza Yac,Femenino,1990-02-13,GT12,GT1226,,Pintor Paisajista Contemporáneo,
+412,ART_GT1227_0411,Miguel Chavez Guarcax,Masculino,1960-01-15,GT12,GT1227,841,Constructor de Marimbas,
+413,ART_GT1228_0412,Manuela Ajcalón Cux,Femenino,1972-03-23,GT12,GT1228,883,Tejedor de Telar de Pie,Premio local de Arte Popular 2018 en Río Blanco.
+414,ART_GT1229_0413,Gaspar Quiché Xiquín,Masculino,1975-03-18,GT12,GT1229,880,Escultor en Madera,
+415,ART_GT1230_0414,Antonia Yac Tuy,Femenino,2003-04-08,GT12,GT1230,40,Alfarero Tradicional,
+416,ART_GT1301_0415,Tomas Guarcax Tax,Masculino,1954-06-06,GT13,GT1301,,Constructor de Marimbas,
+417,ART_GT1302_0416,Maria Cux Coché,Femenino,1998-07-13,GT13,GT1302,49,Talabartero de Cuero,Premio local de Arte Popular 2022 en Chiantla.
+418,ART_GT1303_0417,Tomas Xiquín Ixcol,Masculino,1977-03-27,GT13,GT1303,800,Tejedora de Telar de Cintura,
+419,ART_GT1304_0418,Elena Tuy Tzoc,Femenino,1964-03-05,GT13,GT1304,485,Maestro Tallador de Jade,
+420,ART_GT1305_0419,Francisco Tax Chox,Masculino,1994-12-02,GT13,GT1305,330,Tejedor de Telar de Pie,
+421,ART_GT1306_0420,Petrona Coché Tupul,Femenino,1950-07-17,GT13,GT1306,,Danzante de Danza Folklórica,Premio local de Arte Popular 2024 en San Pedro Necta.
+422,ART_GT1307_0421,Gaspar Ixcol Mendoza,Masculino,1952-01-05,GT13,GT1307,491,Pintor Paisajista Contemporáneo,
+423,ART_GT1308_0422,Magdalena Tzoc Chavez,Femenino,1982-08-28,GT13,GT1308,556,Tejedora de Telar de Cintura,
+424,ART_GT1309_0423,Mateo Chox Ajcalón,Masculino,1981-03-25,GT13,GT1309,709,Escultor en Madera,
+425,ART_GT1310_0424,Catarina Tupul Quiché,Femenino,1996-05-20,GT13,GT1310,205,Pintor Primitivista,Premio local de Arte Popular 2021 en Santa Bárbara.
+426,ART_GT1311_0425,Lucas Mendoza Yac,Masculino,1982-04-21,GT13,GT1311,,Pintor Paisajista Contemporáneo,
+427,ART_GT1312_0426,Maria Chavez Guarcax,Femenino,2000-03-10,GT13,GT1312,599,Alfarero Tradicional,
+428,ART_GT1313_0427,Tomas Ajcalón Cux,Masculino,1990-06-20,GT13,GT1313,4,Cestero de Fibras Naturales,
+429,ART_GT1314_0428,Catarina Quiché Xiquín,Femenino,1954-06-01,GT13,GT1314,279,Talabartero de Cuero,Premio local de Arte Popular 2025 en San Rafael La Independencia.
+430,ART_GT1315_0429,Mateo Yac Tuy,Masculino,1993-03-28,GT13,GT1315,373,Pintor Primitivista,
+431,ART_GT1316_0430,Maria Guarcax Tax,Femenino,1984-06-22,GT13,GT1316,,Maestro Tallador de Jade,
+432,ART_GT1317_0431,Miguel Cux Coché,Masculino,1964-01-28,GT13,GT1317,333,Pintor Primitivista,
+433,ART_GT1318_0432,Antonia Xiquín Ixcol,Femenino,1962-05-06,GT13,GT1318,677,Intérprete de Marimba,Premio local de Arte Popular 2025 en San Mateo Ixtatán.
+434,ART_GT1319_0433,Gaspar Tuy Tzoc,Masculino,2004-08-22,GT13,GT1319,296,Danzante de Danza Folklórica,
+435,ART_GT1320_0434,Tomasa Tax Chox,Femenino,1960-07-05,GT13,GT1320,50,Alfarero Tradicional,
+436,ART_GT1321_0435,Pedro Coché Tupul,Masculino,2004-02-28,GT13,GT1321,,Cestero de Fibras Naturales,
+437,ART_GT1322_0436,Catarina Ixcol Mendoza,Femenino,1987-12-07,GT13,GT1322,965,Constructor de Marimbas,Premio local de Arte Popular 2020 en Concepción Huista.
+438,ART_GT1323_0437,Francisco Tzoc Chavez,Masculino,1966-04-14,GT13,GT1323,476,Maestro Tallador de Jade,
+439,ART_GT1324_0438,Maria Chox Ajcalón,Femenino,2002-02-28,GT13,GT1324,957,Escultor en Madera,
+440,ART_GT1325_0439,Tomas Tupul Quiché,Masculino,1967-10-12,GT13,GT1325,996,Pintor Primitivista,
+441,ART_GT1326_0440,Antonia Mendoza Yac,Femenino,1970-07-26,GT13,GT1326,,Tejedor de Telar de Pie,Premio local de Arte Popular 2024 en Barillas.
+442,ART_GT1327_0441,Juan Chavez Guarcax,Masculino,1954-09-05,GT13,GT1327,491,Tejedora de Telar de Cintura,
+443,ART_GT1328_0442,Elena Ajcalón Cux,Femenino,2002-09-27,GT13,GT1328,770,Tejedor de Telar de Pie,
+444,ART_GT1329_0443,Jacinto Quiché Xiquín,Masculino,1959-03-02,GT13,GT1329,297,Alfarero Tradicional,
+445,ART_GT1330_0444,Petrona Yac Tuy,Femenino,1953-03-15,GT13,GT1330,565,Alfarero Tradicional,Premio local de Arte Popular 2011 en Santiago Chimaltenango.
+446,ART_GT1331_0445,Mateo Guarcax Tax,Masculino,1985-12-27,GT13,GT1331,,Danzante de Danza Folklórica,
+447,ART_GT1332_0446,Catarina Cux Coché,Femenino,1986-09-02,GT13,GT1332,863,Alfarero Tradicional,
+448,ART_GT1333_0447,Santiago Xiquín Ixcol,Masculino,1962-01-13,GT13,GT1333,225,Tejedora de Telar de Cintura,
+449,ART_GT1401_0448,Elena Tuy Tzoc,Femenino,1970-04-23,GT14,GT1401,823,Intérprete de Marimba,Premio local de Arte Popular 2019 en Santa Cruz del Quiché.
+450,ART_GT1402_0449,Francisco Tax Chox,Masculino,1990-02-10,GT14,GT1402,846,Escultor en Madera,
+451,ART_GT1403_0450,Tomasa Coché Tupul,Femenino,2005-05-01,GT14,GT1403,,Danzante de Danza Folklórica,
+452,ART_GT1404_0451,Mateo Ixcol Mendoza,Masculino,1995-05-22,GT14,GT1404,193,Cestero de Fibras Naturales,
+453,ART_GT1405_0452,Magdalena Tzoc Chavez,Femenino,1954-01-07,GT14,GT1405,712,Maestro Tallador de Jade,Premio local de Arte Popular 2023 en Chajul.
+454,ART_GT1406_0453,Lucas Chox Ajcalón,Masculino,2001-10-26,GT14,GT1406,567,Maestro Tallador de Jade,
+455,ART_GT1407_0454,Petrona Tupul Quiché,Femenino,1976-10-22,GT14,GT1407,680,Alfarero Tradicional,
+456,ART_GT1408_0455,Tomas Mendoza Yac,Masculino,1951-05-07,GT14,GT1408,,Tejedora de Telar de Cintura,
+457,ART_GT1409_0456,Tomasa Chavez Guarcax,Femenino,1997-08-03,GT14,GT1409,649,Talabartero de Cuero,Premio local de Arte Popular 2024 en San Pedro Jocopilas.
+458,ART_GT1410_0457,Pedro Ajcalón Cux,Masculino,1976-09-24,GT14,GT1410,222,Danzante de Danza Folklórica,
+459,ART_GT1411_0458,Antonia Quiché Xiquín,Femenino,1985-06-08,GT14,GT1411,344,Intérprete de Marimba,
+460,ART_GT1412_0459,Miguel Yac Tuy,Masculino,1997-10-28,GT14,GT1412,591,Pintor Primitivista,
+461,ART_GT1413_0460,Catarina Guarcax Tax,Femenino,1985-10-16,GT14,GT1413,,Intérprete de Marimba,Premio local de Arte Popular 2010 en Nebaj.
+462,ART_GT1414_0461,Jacinto Cux Coché,Masculino,1967-01-25,GT14,GT1414,638,Escultor en Madera,
+463,ART_GT1415_0462,Catarina Xiquín Ixcol,Femenino,2002-01-22,GT14,GT1415,327,Constructor de Marimbas,
+464,ART_GT1416_0463,Gaspar Tuy Tzoc,Masculino,1995-06-11,GT14,GT1416,948,Escultor en Madera,
+465,ART_GT1417_0464,Magdalena Tax Chox,Femenino,1968-10-18,GT14,GT1417,545,Escultor en Madera,Premio local de Arte Popular 2022 en San Bartolomé Jocotenango.
+466,ART_GT1418_0465,Santiago Coché Tupul,Masculino,1962-06-21,GT14,GT1418,,Tejedora de Telar de Cintura,
+467,ART_GT1419_0466,Tomasa Ixcol Mendoza,Femenino,1963-11-12,GT14,GT1419,17,Alfarero Tradicional,
+468,ART_GT1420_0467,Santiago Tzoc Chavez,Masculino,1982-02-22,GT14,GT1420,856,Talabartero de Cuero,
+469,ART_GT1421_0468,Antonia Chox Ajcalón,Femenino,2000-11-01,GT14,GT1421,266,Danzante de Danza Folklórica,Premio local de Arte Popular 2016 en Pachalum.
+470,ART_GT1501_0469,Pedro Tupul Quiché,Masculino,1997-09-07,GT15,GT1501,20,Alfarero Tradicional,
+471,ART_GT1502_0470,Juana Mendoza Yac,Femenino,1994-05-08,GT15,GT1502,,Intérprete de Marimba,
+472,ART_GT1503_0471,Mateo Chavez Guarcax,Masculino,1953-12-16,GT15,GT1503,108,Cestero de Fibras Naturales,
+473,ART_GT1504_0472,Magdalena Ajcalón Cux,Femenino,1991-02-27,GT15,GT1504,92,Constructor de Marimbas,Premio local de Arte Popular 2016 en Cubulco.
+474,ART_GT1505_0473,Francisco Quiché Xiquín,Masculino,1996-01-12,GT15,GT1505,29,Maestro Tallador de Jade,
+475,ART_GT1506_0474,Tomasa Yac Tuy,Femenino,1970-07-20,GT15,GT1506,119,Cestero de Fibras Naturales,
+476,ART_GT1507_0475,Mateo Guarcax Tax,Masculino,1950-10-07,GT15,GT1507,,Intérprete de Marimba,
+477,ART_GT1508_0476,Maria Cux Coché,Femenino,1995-07-08,GT15,GT1508,901,Constructor de Marimbas,Premio local de Arte Popular 2015 en Purulhá.
+478,ART_GT0401_0477,Francisco Xiquín Ixcol,Masculino,1952-10-18,GT04,GT0401,253,Alfarero Tradicional,
+479,ART_GT0402_0478,Elena Tuy Tzoc,Femenino,1977-02-07,GT04,GT0402,537,Danzante de Danza Folklórica,
+480,ART_GT0403_0479,Miguel Tax Chox,Masculino,1991-07-14,GT04,GT0403,1014,Constructor de Marimbas,
+481,ART_GT0404_0480,Manuela Coché Tupul,Femenino,1963-10-26,GT04,GT0404,,Escultor en Madera,Premio local de Arte Popular 2014 en Comalapa.
+482,ART_GT0405_0481,Mateo Ixcol Mendoza,Masculino,1951-02-24,GT04,GT0405,710,Constructor de Marimbas,
+483,ART_GT0406_0482,Catarina Tzoc Chavez,Femenino,1980-05-25,GT04,GT0406,761,Intérprete de Marimba,
+484,ART_GT0407_0483,Tomas Chox Ajcalón,Masculino,1959-12-16,GT04,GT0407,73,Constructor de Marimbas,
+485,ART_GT0408_0484,Manuela Tupul Quiché,Femenino,1976-12-11,GT04,GT0408,207,Escultor en Madera,Premio local de Arte Popular 2016 en Pochuta.
+486,ART_GT0409_0485,Miguel Mendoza Yac,Masculino,1970-06-03,GT04,GT0409,,Cestero de Fibras Naturales,
+487,ART_GT0410_0486,Catarina Chavez Guarcax,Femenino,2003-04-07,GT04,GT0410,393,Constructor de Marimbas,
+488,ART_GT0411_0487,Gaspar Ajcalón Cux,Masculino,1992-12-12,GT04,GT0411,96,Tejedora de Telar de Cintura,
+489,ART_GT0412_0488,Catarina Quiché Xiquín,Femenino,1986-03-28,GT04,GT0412,543,Intérprete de Marimba,Premio local de Arte Popular 2012 en Yepocapa.
+490,ART_GT0413_0489,Francisco Yac Tuy,Masculino,1952-11-04,GT04,GT0413,514,Pintor Primitivista,
+491,ART_GT0414_0490,Antonia Guarcax Tax,Femenino,1976-07-02,GT04,GT0414,,Talabartero de Cuero,
+492,ART_GT0415_0491,Lucas Cux Coché,Masculino,1974-11-28,GT04,GT0415,169,Tejedor de Telar de Pie,
+493,ART_GT0416_0492,Catarina Xiquín Ixcol,Femenino,1996-02-19,GT04,GT0416,910,Escultor en Madera,Premio local de Arte Popular 2021 en El Tejar.
+494,ART_GT0700_0493,Gaspar Tuy Tzoc,Masculino,1966-10-08,GT07,GT0700,476,Danzante de Danza Folklórica,
+495,ART_GT0701_0494,Catarina Tax Chox,Femenino,1981-01-13,GT07,GT0701,797,Tejedor de Telar de Pie,
+496,ART_GT0702_0495,Tomas Coché Tupul,Masculino,1987-10-25,GT07,GT0702,,Intérprete de Marimba,
+497,ART_GT0703_0496,Tomasa Ixcol Mendoza,Femenino,1987-04-16,GT07,GT0703,160,Maestro Tallador de Jade,Premio local de Arte Popular 2022 en Santa María Visitación.
+498,ART_GT0704_0497,Pedro Tzoc Chavez,Masculino,1981-09-15,GT07,GT0704,539,Pintor Primitivista,
+499,ART_GT0705_0498,Isabel Chox Ajcalón,Femenino,1957-10-23,GT07,GT0705,634,Intérprete de Marimba,
+500,ART_GT0706_0499,Gaspar Tupul Quiché,Masculino,1996-10-01,GT07,GT0706,220,Talabartero de Cuero,
+501,ART_GT0707_0500,Catarina Mendoza Yac,Femenino,1998-01-07,GT07,GT0707,,Constructor de Marimbas,Premio local de Arte Popular 2015 en Santa Clara La Laguna.
+502,ART_GT0708_0501,Gaspar Chavez Guarcax,Masculino,1996-08-05,GT07,GT0708,81,Alfarero Tradicional,
+503,ART_GT0709_0502,Manuela Ajcalón Cux,Femenino,1959-04-23,GT07,GT0709,547,Pintor Paisajista Contemporáneo,
+504,ART_GT0710_0503,Miguel Quiché Xiquín,Masculino,1987-11-07,GT07,GT0710,851,Tejedora de Telar de Cintura,
+505,ART_GT0711_0504,Catarina Yac Tuy,Femenino,1988-07-22,GT07,GT0711,716,Cestero de Fibras Naturales,Premio local de Arte Popular 2025 en Santa Catarina Palopó.
+506,ART_GT0712_0505,Gaspar Guarcax Tax,Masculino,2000-09-22,GT07,GT0712,,Pintor Paisajista Contemporáneo,
+507,ART_GT0713_0506,Maria Cux Coché,Femenino,1992-02-24,GT07,GT0713,226,Maestro Tallador de Jade,
+508,ART_GT0714_0507,Santiago Xiquín Ixcol,Masculino,2002-01-25,GT07,GT0714,935,Cestero de Fibras Naturales,
+509,ART_GT0715_0508,Catarina Tuy Tzoc,Femenino,1985-10-16,GT07,GT0715,385,Pintor Primitivista,Premio local de Arte Popular 2013 en San Pablo La Laguna.
+510,ART_GT0716_0509,Mateo Tax Chox,Masculino,1985-11-26,GT07,GT0716,893,Alfarero Tradicional,
+511,ART_GT0717_0510,Magdalena Coché Tupul,Femenino,1969-03-26,GT07,GT0717,,Escultor en Madera,
+512,ART_GT0718_0511,Jacinto Ixcol Mendoza,Masculino,1982-08-16,GT07,GT0718,717,Pintor Primitivista,
+513,ART_GT0719_0512,Magdalena Tzoc Chavez,Femenino,1953-06-23,GT07,GT0719,793,Talabartero de Cuero,Premio local de Arte Popular 2020 en Santiago Atitlán.
+514,ART_GT0801_0513,Lucas Chox Ajcalón,Masculino,1999-12-21,GT08,GT0801,971,Pintor Primitivista,
+515,ART_GT0802_0514,Isabel Tupul Quiché,Femenino,2001-08-27,GT08,GT0802,708,Escultor en Madera,
+516,ART_GT0803_0515,Gaspar Mendoza Yac,Masculino,1987-02-16,GT08,GT0803,,Maestro Tallador de Jade,
+517,ART_GT0804_0516,Tomasa Chavez Guarcax,Femenino,1957-02-04,GT08,GT0804,307,Constructor de Marimbas,Premio local de Arte Popular 2020 en San Andrés Xecul.
+518,ART_GT0805_0517,Santiago Ajcalón Cux,Masculino,1979-12-04,GT08,GT0805,840,Constructor de Marimbas,
+519,ART_GT0806_0518,Maria Quiché Xiquín,Femenino,1961-10-13,GT08,GT0806,150,Escultor en Madera,
+520,ART_GT0807_0519,Tomas Yac Tuy,Masculino,1970-01-06,GT08,GT0807,103,Pintor Paisajista Contemporáneo,
+521,ART_GT0808_0520,Tomasa Guarcax Tax,Femenino,2003-03-18,GT08,GT0808,,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2021 en San Bartolo.
+522,ART_GT0901_0521,Tomas Cux Coché,Masculino,1954-10-18,GT09,GT0901,605,Pintor Paisajista Contemporáneo,
+523,ART_GT0902_0522,Antonia Xiquín Ixcol,Femenino,1990-12-21,GT09,GT0902,402,Alfarero Tradicional,
+524,ART_GT0903_0523,Tomas Tuy Tzoc,Masculino,1954-02-28,GT09,GT0903,273,Tejedor de Telar de Pie,
+525,ART_GT0904_0524,Elena Tax Chox,Femenino,1974-11-10,GT09,GT0904,451,Alfarero Tradicional,Premio local de Arte Popular 2010 en San Carlos Sija.
+526,ART_GT0905_0525,Francisco Coché Tupul,Masculino,1956-08-13,GT09,GT0905,,Tejedora de Telar de Cintura,
+527,ART_GT0906_0526,Tomasa Ixcol Mendoza,Femenino,1964-06-24,GT09,GT0906,215,Maestro Tallador de Jade,
+528,ART_GT0907_0527,Gaspar Tzoc Chavez,Masculino,1991-03-09,GT09,GT0907,743,Tejedor de Telar de Pie,
+529,ART_GT0908_0528,Tomasa Chox Ajcalón,Femenino,1956-12-17,GT09,GT0908,578,Constructor de Marimbas,Premio local de Arte Popular 2016 en San Miguel Sigüila.
+530,ART_GT0909_0529,Tomas Tupul Quiché,Masculino,2001-03-03,GT09,GT0909,340,Constructor de Marimbas,
+531,ART_GT0910_0530,Maria Mendoza Yac,Femenino,2000-09-19,GT09,GT0910,,Escultor en Madera,
+532,ART_GT0911_0531,Juan Chavez Guarcax,Masculino,1979-03-10,GT09,GT0911,473,Danzante de Danza Folklórica,
+533,ART_GT0912_0532,Juana Ajcalón Cux,Femenino,1986-07-16,GT09,GT0912,850,Tejedor de Telar de Pie,Premio local de Arte Popular 2024 en San Martín Sacatepéquez.
+534,ART_GT0913_0533,Tomas Quiché Xiquín,Masculino,2002-08-20,GT09,GT0913,890,Tejedor de Telar de Pie,
+535,ART_GT0914_0534,Maria Yac Tuy,Femenino,1961-10-13,GT09,GT0914,438,Intérprete de Marimba,
+536,ART_GT0915_0535,Gaspar Guarcax Tax,Masculino,1955-02-20,GT09,GT0915,,Constructor de Marimbas,
+537,ART_GT0916_0536,Catarina Cux Coché,Femenino,1985-07-03,GT09,GT0916,446,Pintor Primitivista,Premio local de Arte Popular 2024 en Zunil.
+538,ART_GT0917_0537,Miguel Xiquín Ixcol,Masculino,1952-11-04,GT09,GT0917,142,Intérprete de Marimba,
+539,ART_GT0918_0538,Manuela Tuy Tzoc,Femenino,1952-08-02,GT09,GT0918,59,Danzante de Danza Folklórica,
+540,ART_GT0919_0539,Pedro Tax Chox,Masculino,2001-09-21,GT09,GT0919,410,Pintor Primitivista,
+541,ART_GT0920_0540,Petrona Coché Tupul,Femenino,2003-09-08,GT09,GT0920,,Maestro Tallador de Jade,Premio local de Arte Popular 2023 en Coatepeque.
+542,ART_GT0921_0541,Gaspar Ixcol Mendoza,Masculino,1980-11-01,GT09,GT0921,659,Intérprete de Marimba,
+543,ART_GT0922_0542,Juana Tzoc Chavez,Femenino,1959-11-18,GT09,GT0922,86,Danzante de Danza Folklórica,
+544,ART_GT0923_0543,Pedro Chox Ajcalón,Masculino,1955-03-05,GT09,GT0923,389,Tejedor de Telar de Pie,
+545,ART_GT0924_0544,Juana Tupul Quiché,Femenino,1997-02-07,GT09,GT0924,298,Escultor en Madera,Premio local de Arte Popular 2021 en Palestina de Los Altos.
+546,ART_GT1201_0545,Miguel Mendoza Yac,Masculino,1988-09-10,GT12,GT1201,,Constructor de Marimbas,
+547,ART_GT1202_0546,Antonia Chavez Guarcax,Femenino,1952-01-04,GT12,GT1202,606,Escultor en Madera,
+548,ART_GT1203_0547,Mateo Ajcalón Cux,Masculino,1982-09-22,GT12,GT1203,126,Maestro Tallador de Jade,
+549,ART_GT1204_0548,Antonia Quiché Xiquín,Femenino,1971-04-05,GT12,GT1204,127,Alfarero Tradicional,Premio local de Arte Popular 2010 en Comitancillo.
+550,ART_GT1205_0549,Mateo Yac Tuy,Masculino,1967-05-25,GT12,GT1205,624,Constructor de Marimbas,
+551,ART_GT1206_0550,Manuela Guarcax Tax,Femenino,1990-01-17,GT12,GT1206,,Talabartero de Cuero,
+552,ART_GT1207_0551,Gaspar Cux Coché,Masculino,1977-12-18,GT12,GT1207,484,Tejedora de Telar de Cintura,
+553,ART_GT1208_0552,Manuela Xiquín Ixcol,Femenino,2003-03-18,GT12,GT1208,72,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2011 en Sibinal.
+554,ART_GT1209_0553,Pedro Tuy Tzoc,Masculino,1992-05-05,GT12,GT1209,680,Alfarero Tradicional,
+555,ART_GT1210_0554,Juana Tax Chox,Femenino,1967-02-06,GT12,GT1210,575,Tejedor de Telar de Pie,
+556,ART_GT1211_0555,Tomas Coché Tupul,Masculino,1971-05-19,GT12,GT1211,,Danzante de Danza Folklórica,
+557,ART_GT1212_0556,Manuela Ixcol Mendoza,Femenino,1959-03-08,GT12,GT1212,547,Tejedora de Telar de Cintura,Premio local de Arte Popular 2018 en Nuevo Progreso.
+558,ART_GT1213_0557,Gaspar Tzoc Chavez,Masculino,1986-05-12,GT12,GT1213,1018,Constructor de Marimbas,
+559,ART_GT1214_0558,Isabel Chox Ajcalón,Femenino,1993-02-07,GT12,GT1214,340,Constructor de Marimbas,
+560,ART_GT1215_0559,Juan Tupul Quiché,Masculino,1989-11-11,GT12,GT1215,310,Tejedor de Telar de Pie,
+561,ART_GT1216_0560,Manuela Mendoza Yac,Femenino,1984-01-07,GT12,GT1216,,Maestro Tallador de Jade,Premio local de Arte Popular 2021 en Catarina.
+562,ART_GT1217_0561,Gaspar Chavez Guarcax,Masculino,1984-11-12,GT12,GT1217,709,Alfarero Tradicional,
+563,ART_GT1218_0562,Manuela Ajcalón Cux,Femenino,1987-03-14,GT12,GT1218,721,Cestero de Fibras Naturales,
+564,ART_GT1219_0563,Juan Quiché Xiquín,Masculino,1954-12-23,GT12,GT1219,29,Constructor de Marimbas,
+565,ART_GT1220_0564,Catarina Yac Tuy,Femenino,1968-04-26,GT12,GT1220,339,Tejedor de Telar de Pie,Premio local de Arte Popular 2025 en El Quetzal.
+566,ART_GT1221_0565,Lucas Guarcax Tax,Masculino,1958-04-22,GT12,GT1221,,Talabartero de Cuero,
+567,ART_GT1222_0566,Maria Cux Coché,Femenino,1999-04-19,GT12,GT1222,161,Constructor de Marimbas,
+568,ART_GT1223_0567,Juan Xiquín Ixcol,Masculino,1997-04-21,GT12,GT1223,109,Pintor Primitivista,
+569,ART_GT1224_0568,Antonia Tuy Tzoc,Femenino,1993-03-24,GT12,GT1224,856,Tejedora de Telar de Cintura,Premio local de Arte Popular 2023 en San José Ojetenam.
+570,ART_GT1225_0569,Juan Tax Chox,Masculino,1995-08-10,GT12,GT1225,567,Talabartero de Cuero,
+571,ART_GT1226_0570,Petrona Coché Tupul,Femenino,1969-03-09,GT12,GT1226,,Alfarero Tradicional,
+572,ART_GT1227_0571,Jacinto Ixcol Mendoza,Masculino,1981-02-17,GT12,GT1227,515,Alfarero Tradicional,
+573,ART_GT1228_0572,Maria Tzoc Chavez,Femenino,1983-05-09,GT12,GT1228,325,Intérprete de Marimba,Premio local de Arte Popular 2022 en Río Blanco.
+574,ART_GT1229_0573,Tomas Chox Ajcalón,Masculino,1995-10-12,GT12,GT1229,287,Escultor en Madera,
+575,ART_GT1230_0574,Antonia Tupul Quiché,Femenino,1994-07-09,GT12,GT1230,279,Pintor Paisajista Contemporáneo,
+576,ART_GT1301_0575,Mateo Mendoza Yac,Masculino,1962-12-09,GT13,GT1301,,Danzante de Danza Folklórica,
+577,ART_GT1302_0576,Magdalena Chavez Guarcax,Femenino,1969-02-13,GT13,GT1302,509,Alfarero Tradicional,Premio local de Arte Popular 2020 en Chiantla.
+578,ART_GT1303_0577,Juan Ajcalón Cux,Masculino,1985-11-17,GT13,GT1303,840,Escultor en Madera,
+579,ART_GT1304_0578,Magdalena Quiché Xiquín,Femenino,1960-09-18,GT13,GT1304,585,Cestero de Fibras Naturales,
+580,ART_GT1305_0579,Pedro Yac Tuy,Masculino,1991-07-05,GT13,GT1305,752,Pintor Paisajista Contemporáneo,
+581,ART_GT1306_0580,Catarina Guarcax Tax,Femenino,1992-05-16,GT13,GT1306,,Tejedora de Telar de Cintura,Premio local de Arte Popular 2023 en San Pedro Necta.
+582,ART_GT1307_0581,Jacinto Cux Coché,Masculino,1989-05-21,GT13,GT1307,167,Pintor Paisajista Contemporáneo,
+583,ART_GT1308_0582,Petrona Xiquín Ixcol,Femenino,1997-12-09,GT13,GT1308,655,Danzante de Danza Folklórica,
+584,ART_GT1309_0583,Santiago Tuy Tzoc,Masculino,2004-09-24,GT13,GT1309,422,Talabartero de Cuero,
+585,ART_GT1310_0584,Manuela Tax Chox,Femenino,1977-09-18,GT13,GT1310,579,Cestero de Fibras Naturales,Premio local de Arte Popular 2021 en Santa Bárbara.
+586,ART_GT1311_0585,Tomas Coché Tupul,Masculino,1998-09-23,GT13,GT1311,,Intérprete de Marimba,
+587,ART_GT1312_0586,Antonia Ixcol Mendoza,Femenino,1952-12-25,GT13,GT1312,1009,Constructor de Marimbas,
+588,ART_GT1313_0587,Lucas Tzoc Chavez,Masculino,1985-12-16,GT13,GT1313,84,Pintor Paisajista Contemporáneo,
+589,ART_GT1314_0588,Manuela Chox Ajcalón,Femenino,1987-07-25,GT13,GT1314,426,Danzante de Danza Folklórica,Premio local de Arte Popular 2020 en San Rafael La Independencia.
+590,ART_GT1315_0589,Miguel Tupul Quiché,Masculino,1953-11-25,GT13,GT1315,933,Danzante de Danza Folklórica,
+591,ART_GT1316_0590,Elena Mendoza Yac,Femenino,1992-11-23,GT13,GT1316,,Cestero de Fibras Naturales,
+592,ART_GT1317_0591,Mateo Chavez Guarcax,Masculino,1985-10-21,GT13,GT1317,70,Danzante de Danza Folklórica,
+593,ART_GT1318_0592,Antonia Ajcalón Cux,Femenino,1968-02-14,GT13,GT1318,388,Constructor de Marimbas,Premio local de Arte Popular 2015 en San Mateo Ixtatán.
+594,ART_GT1319_0593,Jacinto Quiché Xiquín,Masculino,1965-04-05,GT13,GT1319,123,Cestero de Fibras Naturales,
+595,ART_GT1320_0594,Magdalena Yac Tuy,Femenino,1956-01-26,GT13,GT1320,966,Tejedor de Telar de Pie,
+596,ART_GT1321_0595,Tomas Guarcax Tax,Masculino,1967-08-24,GT13,GT1321,,Intérprete de Marimba,
+597,ART_GT1322_0596,Maria Cux Coché,Femenino,1994-04-21,GT13,GT1322,864,Intérprete de Marimba,Premio local de Arte Popular 2022 en Concepción Huista.
+598,ART_GT1323_0597,Francisco Xiquín Ixcol,Masculino,1974-05-01,GT13,GT1323,538,Talabartero de Cuero,
+599,ART_GT1324_0598,Isabel Tuy Tzoc,Femenino,1990-03-22,GT13,GT1324,232,Pintor Paisajista Contemporáneo,
+600,ART_GT1325_0599,Francisco Tax Chox,Masculino,1950-02-14,GT13,GT1325,99,Intérprete de Marimba,
+601,ART_GT1326_0600,Catarina Coché Tupul,Femenino,1996-07-22,GT13,GT1326,,Alfarero Tradicional,Premio local de Arte Popular 2016 en Barillas.
+602,ART_GT1327_0601,Pedro Ixcol Mendoza,Masculino,1998-12-13,GT13,GT1327,291,Cestero de Fibras Naturales,
+603,ART_GT1328_0602,Elena Tzoc Chavez,Femenino,1978-04-14,GT13,GT1328,957,Intérprete de Marimba,
+604,ART_GT1329_0603,Jacinto Chox Ajcalón,Masculino,1975-03-24,GT13,GT1329,158,Tejedor de Telar de Pie,
+605,ART_GT1330_0604,Antonia Tupul Quiché,Femenino,1957-11-27,GT13,GT1330,617,Pintor Primitivista,Premio local de Arte Popular 2019 en Santiago Chimaltenango.
+606,ART_GT1331_0605,Jacinto Mendoza Yac,Masculino,2001-10-18,GT13,GT1331,,Alfarero Tradicional,
+607,ART_GT1332_0606,Elena Chavez Guarcax,Femenino,1986-07-18,GT13,GT1332,329,Tejedor de Telar de Pie,
+608,ART_GT1333_0607,Juan Ajcalón Cux,Masculino,1953-05-19,GT13,GT1333,44,Pintor Primitivista,
+609,ART_GT1401_0608,Petrona Quiché Xiquín,Femenino,1959-07-08,GT14,GT1401,401,Danzante de Danza Folklórica,Premio local de Arte Popular 2014 en Santa Cruz del Quiché.
+610,ART_GT1402_0609,Miguel Yac Tuy,Masculino,1969-11-07,GT14,GT1402,991,Alfarero Tradicional,
+611,ART_GT1403_0610,Petrona Guarcax Tax,Femenino,1964-12-25,GT14,GT1403,,Talabartero de Cuero,
+612,ART_GT1404_0611,Lucas Cux Coché,Masculino,2000-09-26,GT14,GT1404,186,Pintor Primitivista,
+613,ART_GT1405_0612,Magdalena Xiquín Ixcol,Femenino,1994-01-13,GT14,GT1405,205,Tejedora de Telar de Cintura,Premio local de Arte Popular 2021 en Chajul.
+614,ART_GT1406_0613,Tomas Tuy Tzoc,Masculino,1952-06-10,GT14,GT1406,359,Maestro Tallador de Jade,
+615,ART_GT1407_0614,Petrona Tax Chox,Femenino,1957-09-19,GT14,GT1407,372,Tejedora de Telar de Cintura,
+616,ART_GT1408_0615,Tomas Coché Tupul,Masculino,1987-05-07,GT14,GT1408,,Pintor Paisajista Contemporáneo,
+617,ART_GT1409_0616,Tomasa Ixcol Mendoza,Femenino,1993-05-07,GT14,GT1409,814,Maestro Tallador de Jade,Premio local de Arte Popular 2023 en San Pedro Jocopilas.
+618,ART_GT1410_0617,Tomas Tzoc Chavez,Masculino,1976-08-05,GT14,GT1410,968,Tejedora de Telar de Cintura,
+619,ART_GT1411_0618,Isabel Chox Ajcalón,Femenino,2003-11-22,GT14,GT1411,750,Pintor Paisajista Contemporáneo,
+620,ART_GT1412_0619,Miguel Tupul Quiché,Masculino,1982-04-23,GT14,GT1412,901,Talabartero de Cuero,
+621,ART_GT1413_0620,Catarina Mendoza Yac,Femenino,1954-03-24,GT14,GT1413,,Maestro Tallador de Jade,Premio local de Arte Popular 2018 en Nebaj.
+622,ART_GT1414_0621,Juan Chavez Guarcax,Masculino,1952-04-26,GT14,GT1414,228,Cestero de Fibras Naturales,
+623,ART_GT1415_0622,Isabel Ajcalón Cux,Femenino,1984-03-16,GT14,GT1415,988,Talabartero de Cuero,
+624,ART_GT1416_0623,Lucas Quiché Xiquín,Masculino,1964-03-14,GT14,GT1416,359,Constructor de Marimbas,
+625,ART_GT1417_0624,Magdalena Yac Tuy,Femenino,1956-11-25,GT14,GT1417,710,Intérprete de Marimba,Premio local de Arte Popular 2024 en San Bartolomé Jocotenango.
+626,ART_GT1418_0625,Tomas Guarcax Tax,Masculino,1977-01-24,GT14,GT1418,,Cestero de Fibras Naturales,
+627,ART_GT1419_0626,Magdalena Cux Coché,Femenino,1986-11-21,GT14,GT1419,745,Pintor Primitivista,
+628,ART_GT1420_0627,Pedro Xiquín Ixcol,Masculino,1981-01-23,GT14,GT1420,295,Escultor en Madera,
+629,ART_GT1421_0628,Isabel Tuy Tzoc,Femenino,1990-03-02,GT14,GT1421,966,Constructor de Marimbas,Premio local de Arte Popular 2023 en Pachalum.
+630,ART_GT1501_0629,Gaspar Tax Chox,Masculino,1962-06-10,GT15,GT1501,967,Tejedor de Telar de Pie,
+631,ART_GT1502_0630,Isabel Coché Tupul,Femenino,2002-10-04,GT15,GT1502,,Maestro Tallador de Jade,
+632,ART_GT1503_0631,Jacinto Ixcol Mendoza,Masculino,1969-09-24,GT15,GT1503,935,Pintor Paisajista Contemporáneo,
+633,ART_GT1504_0632,Isabel Tzoc Chavez,Femenino,1962-09-22,GT15,GT1504,144,Danzante de Danza Folklórica,Premio local de Arte Popular 2013 en Cubulco.
+634,ART_GT1505_0633,Pedro Chox Ajcalón,Masculino,1992-10-14,GT15,GT1505,536,Cestero de Fibras Naturales,
+635,ART_GT1506_0634,Isabel Tupul Quiché,Femenino,1984-04-09,GT15,GT1506,708,Pintor Primitivista,
+636,ART_GT1507_0635,Mateo Mendoza Yac,Masculino,1982-02-23,GT15,GT1507,,Tejedora de Telar de Cintura,
+637,ART_GT1508_0636,Isabel Chavez Guarcax,Femenino,1979-01-23,GT15,GT1508,833,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2017 en Purulhá.
+638,ART_GT0401_0637,Lucas Ajcalón Cux,Masculino,1951-10-23,GT04,GT0401,978,Talabartero de Cuero,
+639,ART_GT0402_0638,Maria Quiché Xiquín,Femenino,1997-03-12,GT04,GT0402,98,Escultor en Madera,
+640,ART_GT0403_0639,Francisco Yac Tuy,Masculino,1953-09-05,GT04,GT0403,382,Escultor en Madera,
+641,ART_GT0404_0640,Petrona Guarcax Tax,Femenino,1984-11-13,GT04,GT0404,,Alfarero Tradicional,Premio local de Arte Popular 2019 en Comalapa.
+642,ART_GT0405_0641,Gaspar Cux Coché,Masculino,1980-08-25,GT04,GT0405,355,Maestro Tallador de Jade,
+643,ART_GT0406_0642,Isabel Xiquín Ixcol,Femenino,1995-06-20,GT04,GT0406,541,Danzante de Danza Folklórica,
+644,ART_GT0407_0643,Juan Tuy Tzoc,Masculino,1959-05-08,GT04,GT0407,113,Danzante de Danza Folklórica,
+645,ART_GT0408_0644,Isabel Tax Chox,Femenino,1955-05-27,GT04,GT0408,167,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2022 en Pochuta.
+646,ART_GT0409_0645,Gaspar Coché Tupul,Masculino,1994-08-01,GT04,GT0409,,Tejedora de Telar de Cintura,
+647,ART_GT0410_0646,Magdalena Ixcol Mendoza,Femenino,2004-02-25,GT04,GT0410,335,Talabartero de Cuero,
+648,ART_GT0411_0647,Mateo Tzoc Chavez,Masculino,1976-12-01,GT04,GT0411,514,Talabartero de Cuero,
+649,ART_GT0412_0648,Antonia Chox Ajcalón,Femenino,1994-03-08,GT04,GT0412,48,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2015 en Yepocapa.
+650,ART_GT0413_0649,Santiago Tupul Quiché,Masculino,2003-12-09,GT04,GT0413,200,Cestero de Fibras Naturales,
+651,ART_GT0414_0650,Petrona Mendoza Yac,Femenino,1964-02-08,GT04,GT0414,,Constructor de Marimbas,
+652,ART_GT0415_0651,Pedro Chavez Guarcax,Masculino,2004-06-14,GT04,GT0415,919,Constructor de Marimbas,
+653,ART_GT0416_0652,Antonia Ajcalón Cux,Femenino,1997-12-02,GT04,GT0416,125,Pintor Primitivista,Premio local de Arte Popular 2021 en El Tejar.
+654,ART_GT0700_0653,Juan Quiché Xiquín,Masculino,1997-04-15,GT07,GT0700,787,Intérprete de Marimba,
+655,ART_GT0701_0654,Maria Yac Tuy,Femenino,1968-08-26,GT07,GT0701,85,Tejedora de Telar de Cintura,
+656,ART_GT0702_0655,Pedro Guarcax Tax,Masculino,2005-10-18,GT07,GT0702,,Tejedora de Telar de Cintura,
+657,ART_GT0703_0656,Manuela Cux Coché,Femenino,1971-02-11,GT07,GT0703,1,Tejedora de Telar de Cintura,Premio local de Arte Popular 2021 en Santa María Visitación.
+658,ART_GT0704_0657,Lucas Xiquín Ixcol,Masculino,1966-05-10,GT07,GT0704,182,Intérprete de Marimba,
+659,ART_GT0705_0658,Elena Tuy Tzoc,Femenino,2004-12-07,GT07,GT0705,913,Constructor de Marimbas,
+660,ART_GT0706_0659,Francisco Tax Chox,Masculino,1984-05-19,GT07,GT0706,920,Danzante de Danza Folklórica,
+661,ART_GT0707_0660,Catarina Coché Tupul,Femenino,2001-02-11,GT07,GT0707,,Tejedor de Telar de Pie,Premio local de Arte Popular 2012 en Santa Clara La Laguna.
+662,ART_GT0708_0661,Miguel Ixcol Mendoza,Masculino,1994-05-17,GT07,GT0708,795,Alfarero Tradicional,
+663,ART_GT0709_0662,Tomasa Tzoc Chavez,Femenino,1957-11-10,GT07,GT0709,543,Tejedora de Telar de Cintura,
+664,ART_GT0710_0663,Jacinto Chox Ajcalón,Masculino,1956-02-11,GT07,GT0710,752,Cestero de Fibras Naturales,
+665,ART_GT0711_0664,Tomasa Tupul Quiché,Femenino,1990-06-09,GT07,GT0711,683,Pintor Primitivista,Premio local de Arte Popular 2019 en Santa Catarina Palopó.
+666,ART_GT0712_0665,Juan Mendoza Yac,Masculino,1968-11-06,GT07,GT0712,,Tejedor de Telar de Pie,
+667,ART_GT0713_0666,Tomasa Chavez Guarcax,Femenino,1992-09-27,GT07,GT0713,772,Alfarero Tradicional,
+668,ART_GT0714_0667,Miguel Ajcalón Cux,Masculino,1972-06-13,GT07,GT0714,61,Tejedor de Telar de Pie,
+669,ART_GT0715_0668,Juana Quiché Xiquín,Femenino,1978-03-23,GT07,GT0715,473,Maestro Tallador de Jade,Premio local de Arte Popular 2024 en San Pablo La Laguna.
+670,ART_GT0716_0669,Francisco Yac Tuy,Masculino,2003-11-03,GT07,GT0716,52,Cestero de Fibras Naturales,
+671,ART_GT0717_0670,Tomasa Guarcax Tax,Femenino,2001-06-04,GT07,GT0717,,Pintor Primitivista,
+672,ART_GT0718_0671,Juan Cux Coché,Masculino,1967-01-23,GT07,GT0718,942,Tejedora de Telar de Cintura,
+673,ART_GT0719_0672,Antonia Xiquín Ixcol,Femenino,1961-10-20,GT07,GT0719,509,Constructor de Marimbas,Premio local de Arte Popular 2019 en Santiago Atitlán.
+674,ART_GT0801_0673,Gaspar Tuy Tzoc,Masculino,1973-09-06,GT08,GT0801,874,Danzante de Danza Folklórica,
+675,ART_GT0802_0674,Maria Tax Chox,Femenino,1977-05-22,GT08,GT0802,162,Alfarero Tradicional,
+676,ART_GT0803_0675,Juan Coché Tupul,Masculino,1983-10-13,GT08,GT0803,,Tejedor de Telar de Pie,
+677,ART_GT0804_0676,Elena Ixcol Mendoza,Femenino,1964-07-11,GT08,GT0804,566,Constructor de Marimbas,Premio local de Arte Popular 2010 en San Andrés Xecul.
+678,ART_GT0805_0677,Lucas Tzoc Chavez,Masculino,1963-08-14,GT08,GT0805,204,Maestro Tallador de Jade,
+679,ART_GT0806_0678,Manuela Chox Ajcalón,Femenino,1958-01-15,GT08,GT0806,630,Danzante de Danza Folklórica,
+680,ART_GT0807_0679,Santiago Tupul Quiché,Masculino,1958-12-25,GT08,GT0807,716,Constructor de Marimbas,
+681,ART_GT0808_0680,Catarina Mendoza Yac,Femenino,1980-06-09,GT08,GT0808,,Alfarero Tradicional,Premio local de Arte Popular 2010 en San Bartolo.
+682,ART_GT0901_0681,Miguel Chavez Guarcax,Masculino,1962-10-05,GT09,GT0901,382,Pintor Paisajista Contemporáneo,
+683,ART_GT0902_0682,Antonia Ajcalón Cux,Femenino,1993-10-17,GT09,GT0902,361,Talabartero de Cuero,
+684,ART_GT0903_0683,Juan Quiché Xiquín,Masculino,1994-12-27,GT09,GT0903,502,Talabartero de Cuero,
+685,ART_GT0904_0684,Maria Yac Tuy,Femenino,2000-08-13,GT09,GT0904,992,Tejedora de Telar de Cintura,Premio local de Arte Popular 2024 en San Carlos Sija.
+686,ART_GT0905_0685,Lucas Guarcax Tax,Masculino,2001-04-01,GT09,GT0905,,Cestero de Fibras Naturales,
+687,ART_GT0906_0686,Maria Cux Coché,Femenino,1955-08-18,GT09,GT0906,112,Pintor Primitivista,
+688,ART_GT0907_0687,Tomas Xiquín Ixcol,Masculino,1962-07-23,GT09,GT0907,539,Escultor en Madera,
+689,ART_GT0908_0688,Antonia Tuy Tzoc,Femenino,1974-10-08,GT09,GT0908,885,Alfarero Tradicional,Premio local de Arte Popular 2012 en San Miguel Sigüila.
+690,ART_GT0909_0689,Jacinto Tax Chox,Masculino,1987-07-28,GT09,GT0909,505,Danzante de Danza Folklórica,
+691,ART_GT0910_0690,Antonia Coché Tupul,Femenino,1974-05-25,GT09,GT0910,,Pintor Primitivista,
+692,ART_GT0911_0691,Francisco Ixcol Mendoza,Masculino,1961-04-25,GT09,GT0911,950,Tejedor de Telar de Pie,
+693,ART_GT0912_0692,Elena Tzoc Chavez,Femenino,1955-04-03,GT09,GT0912,487,Cestero de Fibras Naturales,Premio local de Arte Popular 2012 en San Martín Sacatepéquez.
+694,ART_GT0913_0693,Miguel Chox Ajcalón,Masculino,1999-12-24,GT09,GT0913,184,Tejedor de Telar de Pie,
+695,ART_GT0914_0694,Antonia Tupul Quiché,Femenino,1967-12-17,GT09,GT0914,422,Constructor de Marimbas,
+696,ART_GT0915_0695,Santiago Mendoza Yac,Masculino,1959-09-02,GT09,GT0915,,Tejedora de Telar de Cintura,
+697,ART_GT0916_0696,Catarina Chavez Guarcax,Femenino,1950-08-03,GT09,GT0916,274,Tejedora de Telar de Cintura,Premio local de Arte Popular 2025 en Zunil.
+698,ART_GT0917_0697,Miguel Ajcalón Cux,Masculino,1950-01-24,GT09,GT0917,916,Maestro Tallador de Jade,
+699,ART_GT0918_0698,Manuela Quiché Xiquín,Femenino,1982-05-07,GT09,GT0918,292,Cestero de Fibras Naturales,
+700,ART_GT0919_0699,Gaspar Yac Tuy,Masculino,2005-04-05,GT09,GT0919,852,Tejedora de Telar de Cintura,
+701,ART_GT0920_0700,Manuela Guarcax Tax,Femenino,1957-05-05,GT09,GT0920,,Constructor de Marimbas,Premio local de Arte Popular 2013 en Coatepeque.
+702,ART_GT0921_0701,Miguel Cux Coché,Masculino,1978-04-16,GT09,GT0921,518,Talabartero de Cuero,
+703,ART_GT0922_0702,Antonia Xiquín Ixcol,Femenino,1986-10-03,GT09,GT0922,744,Escultor en Madera,
+704,ART_GT0923_0703,Lucas Tuy Tzoc,Masculino,1963-11-25,GT09,GT0923,140,Pintor Primitivista,
+705,ART_GT0924_0704,Magdalena Tax Chox,Femenino,1956-02-14,GT09,GT0924,543,Talabartero de Cuero,Premio local de Arte Popular 2013 en Palestina de Los Altos.
+706,ART_GT1201_0705,Mateo Coché Tupul,Masculino,1962-10-05,GT12,GT1201,,Escultor en Madera,
+707,ART_GT1202_0706,Magdalena Ixcol Mendoza,Femenino,1985-02-15,GT12,GT1202,232,Alfarero Tradicional,
+708,ART_GT1203_0707,Francisco Tzoc Chavez,Masculino,1968-02-23,GT12,GT1203,666,Maestro Tallador de Jade,
+709,ART_GT1204_0708,Catarina Chox Ajcalón,Femenino,1990-07-19,GT12,GT1204,639,Tejedor de Telar de Pie,Premio local de Arte Popular 2010 en Comitancillo.
+710,ART_GT1205_0709,Jacinto Tupul Quiché,Masculino,1975-01-28,GT12,GT1205,640,Tejedor de Telar de Pie,
+711,ART_GT1206_0710,Magdalena Mendoza Yac,Femenino,1956-03-03,GT12,GT1206,,Danzante de Danza Folklórica,
+712,ART_GT1207_0711,Tomas Chavez Guarcax,Masculino,1996-06-17,GT12,GT1207,826,Escultor en Madera,
+713,ART_GT1208_0712,Juana Ajcalón Cux,Femenino,1994-08-17,GT12,GT1208,31,Alfarero Tradicional,Premio local de Arte Popular 2011 en Sibinal.
+714,ART_GT1209_0713,Juan Quiché Xiquín,Masculino,1997-08-19,GT12,GT1209,811,Constructor de Marimbas,
+715,ART_GT1210_0714,Manuela Yac Tuy,Femenino,1999-10-12,GT12,GT1210,298,Cestero de Fibras Naturales,
+716,ART_GT1211_0715,Juan Guarcax Tax,Masculino,1960-05-06,GT12,GT1211,,Intérprete de Marimba,
+717,ART_GT1212_0716,Catarina Cux Coché,Femenino,1965-09-12,GT12,GT1212,269,Constructor de Marimbas,Premio local de Arte Popular 2022 en Nuevo Progreso.
+718,ART_GT1213_0717,Miguel Xiquín Ixcol,Masculino,1960-03-20,GT12,GT1213,149,Escultor en Madera,
+719,ART_GT1214_0718,Juana Tuy Tzoc,Femenino,1971-11-06,GT12,GT1214,21,Constructor de Marimbas,
+720,ART_GT1215_0719,Mateo Tax Chox,Masculino,1989-03-13,GT12,GT1215,381,Pintor Paisajista Contemporáneo,
+721,ART_GT1216_0720,Antonia Coché Tupul,Femenino,1975-03-28,GT12,GT1216,,Alfarero Tradicional,Premio local de Arte Popular 2012 en Catarina.
+722,ART_GT1217_0721,Pedro Ixcol Mendoza,Masculino,1977-07-10,GT12,GT1217,319,Pintor Primitivista,
+723,ART_GT1218_0722,Antonia Tzoc Chavez,Femenino,1983-10-16,GT12,GT1218,282,Pintor Paisajista Contemporáneo,
+724,ART_GT1219_0723,Tomas Chox Ajcalón,Masculino,1978-07-10,GT12,GT1219,877,Cestero de Fibras Naturales,
+725,ART_GT1220_0724,Manuela Tupul Quiché,Femenino,1973-07-14,GT12,GT1220,661,Tejedora de Telar de Cintura,Premio local de Arte Popular 2016 en El Quetzal.
+726,ART_GT1221_0725,Francisco Mendoza Yac,Masculino,1970-04-27,GT12,GT1221,,Pintor Paisajista Contemporáneo,
+727,ART_GT1222_0726,Antonia Chavez Guarcax,Femenino,1981-12-17,GT12,GT1222,418,Alfarero Tradicional,
+728,ART_GT1223_0727,Santiago Ajcalón Cux,Masculino,1952-03-19,GT12,GT1223,715,Cestero de Fibras Naturales,
+729,ART_GT1224_0728,Petrona Quiché Xiquín,Femenino,2005-06-28,GT12,GT1224,209,Escultor en Madera,Premio local de Arte Popular 2018 en San José Ojetenam.
+730,ART_GT1225_0729,Jacinto Yac Tuy,Masculino,1995-08-18,GT12,GT1225,646,Pintor Paisajista Contemporáneo,
+731,ART_GT1226_0730,Manuela Guarcax Tax,Femenino,1989-08-01,GT12,GT1226,,Alfarero Tradicional,
+732,ART_GT1227_0731,Lucas Cux Coché,Masculino,1982-12-14,GT12,GT1227,790,Alfarero Tradicional,
+733,ART_GT1228_0732,Antonia Xiquín Ixcol,Femenino,1984-12-28,GT12,GT1228,703,Tejedor de Telar de Pie,Premio local de Arte Popular 2014 en Río Blanco.
+734,ART_GT1229_0733,Santiago Tuy Tzoc,Masculino,1962-05-09,GT12,GT1229,128,Cestero de Fibras Naturales,
+735,ART_GT1230_0734,Manuela Tax Chox,Femenino,1966-11-26,GT12,GT1230,42,Intérprete de Marimba,
+736,ART_GT1301_0735,Pedro Coché Tupul,Masculino,2000-02-24,GT13,GT1301,,Constructor de Marimbas,
+737,ART_GT1302_0736,Elena Ixcol Mendoza,Femenino,1998-02-12,GT13,GT1302,875,Constructor de Marimbas,Premio local de Arte Popular 2018 en Chiantla.
+738,ART_GT1303_0737,Juan Tzoc Chavez,Masculino,1982-10-27,GT13,GT1303,471,Pintor Primitivista,
+739,ART_GT1304_0738,Magdalena Chox Ajcalón,Femenino,1992-11-10,GT13,GT1304,892,Escultor en Madera,
+740,ART_GT1305_0739,Lucas Tupul Quiché,Masculino,1979-10-21,GT13,GT1305,503,Intérprete de Marimba,
+741,ART_GT1306_0740,Catarina Mendoza Yac,Femenino,1973-03-11,GT13,GT1306,,Danzante de Danza Folklórica,Premio local de Arte Popular 2015 en San Pedro Necta.
+742,ART_GT1307_0741,Jacinto Chavez Guarcax,Masculino,1986-06-28,GT13,GT1307,198,Constructor de Marimbas,
+743,ART_GT1308_0742,Antonia Ajcalón Cux,Femenino,1957-01-01,GT13,GT1308,297,Danzante de Danza Folklórica,
+744,ART_GT1309_0743,Lucas Quiché Xiquín,Masculino,1984-08-15,GT13,GT1309,182,Escultor en Madera,
+745,ART_GT1310_0744,Maria Yac Tuy,Femenino,1965-10-28,GT13,GT1310,798,Constructor de Marimbas,Premio local de Arte Popular 2013 en Santa Bárbara.
+746,ART_GT1311_0745,Gaspar Guarcax Tax,Masculino,2001-07-04,GT13,GT1311,,Pintor Paisajista Contemporáneo,
+747,ART_GT1312_0746,Petrona Cux Coché,Femenino,1996-10-13,GT13,GT1312,398,Pintor Paisajista Contemporáneo,
+748,ART_GT1313_0747,Mateo Xiquín Ixcol,Masculino,1986-04-01,GT13,GT1313,784,Intérprete de Marimba,
+749,ART_GT1314_0748,Tomasa Tuy Tzoc,Femenino,1956-06-24,GT13,GT1314,343,Pintor Primitivista,Premio local de Arte Popular 2024 en San Rafael La Independencia.
+750,ART_GT1315_0749,Mateo Tax Chox,Masculino,1979-01-01,GT13,GT1315,772,Danzante de Danza Folklórica,
+751,ART_GT1316_0750,Tomasa Coché Tupul,Femenino,1989-07-09,GT13,GT1316,,Alfarero Tradicional,
+752,ART_GT1317_0751,Tomas Ixcol Mendoza,Masculino,1969-03-08,GT13,GT1317,442,Danzante de Danza Folklórica,
+753,ART_GT1318_0752,Isabel Tzoc Chavez,Femenino,1977-11-06,GT13,GT1318,405,Pintor Primitivista,Premio local de Arte Popular 2020 en San Mateo Ixtatán.
+754,ART_GT1319_0753,Francisco Chox Ajcalón,Masculino,1957-07-08,GT13,GT1319,307,Maestro Tallador de Jade,
+755,ART_GT1320_0754,Antonia Tupul Quiché,Femenino,1994-10-17,GT13,GT1320,532,Pintor Primitivista,
+756,ART_GT1321_0755,Lucas Mendoza Yac,Masculino,1988-10-05,GT13,GT1321,,Constructor de Marimbas,
+757,ART_GT1322_0756,Catarina Chavez Guarcax,Femenino,1986-03-24,GT13,GT1322,89,Intérprete de Marimba,Premio local de Arte Popular 2018 en Concepción Huista.
+758,ART_GT1323_0757,Santiago Ajcalón Cux,Masculino,1981-12-15,GT13,GT1323,66,Constructor de Marimbas,
+759,ART_GT1324_0758,Catarina Quiché Xiquín,Femenino,1985-05-28,GT13,GT1324,741,Pintor Primitivista,
+760,ART_GT1325_0759,Lucas Yac Tuy,Masculino,1989-08-05,GT13,GT1325,918,Intérprete de Marimba,
+761,ART_GT1326_0760,Isabel Guarcax Tax,Femenino,1989-02-18,GT13,GT1326,,Intérprete de Marimba,Premio local de Arte Popular 2011 en Barillas.
+762,ART_GT1327_0761,Gaspar Cux Coché,Masculino,1965-03-24,GT13,GT1327,911,Cestero de Fibras Naturales,
+763,ART_GT1328_0762,Tomasa Xiquín Ixcol,Femenino,1956-02-11,GT13,GT1328,920,Talabartero de Cuero,
+764,ART_GT1329_0763,Jacinto Tuy Tzoc,Masculino,1994-03-06,GT13,GT1329,894,Maestro Tallador de Jade,
+765,ART_GT1330_0764,Tomasa Tax Chox,Femenino,2001-01-14,GT13,GT1330,54,Alfarero Tradicional,Premio local de Arte Popular 2022 en Santiago Chimaltenango.
+766,ART_GT1331_0765,Miguel Coché Tupul,Masculino,1971-11-13,GT13,GT1331,,Pintor Paisajista Contemporáneo,
+767,ART_GT1332_0766,Juana Ixcol Mendoza,Femenino,1960-08-27,GT13,GT1332,649,Constructor de Marimbas,
+768,ART_GT1333_0767,Pedro Tzoc Chavez,Masculino,1958-02-16,GT13,GT1333,649,Talabartero de Cuero,
+769,ART_GT1401_0768,Manuela Chox Ajcalón,Femenino,1970-05-08,GT14,GT1401,512,Maestro Tallador de Jade,Premio local de Arte Popular 2010 en Santa Cruz del Quiché.
+770,ART_GT1402_0769,Pedro Tupul Quiché,Masculino,1983-11-09,GT14,GT1402,627,Tejedor de Telar de Pie,
+771,ART_GT1403_0770,Catarina Mendoza Yac,Femenino,1999-10-14,GT14,GT1403,,Pintor Paisajista Contemporáneo,
+772,ART_GT1404_0771,Gaspar Chavez Guarcax,Masculino,1985-10-06,GT14,GT1404,799,Tejedora de Telar de Cintura,
+773,ART_GT1405_0772,Maria Ajcalón Cux,Femenino,1983-05-05,GT14,GT1405,553,Escultor en Madera,Premio local de Arte Popular 2024 en Chajul.
+774,ART_GT1406_0773,Jacinto Quiché Xiquín,Masculino,1995-09-08,GT14,GT1406,354,Escultor en Madera,
+775,ART_GT1407_0774,Antonia Yac Tuy,Femenino,1964-05-13,GT14,GT1407,639,Intérprete de Marimba,
+776,ART_GT1408_0775,Mateo Guarcax Tax,Masculino,1951-05-22,GT14,GT1408,,Talabartero de Cuero,
+777,ART_GT1409_0776,Elena Cux Coché,Femenino,1974-06-20,GT14,GT1409,420,Pintor Primitivista,Premio local de Arte Popular 2023 en San Pedro Jocopilas.
+778,ART_GT1410_0777,Mateo Xiquín Ixcol,Masculino,1994-07-12,GT14,GT1410,902,Tejedora de Telar de Cintura,
+779,ART_GT1411_0778,Catarina Tuy Tzoc,Femenino,1982-05-26,GT14,GT1411,437,Danzante de Danza Folklórica,
+780,ART_GT1412_0779,Lucas Tax Chox,Masculino,1986-10-21,GT14,GT1412,783,Escultor en Madera,
+781,ART_GT1413_0780,Manuela Coché Tupul,Femenino,1967-12-22,GT14,GT1413,,Escultor en Madera,Premio local de Arte Popular 2025 en Nebaj.
+782,ART_GT1414_0781,Pedro Ixcol Mendoza,Masculino,2000-12-18,GT14,GT1414,242,Escultor en Madera,
+783,ART_GT1415_0782,Maria Tzoc Chavez,Femenino,1970-12-22,GT14,GT1415,421,Pintor Primitivista,
+784,ART_GT1416_0783,Pedro Chox Ajcalón,Masculino,1968-10-16,GT14,GT1416,647,Pintor Paisajista Contemporáneo,
+785,ART_GT1417_0784,Tomasa Tupul Quiché,Femenino,1992-02-12,GT14,GT1417,463,Tejedor de Telar de Pie,Premio local de Arte Popular 2019 en San Bartolomé Jocotenango.
+786,ART_GT1418_0785,Mateo Mendoza Yac,Masculino,1972-02-11,GT14,GT1418,,Tejedor de Telar de Pie,
+787,ART_GT1419_0786,Manuela Chavez Guarcax,Femenino,1995-06-28,GT14,GT1419,77,Tejedora de Telar de Cintura,
+788,ART_GT1420_0787,Tomas Ajcalón Cux,Masculino,1997-05-09,GT14,GT1420,377,Tejedora de Telar de Cintura,
+789,ART_GT1421_0788,Juana Quiché Xiquín,Femenino,1980-03-23,GT14,GT1421,797,Cestero de Fibras Naturales,Premio local de Arte Popular 2012 en Pachalum.
+790,ART_GT1501_0789,Miguel Yac Tuy,Masculino,1955-11-05,GT15,GT1501,603,Pintor Primitivista,
+791,ART_GT1502_0790,Magdalena Guarcax Tax,Femenino,1950-01-04,GT15,GT1502,,Danzante de Danza Folklórica,
+792,ART_GT1503_0791,Francisco Cux Coché,Masculino,1956-06-22,GT15,GT1503,387,Pintor Paisajista Contemporáneo,
+793,ART_GT1504_0792,Juana Xiquín Ixcol,Femenino,1994-09-21,GT15,GT1504,876,Tejedora de Telar de Cintura,Premio local de Arte Popular 2019 en Cubulco.
+794,ART_GT1505_0793,Tomas Tuy Tzoc,Masculino,2004-12-13,GT15,GT1505,161,Tejedora de Telar de Cintura,
+795,ART_GT1506_0794,Elena Tax Chox,Femenino,1999-01-20,GT15,GT1506,264,Pintor Primitivista,
+796,ART_GT1507_0795,Francisco Coché Tupul,Masculino,1955-01-13,GT15,GT1507,,Tejedora de Telar de Cintura,
+797,ART_GT1508_0796,Manuela Ixcol Mendoza,Femenino,2005-10-13,GT15,GT1508,278,Cestero de Fibras Naturales,Premio local de Arte Popular 2015 en Purulhá.
+798,ART_GT0401_0797,Gaspar Tzoc Chavez,Masculino,1988-10-26,GT04,GT0401,470,Pintor Primitivista,
+799,ART_GT0402_0798,Petrona Chox Ajcalón,Femenino,2005-05-25,GT04,GT0402,108,Tejedor de Telar de Pie,
+800,ART_GT0403_0799,Santiago Tupul Quiché,Masculino,1973-11-09,GT04,GT0403,575,Alfarero Tradicional,
+801,ART_GT0404_0800,Magdalena Mendoza Yac,Femenino,1961-07-04,GT04,GT0404,,Cestero de Fibras Naturales,Premio local de Arte Popular 2018 en Comalapa.
+802,ART_GT0405_0801,Juan Chavez Guarcax,Masculino,1955-02-25,GT04,GT0405,89,Pintor Paisajista Contemporáneo,
+803,ART_GT0406_0802,Petrona Ajcalón Cux,Femenino,2002-05-19,GT04,GT0406,641,Intérprete de Marimba,
+804,ART_GT0407_0803,Mateo Quiché Xiquín,Masculino,1993-03-13,GT04,GT0407,197,Tejedora de Telar de Cintura,
+805,ART_GT0408_0804,Manuela Yac Tuy,Femenino,1973-06-03,GT04,GT0408,746,Talabartero de Cuero,Premio local de Arte Popular 2019 en Pochuta.
+806,ART_GT0409_0805,Santiago Guarcax Tax,Masculino,1968-11-10,GT04,GT0409,,Danzante de Danza Folklórica,
+807,ART_GT0410_0806,Isabel Cux Coché,Femenino,2003-01-22,GT04,GT0410,249,Escultor en Madera,
+808,ART_GT0411_0807,Lucas Xiquín Ixcol,Masculino,1964-10-25,GT04,GT0411,481,Constructor de Marimbas,
+809,ART_GT0412_0808,Magdalena Tuy Tzoc,Femenino,1950-07-28,GT04,GT0412,296,Maestro Tallador de Jade,Premio local de Arte Popular 2010 en Yepocapa.
+810,ART_GT0413_0809,Mateo Tax Chox,Masculino,1970-08-26,GT04,GT0413,891,Constructor de Marimbas,
+811,ART_GT0414_0810,Antonia Coché Tupul,Femenino,1976-09-15,GT04,GT0414,,Pintor Paisajista Contemporáneo,
+812,ART_GT0415_0811,Gaspar Ixcol Mendoza,Masculino,1981-10-07,GT04,GT0415,177,Tejedora de Telar de Cintura,
+813,ART_GT0416_0812,Antonia Tzoc Chavez,Femenino,2004-11-07,GT04,GT0416,755,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2016 en El Tejar.
+814,ART_GT0700_0813,Mateo Chox Ajcalón,Masculino,1977-05-17,GT07,GT0700,621,Talabartero de Cuero,
+815,ART_GT0701_0814,Catarina Tupul Quiché,Femenino,1972-06-15,GT07,GT0701,98,Intérprete de Marimba,
+816,ART_GT0702_0815,Mateo Mendoza Yac,Masculino,1991-09-20,GT07,GT0702,,Tejedor de Telar de Pie,
+817,ART_GT0703_0816,Maria Chavez Guarcax,Femenino,1982-05-25,GT07,GT0703,866,Danzante de Danza Folklórica,Premio local de Arte Popular 2013 en Santa María Visitación.
+818,ART_GT0704_0817,Francisco Ajcalón Cux,Masculino,1952-01-03,GT07,GT0704,957,Danzante de Danza Folklórica,
+819,ART_GT0705_0818,Isabel Quiché Xiquín,Femenino,1982-02-20,GT07,GT0705,987,Pintor Primitivista,
+820,ART_GT0706_0819,Santiago Yac Tuy,Masculino,2003-07-03,GT07,GT0706,639,Pintor Paisajista Contemporáneo,
+821,ART_GT0707_0820,Magdalena Guarcax Tax,Femenino,1986-10-21,GT07,GT0707,,Escultor en Madera,Premio local de Arte Popular 2011 en Santa Clara La Laguna.
+822,ART_GT0708_0821,Lucas Cux Coché,Masculino,1996-06-27,GT07,GT0708,823,Cestero de Fibras Naturales,
+823,ART_GT0709_0822,Magdalena Xiquín Ixcol,Femenino,1989-10-02,GT07,GT0709,46,Intérprete de Marimba,
+824,ART_GT0710_0823,Mateo Tuy Tzoc,Masculino,1990-07-04,GT07,GT0710,753,Tejedora de Telar de Cintura,
+825,ART_GT0711_0824,Elena Tax Chox,Femenino,2000-12-10,GT07,GT0711,167,Tejedor de Telar de Pie,Premio local de Arte Popular 2017 en Santa Catarina Palopó.
+826,ART_GT0712_0825,Santiago Coché Tupul,Masculino,1990-02-25,GT07,GT0712,,Cestero de Fibras Naturales,
+827,ART_GT0713_0826,Antonia Ixcol Mendoza,Femenino,1972-02-07,GT07,GT0713,339,Constructor de Marimbas,
+828,ART_GT0714_0827,Santiago Tzoc Chavez,Masculino,2001-01-06,GT07,GT0714,563,Cestero de Fibras Naturales,
+829,ART_GT0715_0828,Petrona Chox Ajcalón,Femenino,1979-07-15,GT07,GT0715,63,Constructor de Marimbas,Premio local de Arte Popular 2017 en San Pablo La Laguna.
+830,ART_GT0716_0829,Miguel Tupul Quiché,Masculino,2003-02-25,GT07,GT0716,287,Tejedor de Telar de Pie,
+831,ART_GT0717_0830,Tomasa Mendoza Yac,Femenino,1973-11-25,GT07,GT0717,,Maestro Tallador de Jade,
+832,ART_GT0718_0831,Mateo Chavez Guarcax,Masculino,1984-07-05,GT07,GT0718,1018,Cestero de Fibras Naturales,
+833,ART_GT0719_0832,Juana Ajcalón Cux,Femenino,1953-07-10,GT07,GT0719,388,Intérprete de Marimba,Premio local de Arte Popular 2016 en Santiago Atitlán.
+834,ART_GT0801_0833,Jacinto Quiché Xiquín,Masculino,1974-12-05,GT08,GT0801,455,Pintor Paisajista Contemporáneo,
+835,ART_GT0802_0834,Magdalena Yac Tuy,Femenino,1994-06-01,GT08,GT0802,75,Maestro Tallador de Jade,
+836,ART_GT0803_0835,Gaspar Guarcax Tax,Masculino,1968-04-14,GT08,GT0803,,Alfarero Tradicional,
+837,ART_GT0804_0836,Elena Cux Coché,Femenino,1973-01-20,GT08,GT0804,808,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2016 en San Andrés Xecul.
+838,ART_GT0805_0837,Mateo Xiquín Ixcol,Masculino,1998-12-04,GT08,GT0805,684,Pintor Paisajista Contemporáneo,
+839,ART_GT0806_0838,Manuela Tuy Tzoc,Femenino,1965-09-28,GT08,GT0806,1017,Talabartero de Cuero,
+840,ART_GT0807_0839,Lucas Tax Chox,Masculino,1964-12-27,GT08,GT0807,798,Pintor Primitivista,
+841,ART_GT0808_0840,Manuela Coché Tupul,Femenino,1974-04-08,GT08,GT0808,,Tejedora de Telar de Cintura,Premio local de Arte Popular 2018 en San Bartolo.
+842,ART_GT0901_0841,Tomas Ixcol Mendoza,Masculino,1989-09-27,GT09,GT0901,533,Cestero de Fibras Naturales,
+843,ART_GT0902_0842,Magdalena Tzoc Chavez,Femenino,1950-06-17,GT09,GT0902,883,Cestero de Fibras Naturales,
+844,ART_GT0903_0843,Jacinto Chox Ajcalón,Masculino,1955-08-03,GT09,GT0903,432,Cestero de Fibras Naturales,
+845,ART_GT0904_0844,Juana Tupul Quiché,Femenino,2005-01-25,GT09,GT0904,88,Maestro Tallador de Jade,Premio local de Arte Popular 2014 en San Carlos Sija.
+846,ART_GT0905_0845,Miguel Mendoza Yac,Masculino,1965-07-15,GT09,GT0905,,Alfarero Tradicional,
+847,ART_GT0906_0846,Tomasa Chavez Guarcax,Femenino,1979-07-24,GT09,GT0906,195,Intérprete de Marimba,
+848,ART_GT0907_0847,Jacinto Ajcalón Cux,Masculino,1956-02-15,GT09,GT0907,201,Intérprete de Marimba,
+849,ART_GT0908_0848,Manuela Quiché Xiquín,Femenino,1997-11-25,GT09,GT0908,92,Alfarero Tradicional,Premio local de Arte Popular 2018 en San Miguel Sigüila.
+850,ART_GT0909_0849,Miguel Yac Tuy,Masculino,1996-06-13,GT09,GT0909,910,Cestero de Fibras Naturales,
+851,ART_GT0910_0850,Magdalena Guarcax Tax,Femenino,1966-09-04,GT09,GT0910,,Pintor Paisajista Contemporáneo,
+852,ART_GT0911_0851,Mateo Cux Coché,Masculino,1955-11-10,GT09,GT0911,698,Cestero de Fibras Naturales,
+853,ART_GT0912_0852,Magdalena Xiquín Ixcol,Femenino,1988-05-06,GT09,GT0912,784,Maestro Tallador de Jade,Premio local de Arte Popular 2013 en San Martín Sacatepéquez.
+854,ART_GT0913_0853,Gaspar Tuy Tzoc,Masculino,2003-06-12,GT09,GT0913,444,Constructor de Marimbas,
+855,ART_GT0914_0854,Tomasa Tax Chox,Femenino,1984-03-18,GT09,GT0914,310,Pintor Paisajista Contemporáneo,
+856,ART_GT0915_0855,Miguel Coché Tupul,Masculino,2005-02-03,GT09,GT0915,,Tejedor de Telar de Pie,
+857,ART_GT0916_0856,Isabel Ixcol Mendoza,Femenino,2005-05-13,GT09,GT0916,817,Tejedora de Telar de Cintura,Premio local de Arte Popular 2022 en Zunil.
+858,ART_GT0917_0857,Francisco Tzoc Chavez,Masculino,1983-04-16,GT09,GT0917,283,Tejedora de Telar de Cintura,
+859,ART_GT0918_0858,Antonia Chox Ajcalón,Femenino,1975-02-02,GT09,GT0918,796,Constructor de Marimbas,
+860,ART_GT0919_0859,Tomas Tupul Quiché,Masculino,2001-07-19,GT09,GT0919,417,Intérprete de Marimba,
+861,ART_GT0920_0860,Maria Mendoza Yac,Femenino,1979-11-10,GT09,GT0920,,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2016 en Coatepeque.
+862,ART_GT0921_0861,Jacinto Chavez Guarcax,Masculino,1961-03-24,GT09,GT0921,549,Tejedor de Telar de Pie,
+863,ART_GT0922_0862,Isabel Ajcalón Cux,Femenino,1978-11-03,GT09,GT0922,682,Escultor en Madera,
+864,ART_GT0923_0863,Santiago Quiché Xiquín,Masculino,1963-11-07,GT09,GT0923,333,Maestro Tallador de Jade,
+865,ART_GT0924_0864,Petrona Yac Tuy,Femenino,1993-11-22,GT09,GT0924,382,Tejedor de Telar de Pie,Premio local de Arte Popular 2024 en Palestina de Los Altos.
+866,ART_GT1201_0865,Mateo Guarcax Tax,Masculino,1971-12-19,GT12,GT1201,,Cestero de Fibras Naturales,
+867,ART_GT1202_0866,Juana Cux Coché,Femenino,1995-09-22,GT12,GT1202,81,Alfarero Tradicional,
+868,ART_GT1203_0867,Pedro Xiquín Ixcol,Masculino,1995-05-06,GT12,GT1203,198,Pintor Primitivista,
+869,ART_GT1204_0868,Magdalena Tuy Tzoc,Femenino,2004-08-25,GT12,GT1204,420,Maestro Tallador de Jade,Premio local de Arte Popular 2015 en Comitancillo.
+870,ART_GT1205_0869,Mateo Tax Chox,Masculino,1997-12-08,GT12,GT1205,336,Talabartero de Cuero,
+871,ART_GT1206_0870,Isabel Coché Tupul,Femenino,1957-08-12,GT12,GT1206,,Pintor Paisajista Contemporáneo,
+872,ART_GT1207_0871,Tomas Ixcol Mendoza,Masculino,1980-11-21,GT12,GT1207,672,Tejedora de Telar de Cintura,
+873,ART_GT1208_0872,Tomasa Tzoc Chavez,Femenino,1965-12-16,GT12,GT1208,159,Alfarero Tradicional,Premio local de Arte Popular 2018 en Sibinal.
+874,ART_GT1209_0873,Juan Chox Ajcalón,Masculino,1974-07-07,GT12,GT1209,122,Alfarero Tradicional,
+875,ART_GT1210_0874,Catarina Tupul Quiché,Femenino,1957-11-24,GT12,GT1210,591,Maestro Tallador de Jade,
+876,ART_GT1211_0875,Jacinto Mendoza Yac,Masculino,1985-06-02,GT12,GT1211,,Tejedora de Telar de Cintura,
+877,ART_GT1212_0876,Isabel Chavez Guarcax,Femenino,1950-07-19,GT12,GT1212,61,Danzante de Danza Folklórica,Premio local de Arte Popular 2012 en Nuevo Progreso.
+878,ART_GT1213_0877,Francisco Ajcalón Cux,Masculino,2000-01-11,GT12,GT1213,528,Intérprete de Marimba,
+879,ART_GT1214_0878,Tomasa Quiché Xiquín,Femenino,2001-02-06,GT12,GT1214,736,Cestero de Fibras Naturales,
+880,ART_GT1215_0879,Tomas Yac Tuy,Masculino,1950-10-16,GT12,GT1215,225,Tejedor de Telar de Pie,
+881,ART_GT1216_0880,Petrona Guarcax Tax,Femenino,1996-08-25,GT12,GT1216,,Constructor de Marimbas,Premio local de Arte Popular 2016 en Catarina.
+882,ART_GT1217_0881,Gaspar Cux Coché,Masculino,1969-01-11,GT12,GT1217,895,Maestro Tallador de Jade,
+883,ART_GT1218_0882,Maria Xiquín Ixcol,Femenino,1961-10-06,GT12,GT1218,195,Constructor de Marimbas,
+884,ART_GT1219_0883,Santiago Tuy Tzoc,Masculino,2002-03-28,GT12,GT1219,300,Talabartero de Cuero,
+885,ART_GT1220_0884,Elena Tax Chox,Femenino,1983-01-20,GT12,GT1220,354,Escultor en Madera,Premio local de Arte Popular 2024 en El Quetzal.
+886,ART_GT1221_0885,Miguel Coché Tupul,Masculino,2002-02-20,GT12,GT1221,,Escultor en Madera,
+887,ART_GT1222_0886,Manuela Ixcol Mendoza,Femenino,1994-06-19,GT12,GT1222,272,Constructor de Marimbas,
+888,ART_GT1223_0887,Jacinto Tzoc Chavez,Masculino,1968-09-16,GT12,GT1223,780,Alfarero Tradicional,
+889,ART_GT1224_0888,Petrona Chox Ajcalón,Femenino,1959-12-06,GT12,GT1224,776,Tejedor de Telar de Pie,Premio local de Arte Popular 2025 en San José Ojetenam.
+890,ART_GT1225_0889,Jacinto Tupul Quiché,Masculino,1974-04-17,GT12,GT1225,189,Intérprete de Marimba,
+891,ART_GT1226_0890,Magdalena Mendoza Yac,Femenino,1977-05-25,GT12,GT1226,,Tejedora de Telar de Cintura,
+892,ART_GT1227_0891,Juan Chavez Guarcax,Masculino,2005-06-13,GT12,GT1227,143,Cestero de Fibras Naturales,
+893,ART_GT1228_0892,Isabel Ajcalón Cux,Femenino,1995-10-23,GT12,GT1228,33,Tejedora de Telar de Cintura,Premio local de Arte Popular 2015 en Río Blanco.
+894,ART_GT1229_0893,Santiago Quiché Xiquín,Masculino,1956-12-05,GT12,GT1229,807,Alfarero Tradicional,
+895,ART_GT1230_0894,Magdalena Yac Tuy,Femenino,1956-02-15,GT12,GT1230,564,Tejedora de Telar de Cintura,
+896,ART_GT1301_0895,Miguel Guarcax Tax,Masculino,1991-09-28,GT13,GT1301,,Constructor de Marimbas,
+897,ART_GT1302_0896,Juana Cux Coché,Femenino,1979-01-03,GT13,GT1302,809,Cestero de Fibras Naturales,Premio local de Arte Popular 2017 en Chiantla.
+898,ART_GT1303_0897,Francisco Xiquín Ixcol,Masculino,1963-03-21,GT13,GT1303,260,Escultor en Madera,
+899,ART_GT1304_0898,Isabel Tuy Tzoc,Femenino,1986-10-11,GT13,GT1304,713,Talabartero de Cuero,
+900,ART_GT1305_0899,Lucas Tax Chox,Masculino,1972-01-24,GT13,GT1305,463,Escultor en Madera,
+901,ART_GT1306_0900,Petrona Coché Tupul,Femenino,1975-10-26,GT13,GT1306,,Cestero de Fibras Naturales,Premio local de Arte Popular 2015 en San Pedro Necta.
+902,ART_GT1307_0901,Jacinto Ixcol Mendoza,Masculino,1990-11-17,GT13,GT1307,706,Alfarero Tradicional,
+903,ART_GT1308_0902,Antonia Tzoc Chavez,Femenino,1952-10-02,GT13,GT1308,4,Cestero de Fibras Naturales,
+904,ART_GT1309_0903,Pedro Chox Ajcalón,Masculino,1999-09-17,GT13,GT1309,661,Pintor Paisajista Contemporáneo,
+905,ART_GT1310_0904,Isabel Tupul Quiché,Femenino,1975-02-26,GT13,GT1310,391,Alfarero Tradicional,Premio local de Arte Popular 2020 en Santa Bárbara.
+906,ART_GT1311_0905,Santiago Mendoza Yac,Masculino,1963-05-21,GT13,GT1311,,Constructor de Marimbas,
+907,ART_GT1312_0906,Antonia Chavez Guarcax,Femenino,1984-02-14,GT13,GT1312,918,Alfarero Tradicional,
+908,ART_GT1313_0907,Tomas Ajcalón Cux,Masculino,1966-08-07,GT13,GT1313,272,Maestro Tallador de Jade,
+909,ART_GT1314_0908,Tomasa Quiché Xiquín,Femenino,1981-05-25,GT13,GT1314,195,Pintor Primitivista,Premio local de Arte Popular 2018 en San Rafael La Independencia.
+910,ART_GT1315_0909,Gaspar Yac Tuy,Masculino,1983-04-18,GT13,GT1315,380,Alfarero Tradicional,
+911,ART_GT1316_0910,Juana Guarcax Tax,Femenino,1977-07-04,GT13,GT1316,,Talabartero de Cuero,
+912,ART_GT1317_0911,Gaspar Cux Coché,Masculino,2001-05-26,GT13,GT1317,302,Danzante de Danza Folklórica,
+913,ART_GT1318_0912,Isabel Xiquín Ixcol,Femenino,1954-05-08,GT13,GT1318,505,Tejedora de Telar de Cintura,Premio local de Arte Popular 2017 en San Mateo Ixtatán.
+914,ART_GT1319_0913,Lucas Tuy Tzoc,Masculino,2002-02-28,GT13,GT1319,251,Danzante de Danza Folklórica,
+915,ART_GT1320_0914,Tomasa Tax Chox,Femenino,1963-10-03,GT13,GT1320,402,Intérprete de Marimba,
+916,ART_GT1321_0915,Francisco Coché Tupul,Masculino,1994-04-18,GT13,GT1321,,Tejedora de Telar de Cintura,
+917,ART_GT1322_0916,Tomasa Ixcol Mendoza,Femenino,1988-10-14,GT13,GT1322,73,Talabartero de Cuero,Premio local de Arte Popular 2024 en Concepción Huista.
+918,ART_GT1323_0917,Tomas Tzoc Chavez,Masculino,1987-02-10,GT13,GT1323,85,Tejedor de Telar de Pie,
+919,ART_GT1324_0918,Petrona Chox Ajcalón,Femenino,1999-05-25,GT13,GT1324,470,Constructor de Marimbas,
+920,ART_GT1325_0919,Santiago Tupul Quiché,Masculino,1955-03-02,GT13,GT1325,193,Cestero de Fibras Naturales,
+921,ART_GT1326_0920,Elena Mendoza Yac,Femenino,2005-03-24,GT13,GT1326,,Maestro Tallador de Jade,Premio local de Arte Popular 2025 en Barillas.
+922,ART_GT1327_0921,Jacinto Chavez Guarcax,Masculino,2003-12-10,GT13,GT1327,338,Intérprete de Marimba,
+923,ART_GT1328_0922,Juana Ajcalón Cux,Femenino,1982-04-19,GT13,GT1328,701,Tejedor de Telar de Pie,
+924,ART_GT1329_0923,Juan Quiché Xiquín,Masculino,2003-10-06,GT13,GT1329,543,Alfarero Tradicional,
+925,ART_GT1330_0924,Petrona Yac Tuy,Femenino,1962-11-23,GT13,GT1330,857,Intérprete de Marimba,Premio local de Arte Popular 2018 en Santiago Chimaltenango.
+926,ART_GT1331_0925,Juan Guarcax Tax,Masculino,1994-09-23,GT13,GT1331,,Danzante de Danza Folklórica,
+927,ART_GT1332_0926,Petrona Cux Coché,Femenino,1957-05-13,GT13,GT1332,234,Alfarero Tradicional,
+928,ART_GT1333_0927,Francisco Xiquín Ixcol,Masculino,1986-08-27,GT13,GT1333,868,Escultor en Madera,
+929,ART_GT1401_0928,Antonia Tuy Tzoc,Femenino,1981-04-17,GT14,GT1401,284,Talabartero de Cuero,Premio local de Arte Popular 2015 en Santa Cruz del Quiché.
+930,ART_GT1402_0929,Tomas Tax Chox,Masculino,1989-10-12,GT14,GT1402,902,Constructor de Marimbas,
+931,ART_GT1403_0930,Maria Coché Tupul,Femenino,1961-10-13,GT14,GT1403,,Pintor Paisajista Contemporáneo,
+932,ART_GT1404_0931,Jacinto Ixcol Mendoza,Masculino,1972-03-21,GT14,GT1404,303,Escultor en Madera,
+933,ART_GT1405_0932,Isabel Tzoc Chavez,Femenino,1961-06-10,GT14,GT1405,114,Intérprete de Marimba,Premio local de Arte Popular 2014 en Chajul.
+934,ART_GT1406_0933,Pedro Chox Ajcalón,Masculino,1956-10-13,GT14,GT1406,293,Cestero de Fibras Naturales,
+935,ART_GT1407_0934,Catarina Tupul Quiché,Femenino,1963-01-18,GT14,GT1407,321,Talabartero de Cuero,
+936,ART_GT1408_0935,Francisco Mendoza Yac,Masculino,1954-03-26,GT14,GT1408,,Alfarero Tradicional,
+937,ART_GT1409_0936,Juana Chavez Guarcax,Femenino,1993-12-18,GT14,GT1409,492,Intérprete de Marimba,Premio local de Arte Popular 2010 en San Pedro Jocopilas.
+938,ART_GT1410_0937,Lucas Ajcalón Cux,Masculino,1976-10-02,GT14,GT1410,545,Intérprete de Marimba,
+939,ART_GT1411_0938,Elena Quiché Xiquín,Femenino,1976-06-09,GT14,GT1411,12,Pintor Paisajista Contemporáneo,
+940,ART_GT1412_0939,Francisco Yac Tuy,Masculino,1985-05-21,GT14,GT1412,912,Tejedora de Telar de Cintura,
+941,ART_GT1413_0940,Petrona Guarcax Tax,Femenino,1979-11-15,GT14,GT1413,,Talabartero de Cuero,Premio local de Arte Popular 2021 en Nebaj.
+942,ART_GT1414_0941,Juan Cux Coché,Masculino,1965-11-17,GT14,GT1414,1019,Escultor en Madera,
+943,ART_GT1415_0942,Manuela Xiquín Ixcol,Femenino,2001-04-12,GT14,GT1415,19,Alfarero Tradicional,
+944,ART_GT1416_0943,Gaspar Tuy Tzoc,Masculino,1998-03-13,GT14,GT1416,356,Pintor Paisajista Contemporáneo,
+945,ART_GT1417_0944,Isabel Tax Chox,Femenino,1985-12-04,GT14,GT1417,144,Constructor de Marimbas,Premio local de Arte Popular 2024 en San Bartolomé Jocotenango.
+946,ART_GT1418_0945,Mateo Coché Tupul,Masculino,1995-09-01,GT14,GT1418,,Cestero de Fibras Naturales,
+947,ART_GT1419_0946,Antonia Ixcol Mendoza,Femenino,1955-08-15,GT14,GT1419,139,Constructor de Marimbas,
+948,ART_GT1420_0947,Francisco Tzoc Chavez,Masculino,1986-05-08,GT14,GT1420,350,Alfarero Tradicional,
+949,ART_GT1421_0948,Petrona Chox Ajcalón,Femenino,1993-07-24,GT14,GT1421,986,Cestero de Fibras Naturales,Premio local de Arte Popular 2010 en Pachalum.
+950,ART_GT1501_0949,Jacinto Tupul Quiché,Masculino,1960-03-19,GT15,GT1501,808,Alfarero Tradicional,
+951,ART_GT1502_0950,Juana Mendoza Yac,Femenino,1950-05-07,GT15,GT1502,,Tejedora de Telar de Cintura,
+952,ART_GT1503_0951,Gaspar Chavez Guarcax,Masculino,2005-07-12,GT15,GT1503,829,Talabartero de Cuero,
+953,ART_GT1504_0952,Catarina Ajcalón Cux,Femenino,1964-04-04,GT15,GT1504,921,Maestro Tallador de Jade,Premio local de Arte Popular 2017 en Cubulco.
+954,ART_GT1505_0953,Gaspar Quiché Xiquín,Masculino,1986-08-04,GT15,GT1505,868,Maestro Tallador de Jade,
+955,ART_GT1506_0954,Catarina Yac Tuy,Femenino,1972-03-27,GT15,GT1506,42,Danzante de Danza Folklórica,
+956,ART_GT1507_0955,Tomas Guarcax Tax,Masculino,1970-11-15,GT15,GT1507,,Tejedor de Telar de Pie,
+957,ART_GT1508_0956,Isabel Cux Coché,Femenino,1996-07-03,GT15,GT1508,796,Tejedora de Telar de Cintura,Premio local de Arte Popular 2021 en Purulhá.
+958,ART_GT0401_0957,Tomas Xiquín Ixcol,Masculino,1983-07-23,GT04,GT0401,742,Danzante de Danza Folklórica,
+959,ART_GT0402_0958,Isabel Tuy Tzoc,Femenino,1966-11-23,GT04,GT0402,216,Alfarero Tradicional,
+960,ART_GT0403_0959,Tomas Tax Chox,Masculino,1973-07-16,GT04,GT0403,199,Cestero de Fibras Naturales,
+961,ART_GT0404_0960,Juana Coché Tupul,Femenino,1997-10-21,GT04,GT0404,,Intérprete de Marimba,Premio local de Arte Popular 2024 en Comalapa.
+962,ART_GT0405_0961,Juan Ixcol Mendoza,Masculino,1965-04-28,GT04,GT0405,903,Maestro Tallador de Jade,
+963,ART_GT0406_0962,Manuela Tzoc Chavez,Femenino,1974-09-12,GT04,GT0406,603,Tejedor de Telar de Pie,
+964,ART_GT0407_0963,Lucas Chox Ajcalón,Masculino,1965-04-26,GT04,GT0407,712,Alfarero Tradicional,
+965,ART_GT0408_0964,Magdalena Tupul Quiché,Femenino,1972-12-12,GT04,GT0408,859,Cestero de Fibras Naturales,Premio local de Arte Popular 2020 en Pochuta.
+966,ART_GT0409_0965,Francisco Mendoza Yac,Masculino,1995-11-05,GT04,GT0409,,Talabartero de Cuero,
+967,ART_GT0410_0966,Catarina Chavez Guarcax,Femenino,1974-12-10,GT04,GT0410,993,Talabartero de Cuero,
+968,ART_GT0411_0967,Gaspar Ajcalón Cux,Masculino,1963-08-27,GT04,GT0411,558,Pintor Paisajista Contemporáneo,
+969,ART_GT0412_0968,Antonia Quiché Xiquín,Femenino,1999-09-25,GT04,GT0412,233,Tejedor de Telar de Pie,Premio local de Arte Popular 2016 en Yepocapa.
+970,ART_GT0413_0969,Tomas Yac Tuy,Masculino,1987-02-13,GT04,GT0413,407,Escultor en Madera,
+971,ART_GT0414_0970,Maria Guarcax Tax,Femenino,1974-05-04,GT04,GT0414,,Tejedora de Telar de Cintura,
+972,ART_GT0415_0971,Miguel Cux Coché,Masculino,1972-04-23,GT04,GT0415,644,Cestero de Fibras Naturales,
+973,ART_GT0416_0972,Juana Xiquín Ixcol,Femenino,1969-09-21,GT04,GT0416,924,Tejedora de Telar de Cintura,Premio local de Arte Popular 2011 en El Tejar.
+974,ART_GT0700_0973,Tomas Tuy Tzoc,Masculino,1992-05-20,GT07,GT0700,948,Pintor Primitivista,
+975,ART_GT0701_0974,Isabel Tax Chox,Femenino,1997-11-14,GT07,GT0701,113,Talabartero de Cuero,
+976,ART_GT0702_0975,Gaspar Coché Tupul,Masculino,1994-04-10,GT07,GT0702,,Pintor Paisajista Contemporáneo,
+977,ART_GT0703_0976,Petrona Ixcol Mendoza,Femenino,2000-11-01,GT07,GT0703,747,Tejedora de Telar de Cintura,Premio local de Arte Popular 2019 en Santa María Visitación.
+978,ART_GT0704_0977,Lucas Tzoc Chavez,Masculino,1994-01-03,GT07,GT0704,186,Tejedora de Telar de Cintura,
+979,ART_GT0705_0978,Isabel Chox Ajcalón,Femenino,1991-01-12,GT07,GT0705,852,Tejedora de Telar de Cintura,
+980,ART_GT0706_0979,Francisco Tupul Quiché,Masculino,1985-06-25,GT07,GT0706,929,Danzante de Danza Folklórica,
+981,ART_GT0707_0980,Tomasa Mendoza Yac,Femenino,1985-12-20,GT07,GT0707,,Cestero de Fibras Naturales,Premio local de Arte Popular 2015 en Santa Clara La Laguna.
+982,ART_GT0708_0981,Lucas Chavez Guarcax,Masculino,1973-01-07,GT07,GT0708,729,Pintor Primitivista,
+983,ART_GT0709_0982,Manuela Ajcalón Cux,Femenino,1957-05-05,GT07,GT0709,921,Escultor en Madera,
+984,ART_GT0710_0983,Lucas Quiché Xiquín,Masculino,1975-07-03,GT07,GT0710,391,Escultor en Madera,
+985,ART_GT0711_0984,Magdalena Yac Tuy,Femenino,1989-02-11,GT07,GT0711,443,Talabartero de Cuero,Premio local de Arte Popular 2024 en Santa Catarina Palopó.
+986,ART_GT0712_0985,Gaspar Guarcax Tax,Masculino,1985-09-17,GT07,GT0712,,Talabartero de Cuero,
+987,ART_GT0713_0986,Tomasa Cux Coché,Femenino,1998-10-04,GT07,GT0713,108,Danzante de Danza Folklórica,
+988,ART_GT0714_0987,Miguel Xiquín Ixcol,Masculino,1981-01-20,GT07,GT0714,237,Danzante de Danza Folklórica,
+989,ART_GT0715_0988,Catarina Tuy Tzoc,Femenino,1969-01-06,GT07,GT0715,408,Talabartero de Cuero,Premio local de Arte Popular 2012 en San Pablo La Laguna.
+990,ART_GT0716_0989,Lucas Tax Chox,Masculino,1970-07-05,GT07,GT0716,476,Tejedora de Telar de Cintura,
+991,ART_GT0717_0990,Maria Coché Tupul,Femenino,1953-01-26,GT07,GT0717,,Cestero de Fibras Naturales,
+992,ART_GT0718_0991,Tomas Ixcol Mendoza,Masculino,1983-07-04,GT07,GT0718,522,Tejedora de Telar de Cintura,
+993,ART_GT0719_0992,Tomasa Tzoc Chavez,Femenino,1956-05-08,GT07,GT0719,348,Tejedor de Telar de Pie,Premio local de Arte Popular 2023 en Santiago Atitlán.
+994,ART_GT0801_0993,Juan Chox Ajcalón,Masculino,1953-06-17,GT08,GT0801,22,Talabartero de Cuero,
+995,ART_GT0802_0994,Antonia Tupul Quiché,Femenino,1958-05-10,GT08,GT0802,174,Constructor de Marimbas,
+996,ART_GT0803_0995,Miguel Mendoza Yac,Masculino,2005-12-23,GT08,GT0803,,Pintor Primitivista,
+997,ART_GT0804_0996,Isabel Chavez Guarcax,Femenino,1955-02-21,GT08,GT0804,1,Pintor Primitivista,Premio local de Arte Popular 2020 en San Andrés Xecul.
+998,ART_GT0805_0997,Mateo Ajcalón Cux,Masculino,1958-09-05,GT08,GT0805,671,Maestro Tallador de Jade,
+999,ART_GT0806_0998,Manuela Quiché Xiquín,Femenino,1983-10-13,GT08,GT0806,275,Constructor de Marimbas,
+1000,ART_GT0807_0999,Lucas Yac Tuy,Masculino,1962-08-03,GT08,GT0807,603,Tejedora de Telar de Cintura,
+1001,ART_GT0808_1000,Petrona Guarcax Tax,Femenino,1979-01-26,GT08,GT0808,,Escultor en Madera,Premio local de Arte Popular 2014 en San Bartolo.
+1002,ART_GT0901_1001,Gaspar Cux Coché,Masculino,1976-10-02,GT09,GT0901,647,Alfarero Tradicional,
+1003,ART_GT0902_1002,Isabel Xiquín Ixcol,Femenino,1992-12-16,GT09,GT0902,497,Tejedora de Telar de Cintura,
+1004,ART_GT0903_1003,Juan Tuy Tzoc,Masculino,1968-09-20,GT09,GT0903,886,Alfarero Tradicional,
+1005,ART_GT0904_1004,Catarina Tax Chox,Femenino,1993-09-24,GT09,GT0904,901,Maestro Tallador de Jade,Premio local de Arte Popular 2024 en San Carlos Sija.
+1006,ART_GT0905_1005,Miguel Coché Tupul,Masculino,1962-04-18,GT09,GT0905,,Alfarero Tradicional,
+1007,ART_GT0906_1006,Magdalena Ixcol Mendoza,Femenino,1951-03-06,GT09,GT0906,431,Escultor en Madera,
+1008,ART_GT0907_1007,Francisco Tzoc Chavez,Masculino,1977-07-02,GT09,GT0907,218,Intérprete de Marimba,
+1009,ART_GT0908_1008,Juana Chox Ajcalón,Femenino,1963-01-23,GT09,GT0908,358,Talabartero de Cuero,Premio local de Arte Popular 2024 en San Miguel Sigüila.
+1010,ART_GT0909_1009,Jacinto Tupul Quiché,Masculino,1953-10-22,GT09,GT0909,321,Danzante de Danza Folklórica,
+1011,ART_GT0910_1010,Manuela Mendoza Yac,Femenino,1997-12-18,GT09,GT0910,,Alfarero Tradicional,
+1012,ART_GT0911_1011,Tomas Chavez Guarcax,Masculino,1961-02-24,GT09,GT0911,5,Constructor de Marimbas,
+1013,ART_GT0912_1012,Antonia Ajcalón Cux,Femenino,2001-04-19,GT09,GT0912,130,Tejedor de Telar de Pie,Premio local de Arte Popular 2020 en San Martín Sacatepéquez.
+1014,ART_GT0913_1013,Miguel Quiché Xiquín,Masculino,1951-08-26,GT09,GT0913,54,Talabartero de Cuero,
+1015,ART_GT0914_1014,Juana Yac Tuy,Femenino,1986-10-11,GT09,GT0914,998,Maestro Tallador de Jade,
+1016,ART_GT0915_1015,Lucas Guarcax Tax,Masculino,1987-01-25,GT09,GT0915,,Tejedora de Telar de Cintura,
+1017,ART_GT0916_1016,Manuela Cux Coché,Femenino,1962-06-14,GT09,GT0916,874,Pintor Paisajista Contemporáneo,Premio local de Arte Popular 2022 en Zunil.
+1018,ART_GT0917_1017,Jacinto Xiquín Ixcol,Masculino,1989-06-05,GT09,GT0917,973,Tejedora de Telar de Cintura,
+1019,ART_GT0918_1018,Antonia Tuy Tzoc,Femenino,1999-03-16,GT09,GT0918,271,Alfarero Tradicional,
+1020,ART_GT0919_1019,Juan Tax Chox,Masculino,1954-12-02,GT09,GT0919,346,Escultor en Madera,

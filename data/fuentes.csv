@@ -2,4 +2,5 @@ codigo,tipo_fuente,nombre,institucion,url,descripcion,licencia,activa
 2026_07_gtm_admin_boundaries,archivo,Guatemala - Subnational Administrative Boundaries,Coordinadora Nacional Para La Reducción De Desastres,https://data.humdata.org/dataset/0b20f310-7d22-479c-b7e2-e1bb9737fa72/resource/ff1d625b-b657-4a70-8b26-40ebbc2fd983/download/gtm_admin_boundaries.xlsx,"Guatemala administrative level 0-2 boundaries (COD-AB), Geodatabase",Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO),true
 2026_07_gtm_cultura_identidad,archivo,Guatemala - Cultura e Identidad,Ministerio de Cultura y Deportes,,Datos de gastronomía tradicional e de idiomas nacionales,Uso público,true
 2026_07_gtm_economia_produccion,archivo,Guatemala - Economía y Producción,Ministerio de Agricultura Ganadería y Alimentación (MAGA),,Datos de producción agropecuaria textil y mercados municipales tradicionales,Uso público,true
+2026_07_gtm_arte_artesania,archivo,Guatemala - Arte y Artesanías del Altiplano,Ministerio de Cultura y Deportes (MCD),,Datos de técnicas tradicionales artesanías colectivos y festivales culturales,Uso público,true
 
