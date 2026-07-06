@@ -1,0 +1,1021 @@
+codigo,nombre,origen_municipio_nombre,destino_municipio_nombre,tipo_via_codigo,distancia_km,tiempo_promedio_minutos,estado_transitabilidad
+TRM_1_32_0000,Tramo RN-7 Cobán-Quiché (Lago De Amatitlan - Santiago Sacatepéquez) - Ref 1,Lago De Amatitlan,Santiago Sacatepéquez,INTERAMERICANA,35.57,94,REGULAR
+TRM_2_33_0001,Tramo RN-7 Cobán-Quiché (Guatemala - San Bartolomé Milpas Altas) - Ref 2,Guatemala,San Bartolomé Milpas Altas,NACIONAL_ASFALTO,61.31,158,REGULAR
+TRM_3_34_0002,Tramo CA-1 Occidente (Santa Catarina Pinula - San Lucas Sacatepéquez) - Ref 3,Santa Catarina Pinula,San Lucas Sacatepéquez,ACUATICA,30.13,76,BUENO
+TRM_4_35_0003,Tramo RN-15 Sacapulas (San José Pinula - Santa Lucía Milpas Altas) - Ref 4,San José Pinula,Santa Lucía Milpas Altas,PEATONAL,70.49,178,BUENO
+TRM_5_36_0004,Tramo RN-7 Cobán-Quiché (San José del Golfo - Magdalena Milpas Altas) - Ref 5,San José del Golfo,Magdalena Milpas Altas,NACIONAL_ASFALTO,74.03,179,BUENO
+TRM_6_37_0005,Tramo CA-1 Occidente (Palencia - Santa María de Jesús) - Ref 6,Palencia,Santa María de Jesús,PEATONAL,25.32,76,REGULAR
+TRM_7_38_0006,Tramo RN-11 Panajachel (Chinautla - Ciudad Vieja) - Ref 7,Chinautla,Ciudad Vieja,NACIONAL_ASFALTO,20.78,43,REGULAR
+TRM_8_39_0007,Tramo RN-9 Salcajá (San Pedro Ayampuc - San Miguel Dueñas) - Ref 8,San Pedro Ayampuc,San Miguel Dueñas,ACUATICA,10.77,17,BUENO
+TRM_9_40_0008,Tramo RN-15 Sacapulas (Mixco - Alotenango) - Ref 9,Mixco,Alotenango,INTERAMERICANA,44.56,153,BUENO
+TRM_10_41_0009,Tramo RN-11 Panajachel (San Pedro Sacatepéquez - San Antonio Aguas Calientes) - Ref 10,San Pedro Sacatepéquez,San Antonio Aguas Calientes,NACIONAL_ASFALTO,28.22,38,BUENO
+TRM_11_42_0010,Tramo RN-11 Panajachel (San Juan Sacatepéquez - Santa Catarina Barahona) - Ref 11,San Juan Sacatepéquez,Santa Catarina Barahona,NACIONAL_ASFALTO,69.84,164,BUENO
+TRM_12_43_0011,Tramo RN-9 Salcajá (San Raimundo - Chimaltenango) - Ref 12,San Raimundo,Chimaltenango,PEATONAL,37.17,54,REGULAR
+TRM_13_44_0012,Tramo RN-15 Sacapulas (Chuarrancho - San José Poaquil) - Ref 13,Chuarrancho,San José Poaquil,ACUATICA,50.71,61,BUENO
+TRM_14_45_0013,Tramo CA-1 Occidente (Fraijanes - San Martín Jilotepeque) - Ref 14,Fraijanes,San Martín Jilotepeque,INTERAMERICANA,10.53,35,MALO
+TRM_15_46_0014,Tramo Ruta Nacional RN-1 (Amatitlán - Comalapa) - Ref 15,Amatitlán,Comalapa,PEATONAL,31.55,43,MALO
+TRM_16_47_0015,Tramo RN-15 Sacapulas (Villa Nueva - Santa Apolonia) - Ref 16,Villa Nueva,Santa Apolonia,NACIONAL_ASFALTO,59.57,186,BUENO
+TRM_17_48_0016,Tramo Ruta Nacional RN-1 (Villa Canales - Tecpán Guatemala) - Ref 17,Villa Canales,Tecpán Guatemala,PEATONAL,53.22,97,REGULAR
+TRM_18_49_0017,Tramo RN-7 Cobán-Quiché (Petapa - Patzún) - Ref 18,Petapa,Patzún,PEATONAL,6.02,9,BUENO
+TRM_19_50_0018,Tramo CA-1 Occidente (Guastatoya - Pochuta) - Ref 19,Guastatoya,Pochuta,NACIONAL_ASFALTO,69.41,224,BUENO
+TRM_20_51_0019,Tramo RN-9 Salcajá (Morazán - Patzicía) - Ref 20,Morazán,Patzicía,NACIONAL_ASFALTO,49.28,95,BUENO
+TRM_21_52_0020,Tramo Ruta Nacional RN-1 (San Agustín Acasaguastlán - Santa Cruz Balanyá) - Ref 21,San Agustín Acasaguastlán,Santa Cruz Balanyá,PEATONAL,9.71,12,BUENO
+TRM_22_53_0021,Tramo RN-9 Salcajá (San Cristóbal Acasaguastlán - Acatenango) - Ref 22,San Cristóbal Acasaguastlán,Acatenango,PEATONAL,27.28,81,BUENO
+TRM_23_54_0022,Tramo RN-11 Panajachel (El Jícaro - Yepocapa) - Ref 23,El Jícaro,Yepocapa,PEATONAL,40.84,114,MALO
+TRM_24_55_0023,Tramo RN-9 Salcajá (Sanarate - San Andrés Itzapa) - Ref 24,Sanarate,San Andrés Itzapa,ACUATICA,5.9,11,BUENO
+TRM_25_56_0024,Tramo RN-7 Cobán-Quiché (Sansare - Parramos) - Ref 25,Sansare,Parramos,INTERAMERICANA,24.05,62,BUENO
+TRM_26_57_0025,Tramo RN-9 Salcajá (San Antonio La Paz - Zaragoza) - Ref 26,San Antonio La Paz,Zaragoza,NACIONAL_ASFALTO,72.6,186,BUENO
+TRM_27_58_0026,Tramo RN-11 Panajachel (Antigua Guatemala - El Tejar) - Ref 27,Antigua Guatemala,El Tejar,PEATONAL,70.0,208,BUENO
+TRM_28_59_0027,Tramo CA-1 Occidente (Jocotenango - Escuintla) - Ref 28,Jocotenango,Escuintla,TERRACERIA,62.86,216,REGULAR
+TRM_29_60_0028,Tramo RN-15 Sacapulas (Pastores - Santa Lucía Cotzumalguapa) - Ref 29,Pastores,Santa Lucía Cotzumalguapa,TERRACERIA,48.06,165,BUENO
+TRM_30_61_0029,Tramo RN-7 Cobán-Quiché (Sumpango - La Democracia) - Ref 30,Sumpango,La Democracia,TERRACERIA,54.92,126,BUENO
+TRM_31_62_0030,Tramo RN-15 Sacapulas (Santo Domingo Xenacoj - Siquinalá) - Ref 31,Santo Domingo Xenacoj,Siquinalá,NACIONAL_ASFALTO,60.62,150,BUENO
+TRM_32_63_0031,Tramo RN-11 Panajachel (Santiago Sacatepéquez - Masagua) - Ref 32,Santiago Sacatepéquez,Masagua,NACIONAL_ASFALTO,73.51,196,BUENO
+TRM_33_64_0032,Tramo RN-11 Panajachel (San Bartolomé Milpas Altas - Tiquisate) - Ref 33,San Bartolomé Milpas Altas,Tiquisate,ACUATICA,63.16,189,BUENO
+TRM_34_65_0033,Tramo CA-1 Occidente (San Lucas Sacatepéquez - La Gomera) - Ref 34,San Lucas Sacatepéquez,La Gomera,PEATONAL,24.6,31,BUENO
+TRM_35_66_0034,Tramo Ruta Nacional RN-1 (Santa Lucía Milpas Altas - Guanagazapa) - Ref 35,Santa Lucía Milpas Altas,Guanagazapa,ACUATICA,61.73,196,BUENO
+TRM_36_67_0035,Tramo Ruta Nacional RN-1 (Magdalena Milpas Altas - San José) - Ref 36,Magdalena Milpas Altas,San José,INTERAMERICANA,12.41,18,BUENO
+TRM_37_68_0036,Tramo RN-15 Sacapulas (Santa María de Jesús - Iztapa) - Ref 37,Santa María de Jesús,Iztapa,INTERAMERICANA,74.36,247,BUENO
+TRM_38_69_0037,Tramo RN-11 Panajachel (Ciudad Vieja - Palín) - Ref 38,Ciudad Vieja,Palín,ACUATICA,34.24,80,MALO
+TRM_39_70_0038,Tramo RN-7 Cobán-Quiché (San Miguel Dueñas - San Vicente Pacaya) - Ref 39,San Miguel Dueñas,San Vicente Pacaya,INTERAMERICANA,8.66,30,BUENO
+TRM_40_71_0039,Tramo RN-11 Panajachel (Alotenango - Nueva Concepción) - Ref 40,Alotenango,Nueva Concepción,INTERAMERICANA,47.11,85,BUENO
+TRM_41_72_0040,Tramo CA-1 Occidente (San Antonio Aguas Calientes - Sipacate) - Ref 41,San Antonio Aguas Calientes,Sipacate,TERRACERIA,5.15,13,BUENO
+TRM_42_73_0041,Tramo RN-9 Salcajá (Santa Catarina Barahona - Cuilapa) - Ref 42,Santa Catarina Barahona,Cuilapa,TERRACERIA,38.3,106,BUENO
+TRM_43_74_0042,Tramo CA-1 Occidente (Chimaltenango - Barberena) - Ref 43,Chimaltenango,Barberena,TERRACERIA,60.2,179,REGULAR
+TRM_44_75_0043,Tramo CA-1 Occidente (San José Poaquil - Santa Rosa de Lima) - Ref 44,San José Poaquil,Santa Rosa de Lima,NACIONAL_ASFALTO,23.61,39,BUENO
+TRM_45_76_0044,Tramo RN-7 Cobán-Quiché (San Martín Jilotepeque - Casillas) - Ref 45,San Martín Jilotepeque,Casillas,NACIONAL_ASFALTO,68.49,126,REGULAR
+TRM_46_77_0045,Tramo Ruta Nacional RN-1 (Comalapa - San Rafael Las Flores) - Ref 46,Comalapa,San Rafael Las Flores,ACUATICA,63.42,187,BUENO
+TRM_47_78_0046,Tramo RN-7 Cobán-Quiché (Santa Apolonia - Oratorio) - Ref 47,Santa Apolonia,Oratorio,INTERAMERICANA,69.07,109,BUENO
+TRM_48_79_0047,Tramo RN-7 Cobán-Quiché (Tecpán Guatemala - San Juan Tecuaco) - Ref 48,Tecpán Guatemala,San Juan Tecuaco,TERRACERIA,18.24,31,REGULAR
+TRM_49_80_0048,Tramo RN-11 Panajachel (Patzún - Chiquimulilla) - Ref 49,Patzún,Chiquimulilla,INTERAMERICANA,68.84,184,BUENO
+TRM_50_81_0049,Tramo RN-11 Panajachel (Pochuta - Taxisco) - Ref 50,Pochuta,Taxisco,TERRACERIA,59.13,121,BUENO
+TRM_51_82_0050,Tramo RN-11 Panajachel (Patzicía - Santa María Ixhuatán) - Ref 51,Patzicía,Santa María Ixhuatán,NACIONAL_ASFALTO,12.9,18,BUENO
+TRM_52_83_0051,Tramo Ruta Nacional RN-1 (Santa Cruz Balanyá - Guazacapán) - Ref 52,Santa Cruz Balanyá,Guazacapán,TERRACERIA,49.59,80,BUENO
+TRM_53_84_0052,Tramo RN-9 Salcajá (Acatenango - Santa Cruz Naranjo) - Ref 53,Acatenango,Santa Cruz Naranjo,PEATONAL,22.16,54,MALO
+TRM_54_85_0053,Tramo RN-9 Salcajá (Yepocapa - Pueblo Nuevo Viñas) - Ref 54,Yepocapa,Pueblo Nuevo Viñas,PEATONAL,65.85,86,MALO
+TRM_55_86_0054,Tramo RN-15 Sacapulas (San Andrés Itzapa - Nueva Santa Rosa) - Ref 55,San Andrés Itzapa,Nueva Santa Rosa,ACUATICA,33.44,65,BUENO
+TRM_56_87_0055,Tramo Ruta Nacional RN-1 (Parramos - Lago De Atitlan) - Ref 56,Parramos,Lago De Atitlan,PEATONAL,33.01,78,BUENO
+TRM_57_88_0056,Tramo CA-1 Occidente (Zaragoza - Sololá) - Ref 57,Zaragoza,Sololá,TERRACERIA,58.3,178,BUENO
+TRM_58_89_0057,Tramo RN-15 Sacapulas (El Tejar - San José Chacayá) - Ref 58,El Tejar,San José Chacayá,TERRACERIA,68.11,185,MALO
+TRM_59_90_0058,Tramo RN-11 Panajachel (Escuintla - Santa María Visitación) - Ref 59,Escuintla,Santa María Visitación,PEATONAL,44.06,69,BUENO
+TRM_60_91_0059,Tramo RN-11 Panajachel (Santa Lucía Cotzumalguapa - Santa Lucía Utatlán) - Ref 60,Santa Lucía Cotzumalguapa,Santa Lucía Utatlán,TERRACERIA,10.29,23,REGULAR
+TRM_61_92_0060,Tramo RN-9 Salcajá (La Democracia - Nahualá) - Ref 61,La Democracia,Nahualá,NACIONAL_ASFALTO,54.91,137,BUENO
+TRM_62_93_0061,Tramo RN-7 Cobán-Quiché (Siquinalá - Santa Catarina Ixtahuacán) - Ref 62,Siquinalá,Santa Catarina Ixtahuacán,ACUATICA,38.87,115,BUENO
+TRM_63_94_0062,Tramo Ruta Nacional RN-1 (Masagua - Santa Clara La Laguna) - Ref 63,Masagua,Santa Clara La Laguna,INTERAMERICANA,44.05,124,BUENO
+TRM_64_95_0063,Tramo RN-15 Sacapulas (Tiquisate - Concepción) - Ref 64,Tiquisate,Concepción,NACIONAL_ASFALTO,48.01,66,BUENO
+TRM_65_96_0064,Tramo CA-1 Occidente (La Gomera - San Andrés Semetabaj) - Ref 65,La Gomera,San Andrés Semetabaj,PEATONAL,50.06,156,BUENO
+TRM_66_97_0065,Tramo RN-15 Sacapulas (Guanagazapa - Panajachel) - Ref 66,Guanagazapa,Panajachel,TERRACERIA,63.19,83,BUENO
+TRM_67_98_0066,Tramo RN-11 Panajachel (San José - Santa Catarina Palopó) - Ref 67,San José,Santa Catarina Palopó,PEATONAL,39.88,62,REGULAR
+TRM_68_99_0067,Tramo RN-15 Sacapulas (Iztapa - San Antonio Palopó) - Ref 68,Iztapa,San Antonio Palopó,TERRACERIA,42.69,92,MALO
+TRM_69_100_0068,Tramo RN-7 Cobán-Quiché (Palín - San Lucas Tolimán) - Ref 69,Palín,San Lucas Tolimán,INTERAMERICANA,13.43,45,MALO
+TRM_70_101_0069,Tramo Ruta Nacional RN-1 (San Vicente Pacaya - Santa Cruz La Laguna) - Ref 70,San Vicente Pacaya,Santa Cruz La Laguna,TERRACERIA,44.46,136,BUENO
+TRM_71_102_0070,Tramo RN-7 Cobán-Quiché (Nueva Concepción - San Pablo La Laguna) - Ref 71,Nueva Concepción,San Pablo La Laguna,ACUATICA,70.71,97,BUENO
+TRM_72_103_0071,Tramo RN-11 Panajachel (Sipacate - San Marcos La Laguna) - Ref 72,Sipacate,San Marcos La Laguna,INTERAMERICANA,69.1,112,BUENO
+TRM_73_104_0072,Tramo RN-7 Cobán-Quiché (Cuilapa - San Juan La Laguna) - Ref 73,Cuilapa,San Juan La Laguna,ACUATICA,46.73,130,BUENO
+TRM_74_105_0073,Tramo RN-7 Cobán-Quiché (Barberena - San Pedro La Laguna) - Ref 74,Barberena,San Pedro La Laguna,INTERAMERICANA,30.55,81,BUENO
+TRM_75_106_0074,Tramo RN-11 Panajachel (Santa Rosa de Lima - Santiago Atitlán) - Ref 75,Santa Rosa de Lima,Santiago Atitlán,ACUATICA,50.88,140,MALO
+TRM_76_107_0075,Tramo CA-1 Occidente (Casillas - Totonicapán) - Ref 76,Casillas,Totonicapán,TERRACERIA,70.35,196,BUENO
+TRM_77_108_0076,Tramo RN-7 Cobán-Quiché (San Rafael Las Flores - San Cristóbal Totonicapán) - Ref 77,San Rafael Las Flores,San Cristóbal Totonicapán,INTERAMERICANA,29.72,82,BUENO
+TRM_78_109_0077,Tramo RN-11 Panajachel (Oratorio - San Francisco El Alto) - Ref 78,Oratorio,San Francisco El Alto,PEATONAL,26.47,86,BUENO
+TRM_79_110_0078,Tramo Ruta Nacional RN-1 (San Juan Tecuaco - San Andrés Xecul) - Ref 79,San Juan Tecuaco,San Andrés Xecul,PEATONAL,13.76,16,BUENO
+TRM_80_111_0079,Tramo Ruta Nacional RN-1 (Chiquimulilla - Momostenango) - Ref 80,Chiquimulilla,Momostenango,NACIONAL_ASFALTO,39.07,125,BUENO
+TRM_81_112_0080,Tramo Ruta Nacional RN-1 (Taxisco - Santa María Chiquimula) - Ref 81,Taxisco,Santa María Chiquimula,NACIONAL_ASFALTO,28.69,70,BUENO
+TRM_82_113_0081,Tramo RN-11 Panajachel (Santa María Ixhuatán - Santa Lucía La Reforma) - Ref 82,Santa María Ixhuatán,Santa Lucía La Reforma,NACIONAL_ASFALTO,23.95,30,BUENO
+TRM_83_114_0082,Tramo Ruta Nacional RN-1 (Guazacapán - San Bartolo) - Ref 83,Guazacapán,San Bartolo,TERRACERIA,50.11,88,BUENO
+TRM_84_115_0083,Tramo Ruta Nacional RN-1 (Santa Cruz Naranjo - Quetzaltenango) - Ref 84,Santa Cruz Naranjo,Quetzaltenango,NACIONAL_ASFALTO,12.88,27,BUENO
+TRM_85_116_0084,Tramo RN-15 Sacapulas (Pueblo Nuevo Viñas - Salcajá) - Ref 85,Pueblo Nuevo Viñas,Salcajá,TERRACERIA,19.07,28,BUENO
+TRM_86_117_0085,Tramo RN-7 Cobán-Quiché (Nueva Santa Rosa - Olintepeque) - Ref 86,Nueva Santa Rosa,Olintepeque,TERRACERIA,25.18,81,BUENO
+TRM_87_118_0086,Tramo RN-9 Salcajá (Lago De Atitlan - San Carlos Sija) - Ref 87,Lago De Atitlan,San Carlos Sija,TERRACERIA,36.56,101,BUENO
+TRM_88_119_0087,Tramo Ruta Nacional RN-1 (Sololá - Sibilia) - Ref 88,Sololá,Sibilia,PEATONAL,36.85,123,REGULAR
+TRM_89_120_0088,Tramo RN-7 Cobán-Quiché (San José Chacayá - Cabricán) - Ref 89,San José Chacayá,Cabricán,NACIONAL_ASFALTO,25.49,31,BUENO
+TRM_90_121_0089,Tramo RN-11 Panajachel (Santa María Visitación - Cajolá) - Ref 90,Santa María Visitación,Cajolá,INTERAMERICANA,72.02,185,BUENO
+TRM_91_122_0090,Tramo RN-15 Sacapulas (Santa Lucía Utatlán - San Miguel Sigüila) - Ref 91,Santa Lucía Utatlán,San Miguel Sigüila,ACUATICA,7.84,10,BUENO
+TRM_92_123_0091,Tramo CA-1 Occidente (Nahualá - Ostuncalco) - Ref 92,Nahualá,Ostuncalco,PEATONAL,69.7,215,BUENO
+TRM_93_124_0092,Tramo RN-9 Salcajá (Santa Catarina Ixtahuacán - San Mateo) - Ref 93,Santa Catarina Ixtahuacán,San Mateo,TERRACERIA,43.71,125,BUENO
+TRM_94_125_0093,Tramo RN-7 Cobán-Quiché (Santa Clara La Laguna - Concepción Chiquirichapa) - Ref 94,Santa Clara La Laguna,Concepción Chiquirichapa,INTERAMERICANA,63.71,212,BLOQUEADO
+TRM_95_126_0094,Tramo RN-11 Panajachel (Concepción - San Martín Sacatepéquez) - Ref 95,Concepción,San Martín Sacatepéquez,TERRACERIA,40.28,100,BUENO
+TRM_96_127_0095,Tramo RN-11 Panajachel (San Andrés Semetabaj - Almolonga) - Ref 96,San Andrés Semetabaj,Almolonga,NACIONAL_ASFALTO,28.03,77,BUENO
+TRM_97_128_0096,Tramo RN-7 Cobán-Quiché (Panajachel - Cantel) - Ref 97,Panajachel,Cantel,NACIONAL_ASFALTO,59.22,134,BUENO
+TRM_98_129_0097,Tramo RN-15 Sacapulas (Santa Catarina Palopó - Huitán) - Ref 98,Santa Catarina Palopó,Huitán,PEATONAL,8.99,13,BUENO
+TRM_99_130_0098,Tramo RN-11 Panajachel (San Antonio Palopó - Zunil) - Ref 99,San Antonio Palopó,Zunil,NACIONAL_ASFALTO,58.96,181,BUENO
+TRM_100_131_0099,Tramo CA-1 Occidente (San Lucas Tolimán - Colomba) - Ref 100,San Lucas Tolimán,Colomba,ACUATICA,36.6,112,BUENO
+TRM_101_132_0100,Tramo RN-15 Sacapulas (Santa Cruz La Laguna - San Francisco La Unión) - Ref 101,Santa Cruz La Laguna,San Francisco La Unión,TERRACERIA,39.67,57,BUENO
+TRM_102_133_0101,Tramo RN-7 Cobán-Quiché (San Pablo La Laguna - El Palmar) - Ref 102,San Pablo La Laguna,El Palmar,PEATONAL,45.28,111,BUENO
+TRM_103_134_0102,Tramo CA-1 Occidente (San Marcos La Laguna - Coatepeque) - Ref 103,San Marcos La Laguna,Coatepeque,INTERAMERICANA,28.9,96,REGULAR
+TRM_104_135_0103,Tramo RN-15 Sacapulas (San Juan La Laguna - Génova) - Ref 104,San Juan La Laguna,Génova,ACUATICA,30.13,93,REGULAR
+TRM_105_136_0104,Tramo RN-11 Panajachel (San Pedro La Laguna - Flores Costa Cuca) - Ref 105,San Pedro La Laguna,Flores Costa Cuca,ACUATICA,54.24,163,BUENO
+TRM_106_137_0105,Tramo RN-15 Sacapulas (Santiago Atitlán - La Esperanza) - Ref 106,Santiago Atitlán,La Esperanza,ACUATICA,73.53,147,BUENO
+TRM_107_138_0106,Tramo RN-15 Sacapulas (Totonicapán - Palestina de Los Altos) - Ref 107,Totonicapán,Palestina de Los Altos,INTERAMERICANA,16.33,48,REGULAR
+TRM_108_139_0107,Tramo Ruta Nacional RN-1 (San Cristóbal Totonicapán - Mazatenango) - Ref 108,San Cristóbal Totonicapán,Mazatenango,ACUATICA,16.58,40,BUENO
+TRM_109_140_0108,Tramo RN-15 Sacapulas (San Francisco El Alto - Cuyotenango) - Ref 109,San Francisco El Alto,Cuyotenango,INTERAMERICANA,12.38,23,BUENO
+TRM_110_141_0109,Tramo RN-11 Panajachel (San Andrés Xecul - San Francisco Zapotitlán) - Ref 110,San Andrés Xecul,San Francisco Zapotitlán,ACUATICA,46.19,74,REGULAR
+TRM_111_142_0110,Tramo Ruta Nacional RN-1 (Momostenango - San Bernardino) - Ref 111,Momostenango,San Bernardino,NACIONAL_ASFALTO,69.16,94,BUENO
+TRM_112_143_0111,Tramo RN-15 Sacapulas (Santa María Chiquimula - San José El Ídolo) - Ref 112,Santa María Chiquimula,San José El Ídolo,INTERAMERICANA,50.18,99,REGULAR
+TRM_113_144_0112,Tramo RN-7 Cobán-Quiché (Santa Lucía La Reforma - Santo Domingo Suchitepéquez) - Ref 113,Santa Lucía La Reforma,Santo Domingo Suchitepéquez,TERRACERIA,53.4,153,BUENO
+TRM_114_145_0113,Tramo CA-1 Occidente (San Bartolo - San Lorenzo) - Ref 114,San Bartolo,San Lorenzo,PEATONAL,19.92,44,BUENO
+TRM_115_146_0114,Tramo RN-7 Cobán-Quiché (Quetzaltenango - Samayac) - Ref 115,Quetzaltenango,Samayac,INTERAMERICANA,39.53,89,BUENO
+TRM_116_147_0115,Tramo RN-9 Salcajá (Salcajá - San Pablo Jocopilas) - Ref 116,Salcajá,San Pablo Jocopilas,PEATONAL,64.85,207,BUENO
+TRM_117_148_0116,Tramo RN-11 Panajachel (Olintepeque - San Antonio Suchitepéquez) - Ref 117,Olintepeque,San Antonio Suchitepéquez,NACIONAL_ASFALTO,59.15,153,MALO
+TRM_118_149_0117,Tramo RN-7 Cobán-Quiché (San Carlos Sija - San Miguel Panán) - Ref 118,San Carlos Sija,San Miguel Panán,TERRACERIA,55.64,156,MALO
+TRM_119_150_0118,Tramo RN-11 Panajachel (Sibilia - San Gabriel) - Ref 119,Sibilia,San Gabriel,NACIONAL_ASFALTO,68.62,234,BUENO
+TRM_120_151_0119,Tramo RN-7 Cobán-Quiché (Cabricán - Chicacao) - Ref 120,Cabricán,Chicacao,NACIONAL_ASFALTO,58.03,186,BUENO
+TRM_121_152_0120,Tramo RN-11 Panajachel (Cajolá - Patulul) - Ref 121,Cajolá,Patulul,ACUATICA,72.46,186,BUENO
+TRM_122_153_0121,Tramo RN-11 Panajachel (San Miguel Sigüila - Santa Bárbara) - Ref 122,San Miguel Sigüila,Santa Bárbara,PEATONAL,17.05,23,REGULAR
+TRM_123_154_0122,Tramo Ruta Nacional RN-1 (Ostuncalco - San Juan Bautista) - Ref 123,Ostuncalco,San Juan Bautista,INTERAMERICANA,45.83,106,REGULAR
+TRM_124_155_0123,Tramo RN-9 Salcajá (San Mateo - Santo Tomás La Unión) - Ref 124,San Mateo,Santo Tomás La Unión,PEATONAL,39.78,101,BUENO
+TRM_125_156_0124,Tramo RN-9 Salcajá (Concepción Chiquirichapa - Zunilito) - Ref 125,Concepción Chiquirichapa,Zunilito,TERRACERIA,15.54,31,BUENO
+TRM_126_157_0125,Tramo Ruta Nacional RN-1 (San Martín Sacatepéquez - Pueblo Nuevo) - Ref 126,San Martín Sacatepéquez,Pueblo Nuevo,PEATONAL,34.3,104,REGULAR
+TRM_127_158_0126,Tramo CA-1 Occidente (Almolonga - Río Bravo) - Ref 127,Almolonga,Río Bravo,INTERAMERICANA,73.25,106,BUENO
+TRM_128_159_0127,Tramo CA-1 Occidente (Cantel - San José La Máquina) - Ref 128,Cantel,San José La Máquina,PEATONAL,5.56,16,BUENO
+TRM_129_160_0128,Tramo RN-15 Sacapulas (Huitán - Retalhuleu) - Ref 129,Huitán,Retalhuleu,NACIONAL_ASFALTO,52.13,179,BLOQUEADO
+TRM_130_161_0129,Tramo RN-11 Panajachel (Zunil - San Sebastián) - Ref 130,Zunil,San Sebastián,NACIONAL_ASFALTO,72.62,189,BUENO
+TRM_131_162_0130,Tramo RN-7 Cobán-Quiché (Colomba - Santa Cruz Muluá) - Ref 131,Colomba,Santa Cruz Muluá,INTERAMERICANA,18.74,28,BUENO
+TRM_132_163_0131,Tramo RN-9 Salcajá (San Francisco La Unión - San Martín Zapotitlán) - Ref 132,San Francisco La Unión,San Martín Zapotitlán,INTERAMERICANA,38.9,53,BUENO
+TRM_133_164_0132,Tramo RN-7 Cobán-Quiché (El Palmar - San Felipe) - Ref 133,El Palmar,San Felipe,INTERAMERICANA,37.11,93,MALO
+TRM_134_165_0133,Tramo RN-7 Cobán-Quiché (Coatepeque - San Andrés Villa Seca) - Ref 134,Coatepeque,San Andrés Villa Seca,INTERAMERICANA,23.91,59,BUENO
+TRM_135_166_0134,Tramo RN-7 Cobán-Quiché (Génova - Champerico) - Ref 135,Génova,Champerico,TERRACERIA,50.84,101,BUENO
+TRM_136_167_0135,Tramo CA-1 Occidente (Flores Costa Cuca - Nuevo San Carlos) - Ref 136,Flores Costa Cuca,Nuevo San Carlos,NACIONAL_ASFALTO,64.83,183,BUENO
+TRM_137_168_0136,Tramo Ruta Nacional RN-1 (La Esperanza - El Asintal) - Ref 137,La Esperanza,El Asintal,TERRACERIA,72.14,160,REGULAR
+TRM_138_169_0137,Tramo Ruta Nacional RN-1 (Palestina de Los Altos - San Marcos) - Ref 138,Palestina de Los Altos,San Marcos,TERRACERIA,21.76,32,BUENO
+TRM_139_170_0138,Tramo RN-11 Panajachel (Mazatenango - San Pedro Sacatepéquez) - Ref 139,Mazatenango,San Pedro Sacatepéquez,INTERAMERICANA,49.89,133,BUENO
+TRM_140_171_0139,Tramo CA-1 Occidente (Cuyotenango - San Antonio Sacatepéquez) - Ref 140,Cuyotenango,San Antonio Sacatepéquez,TERRACERIA,20.97,66,BUENO
+TRM_141_172_0140,Tramo Ruta Nacional RN-1 (San Francisco Zapotitlán - Comitancillo) - Ref 141,San Francisco Zapotitlán,Comitancillo,ACUATICA,10.43,30,BUENO
+TRM_142_173_0141,Tramo RN-7 Cobán-Quiché (San Bernardino - San Miguel Ixtahuacán) - Ref 142,San Bernardino,San Miguel Ixtahuacán,INTERAMERICANA,34.49,70,BUENO
+TRM_143_174_0142,Tramo CA-1 Occidente (San José El Ídolo - Concepción Tutuapa) - Ref 143,San José El Ídolo,Concepción Tutuapa,PEATONAL,72.54,198,BUENO
+TRM_144_175_0143,Tramo RN-9 Salcajá (Santo Domingo Suchitepéquez - Tacaná) - Ref 144,Santo Domingo Suchitepéquez,Tacaná,INTERAMERICANA,54.93,134,BUENO
+TRM_145_176_0144,Tramo RN-7 Cobán-Quiché (San Lorenzo - Sibinal) - Ref 145,San Lorenzo,Sibinal,INTERAMERICANA,49.47,75,BUENO
+TRM_146_177_0145,Tramo RN-9 Salcajá (Samayac - Tajumulco) - Ref 146,Samayac,Tajumulco,NACIONAL_ASFALTO,51.64,177,MALO
+TRM_147_178_0146,Tramo CA-1 Occidente (San Pablo Jocopilas - Tejutla) - Ref 147,San Pablo Jocopilas,Tejutla,TERRACERIA,62.17,157,BUENO
+TRM_148_179_0147,Tramo CA-1 Occidente (San Antonio Suchitepéquez - San Rafael Pie de la Cuesta) - Ref 148,San Antonio Suchitepéquez,San Rafael Pie de la Cuesta,INTERAMERICANA,46.21,99,BUENO
+TRM_149_180_0148,Tramo RN-11 Panajachel (San Miguel Panán - Nuevo Progreso) - Ref 149,San Miguel Panán,Nuevo Progreso,NACIONAL_ASFALTO,53.47,94,BUENO
+TRM_150_181_0149,Tramo RN-7 Cobán-Quiché (San Gabriel - El Tumbador) - Ref 150,San Gabriel,El Tumbador,NACIONAL_ASFALTO,49.74,148,BUENO
+TRM_151_182_0150,Tramo CA-1 Occidente (Chicacao - El Rodeo) - Ref 151,Chicacao,El Rodeo,NACIONAL_ASFALTO,46.9,105,BUENO
+TRM_152_183_0151,Tramo RN-9 Salcajá (Patulul - Malacatán) - Ref 152,Patulul,Malacatán,NACIONAL_ASFALTO,61.07,128,REGULAR
+TRM_153_184_0152,Tramo RN-11 Panajachel (Santa Bárbara - Catarina) - Ref 153,Santa Bárbara,Catarina,NACIONAL_ASFALTO,62.3,162,BUENO
+TRM_154_185_0153,Tramo RN-9 Salcajá (San Juan Bautista - Ayutla) - Ref 154,San Juan Bautista,Ayutla,PEATONAL,31.65,75,BUENO
+TRM_155_186_0154,Tramo Ruta Nacional RN-1 (Santo Tomás La Unión - Ocós) - Ref 155,Santo Tomás La Unión,Ocós,NACIONAL_ASFALTO,39.87,120,BUENO
+TRM_156_187_0155,Tramo Ruta Nacional RN-1 (Zunilito - San Pablo) - Ref 156,Zunilito,San Pablo,PEATONAL,47.05,77,BUENO
+TRM_157_188_0156,Tramo CA-1 Occidente (Pueblo Nuevo - El Quetzal) - Ref 157,Pueblo Nuevo,El Quetzal,ACUATICA,72.94,217,BUENO
+TRM_158_189_0157,Tramo RN-7 Cobán-Quiché (Río Bravo - La Reforma) - Ref 158,Río Bravo,La Reforma,PEATONAL,60.1,88,REGULAR
+TRM_159_190_0158,Tramo CA-1 Occidente (San José La Máquina - Pajapita) - Ref 159,San José La Máquina,Pajapita,PEATONAL,33.61,99,MALO
+TRM_160_191_0159,Tramo RN-7 Cobán-Quiché (Retalhuleu - Ixchiguán) - Ref 160,Retalhuleu,Ixchiguán,PEATONAL,30.92,41,REGULAR
+TRM_161_192_0160,Tramo RN-11 Panajachel (San Sebastián - San José Ojetenam) - Ref 161,San Sebastián,San José Ojetenam,NACIONAL_ASFALTO,53.22,106,REGULAR
+TRM_162_193_0161,Tramo RN-7 Cobán-Quiché (Santa Cruz Muluá - San Cristóbal Cucho) - Ref 162,Santa Cruz Muluá,San Cristóbal Cucho,TERRACERIA,39.59,130,BUENO
+TRM_163_194_0162,Tramo Ruta Nacional RN-1 (San Martín Zapotitlán - Sipacapa) - Ref 163,San Martín Zapotitlán,Sipacapa,PEATONAL,38.21,116,REGULAR
+TRM_164_195_0163,Tramo RN-11 Panajachel (San Felipe - Esquipulas Palo Gordo) - Ref 164,San Felipe,Esquipulas Palo Gordo,ACUATICA,19.48,65,BUENO
+TRM_165_196_0164,Tramo RN-7 Cobán-Quiché (San Andrés Villa Seca - Río Blanco) - Ref 165,San Andrés Villa Seca,Río Blanco,TERRACERIA,62.41,210,BUENO
+TRM_166_197_0165,Tramo CA-1 Occidente (Champerico - San Lorenzo) - Ref 166,Champerico,San Lorenzo,TERRACERIA,51.57,68,REGULAR
+TRM_167_198_0166,Tramo Ruta Nacional RN-1 (Nuevo San Carlos - La Blanca) - Ref 167,Nuevo San Carlos,La Blanca,NACIONAL_ASFALTO,24.76,65,REGULAR
+TRM_168_199_0167,Tramo RN-11 Panajachel (El Asintal - Huehuetenango) - Ref 168,El Asintal,Huehuetenango,INTERAMERICANA,14.33,22,BUENO
+TRM_169_200_0168,Tramo RN-7 Cobán-Quiché (San Marcos - Chiantla) - Ref 169,San Marcos,Chiantla,NACIONAL_ASFALTO,71.87,209,MALO
+TRM_170_201_0169,Tramo Ruta Nacional RN-1 (San Pedro Sacatepéquez - Malacatancito) - Ref 170,San Pedro Sacatepéquez,Malacatancito,NACIONAL_ASFALTO,46.6,65,REGULAR
+TRM_171_202_0170,Tramo RN-15 Sacapulas (San Antonio Sacatepéquez - Cuilco) - Ref 171,San Antonio Sacatepéquez,Cuilco,TERRACERIA,31.97,39,BUENO
+TRM_172_203_0171,Tramo RN-7 Cobán-Quiché (Comitancillo - Nentón) - Ref 172,Comitancillo,Nentón,TERRACERIA,29.89,65,BUENO
+TRM_173_204_0172,Tramo CA-1 Occidente (San Miguel Ixtahuacán - San Pedro Necta) - Ref 173,San Miguel Ixtahuacán,San Pedro Necta,PEATONAL,15.57,24,BUENO
+TRM_174_205_0173,Tramo RN-9 Salcajá (Concepción Tutuapa - Jacaltenango) - Ref 174,Concepción Tutuapa,Jacaltenango,ACUATICA,16.28,26,BUENO
+TRM_175_206_0174,Tramo RN-11 Panajachel (Tacaná - Soloma) - Ref 175,Tacaná,Soloma,TERRACERIA,50.25,105,BUENO
+TRM_176_207_0175,Tramo Ruta Nacional RN-1 (Sibinal - Ixtahuacán) - Ref 176,Sibinal,Ixtahuacán,TERRACERIA,72.9,104,BUENO
+TRM_177_208_0176,Tramo RN-7 Cobán-Quiché (Tajumulco - Santa Bárbara) - Ref 177,Tajumulco,Santa Bárbara,TERRACERIA,42.92,81,BUENO
+TRM_178_209_0177,Tramo RN-11 Panajachel (Tejutla - La Libertad) - Ref 178,Tejutla,La Libertad,ACUATICA,9.77,25,BUENO
+TRM_179_210_0178,Tramo Ruta Nacional RN-1 (San Rafael Pie de la Cuesta - La Democracia) - Ref 179,San Rafael Pie de la Cuesta,La Democracia,NACIONAL_ASFALTO,54.64,76,BUENO
+TRM_180_211_0179,Tramo RN-9 Salcajá (Nuevo Progreso - San Miguel Acatán) - Ref 180,Nuevo Progreso,San Miguel Acatán,PEATONAL,25.59,51,BUENO
+TRM_181_212_0180,Tramo RN-7 Cobán-Quiché (El Tumbador - San Rafael La Independencia) - Ref 181,El Tumbador,San Rafael La Independencia,PEATONAL,12.32,34,BUENO
+TRM_182_213_0181,Tramo RN-7 Cobán-Quiché (El Rodeo - Todos Santos Cuchumatán) - Ref 182,El Rodeo,Todos Santos Cuchumatán,ACUATICA,50.43,134,REGULAR
+TRM_183_214_0182,Tramo RN-15 Sacapulas (Malacatán - San Juan Atitán) - Ref 183,Malacatán,San Juan Atitán,PEATONAL,13.19,30,BUENO
+TRM_184_215_0183,Tramo RN-9 Salcajá (Catarina - Santa Eulalia) - Ref 184,Catarina,Santa Eulalia,ACUATICA,59.42,102,BUENO
+TRM_185_216_0184,Tramo RN-7 Cobán-Quiché (Ayutla - San Mateo Ixtatán) - Ref 185,Ayutla,San Mateo Ixtatán,NACIONAL_ASFALTO,28.97,73,BUENO
+TRM_186_217_0185,Tramo RN-9 Salcajá (Ocós - Colotenango) - Ref 186,Ocós,Colotenango,ACUATICA,19.04,37,BUENO
+TRM_187_218_0186,Tramo RN-9 Salcajá (San Pablo - San Sebastián Huehuetenango) - Ref 187,San Pablo,San Sebastián Huehuetenango,NACIONAL_ASFALTO,37.51,131,BUENO
+TRM_188_219_0187,Tramo RN-15 Sacapulas (El Quetzal - Tectitán) - Ref 188,El Quetzal,Tectitán,ACUATICA,49.08,163,REGULAR
+TRM_189_220_0188,Tramo Ruta Nacional RN-1 (La Reforma - Concepción Huista) - Ref 189,La Reforma,Concepción Huista,NACIONAL_ASFALTO,8.48,23,BUENO
+TRM_190_221_0189,Tramo RN-11 Panajachel (Pajapita - San Juan Ixcoy) - Ref 190,Pajapita,San Juan Ixcoy,TERRACERIA,45.49,129,BUENO
+TRM_191_222_0190,Tramo RN-15 Sacapulas (Ixchiguán - San Antonio Huista) - Ref 191,Ixchiguán,San Antonio Huista,INTERAMERICANA,17.45,44,BUENO
+TRM_192_223_0191,Tramo Ruta Nacional RN-1 (San José Ojetenam - San Sebastián Coatán) - Ref 192,San José Ojetenam,San Sebastián Coatán,NACIONAL_ASFALTO,11.62,27,MALO
+TRM_193_224_0192,Tramo RN-11 Panajachel (San Cristóbal Cucho - Barillas) - Ref 193,San Cristóbal Cucho,Barillas,PEATONAL,71.76,169,BUENO
+TRM_194_225_0193,Tramo RN-11 Panajachel (Sipacapa - Aguacatán) - Ref 194,Sipacapa,Aguacatán,NACIONAL_ASFALTO,42.7,119,BUENO
+TRM_195_226_0194,Tramo Ruta Nacional RN-1 (Esquipulas Palo Gordo - San Rafael Petzal) - Ref 195,Esquipulas Palo Gordo,San Rafael Petzal,ACUATICA,48.3,117,BUENO
+TRM_196_227_0195,Tramo RN-15 Sacapulas (Río Blanco - San Gaspar Ixchil) - Ref 196,Río Blanco,San Gaspar Ixchil,TERRACERIA,11.42,33,BUENO
+TRM_197_228_0196,Tramo RN-7 Cobán-Quiché (San Lorenzo - Santiago Chimaltenango) - Ref 197,San Lorenzo,Santiago Chimaltenango,NACIONAL_ASFALTO,72.31,148,BUENO
+TRM_198_229_0197,Tramo RN-11 Panajachel (La Blanca - Santa Ana Huista) - Ref 198,La Blanca,Santa Ana Huista,NACIONAL_ASFALTO,21.71,38,BUENO
+TRM_199_230_0198,Tramo RN-15 Sacapulas (Huehuetenango - Unión Cantinil) - Ref 199,Huehuetenango,Unión Cantinil,ACUATICA,68.48,223,BUENO
+TRM_200_231_0199,Tramo RN-11 Panajachel (Chiantla - Petatán) - Ref 200,Chiantla,Petatán,PEATONAL,52.64,155,BUENO
+TRM_201_232_0200,Tramo CA-1 Occidente (Malacatancito - Santa Cruz del Quiché) - Ref 201,Malacatancito,Santa Cruz del Quiché,PEATONAL,47.32,90,BUENO
+TRM_202_233_0201,Tramo RN-11 Panajachel (Cuilco - Chiché) - Ref 202,Cuilco,Chiché,NACIONAL_ASFALTO,24.5,29,BUENO
+TRM_203_234_0202,Tramo RN-7 Cobán-Quiché (Nentón - Chinique) - Ref 203,Nentón,Chinique,INTERAMERICANA,12.08,18,BUENO
+TRM_204_235_0203,Tramo CA-1 Occidente (San Pedro Necta - Zacualpa) - Ref 204,San Pedro Necta,Zacualpa,NACIONAL_ASFALTO,40.3,58,BUENO
+TRM_205_236_0204,Tramo RN-7 Cobán-Quiché (Jacaltenango - Chajul) - Ref 205,Jacaltenango,Chajul,PEATONAL,7.67,25,BUENO
+TRM_206_237_0205,Tramo RN-9 Salcajá (Soloma - Chichicastenango) - Ref 206,Soloma,Chichicastenango,INTERAMERICANA,57.01,148,BUENO
+TRM_207_238_0206,Tramo RN-11 Panajachel (Ixtahuacán - Patzité) - Ref 207,Ixtahuacán,Patzité,TERRACERIA,34.04,77,BUENO
+TRM_208_239_0207,Tramo RN-7 Cobán-Quiché (Santa Bárbara - San Antonio Ilotenango) - Ref 208,Santa Bárbara,San Antonio Ilotenango,ACUATICA,61.77,192,REGULAR
+TRM_209_240_0208,Tramo CA-1 Occidente (La Libertad - San Pedro Jocopilas) - Ref 209,La Libertad,San Pedro Jocopilas,PEATONAL,20.09,49,BUENO
+TRM_210_241_0209,Tramo CA-1 Occidente (La Democracia - Cunén) - Ref 210,La Democracia,Cunén,ACUATICA,31.1,58,BUENO
+TRM_211_242_0210,Tramo RN-7 Cobán-Quiché (San Miguel Acatán - San Juan Cotzal) - Ref 211,San Miguel Acatán,San Juan Cotzal,NACIONAL_ASFALTO,28.99,97,BUENO
+TRM_212_243_0211,Tramo CA-1 Occidente (San Rafael La Independencia - Joyabaj) - Ref 212,San Rafael La Independencia,Joyabaj,TERRACERIA,61.15,79,BUENO
+TRM_213_244_0212,Tramo RN-15 Sacapulas (Todos Santos Cuchumatán - Nebaj) - Ref 213,Todos Santos Cuchumatán,Nebaj,TERRACERIA,64.4,91,BUENO
+TRM_214_245_0213,Tramo CA-1 Occidente (San Juan Atitán - San Andrés Sajcabajá) - Ref 214,San Juan Atitán,San Andrés Sajcabajá,TERRACERIA,60.59,146,BUENO
+TRM_215_246_0214,Tramo RN-9 Salcajá (Santa Eulalia - Uspantán) - Ref 215,Santa Eulalia,Uspantán,NACIONAL_ASFALTO,51.75,89,MALO
+TRM_216_247_0215,Tramo RN-15 Sacapulas (San Mateo Ixtatán - Sacapulas) - Ref 216,San Mateo Ixtatán,Sacapulas,INTERAMERICANA,40.5,125,BUENO
+TRM_217_248_0216,Tramo RN-9 Salcajá (Colotenango - San Bartolomé Jocotenango) - Ref 217,Colotenango,San Bartolomé Jocotenango,TERRACERIA,66.45,218,BUENO
+TRM_218_249_0217,Tramo RN-9 Salcajá (San Sebastián Huehuetenango - Canillá) - Ref 218,San Sebastián Huehuetenango,Canillá,INTERAMERICANA,31.33,90,BUENO
+TRM_219_250_0218,Tramo RN-11 Panajachel (Tectitán - Chicamán) - Ref 219,Tectitán,Chicamán,PEATONAL,67.13,131,BUENO
+TRM_220_251_0219,Tramo Ruta Nacional RN-1 (Concepción Huista - Ixcán) - Ref 220,Concepción Huista,Ixcán,ACUATICA,10.9,33,BUENO
+TRM_221_252_0220,Tramo RN-15 Sacapulas (San Juan Ixcoy - Pachalum) - Ref 221,San Juan Ixcoy,Pachalum,NACIONAL_ASFALTO,31.41,76,REGULAR
+TRM_222_253_0221,Tramo RN-9 Salcajá (San Antonio Huista - Salamá) - Ref 222,San Antonio Huista,Salamá,PEATONAL,65.63,115,REGULAR
+TRM_223_254_0222,Tramo RN-11 Panajachel (San Sebastián Coatán - San Miguel Chicaj) - Ref 223,San Sebastián Coatán,San Miguel Chicaj,NACIONAL_ASFALTO,71.33,131,BUENO
+TRM_224_255_0223,Tramo RN-7 Cobán-Quiché (Barillas - Rabinal) - Ref 224,Barillas,Rabinal,INTERAMERICANA,6.77,12,BUENO
+TRM_225_256_0224,Tramo RN-11 Panajachel (Aguacatán - Cubulco) - Ref 225,Aguacatán,Cubulco,ACUATICA,72.22,222,BUENO
+TRM_226_257_0225,Tramo RN-15 Sacapulas (San Rafael Petzal - Granados) - Ref 226,San Rafael Petzal,Granados,ACUATICA,9.74,23,BUENO
+TRM_227_258_0226,Tramo RN-9 Salcajá (San Gaspar Ixchil - El Chol) - Ref 227,San Gaspar Ixchil,El Chol,TERRACERIA,26.06,85,REGULAR
+TRM_228_259_0227,Tramo CA-1 Occidente (Santiago Chimaltenango - San Jerónimo) - Ref 228,Santiago Chimaltenango,San Jerónimo,PEATONAL,13.47,17,BUENO
+TRM_229_260_0228,Tramo RN-11 Panajachel (Santa Ana Huista - Purulhá) - Ref 229,Santa Ana Huista,Purulhá,ACUATICA,38.19,51,BUENO
+TRM_230_261_0229,Tramo CA-1 Occidente (Unión Cantinil - Cobán) - Ref 230,Unión Cantinil,Cobán,INTERAMERICANA,64.94,80,REGULAR
+TRM_231_262_0230,Tramo RN-11 Panajachel (Petatán - Santa Cruz Verapaz) - Ref 231,Petatán,Santa Cruz Verapaz,ACUATICA,8.6,15,BUENO
+TRM_232_263_0231,Tramo CA-1 Occidente (Santa Cruz del Quiché - San Cristóbal Verapaz) - Ref 232,Santa Cruz del Quiché,San Cristóbal Verapaz,NACIONAL_ASFALTO,72.02,153,BUENO
+TRM_233_264_0232,Tramo RN-7 Cobán-Quiché (Chiché - Tactic) - Ref 233,Chiché,Tactic,TERRACERIA,43.43,129,REGULAR
+TRM_234_265_0233,Tramo Ruta Nacional RN-1 (Chinique - Tamahú) - Ref 234,Chinique,Tamahú,TERRACERIA,15.87,49,BUENO
+TRM_235_266_0234,Tramo Ruta Nacional RN-1 (Zacualpa - Tucurú) - Ref 235,Zacualpa,Tucurú,INTERAMERICANA,13.62,36,MALO
+TRM_236_267_0235,Tramo RN-15 Sacapulas (Chajul - Panzós) - Ref 236,Chajul,Panzós,PEATONAL,43.37,71,BUENO
+TRM_237_268_0236,Tramo RN-15 Sacapulas (Chichicastenango - Senahú) - Ref 237,Chichicastenango,Senahú,INTERAMERICANA,41.05,128,BUENO
+TRM_238_269_0237,Tramo RN-11 Panajachel (Patzité - San Pedro Carchá) - Ref 238,Patzité,San Pedro Carchá,PEATONAL,45.34,66,BUENO
+TRM_239_270_0238,Tramo RN-11 Panajachel (San Antonio Ilotenango - San Juan Chamelco) - Ref 239,San Antonio Ilotenango,San Juan Chamelco,NACIONAL_ASFALTO,21.54,31,BUENO
+TRM_240_271_0239,Tramo RN-11 Panajachel (San Pedro Jocopilas - Lanquín) - Ref 240,San Pedro Jocopilas,Lanquín,INTERAMERICANA,9.03,17,BUENO
+TRM_241_272_0240,Tramo RN-11 Panajachel (Cunén - Cahabón) - Ref 241,Cunén,Cahabón,NACIONAL_ASFALTO,15.18,27,BUENO
+TRM_242_273_0241,Tramo CA-1 Occidente (San Juan Cotzal - Chisec) - Ref 242,San Juan Cotzal,Chisec,NACIONAL_ASFALTO,59.84,190,REGULAR
+TRM_243_274_0242,Tramo RN-9 Salcajá (Joyabaj - Chahal) - Ref 243,Joyabaj,Chahal,INTERAMERICANA,41.39,133,BLOQUEADO
+TRM_244_275_0243,Tramo Ruta Nacional RN-1 (Nebaj - Fray Bartolomé de Las Casas) - Ref 244,Nebaj,Fray Bartolomé de Las Casas,NACIONAL_ASFALTO,26.28,70,REGULAR
+TRM_245_276_0244,Tramo RN-11 Panajachel (San Andrés Sajcabajá - Santa Catalina La Tinta) - Ref 245,San Andrés Sajcabajá,Santa Catalina La Tinta,PEATONAL,68.59,152,BUENO
+TRM_246_277_0245,Tramo RN-15 Sacapulas (Uspantán - Raxruhá) - Ref 246,Uspantán,Raxruhá,ACUATICA,57.12,96,BUENO
+TRM_247_278_0246,Tramo RN-11 Panajachel (Sacapulas - Flores) - Ref 247,Sacapulas,Flores,ACUATICA,30.63,58,BUENO
+TRM_248_279_0247,Tramo RN-11 Panajachel (San Bartolomé Jocotenango - San José) - Ref 248,San Bartolomé Jocotenango,San José,INTERAMERICANA,29.2,60,BUENO
+TRM_249_280_0248,Tramo RN-11 Panajachel (Canillá - San Benito) - Ref 249,Canillá,San Benito,ACUATICA,47.78,134,BUENO
+TRM_250_281_0249,Tramo Ruta Nacional RN-1 (Chicamán - San Andrés) - Ref 250,Chicamán,San Andrés,INTERAMERICANA,72.94,231,BUENO
+TRM_251_282_0250,Tramo CA-1 Occidente (Ixcán - La Libertad) - Ref 251,Ixcán,La Libertad,INTERAMERICANA,15.24,30,BUENO
+TRM_252_283_0251,Tramo RN-11 Panajachel (Pachalum - San Francisco) - Ref 252,Pachalum,San Francisco,NACIONAL_ASFALTO,35.35,104,REGULAR
+TRM_253_284_0252,Tramo RN-7 Cobán-Quiché (Salamá - Santa Ana) - Ref 253,Salamá,Santa Ana,ACUATICA,74.12,161,BUENO
+TRM_254_285_0253,Tramo Ruta Nacional RN-1 (San Miguel Chicaj - Dolores) - Ref 254,San Miguel Chicaj,Dolores,PEATONAL,43.2,122,BUENO
+TRM_255_286_0254,Tramo RN-15 Sacapulas (Rabinal - San Luis) - Ref 255,Rabinal,San Luis,ACUATICA,55.24,157,BUENO
+TRM_256_287_0255,Tramo RN-11 Panajachel (Cubulco - Sayaxché) - Ref 256,Cubulco,Sayaxché,INTERAMERICANA,73.61,175,BUENO
+TRM_257_288_0256,Tramo RN-15 Sacapulas (Granados - Melchor de Mencos) - Ref 257,Granados,Melchor de Mencos,PEATONAL,60.17,141,MALO
+TRM_258_289_0257,Tramo RN-9 Salcajá (El Chol - Poptún) - Ref 258,El Chol,Poptún,ACUATICA,34.1,64,REGULAR
+TRM_259_290_0258,Tramo RN-9 Salcajá (San Jerónimo - Las Cruces) - Ref 259,San Jerónimo,Las Cruces,INTERAMERICANA,10.7,28,BUENO
+TRM_260_291_0259,Tramo RN-7 Cobán-Quiché (Purulhá - El Chal) - Ref 260,Purulhá,El Chal,NACIONAL_ASFALTO,26.96,89,REGULAR
+TRM_261_292_0260,Tramo CA-1 Occidente (Cobán - Puerto Barrios) - Ref 261,Cobán,Puerto Barrios,INTERAMERICANA,44.93,138,BUENO
+TRM_262_293_0261,Tramo RN-15 Sacapulas (Santa Cruz Verapaz - Lívingston) - Ref 262,Santa Cruz Verapaz,Lívingston,PEATONAL,56.44,74,BUENO
+TRM_263_294_0262,Tramo CA-1 Occidente (San Cristóbal Verapaz - El Estor) - Ref 263,San Cristóbal Verapaz,El Estor,TERRACERIA,33.37,97,BUENO
+TRM_264_295_0263,Tramo RN-7 Cobán-Quiché (Tactic - Morales) - Ref 264,Tactic,Morales,ACUATICA,32.99,41,BUENO
+TRM_265_296_0264,Tramo RN-11 Panajachel (Tamahú - Los Amates) - Ref 265,Tamahú,Los Amates,INTERAMERICANA,47.24,149,BUENO
+TRM_266_297_0265,Tramo RN-7 Cobán-Quiché (Tucurú - Zacapa) - Ref 266,Tucurú,Zacapa,TERRACERIA,52.29,139,BUENO
+TRM_267_298_0266,Tramo RN-15 Sacapulas (Panzós - Estanzuela) - Ref 267,Panzós,Estanzuela,ACUATICA,32.33,43,BUENO
+TRM_268_299_0267,Tramo CA-1 Occidente (Senahú - Río Hondo) - Ref 268,Senahú,Río Hondo,INTERAMERICANA,56.68,170,REGULAR
+TRM_269_300_0268,Tramo RN-15 Sacapulas (San Pedro Carchá - Gualán) - Ref 269,San Pedro Carchá,Gualán,PEATONAL,43.53,142,BUENO
+TRM_270_301_0269,Tramo RN-15 Sacapulas (San Juan Chamelco - Teculután) - Ref 270,San Juan Chamelco,Teculután,NACIONAL_ASFALTO,39.3,92,BUENO
+TRM_271_302_0270,Tramo RN-15 Sacapulas (Lanquín - Usumatlán) - Ref 271,Lanquín,Usumatlán,PEATONAL,7.3,20,BUENO
+TRM_272_303_0271,Tramo RN-15 Sacapulas (Cahabón - Cabañas) - Ref 272,Cahabón,Cabañas,TERRACERIA,55.07,154,BUENO
+TRM_273_304_0272,Tramo RN-15 Sacapulas (Chisec - San Diego) - Ref 273,Chisec,San Diego,NACIONAL_ASFALTO,68.29,116,BUENO
+TRM_274_305_0273,Tramo RN-7 Cobán-Quiché (Chahal - La Unión) - Ref 274,Chahal,La Unión,TERRACERIA,40.1,75,MALO
+TRM_275_306_0274,Tramo RN-7 Cobán-Quiché (Fray Bartolomé de Las Casas - Huité) - Ref 275,Fray Bartolomé de Las Casas,Huité,TERRACERIA,26.22,59,BUENO
+TRM_276_307_0275,Tramo RN-9 Salcajá (Santa Catalina La Tinta - San Jorge) - Ref 276,Santa Catalina La Tinta,San Jorge,PEATONAL,16.74,22,BUENO
+TRM_277_308_0276,Tramo RN-7 Cobán-Quiché (Raxruhá - Chiquimula) - Ref 277,Raxruhá,Chiquimula,NACIONAL_ASFALTO,51.71,162,BUENO
+TRM_278_309_0277,Tramo RN-9 Salcajá (Flores - San José La Arada) - Ref 278,Flores,San José La Arada,INTERAMERICANA,38.5,74,BUENO
+TRM_279_310_0278,Tramo CA-1 Occidente (San José - San Juan Ermita) - Ref 279,San José,San Juan Ermita,TERRACERIA,61.52,105,BUENO
+TRM_280_311_0279,Tramo Ruta Nacional RN-1 (San Benito - Jocotán) - Ref 280,San Benito,Jocotán,ACUATICA,48.56,127,BUENO
+TRM_281_312_0280,Tramo RN-15 Sacapulas (San Andrés - Camotán) - Ref 281,San Andrés,Camotán,ACUATICA,17.93,26,BUENO
+TRM_282_313_0281,Tramo CA-1 Occidente (La Libertad - Olopa) - Ref 282,La Libertad,Olopa,NACIONAL_ASFALTO,23.29,43,BUENO
+TRM_283_314_0282,Tramo CA-1 Occidente (San Francisco - Esquipulas) - Ref 283,San Francisco,Esquipulas,PEATONAL,46.42,113,BUENO
+TRM_284_315_0283,Tramo RN-15 Sacapulas (Santa Ana - Concepción Las Minas) - Ref 284,Santa Ana,Concepción Las Minas,NACIONAL_ASFALTO,33.19,77,BUENO
+TRM_285_316_0284,Tramo Ruta Nacional RN-1 (Dolores - Quezaltepeque) - Ref 285,Dolores,Quezaltepeque,ACUATICA,31.69,39,REGULAR
+TRM_286_317_0285,Tramo RN-9 Salcajá (San Luis - San Jacinto) - Ref 286,San Luis,San Jacinto,PEATONAL,8.01,21,REGULAR
+TRM_287_318_0286,Tramo RN-7 Cobán-Quiché (Sayaxché - Ipala) - Ref 287,Sayaxché,Ipala,INTERAMERICANA,30.76,57,MALO
+TRM_288_319_0287,Tramo RN-11 Panajachel (Melchor de Mencos - Jalapa) - Ref 288,Melchor de Mencos,Jalapa,INTERAMERICANA,27.68,67,BUENO
+TRM_289_320_0288,Tramo RN-15 Sacapulas (Poptún - San Pedro Pinula) - Ref 289,Poptún,San Pedro Pinula,PEATONAL,71.85,198,REGULAR
+TRM_290_321_0289,Tramo RN-15 Sacapulas (Las Cruces - San Luis Jilotepeque) - Ref 290,Las Cruces,San Luis Jilotepeque,INTERAMERICANA,28.67,60,BUENO
+TRM_291_322_0290,Tramo Ruta Nacional RN-1 (El Chal - San Manuel Chaparrón) - Ref 291,El Chal,San Manuel Chaparrón,NACIONAL_ASFALTO,17.82,53,BUENO
+TRM_292_323_0291,Tramo Ruta Nacional RN-1 (Puerto Barrios - San Carlos Alzatate) - Ref 292,Puerto Barrios,San Carlos Alzatate,INTERAMERICANA,10.36,26,BUENO
+TRM_293_324_0292,Tramo CA-1 Occidente (Lívingston - Monjas) - Ref 293,Lívingston,Monjas,PEATONAL,46.64,75,BUENO
+TRM_294_325_0293,Tramo CA-1 Occidente (El Estor - Mataquescuintla) - Ref 294,El Estor,Mataquescuintla,NACIONAL_ASFALTO,71.24,98,BUENO
+TRM_295_326_0294,Tramo RN-15 Sacapulas (Morales - Jutiapa) - Ref 295,Morales,Jutiapa,INTERAMERICANA,33.1,49,REGULAR
+TRM_296_327_0295,Tramo RN-9 Salcajá (Los Amates - El Progreso) - Ref 296,Los Amates,El Progreso,NACIONAL_ASFALTO,34.41,67,BUENO
+TRM_297_328_0296,Tramo RN-9 Salcajá (Zacapa - Santa Catarina Mita) - Ref 297,Zacapa,Santa Catarina Mita,NACIONAL_ASFALTO,55.18,121,BUENO
+TRM_298_329_0297,Tramo CA-1 Occidente (Estanzuela - Agua Blanca) - Ref 298,Estanzuela,Agua Blanca,PEATONAL,17.04,33,REGULAR
+TRM_299_330_0298,Tramo RN-7 Cobán-Quiché (Río Hondo - Asunción Mita) - Ref 299,Río Hondo,Asunción Mita,ACUATICA,44.83,124,BUENO
+TRM_300_331_0299,Tramo RN-11 Panajachel (Gualán - Yupiltepeque) - Ref 300,Gualán,Yupiltepeque,INTERAMERICANA,14.87,33,BUENO
+TRM_301_332_0300,Tramo RN-11 Panajachel (Teculután - Atescatempa) - Ref 301,Teculután,Atescatempa,NACIONAL_ASFALTO,57.87,106,BUENO
+TRM_302_333_0301,Tramo RN-7 Cobán-Quiché (Usumatlán - Jerez) - Ref 302,Usumatlán,Jerez,TERRACERIA,67.74,173,BUENO
+TRM_303_334_0302,Tramo RN-11 Panajachel (Cabañas - El Adelanto) - Ref 303,Cabañas,El Adelanto,NACIONAL_ASFALTO,33.63,106,BUENO
+TRM_304_335_0303,Tramo Ruta Nacional RN-1 (San Diego - Zapotitlán) - Ref 304,San Diego,Zapotitlán,INTERAMERICANA,59.78,168,BUENO
+TRM_305_336_0304,Tramo CA-1 Occidente (La Unión - Comapa) - Ref 305,La Unión,Comapa,PEATONAL,15.56,33,BUENO
+TRM_306_337_0305,Tramo CA-1 Occidente (Huité - Jalpatagua) - Ref 306,Huité,Jalpatagua,TERRACERIA,60.26,156,BUENO
+TRM_307_338_0306,Tramo RN-7 Cobán-Quiché (San Jorge - Conguaco) - Ref 307,San Jorge,Conguaco,NACIONAL_ASFALTO,45.47,87,BUENO
+TRM_308_339_0307,Tramo CA-1 Occidente (Chiquimula - Moyuta) - Ref 308,Chiquimula,Moyuta,NACIONAL_ASFALTO,53.75,153,BUENO
+TRM_309_340_0308,Tramo RN-15 Sacapulas (San José La Arada - Pasaco) - Ref 309,San José La Arada,Pasaco,NACIONAL_ASFALTO,25.47,61,REGULAR
+TRM_310_341_0309,Tramo RN-7 Cobán-Quiché (San Juan Ermita - San José Acatempa) - Ref 310,San Juan Ermita,San José Acatempa,INTERAMERICANA,7.29,16,MALO
+TRM_311_342_0310,Tramo RN-9 Salcajá (Jocotán - Quesada) - Ref 311,Jocotán,Quesada,ACUATICA,14.96,30,REGULAR
+TRM_312_1_0311,Tramo RN-11 Panajachel (Camotán - Lago De Amatitlan) - Ref 312,Camotán,Lago De Amatitlan,TERRACERIA,48.83,90,BUENO
+TRM_313_2_0312,Tramo RN-7 Cobán-Quiché (Olopa - Guatemala) - Ref 313,Olopa,Guatemala,INTERAMERICANA,32.13,79,BUENO
+TRM_314_3_0313,Tramo RN-9 Salcajá (Esquipulas - Santa Catarina Pinula) - Ref 314,Esquipulas,Santa Catarina Pinula,NACIONAL_ASFALTO,6.56,11,REGULAR
+TRM_315_4_0314,Tramo RN-7 Cobán-Quiché (Concepción Las Minas - San José Pinula) - Ref 315,Concepción Las Minas,San José Pinula,TERRACERIA,29.26,39,REGULAR
+TRM_316_5_0315,Tramo CA-1 Occidente (Quezaltepeque - San José del Golfo) - Ref 316,Quezaltepeque,San José del Golfo,ACUATICA,41.15,87,BUENO
+TRM_317_6_0316,Tramo Ruta Nacional RN-1 (San Jacinto - Palencia) - Ref 317,San Jacinto,Palencia,INTERAMERICANA,61.01,180,BUENO
+TRM_318_7_0317,Tramo CA-1 Occidente (Ipala - Chinautla) - Ref 318,Ipala,Chinautla,PEATONAL,9.82,28,REGULAR
+TRM_319_8_0318,Tramo Ruta Nacional RN-1 (Jalapa - San Pedro Ayampuc) - Ref 319,Jalapa,San Pedro Ayampuc,PEATONAL,36.33,56,BUENO
+TRM_320_9_0319,Tramo RN-9 Salcajá (San Pedro Pinula - Mixco) - Ref 320,San Pedro Pinula,Mixco,TERRACERIA,70.68,171,BUENO
+TRM_321_10_0320,Tramo RN-9 Salcajá (San Luis Jilotepeque - San Pedro Sacatepéquez) - Ref 321,San Luis Jilotepeque,San Pedro Sacatepéquez,INTERAMERICANA,52.41,64,BUENO
+TRM_322_11_0321,Tramo RN-7 Cobán-Quiché (San Manuel Chaparrón - San Juan Sacatepéquez) - Ref 322,San Manuel Chaparrón,San Juan Sacatepéquez,ACUATICA,24.52,75,MALO
+TRM_323_12_0322,Tramo Ruta Nacional RN-1 (San Carlos Alzatate - San Raimundo) - Ref 323,San Carlos Alzatate,San Raimundo,INTERAMERICANA,9.2,24,REGULAR
+TRM_324_13_0323,Tramo CA-1 Occidente (Monjas - Chuarrancho) - Ref 324,Monjas,Chuarrancho,TERRACERIA,66.89,166,BUENO
+TRM_325_14_0324,Tramo Ruta Nacional RN-1 (Mataquescuintla - Fraijanes) - Ref 325,Mataquescuintla,Fraijanes,ACUATICA,23.04,68,BUENO
+TRM_326_15_0325,Tramo RN-15 Sacapulas (Jutiapa - Amatitlán) - Ref 326,Jutiapa,Amatitlán,PEATONAL,60.73,141,BUENO
+TRM_327_16_0326,Tramo RN-7 Cobán-Quiché (El Progreso - Villa Nueva) - Ref 327,El Progreso,Villa Nueva,TERRACERIA,59.16,114,BUENO
+TRM_328_17_0327,Tramo RN-9 Salcajá (Santa Catarina Mita - Villa Canales) - Ref 328,Santa Catarina Mita,Villa Canales,INTERAMERICANA,71.5,199,REGULAR
+TRM_329_18_0328,Tramo RN-15 Sacapulas (Agua Blanca - Petapa) - Ref 329,Agua Blanca,Petapa,ACUATICA,10.77,31,BUENO
+TRM_330_19_0329,Tramo RN-15 Sacapulas (Asunción Mita - Guastatoya) - Ref 330,Asunción Mita,Guastatoya,PEATONAL,72.52,156,BUENO
+TRM_331_20_0330,Tramo CA-1 Occidente (Yupiltepeque - Morazán) - Ref 331,Yupiltepeque,Morazán,TERRACERIA,51.5,84,MALO
+TRM_332_21_0331,Tramo RN-9 Salcajá (Atescatempa - San Agustín Acasaguastlán) - Ref 332,Atescatempa,San Agustín Acasaguastlán,ACUATICA,58.56,187,BUENO
+TRM_333_22_0332,Tramo RN-7 Cobán-Quiché (Jerez - San Cristóbal Acasaguastlán) - Ref 333,Jerez,San Cristóbal Acasaguastlán,NACIONAL_ASFALTO,68.34,153,BUENO
+TRM_334_23_0333,Tramo RN-15 Sacapulas (El Adelanto - El Jícaro) - Ref 334,El Adelanto,El Jícaro,TERRACERIA,43.99,106,REGULAR
+TRM_335_24_0334,Tramo CA-1 Occidente (Zapotitlán - Sanarate) - Ref 335,Zapotitlán,Sanarate,ACUATICA,11.73,36,BUENO
+TRM_336_25_0335,Tramo RN-7 Cobán-Quiché (Comapa - Sansare) - Ref 336,Comapa,Sansare,INTERAMERICANA,13.6,43,BUENO
+TRM_337_26_0336,Tramo RN-7 Cobán-Quiché (Jalpatagua - San Antonio La Paz) - Ref 337,Jalpatagua,San Antonio La Paz,INTERAMERICANA,69.36,129,REGULAR
+TRM_338_27_0337,Tramo CA-1 Occidente (Conguaco - Antigua Guatemala) - Ref 338,Conguaco,Antigua Guatemala,TERRACERIA,40.0,122,REGULAR
+TRM_339_28_0338,Tramo RN-15 Sacapulas (Moyuta - Jocotenango) - Ref 339,Moyuta,Jocotenango,TERRACERIA,19.11,32,BUENO
+TRM_340_29_0339,Tramo Ruta Nacional RN-1 (Pasaco - Pastores) - Ref 340,Pasaco,Pastores,ACUATICA,64.05,211,BUENO
+TRM_341_30_0340,Tramo RN-11 Panajachel (San José Acatempa - Sumpango) - Ref 341,San José Acatempa,Sumpango,INTERAMERICANA,45.71,94,BUENO
+TRM_342_31_0341,Tramo RN-15 Sacapulas (Quesada - Santo Domingo Xenacoj) - Ref 342,Quesada,Santo Domingo Xenacoj,NACIONAL_ASFALTO,9.92,29,REGULAR
+TRM_1_32_0342,Tramo RN-7 Cobán-Quiché (Lago De Amatitlan - Santiago Sacatepéquez) - Ref 343,Lago De Amatitlan,Santiago Sacatepéquez,ACUATICA,41.55,74,MALO
+TRM_2_33_0343,Tramo RN-11 Panajachel (Guatemala - San Bartolomé Milpas Altas) - Ref 344,Guatemala,San Bartolomé Milpas Altas,PEATONAL,33.2,87,REGULAR
+TRM_3_34_0344,Tramo CA-1 Occidente (Santa Catarina Pinula - San Lucas Sacatepéquez) - Ref 345,Santa Catarina Pinula,San Lucas Sacatepéquez,ACUATICA,7.48,15,BUENO
+TRM_4_35_0345,Tramo RN-9 Salcajá (San José Pinula - Santa Lucía Milpas Altas) - Ref 346,San José Pinula,Santa Lucía Milpas Altas,ACUATICA,32.93,92,BUENO
+TRM_5_36_0346,Tramo CA-1 Occidente (San José del Golfo - Magdalena Milpas Altas) - Ref 347,San José del Golfo,Magdalena Milpas Altas,PEATONAL,13.63,25,BUENO
+TRM_6_37_0347,Tramo CA-1 Occidente (Palencia - Santa María de Jesús) - Ref 348,Palencia,Santa María de Jesús,NACIONAL_ASFALTO,15.41,50,REGULAR
+TRM_7_38_0348,Tramo RN-9 Salcajá (Chinautla - Ciudad Vieja) - Ref 349,Chinautla,Ciudad Vieja,PEATONAL,19.95,28,BUENO
+TRM_8_39_0349,Tramo Ruta Nacional RN-1 (San Pedro Ayampuc - San Miguel Dueñas) - Ref 350,San Pedro Ayampuc,San Miguel Dueñas,TERRACERIA,46.39,73,BUENO
+TRM_9_40_0350,Tramo RN-11 Panajachel (Mixco - Alotenango) - Ref 351,Mixco,Alotenango,INTERAMERICANA,71.68,172,BUENO
+TRM_10_41_0351,Tramo CA-1 Occidente (San Pedro Sacatepéquez - San Antonio Aguas Calientes) - Ref 352,San Pedro Sacatepéquez,San Antonio Aguas Calientes,ACUATICA,49.44,147,REGULAR
+TRM_11_42_0352,Tramo RN-11 Panajachel (San Juan Sacatepéquez - Santa Catarina Barahona) - Ref 353,San Juan Sacatepéquez,Santa Catarina Barahona,TERRACERIA,46.76,96,BUENO
+TRM_12_43_0353,Tramo RN-7 Cobán-Quiché (San Raimundo - Chimaltenango) - Ref 354,San Raimundo,Chimaltenango,NACIONAL_ASFALTO,72.75,250,BUENO
+TRM_13_44_0354,Tramo RN-11 Panajachel (Chuarrancho - San José Poaquil) - Ref 355,Chuarrancho,San José Poaquil,INTERAMERICANA,8.53,20,BUENO
+TRM_14_45_0355,Tramo RN-7 Cobán-Quiché (Fraijanes - San Martín Jilotepeque) - Ref 356,Fraijanes,San Martín Jilotepeque,NACIONAL_ASFALTO,33.61,104,BUENO
+TRM_15_46_0356,Tramo RN-15 Sacapulas (Amatitlán - Comalapa) - Ref 357,Amatitlán,Comalapa,TERRACERIA,35.26,110,REGULAR
+TRM_16_47_0357,Tramo RN-11 Panajachel (Villa Nueva - Santa Apolonia) - Ref 358,Villa Nueva,Santa Apolonia,NACIONAL_ASFALTO,34.62,116,BUENO
+TRM_17_48_0358,Tramo RN-7 Cobán-Quiché (Villa Canales - Tecpán Guatemala) - Ref 359,Villa Canales,Tecpán Guatemala,NACIONAL_ASFALTO,73.04,240,BUENO
+TRM_18_49_0359,Tramo RN-7 Cobán-Quiché (Petapa - Patzún) - Ref 360,Petapa,Patzún,NACIONAL_ASFALTO,27.49,66,BUENO
+TRM_19_50_0360,Tramo RN-15 Sacapulas (Guastatoya - Pochuta) - Ref 361,Guastatoya,Pochuta,NACIONAL_ASFALTO,56.48,105,BUENO
+TRM_20_51_0361,Tramo RN-15 Sacapulas (Morazán - Patzicía) - Ref 362,Morazán,Patzicía,NACIONAL_ASFALTO,64.3,157,BUENO
+TRM_21_52_0362,Tramo CA-1 Occidente (San Agustín Acasaguastlán - Santa Cruz Balanyá) - Ref 363,San Agustín Acasaguastlán,Santa Cruz Balanyá,ACUATICA,23.87,52,BUENO
+TRM_22_53_0363,Tramo RN-15 Sacapulas (San Cristóbal Acasaguastlán - Acatenango) - Ref 364,San Cristóbal Acasaguastlán,Acatenango,NACIONAL_ASFALTO,69.93,240,BUENO
+TRM_23_54_0364,Tramo CA-1 Occidente (El Jícaro - Yepocapa) - Ref 365,El Jícaro,Yepocapa,NACIONAL_ASFALTO,61.86,154,BUENO
+TRM_24_55_0365,Tramo RN-7 Cobán-Quiché (Sanarate - San Andrés Itzapa) - Ref 366,Sanarate,San Andrés Itzapa,TERRACERIA,17.33,52,BUENO
+TRM_25_56_0366,Tramo RN-11 Panajachel (Sansare - Parramos) - Ref 367,Sansare,Parramos,TERRACERIA,74.71,166,BUENO
+TRM_26_57_0367,Tramo RN-7 Cobán-Quiché (San Antonio La Paz - Zaragoza) - Ref 368,San Antonio La Paz,Zaragoza,ACUATICA,11.06,15,BUENO
+TRM_27_58_0368,Tramo RN-9 Salcajá (Antigua Guatemala - El Tejar) - Ref 369,Antigua Guatemala,El Tejar,ACUATICA,54.71,117,BUENO
+TRM_28_59_0369,Tramo RN-15 Sacapulas (Jocotenango - Escuintla) - Ref 370,Jocotenango,Escuintla,INTERAMERICANA,17.58,60,REGULAR
+TRM_29_60_0370,Tramo CA-1 Occidente (Pastores - Santa Lucía Cotzumalguapa) - Ref 371,Pastores,Santa Lucía Cotzumalguapa,NACIONAL_ASFALTO,68.5,147,REGULAR
+TRM_30_61_0371,Tramo RN-11 Panajachel (Sumpango - La Democracia) - Ref 372,Sumpango,La Democracia,INTERAMERICANA,68.32,153,BUENO
+TRM_31_62_0372,Tramo RN-15 Sacapulas (Santo Domingo Xenacoj - Siquinalá) - Ref 373,Santo Domingo Xenacoj,Siquinalá,INTERAMERICANA,45.31,151,BUENO
+TRM_32_63_0373,Tramo Ruta Nacional RN-1 (Santiago Sacatepéquez - Masagua) - Ref 374,Santiago Sacatepéquez,Masagua,INTERAMERICANA,62.35,186,BUENO
+TRM_33_64_0374,Tramo RN-7 Cobán-Quiché (San Bartolomé Milpas Altas - Tiquisate) - Ref 375,San Bartolomé Milpas Altas,Tiquisate,ACUATICA,34.18,100,MALO
+TRM_34_65_0375,Tramo CA-1 Occidente (San Lucas Sacatepéquez - La Gomera) - Ref 376,San Lucas Sacatepéquez,La Gomera,PEATONAL,13.48,45,BUENO
+TRM_35_66_0376,Tramo Ruta Nacional RN-1 (Santa Lucía Milpas Altas - Guanagazapa) - Ref 377,Santa Lucía Milpas Altas,Guanagazapa,NACIONAL_ASFALTO,27.96,74,REGULAR
+TRM_36_67_0377,Tramo RN-15 Sacapulas (Magdalena Milpas Altas - San José) - Ref 378,Magdalena Milpas Altas,San José,INTERAMERICANA,37.89,92,BUENO
+TRM_37_68_0378,Tramo CA-1 Occidente (Santa María de Jesús - Iztapa) - Ref 379,Santa María de Jesús,Iztapa,NACIONAL_ASFALTO,53.64,67,BUENO
+TRM_38_69_0379,Tramo RN-11 Panajachel (Ciudad Vieja - Palín) - Ref 380,Ciudad Vieja,Palín,TERRACERIA,26.05,31,BUENO
+TRM_39_70_0380,Tramo RN-9 Salcajá (San Miguel Dueñas - San Vicente Pacaya) - Ref 381,San Miguel Dueñas,San Vicente Pacaya,NACIONAL_ASFALTO,50.08,101,BUENO
+TRM_40_71_0381,Tramo RN-9 Salcajá (Alotenango - Nueva Concepción) - Ref 382,Alotenango,Nueva Concepción,TERRACERIA,64.77,221,REGULAR
+TRM_41_72_0382,Tramo RN-15 Sacapulas (San Antonio Aguas Calientes - Sipacate) - Ref 383,San Antonio Aguas Calientes,Sipacate,NACIONAL_ASFALTO,72.62,173,REGULAR
+TRM_42_73_0383,Tramo RN-9 Salcajá (Santa Catarina Barahona - Cuilapa) - Ref 384,Santa Catarina Barahona,Cuilapa,TERRACERIA,38.88,57,BUENO
+TRM_43_74_0384,Tramo RN-11 Panajachel (Chimaltenango - Barberena) - Ref 385,Chimaltenango,Barberena,INTERAMERICANA,24.93,36,BUENO
+TRM_44_75_0385,Tramo RN-11 Panajachel (San José Poaquil - Santa Rosa de Lima) - Ref 386,San José Poaquil,Santa Rosa de Lima,PEATONAL,20.16,29,MALO
+TRM_45_76_0386,Tramo RN-9 Salcajá (San Martín Jilotepeque - Casillas) - Ref 387,San Martín Jilotepeque,Casillas,INTERAMERICANA,9.29,11,REGULAR
+TRM_46_77_0387,Tramo Ruta Nacional RN-1 (Comalapa - San Rafael Las Flores) - Ref 388,Comalapa,San Rafael Las Flores,PEATONAL,43.06,77,BUENO
+TRM_47_78_0388,Tramo RN-15 Sacapulas (Santa Apolonia - Oratorio) - Ref 389,Santa Apolonia,Oratorio,NACIONAL_ASFALTO,48.08,102,BUENO
+TRM_48_79_0389,Tramo CA-1 Occidente (Tecpán Guatemala - San Juan Tecuaco) - Ref 390,Tecpán Guatemala,San Juan Tecuaco,ACUATICA,41.01,66,MALO
+TRM_49_80_0390,Tramo RN-7 Cobán-Quiché (Patzún - Chiquimulilla) - Ref 391,Patzún,Chiquimulilla,TERRACERIA,17.86,53,BUENO
+TRM_50_81_0391,Tramo RN-9 Salcajá (Pochuta - Taxisco) - Ref 392,Pochuta,Taxisco,ACUATICA,43.67,141,BUENO
+TRM_51_82_0392,Tramo RN-9 Salcajá (Patzicía - Santa María Ixhuatán) - Ref 393,Patzicía,Santa María Ixhuatán,PEATONAL,60.63,139,BUENO
+TRM_52_83_0393,Tramo RN-11 Panajachel (Santa Cruz Balanyá - Guazacapán) - Ref 394,Santa Cruz Balanyá,Guazacapán,ACUATICA,45.11,129,BUENO
+TRM_53_84_0394,Tramo CA-1 Occidente (Acatenango - Santa Cruz Naranjo) - Ref 395,Acatenango,Santa Cruz Naranjo,INTERAMERICANA,62.92,193,BUENO
+TRM_54_85_0395,Tramo RN-11 Panajachel (Yepocapa - Pueblo Nuevo Viñas) - Ref 396,Yepocapa,Pueblo Nuevo Viñas,INTERAMERICANA,17.87,32,BUENO
+TRM_55_86_0396,Tramo RN-7 Cobán-Quiché (San Andrés Itzapa - Nueva Santa Rosa) - Ref 397,San Andrés Itzapa,Nueva Santa Rosa,TERRACERIA,25.61,52,REGULAR
+TRM_56_87_0397,Tramo RN-7 Cobán-Quiché (Parramos - Lago De Atitlan) - Ref 398,Parramos,Lago De Atitlan,TERRACERIA,70.91,195,REGULAR
+TRM_57_88_0398,Tramo RN-15 Sacapulas (Zaragoza - Sololá) - Ref 399,Zaragoza,Sololá,TERRACERIA,8.35,20,BUENO
+TRM_58_89_0399,Tramo CA-1 Occidente (El Tejar - San José Chacayá) - Ref 400,El Tejar,San José Chacayá,NACIONAL_ASFALTO,69.78,155,BUENO
+TRM_59_90_0400,Tramo RN-9 Salcajá (Escuintla - Santa María Visitación) - Ref 401,Escuintla,Santa María Visitación,PEATONAL,65.78,196,BUENO
+TRM_60_91_0401,Tramo Ruta Nacional RN-1 (Santa Lucía Cotzumalguapa - Santa Lucía Utatlán) - Ref 402,Santa Lucía Cotzumalguapa,Santa Lucía Utatlán,NACIONAL_ASFALTO,61.47,85,BUENO
+TRM_61_92_0402,Tramo Ruta Nacional RN-1 (La Democracia - Nahualá) - Ref 403,La Democracia,Nahualá,PEATONAL,72.87,178,BUENO
+TRM_62_93_0403,Tramo RN-15 Sacapulas (Siquinalá - Santa Catarina Ixtahuacán) - Ref 404,Siquinalá,Santa Catarina Ixtahuacán,PEATONAL,72.8,203,REGULAR
+TRM_63_94_0404,Tramo RN-9 Salcajá (Masagua - Santa Clara La Laguna) - Ref 405,Masagua,Santa Clara La Laguna,NACIONAL_ASFALTO,54.33,106,BUENO
+TRM_64_95_0405,Tramo RN-7 Cobán-Quiché (Tiquisate - Concepción) - Ref 406,Tiquisate,Concepción,ACUATICA,37.75,124,REGULAR
+TRM_65_96_0406,Tramo RN-11 Panajachel (La Gomera - San Andrés Semetabaj) - Ref 407,La Gomera,San Andrés Semetabaj,ACUATICA,74.09,123,BUENO
+TRM_66_97_0407,Tramo RN-7 Cobán-Quiché (Guanagazapa - Panajachel) - Ref 408,Guanagazapa,Panajachel,NACIONAL_ASFALTO,25.44,47,BUENO
+TRM_67_98_0408,Tramo RN-11 Panajachel (San José - Santa Catarina Palopó) - Ref 409,San José,Santa Catarina Palopó,ACUATICA,51.54,66,BUENO
+TRM_68_99_0409,Tramo RN-15 Sacapulas (Iztapa - San Antonio Palopó) - Ref 410,Iztapa,San Antonio Palopó,PEATONAL,14.75,32,BLOQUEADO
+TRM_69_100_0410,Tramo RN-9 Salcajá (Palín - San Lucas Tolimán) - Ref 411,Palín,San Lucas Tolimán,TERRACERIA,43.91,63,BUENO
+TRM_70_101_0411,Tramo RN-11 Panajachel (San Vicente Pacaya - Santa Cruz La Laguna) - Ref 412,San Vicente Pacaya,Santa Cruz La Laguna,INTERAMERICANA,29.24,45,BUENO
+TRM_71_102_0412,Tramo RN-9 Salcajá (Nueva Concepción - San Pablo La Laguna) - Ref 413,Nueva Concepción,San Pablo La Laguna,NACIONAL_ASFALTO,55.05,152,REGULAR
+TRM_72_103_0413,Tramo CA-1 Occidente (Sipacate - San Marcos La Laguna) - Ref 414,Sipacate,San Marcos La Laguna,ACUATICA,37.26,59,BUENO
+TRM_73_104_0414,Tramo RN-11 Panajachel (Cuilapa - San Juan La Laguna) - Ref 415,Cuilapa,San Juan La Laguna,PEATONAL,13.13,32,BUENO
+TRM_74_105_0415,Tramo RN-7 Cobán-Quiché (Barberena - San Pedro La Laguna) - Ref 416,Barberena,San Pedro La Laguna,INTERAMERICANA,44.52,59,REGULAR
+TRM_75_106_0416,Tramo Ruta Nacional RN-1 (Santa Rosa de Lima - Santiago Atitlán) - Ref 417,Santa Rosa de Lima,Santiago Atitlán,NACIONAL_ASFALTO,8.78,24,BLOQUEADO
+TRM_76_107_0417,Tramo RN-9 Salcajá (Casillas - Totonicapán) - Ref 418,Casillas,Totonicapán,PEATONAL,67.07,201,BUENO
+TRM_77_108_0418,Tramo CA-1 Occidente (San Rafael Las Flores - San Cristóbal Totonicapán) - Ref 419,San Rafael Las Flores,San Cristóbal Totonicapán,PEATONAL,41.31,82,BUENO
+TRM_78_109_0419,Tramo Ruta Nacional RN-1 (Oratorio - San Francisco El Alto) - Ref 420,Oratorio,San Francisco El Alto,TERRACERIA,44.92,134,BUENO
+TRM_79_110_0420,Tramo RN-9 Salcajá (San Juan Tecuaco - San Andrés Xecul) - Ref 421,San Juan Tecuaco,San Andrés Xecul,ACUATICA,36.65,55,BUENO
+TRM_80_111_0421,Tramo RN-15 Sacapulas (Chiquimulilla - Momostenango) - Ref 422,Chiquimulilla,Momostenango,INTERAMERICANA,13.76,46,BUENO
+TRM_81_112_0422,Tramo RN-9 Salcajá (Taxisco - Santa María Chiquimula) - Ref 423,Taxisco,Santa María Chiquimula,ACUATICA,29.58,90,BUENO
+TRM_82_113_0423,Tramo RN-11 Panajachel (Santa María Ixhuatán - Santa Lucía La Reforma) - Ref 424,Santa María Ixhuatán,Santa Lucía La Reforma,ACUATICA,22.92,79,BUENO
+TRM_83_114_0424,Tramo Ruta Nacional RN-1 (Guazacapán - San Bartolo) - Ref 425,Guazacapán,San Bartolo,NACIONAL_ASFALTO,13.79,35,MALO
+TRM_84_115_0425,Tramo RN-7 Cobán-Quiché (Santa Cruz Naranjo - Quetzaltenango) - Ref 426,Santa Cruz Naranjo,Quetzaltenango,NACIONAL_ASFALTO,59.4,173,BUENO
+TRM_85_116_0426,Tramo Ruta Nacional RN-1 (Pueblo Nuevo Viñas - Salcajá) - Ref 427,Pueblo Nuevo Viñas,Salcajá,ACUATICA,11.98,39,BUENO
+TRM_86_117_0427,Tramo RN-15 Sacapulas (Nueva Santa Rosa - Olintepeque) - Ref 428,Nueva Santa Rosa,Olintepeque,TERRACERIA,8.01,27,BUENO
+TRM_87_118_0428,Tramo RN-15 Sacapulas (Lago De Atitlan - San Carlos Sija) - Ref 429,Lago De Atitlan,San Carlos Sija,ACUATICA,39.2,102,BUENO
+TRM_88_119_0429,Tramo Ruta Nacional RN-1 (Sololá - Sibilia) - Ref 430,Sololá,Sibilia,INTERAMERICANA,67.88,223,BUENO
+TRM_89_120_0430,Tramo RN-11 Panajachel (San José Chacayá - Cabricán) - Ref 431,San José Chacayá,Cabricán,NACIONAL_ASFALTO,40.29,69,BUENO
+TRM_90_121_0431,Tramo RN-7 Cobán-Quiché (Santa María Visitación - Cajolá) - Ref 432,Santa María Visitación,Cajolá,TERRACERIA,59.88,130,BUENO
+TRM_91_122_0432,Tramo RN-7 Cobán-Quiché (Santa Lucía Utatlán - San Miguel Sigüila) - Ref 433,Santa Lucía Utatlán,San Miguel Sigüila,NACIONAL_ASFALTO,21.39,71,BUENO
+TRM_92_123_0433,Tramo RN-9 Salcajá (Nahualá - Ostuncalco) - Ref 434,Nahualá,Ostuncalco,NACIONAL_ASFALTO,55.84,155,BUENO
+TRM_93_124_0434,Tramo CA-1 Occidente (Santa Catarina Ixtahuacán - San Mateo) - Ref 435,Santa Catarina Ixtahuacán,San Mateo,NACIONAL_ASFALTO,17.89,40,BUENO
+TRM_94_125_0435,Tramo RN-15 Sacapulas (Santa Clara La Laguna - Concepción Chiquirichapa) - Ref 436,Santa Clara La Laguna,Concepción Chiquirichapa,ACUATICA,41.53,72,BUENO
+TRM_95_126_0436,Tramo RN-11 Panajachel (Concepción - San Martín Sacatepéquez) - Ref 437,Concepción,San Martín Sacatepéquez,NACIONAL_ASFALTO,51.39,79,BLOQUEADO
+TRM_96_127_0437,Tramo RN-11 Panajachel (San Andrés Semetabaj - Almolonga) - Ref 438,San Andrés Semetabaj,Almolonga,NACIONAL_ASFALTO,15.91,55,REGULAR
+TRM_97_128_0438,Tramo CA-1 Occidente (Panajachel - Cantel) - Ref 439,Panajachel,Cantel,NACIONAL_ASFALTO,5.22,16,REGULAR
+TRM_98_129_0439,Tramo RN-15 Sacapulas (Santa Catarina Palopó - Huitán) - Ref 440,Santa Catarina Palopó,Huitán,ACUATICA,16.58,51,BUENO
+TRM_99_130_0440,Tramo CA-1 Occidente (San Antonio Palopó - Zunil) - Ref 441,San Antonio Palopó,Zunil,PEATONAL,43.43,102,BUENO
+TRM_100_131_0441,Tramo Ruta Nacional RN-1 (San Lucas Tolimán - Colomba) - Ref 442,San Lucas Tolimán,Colomba,ACUATICA,72.87,153,BUENO
+TRM_101_132_0442,Tramo RN-9 Salcajá (Santa Cruz La Laguna - San Francisco La Unión) - Ref 443,Santa Cruz La Laguna,San Francisco La Unión,NACIONAL_ASFALTO,19.65,32,BUENO
+TRM_102_133_0443,Tramo RN-15 Sacapulas (San Pablo La Laguna - El Palmar) - Ref 444,San Pablo La Laguna,El Palmar,INTERAMERICANA,6.74,19,BUENO
+TRM_103_134_0444,Tramo RN-11 Panajachel (San Marcos La Laguna - Coatepeque) - Ref 445,San Marcos La Laguna,Coatepeque,NACIONAL_ASFALTO,54.96,174,BLOQUEADO
+TRM_104_135_0445,Tramo CA-1 Occidente (San Juan La Laguna - Génova) - Ref 446,San Juan La Laguna,Génova,PEATONAL,29.55,58,BUENO
+TRM_105_136_0446,Tramo CA-1 Occidente (San Pedro La Laguna - Flores Costa Cuca) - Ref 447,San Pedro La Laguna,Flores Costa Cuca,INTERAMERICANA,12.39,39,BUENO
+TRM_106_137_0447,Tramo CA-1 Occidente (Santiago Atitlán - La Esperanza) - Ref 448,Santiago Atitlán,La Esperanza,ACUATICA,73.22,140,BUENO
+TRM_107_138_0448,Tramo Ruta Nacional RN-1 (Totonicapán - Palestina de Los Altos) - Ref 449,Totonicapán,Palestina de Los Altos,TERRACERIA,24.32,52,BUENO
+TRM_108_139_0449,Tramo CA-1 Occidente (San Cristóbal Totonicapán - Mazatenango) - Ref 450,San Cristóbal Totonicapán,Mazatenango,ACUATICA,23.72,82,REGULAR
+TRM_109_140_0450,Tramo RN-7 Cobán-Quiché (San Francisco El Alto - Cuyotenango) - Ref 451,San Francisco El Alto,Cuyotenango,ACUATICA,38.8,128,BUENO
+TRM_110_141_0451,Tramo Ruta Nacional RN-1 (San Andrés Xecul - San Francisco Zapotitlán) - Ref 452,San Andrés Xecul,San Francisco Zapotitlán,PEATONAL,53.85,161,BUENO
+TRM_111_142_0452,Tramo RN-7 Cobán-Quiché (Momostenango - San Bernardino) - Ref 453,Momostenango,San Bernardino,NACIONAL_ASFALTO,7.2,14,BUENO
+TRM_112_143_0453,Tramo RN-15 Sacapulas (Santa María Chiquimula - San José El Ídolo) - Ref 454,Santa María Chiquimula,San José El Ídolo,ACUATICA,28.07,88,BUENO
+TRM_113_144_0454,Tramo RN-11 Panajachel (Santa Lucía La Reforma - Santo Domingo Suchitepéquez) - Ref 455,Santa Lucía La Reforma,Santo Domingo Suchitepéquez,NACIONAL_ASFALTO,13.9,20,BUENO
+TRM_114_145_0455,Tramo RN-7 Cobán-Quiché (San Bartolo - San Lorenzo) - Ref 456,San Bartolo,San Lorenzo,PEATONAL,28.88,68,BUENO
+TRM_115_146_0456,Tramo Ruta Nacional RN-1 (Quetzaltenango - Samayac) - Ref 457,Quetzaltenango,Samayac,NACIONAL_ASFALTO,69.59,92,BUENO
+TRM_116_147_0457,Tramo RN-7 Cobán-Quiché (Salcajá - San Pablo Jocopilas) - Ref 458,Salcajá,San Pablo Jocopilas,INTERAMERICANA,41.21,111,BLOQUEADO
+TRM_117_148_0458,Tramo RN-9 Salcajá (Olintepeque - San Antonio Suchitepéquez) - Ref 459,Olintepeque,San Antonio Suchitepéquez,PEATONAL,5.72,7,MALO
+TRM_118_149_0459,Tramo CA-1 Occidente (San Carlos Sija - San Miguel Panán) - Ref 460,San Carlos Sija,San Miguel Panán,PEATONAL,22.64,69,REGULAR
+TRM_119_150_0460,Tramo RN-15 Sacapulas (Sibilia - San Gabriel) - Ref 461,Sibilia,San Gabriel,ACUATICA,67.44,192,BUENO
+TRM_120_151_0461,Tramo RN-15 Sacapulas (Cabricán - Chicacao) - Ref 462,Cabricán,Chicacao,INTERAMERICANA,13.05,41,BUENO
+TRM_121_152_0462,Tramo RN-11 Panajachel (Cajolá - Patulul) - Ref 463,Cajolá,Patulul,PEATONAL,29.35,37,BUENO
+TRM_122_153_0463,Tramo CA-1 Occidente (San Miguel Sigüila - Santa Bárbara) - Ref 464,San Miguel Sigüila,Santa Bárbara,ACUATICA,47.99,121,REGULAR
+TRM_123_154_0464,Tramo RN-15 Sacapulas (Ostuncalco - San Juan Bautista) - Ref 465,Ostuncalco,San Juan Bautista,INTERAMERICANA,66.73,128,BUENO
+TRM_124_155_0465,Tramo RN-15 Sacapulas (San Mateo - Santo Tomás La Unión) - Ref 466,San Mateo,Santo Tomás La Unión,PEATONAL,66.54,135,BUENO
+TRM_125_156_0466,Tramo RN-11 Panajachel (Concepción Chiquirichapa - Zunilito) - Ref 467,Concepción Chiquirichapa,Zunilito,NACIONAL_ASFALTO,68.82,114,BUENO
+TRM_126_157_0467,Tramo Ruta Nacional RN-1 (San Martín Sacatepéquez - Pueblo Nuevo) - Ref 468,San Martín Sacatepéquez,Pueblo Nuevo,NACIONAL_ASFALTO,22.93,59,BUENO
+TRM_127_158_0468,Tramo RN-7 Cobán-Quiché (Almolonga - Río Bravo) - Ref 469,Almolonga,Río Bravo,INTERAMERICANA,22.84,59,BUENO
+TRM_128_159_0469,Tramo RN-15 Sacapulas (Cantel - San José La Máquina) - Ref 470,Cantel,San José La Máquina,TERRACERIA,37.78,54,BUENO
+TRM_129_160_0470,Tramo RN-9 Salcajá (Huitán - Retalhuleu) - Ref 471,Huitán,Retalhuleu,ACUATICA,49.58,96,BUENO
+TRM_130_161_0471,Tramo Ruta Nacional RN-1 (Zunil - San Sebastián) - Ref 472,Zunil,San Sebastián,INTERAMERICANA,6.74,9,MALO
+TRM_131_162_0472,Tramo RN-15 Sacapulas (Colomba - Santa Cruz Muluá) - Ref 473,Colomba,Santa Cruz Muluá,INTERAMERICANA,20.01,25,BUENO
+TRM_132_163_0473,Tramo RN-7 Cobán-Quiché (San Francisco La Unión - San Martín Zapotitlán) - Ref 474,San Francisco La Unión,San Martín Zapotitlán,NACIONAL_ASFALTO,9.35,30,MALO
+TRM_133_164_0474,Tramo RN-11 Panajachel (El Palmar - San Felipe) - Ref 475,El Palmar,San Felipe,PEATONAL,71.33,217,REGULAR
+TRM_134_165_0475,Tramo RN-15 Sacapulas (Coatepeque - San Andrés Villa Seca) - Ref 476,Coatepeque,San Andrés Villa Seca,INTERAMERICANA,47.07,137,BUENO
+TRM_135_166_0476,Tramo Ruta Nacional RN-1 (Génova - Champerico) - Ref 477,Génova,Champerico,NACIONAL_ASFALTO,54.04,71,BUENO
+TRM_136_167_0477,Tramo RN-7 Cobán-Quiché (Flores Costa Cuca - Nuevo San Carlos) - Ref 478,Flores Costa Cuca,Nuevo San Carlos,ACUATICA,68.82,222,MALO
+TRM_137_168_0478,Tramo RN-7 Cobán-Quiché (La Esperanza - El Asintal) - Ref 479,La Esperanza,El Asintal,TERRACERIA,11.95,34,BUENO
+TRM_138_169_0479,Tramo RN-15 Sacapulas (Palestina de Los Altos - San Marcos) - Ref 480,Palestina de Los Altos,San Marcos,TERRACERIA,33.09,44,BUENO
+TRM_139_170_0480,Tramo RN-15 Sacapulas (Mazatenango - San Pedro Sacatepéquez) - Ref 481,Mazatenango,San Pedro Sacatepéquez,TERRACERIA,72.57,240,BUENO
+TRM_140_171_0481,Tramo Ruta Nacional RN-1 (Cuyotenango - San Antonio Sacatepéquez) - Ref 482,Cuyotenango,San Antonio Sacatepéquez,PEATONAL,6.48,18,BUENO
+TRM_141_172_0482,Tramo RN-11 Panajachel (San Francisco Zapotitlán - Comitancillo) - Ref 483,San Francisco Zapotitlán,Comitancillo,TERRACERIA,19.78,32,BUENO
+TRM_142_173_0483,Tramo RN-9 Salcajá (San Bernardino - San Miguel Ixtahuacán) - Ref 484,San Bernardino,San Miguel Ixtahuacán,TERRACERIA,65.73,173,BUENO
+TRM_143_174_0484,Tramo RN-11 Panajachel (San José El Ídolo - Concepción Tutuapa) - Ref 485,San José El Ídolo,Concepción Tutuapa,NACIONAL_ASFALTO,63.74,134,BLOQUEADO
+TRM_144_175_0485,Tramo RN-9 Salcajá (Santo Domingo Suchitepéquez - Tacaná) - Ref 486,Santo Domingo Suchitepéquez,Tacaná,ACUATICA,59.72,139,BUENO
+TRM_145_176_0486,Tramo RN-9 Salcajá (San Lorenzo - Sibinal) - Ref 487,San Lorenzo,Sibinal,PEATONAL,67.9,129,BUENO
+TRM_146_177_0487,Tramo Ruta Nacional RN-1 (Samayac - Tajumulco) - Ref 488,Samayac,Tajumulco,INTERAMERICANA,49.66,138,BUENO
+TRM_147_178_0488,Tramo CA-1 Occidente (San Pablo Jocopilas - Tejutla) - Ref 489,San Pablo Jocopilas,Tejutla,ACUATICA,53.39,125,BUENO
+TRM_148_179_0489,Tramo RN-15 Sacapulas (San Antonio Suchitepéquez - San Rafael Pie de la Cuesta) - Ref 490,San Antonio Suchitepéquez,San Rafael Pie de la Cuesta,INTERAMERICANA,44.48,111,BUENO
+TRM_149_180_0490,Tramo RN-15 Sacapulas (San Miguel Panán - Nuevo Progreso) - Ref 491,San Miguel Panán,Nuevo Progreso,NACIONAL_ASFALTO,24.17,63,BUENO
+TRM_150_181_0491,Tramo RN-9 Salcajá (San Gabriel - El Tumbador) - Ref 492,San Gabriel,El Tumbador,ACUATICA,16.65,48,BUENO
+TRM_151_182_0492,Tramo RN-11 Panajachel (Chicacao - El Rodeo) - Ref 493,Chicacao,El Rodeo,TERRACERIA,34.35,111,BUENO
+TRM_152_183_0493,Tramo RN-7 Cobán-Quiché (Patulul - Malacatán) - Ref 494,Patulul,Malacatán,TERRACERIA,14.51,44,BUENO
+TRM_153_184_0494,Tramo RN-15 Sacapulas (Santa Bárbara - Catarina) - Ref 495,Santa Bárbara,Catarina,ACUATICA,24.59,83,BUENO
+TRM_154_185_0495,Tramo RN-9 Salcajá (San Juan Bautista - Ayutla) - Ref 496,San Juan Bautista,Ayutla,NACIONAL_ASFALTO,15.33,36,BUENO
+TRM_155_186_0496,Tramo RN-7 Cobán-Quiché (Santo Tomás La Unión - Ocós) - Ref 497,Santo Tomás La Unión,Ocós,TERRACERIA,28.35,40,BUENO
+TRM_156_187_0497,Tramo RN-15 Sacapulas (Zunilito - San Pablo) - Ref 498,Zunilito,San Pablo,PEATONAL,47.89,111,BUENO
+TRM_157_188_0498,Tramo Ruta Nacional RN-1 (Pueblo Nuevo - El Quetzal) - Ref 499,Pueblo Nuevo,El Quetzal,ACUATICA,44.49,73,BLOQUEADO
+TRM_158_189_0499,Tramo RN-11 Panajachel (Río Bravo - La Reforma) - Ref 500,Río Bravo,La Reforma,ACUATICA,36.91,128,BUENO
+TRM_159_190_0500,Tramo RN-11 Panajachel (San José La Máquina - Pajapita) - Ref 501,San José La Máquina,Pajapita,INTERAMERICANA,5.81,17,BUENO
+TRM_160_191_0501,Tramo RN-9 Salcajá (Retalhuleu - Ixchiguán) - Ref 502,Retalhuleu,Ixchiguán,NACIONAL_ASFALTO,26.56,42,BUENO
+TRM_161_192_0502,Tramo RN-7 Cobán-Quiché (San Sebastián - San José Ojetenam) - Ref 503,San Sebastián,San José Ojetenam,PEATONAL,55.04,98,MALO
+TRM_162_193_0503,Tramo CA-1 Occidente (Santa Cruz Muluá - San Cristóbal Cucho) - Ref 504,Santa Cruz Muluá,San Cristóbal Cucho,ACUATICA,55.69,104,REGULAR
+TRM_163_194_0504,Tramo RN-9 Salcajá (San Martín Zapotitlán - Sipacapa) - Ref 505,San Martín Zapotitlán,Sipacapa,ACUATICA,31.17,47,BUENO
+TRM_164_195_0505,Tramo RN-15 Sacapulas (San Felipe - Esquipulas Palo Gordo) - Ref 506,San Felipe,Esquipulas Palo Gordo,NACIONAL_ASFALTO,20.76,32,BUENO
+TRM_165_196_0506,Tramo RN-9 Salcajá (San Andrés Villa Seca - Río Blanco) - Ref 507,San Andrés Villa Seca,Río Blanco,NACIONAL_ASFALTO,25.82,62,BUENO
+TRM_166_197_0507,Tramo RN-9 Salcajá (Champerico - San Lorenzo) - Ref 508,Champerico,San Lorenzo,NACIONAL_ASFALTO,29.68,37,BUENO
+TRM_167_198_0508,Tramo RN-7 Cobán-Quiché (Nuevo San Carlos - La Blanca) - Ref 509,Nuevo San Carlos,La Blanca,PEATONAL,25.95,53,BUENO
+TRM_168_199_0509,Tramo RN-15 Sacapulas (El Asintal - Huehuetenango) - Ref 510,El Asintal,Huehuetenango,NACIONAL_ASFALTO,71.37,112,BUENO
+TRM_169_200_0510,Tramo RN-11 Panajachel (San Marcos - Chiantla) - Ref 511,San Marcos,Chiantla,INTERAMERICANA,19.74,53,REGULAR
+TRM_170_201_0511,Tramo RN-15 Sacapulas (San Pedro Sacatepéquez - Malacatancito) - Ref 512,San Pedro Sacatepéquez,Malacatancito,PEATONAL,52.42,87,BUENO
+TRM_171_202_0512,Tramo Ruta Nacional RN-1 (San Antonio Sacatepéquez - Cuilco) - Ref 513,San Antonio Sacatepéquez,Cuilco,ACUATICA,40.85,67,BUENO
+TRM_172_203_0513,Tramo RN-9 Salcajá (Comitancillo - Nentón) - Ref 514,Comitancillo,Nentón,INTERAMERICANA,51.46,62,MALO
+TRM_173_204_0514,Tramo Ruta Nacional RN-1 (San Miguel Ixtahuacán - San Pedro Necta) - Ref 515,San Miguel Ixtahuacán,San Pedro Necta,TERRACERIA,22.54,68,REGULAR
+TRM_174_205_0515,Tramo CA-1 Occidente (Concepción Tutuapa - Jacaltenango) - Ref 516,Concepción Tutuapa,Jacaltenango,PEATONAL,32.54,43,MALO
+TRM_175_206_0516,Tramo CA-1 Occidente (Tacaná - Soloma) - Ref 517,Tacaná,Soloma,INTERAMERICANA,35.88,70,BUENO
+TRM_176_207_0517,Tramo CA-1 Occidente (Sibinal - Ixtahuacán) - Ref 518,Sibinal,Ixtahuacán,PEATONAL,49.22,143,BLOQUEADO
+TRM_177_208_0518,Tramo RN-7 Cobán-Quiché (Tajumulco - Santa Bárbara) - Ref 519,Tajumulco,Santa Bárbara,ACUATICA,44.21,60,BUENO
+TRM_178_209_0519,Tramo RN-11 Panajachel (Tejutla - La Libertad) - Ref 520,Tejutla,La Libertad,INTERAMERICANA,25.0,44,BUENO
+TRM_179_210_0520,Tramo RN-15 Sacapulas (San Rafael Pie de la Cuesta - La Democracia) - Ref 521,San Rafael Pie de la Cuesta,La Democracia,NACIONAL_ASFALTO,23.45,53,BUENO
+TRM_180_211_0521,Tramo RN-15 Sacapulas (Nuevo Progreso - San Miguel Acatán) - Ref 522,Nuevo Progreso,San Miguel Acatán,ACUATICA,68.29,110,REGULAR
+TRM_181_212_0522,Tramo RN-7 Cobán-Quiché (El Tumbador - San Rafael La Independencia) - Ref 523,El Tumbador,San Rafael La Independencia,NACIONAL_ASFALTO,8.77,16,BUENO
+TRM_182_213_0523,Tramo RN-7 Cobán-Quiché (El Rodeo - Todos Santos Cuchumatán) - Ref 524,El Rodeo,Todos Santos Cuchumatán,INTERAMERICANA,51.27,106,BUENO
+TRM_183_214_0524,Tramo RN-11 Panajachel (Malacatán - San Juan Atitán) - Ref 525,Malacatán,San Juan Atitán,NACIONAL_ASFALTO,8.55,16,BUENO
+TRM_184_215_0525,Tramo RN-7 Cobán-Quiché (Catarina - Santa Eulalia) - Ref 526,Catarina,Santa Eulalia,ACUATICA,70.66,197,REGULAR
+TRM_185_216_0526,Tramo RN-7 Cobán-Quiché (Ayutla - San Mateo Ixtatán) - Ref 527,Ayutla,San Mateo Ixtatán,ACUATICA,27.21,72,BUENO
+TRM_186_217_0527,Tramo RN-9 Salcajá (Ocós - Colotenango) - Ref 528,Ocós,Colotenango,PEATONAL,70.38,233,BUENO
+TRM_187_218_0528,Tramo RN-11 Panajachel (San Pablo - San Sebastián Huehuetenango) - Ref 529,San Pablo,San Sebastián Huehuetenango,ACUATICA,39.78,66,BUENO
+TRM_188_219_0529,Tramo RN-9 Salcajá (El Quetzal - Tectitán) - Ref 530,El Quetzal,Tectitán,TERRACERIA,21.28,30,BUENO
+TRM_189_220_0530,Tramo RN-9 Salcajá (La Reforma - Concepción Huista) - Ref 531,La Reforma,Concepción Huista,INTERAMERICANA,51.26,62,MALO
+TRM_190_221_0531,Tramo RN-11 Panajachel (Pajapita - San Juan Ixcoy) - Ref 532,Pajapita,San Juan Ixcoy,INTERAMERICANA,17.32,50,REGULAR
+TRM_191_222_0532,Tramo Ruta Nacional RN-1 (Ixchiguán - San Antonio Huista) - Ref 533,Ixchiguán,San Antonio Huista,ACUATICA,57.83,194,BUENO
+TRM_192_223_0533,Tramo CA-1 Occidente (San José Ojetenam - San Sebastián Coatán) - Ref 534,San José Ojetenam,San Sebastián Coatán,ACUATICA,63.27,115,BUENO
+TRM_193_224_0534,Tramo RN-11 Panajachel (San Cristóbal Cucho - Barillas) - Ref 535,San Cristóbal Cucho,Barillas,NACIONAL_ASFALTO,72.68,230,REGULAR
+TRM_194_225_0535,Tramo Ruta Nacional RN-1 (Sipacapa - Aguacatán) - Ref 536,Sipacapa,Aguacatán,TERRACERIA,74.64,163,BUENO
+TRM_195_226_0536,Tramo CA-1 Occidente (Esquipulas Palo Gordo - San Rafael Petzal) - Ref 537,Esquipulas Palo Gordo,San Rafael Petzal,INTERAMERICANA,38.86,119,BUENO
+TRM_196_227_0537,Tramo RN-15 Sacapulas (Río Blanco - San Gaspar Ixchil) - Ref 538,Río Blanco,San Gaspar Ixchil,PEATONAL,11.98,31,BUENO
+TRM_197_228_0538,Tramo Ruta Nacional RN-1 (San Lorenzo - Santiago Chimaltenango) - Ref 539,San Lorenzo,Santiago Chimaltenango,PEATONAL,43.29,62,BUENO
+TRM_198_229_0539,Tramo CA-1 Occidente (La Blanca - Santa Ana Huista) - Ref 540,La Blanca,Santa Ana Huista,TERRACERIA,6.59,14,BUENO
+TRM_199_230_0540,Tramo RN-9 Salcajá (Huehuetenango - Unión Cantinil) - Ref 541,Huehuetenango,Unión Cantinil,ACUATICA,51.53,178,BUENO
+TRM_200_231_0541,Tramo RN-11 Panajachel (Chiantla - Petatán) - Ref 542,Chiantla,Petatán,NACIONAL_ASFALTO,10.62,24,BUENO
+TRM_201_232_0542,Tramo RN-11 Panajachel (Malacatancito - Santa Cruz del Quiché) - Ref 543,Malacatancito,Santa Cruz del Quiché,ACUATICA,46.08,100,BUENO
+TRM_202_233_0543,Tramo Ruta Nacional RN-1 (Cuilco - Chiché) - Ref 544,Cuilco,Chiché,INTERAMERICANA,50.1,157,BUENO
+TRM_203_234_0544,Tramo RN-9 Salcajá (Nentón - Chinique) - Ref 545,Nentón,Chinique,INTERAMERICANA,55.96,185,BUENO
+TRM_204_235_0545,Tramo RN-11 Panajachel (San Pedro Necta - Zacualpa) - Ref 546,San Pedro Necta,Zacualpa,PEATONAL,37.22,54,BUENO
+TRM_205_236_0546,Tramo RN-15 Sacapulas (Jacaltenango - Chajul) - Ref 547,Jacaltenango,Chajul,ACUATICA,14.15,47,BUENO
+TRM_206_237_0547,Tramo RN-9 Salcajá (Soloma - Chichicastenango) - Ref 548,Soloma,Chichicastenango,INTERAMERICANA,6.89,22,REGULAR
+TRM_207_238_0548,Tramo RN-7 Cobán-Quiché (Ixtahuacán - Patzité) - Ref 549,Ixtahuacán,Patzité,ACUATICA,58.57,188,BUENO
+TRM_208_239_0549,Tramo Ruta Nacional RN-1 (Santa Bárbara - San Antonio Ilotenango) - Ref 550,Santa Bárbara,San Antonio Ilotenango,ACUATICA,26.51,44,BUENO
+TRM_209_240_0550,Tramo CA-1 Occidente (La Libertad - San Pedro Jocopilas) - Ref 551,La Libertad,San Pedro Jocopilas,TERRACERIA,52.58,94,BUENO
+TRM_210_241_0551,Tramo RN-15 Sacapulas (La Democracia - Cunén) - Ref 552,La Democracia,Cunén,INTERAMERICANA,38.87,50,BUENO
+TRM_211_242_0552,Tramo CA-1 Occidente (San Miguel Acatán - San Juan Cotzal) - Ref 553,San Miguel Acatán,San Juan Cotzal,ACUATICA,63.76,87,BUENO
+TRM_212_243_0553,Tramo RN-7 Cobán-Quiché (San Rafael La Independencia - Joyabaj) - Ref 554,San Rafael La Independencia,Joyabaj,TERRACERIA,14.54,31,BUENO
+TRM_213_244_0554,Tramo RN-11 Panajachel (Todos Santos Cuchumatán - Nebaj) - Ref 555,Todos Santos Cuchumatán,Nebaj,INTERAMERICANA,16.84,23,BUENO
+TRM_214_245_0555,Tramo Ruta Nacional RN-1 (San Juan Atitán - San Andrés Sajcabajá) - Ref 556,San Juan Atitán,San Andrés Sajcabajá,INTERAMERICANA,16.97,45,BUENO
+TRM_215_246_0556,Tramo CA-1 Occidente (Santa Eulalia - Uspantán) - Ref 557,Santa Eulalia,Uspantán,TERRACERIA,27.67,56,MALO
+TRM_216_247_0557,Tramo RN-11 Panajachel (San Mateo Ixtatán - Sacapulas) - Ref 558,San Mateo Ixtatán,Sacapulas,INTERAMERICANA,22.03,57,MALO
+TRM_217_248_0558,Tramo RN-9 Salcajá (Colotenango - San Bartolomé Jocotenango) - Ref 559,Colotenango,San Bartolomé Jocotenango,NACIONAL_ASFALTO,45.87,67,BUENO
+TRM_218_249_0559,Tramo Ruta Nacional RN-1 (San Sebastián Huehuetenango - Canillá) - Ref 560,San Sebastián Huehuetenango,Canillá,PEATONAL,40.38,138,BUENO
+TRM_219_250_0560,Tramo RN-9 Salcajá (Tectitán - Chicamán) - Ref 561,Tectitán,Chicamán,ACUATICA,56.83,139,BUENO
+TRM_220_251_0561,Tramo RN-7 Cobán-Quiché (Concepción Huista - Ixcán) - Ref 562,Concepción Huista,Ixcán,TERRACERIA,37.62,99,BUENO
+TRM_221_252_0562,Tramo Ruta Nacional RN-1 (San Juan Ixcoy - Pachalum) - Ref 563,San Juan Ixcoy,Pachalum,PEATONAL,70.65,132,BUENO
+TRM_222_253_0563,Tramo Ruta Nacional RN-1 (San Antonio Huista - Salamá) - Ref 564,San Antonio Huista,Salamá,INTERAMERICANA,35.34,112,BUENO
+TRM_223_254_0564,Tramo RN-15 Sacapulas (San Sebastián Coatán - San Miguel Chicaj) - Ref 565,San Sebastián Coatán,San Miguel Chicaj,TERRACERIA,61.48,120,BUENO
+TRM_224_255_0565,Tramo RN-15 Sacapulas (Barillas - Rabinal) - Ref 566,Barillas,Rabinal,TERRACERIA,60.7,181,BUENO
+TRM_225_256_0566,Tramo RN-11 Panajachel (Aguacatán - Cubulco) - Ref 567,Aguacatán,Cubulco,INTERAMERICANA,58.25,100,REGULAR
+TRM_226_257_0567,Tramo RN-7 Cobán-Quiché (San Rafael Petzal - Granados) - Ref 568,San Rafael Petzal,Granados,PEATONAL,66.78,161,BUENO
+TRM_227_258_0568,Tramo RN-7 Cobán-Quiché (San Gaspar Ixchil - El Chol) - Ref 569,San Gaspar Ixchil,El Chol,NACIONAL_ASFALTO,31.78,67,BUENO
+TRM_228_259_0569,Tramo RN-15 Sacapulas (Santiago Chimaltenango - San Jerónimo) - Ref 570,Santiago Chimaltenango,San Jerónimo,NACIONAL_ASFALTO,73.68,230,MALO
+TRM_229_260_0570,Tramo RN-9 Salcajá (Santa Ana Huista - Purulhá) - Ref 571,Santa Ana Huista,Purulhá,ACUATICA,44.15,131,BUENO
+TRM_230_261_0571,Tramo RN-15 Sacapulas (Unión Cantinil - Cobán) - Ref 572,Unión Cantinil,Cobán,INTERAMERICANA,43.3,110,BUENO
+TRM_231_262_0572,Tramo RN-11 Panajachel (Petatán - Santa Cruz Verapaz) - Ref 573,Petatán,Santa Cruz Verapaz,INTERAMERICANA,31.65,44,BUENO
+TRM_232_263_0573,Tramo Ruta Nacional RN-1 (Santa Cruz del Quiché - San Cristóbal Verapaz) - Ref 574,Santa Cruz del Quiché,San Cristóbal Verapaz,PEATONAL,56.58,163,BUENO
+TRM_233_264_0574,Tramo CA-1 Occidente (Chiché - Tactic) - Ref 575,Chiché,Tactic,PEATONAL,29.31,89,BUENO
+TRM_234_265_0575,Tramo Ruta Nacional RN-1 (Chinique - Tamahú) - Ref 576,Chinique,Tamahú,INTERAMERICANA,25.15,38,BUENO
+TRM_235_266_0576,Tramo RN-11 Panajachel (Zacualpa - Tucurú) - Ref 577,Zacualpa,Tucurú,INTERAMERICANA,24.38,81,BUENO
+TRM_236_267_0577,Tramo Ruta Nacional RN-1 (Chajul - Panzós) - Ref 578,Chajul,Panzós,NACIONAL_ASFALTO,66.19,202,REGULAR
+TRM_237_268_0578,Tramo CA-1 Occidente (Chichicastenango - Senahú) - Ref 579,Chichicastenango,Senahú,NACIONAL_ASFALTO,42.98,115,BUENO
+TRM_238_269_0579,Tramo RN-11 Panajachel (Patzité - San Pedro Carchá) - Ref 580,Patzité,San Pedro Carchá,TERRACERIA,20.16,35,BUENO
+TRM_239_270_0580,Tramo RN-7 Cobán-Quiché (San Antonio Ilotenango - San Juan Chamelco) - Ref 581,San Antonio Ilotenango,San Juan Chamelco,PEATONAL,47.94,58,BUENO
+TRM_240_271_0581,Tramo RN-7 Cobán-Quiché (San Pedro Jocopilas - Lanquín) - Ref 582,San Pedro Jocopilas,Lanquín,INTERAMERICANA,51.11,131,REGULAR
+TRM_241_272_0582,Tramo Ruta Nacional RN-1 (Cunén - Cahabón) - Ref 583,Cunén,Cahabón,INTERAMERICANA,65.36,116,BUENO
+TRM_242_273_0583,Tramo RN-9 Salcajá (San Juan Cotzal - Chisec) - Ref 584,San Juan Cotzal,Chisec,PEATONAL,25.93,76,REGULAR
+TRM_243_274_0584,Tramo RN-9 Salcajá (Joyabaj - Chahal) - Ref 585,Joyabaj,Chahal,INTERAMERICANA,56.59,72,BUENO
+TRM_244_275_0585,Tramo CA-1 Occidente (Nebaj - Fray Bartolomé de Las Casas) - Ref 586,Nebaj,Fray Bartolomé de Las Casas,INTERAMERICANA,47.65,148,BUENO
+TRM_245_276_0586,Tramo CA-1 Occidente (San Andrés Sajcabajá - Santa Catalina La Tinta) - Ref 587,San Andrés Sajcabajá,Santa Catalina La Tinta,NACIONAL_ASFALTO,17.61,34,BUENO
+TRM_246_277_0587,Tramo RN-11 Panajachel (Uspantán - Raxruhá) - Ref 588,Uspantán,Raxruhá,TERRACERIA,24.89,75,BUENO
+TRM_247_278_0588,Tramo Ruta Nacional RN-1 (Sacapulas - Flores) - Ref 589,Sacapulas,Flores,INTERAMERICANA,6.26,10,BUENO
+TRM_248_279_0589,Tramo RN-11 Panajachel (San Bartolomé Jocotenango - San José) - Ref 590,San Bartolomé Jocotenango,San José,PEATONAL,7.69,9,BUENO
+TRM_249_280_0590,Tramo CA-1 Occidente (Canillá - San Benito) - Ref 591,Canillá,San Benito,INTERAMERICANA,11.6,21,BUENO
+TRM_250_281_0591,Tramo RN-15 Sacapulas (Chicamán - San Andrés) - Ref 592,Chicamán,San Andrés,ACUATICA,68.09,89,BUENO
+TRM_251_282_0592,Tramo CA-1 Occidente (Ixcán - La Libertad) - Ref 593,Ixcán,La Libertad,INTERAMERICANA,17.99,33,BUENO
+TRM_252_283_0593,Tramo Ruta Nacional RN-1 (Pachalum - San Francisco) - Ref 594,Pachalum,San Francisco,NACIONAL_ASFALTO,28.66,90,BUENO
+TRM_253_284_0594,Tramo RN-9 Salcajá (Salamá - Santa Ana) - Ref 595,Salamá,Santa Ana,TERRACERIA,12.13,27,BUENO
+TRM_254_285_0595,Tramo RN-11 Panajachel (San Miguel Chicaj - Dolores) - Ref 596,San Miguel Chicaj,Dolores,PEATONAL,20.19,33,REGULAR
+TRM_255_286_0596,Tramo Ruta Nacional RN-1 (Rabinal - San Luis) - Ref 597,Rabinal,San Luis,INTERAMERICANA,18.59,45,BUENO
+TRM_256_287_0597,Tramo RN-15 Sacapulas (Cubulco - Sayaxché) - Ref 598,Cubulco,Sayaxché,INTERAMERICANA,42.6,95,REGULAR
+TRM_257_288_0598,Tramo RN-7 Cobán-Quiché (Granados - Melchor de Mencos) - Ref 599,Granados,Melchor de Mencos,INTERAMERICANA,65.59,219,BUENO
+TRM_258_289_0599,Tramo RN-9 Salcajá (El Chol - Poptún) - Ref 600,El Chol,Poptún,NACIONAL_ASFALTO,69.19,178,BUENO
+TRM_259_290_0600,Tramo RN-15 Sacapulas (San Jerónimo - Las Cruces) - Ref 601,San Jerónimo,Las Cruces,NACIONAL_ASFALTO,64.71,140,REGULAR
+TRM_260_291_0601,Tramo RN-15 Sacapulas (Purulhá - El Chal) - Ref 602,Purulhá,El Chal,NACIONAL_ASFALTO,8.71,23,REGULAR
+TRM_261_292_0602,Tramo Ruta Nacional RN-1 (Cobán - Puerto Barrios) - Ref 603,Cobán,Puerto Barrios,INTERAMERICANA,21.28,70,BUENO
+TRM_262_293_0603,Tramo CA-1 Occidente (Santa Cruz Verapaz - Lívingston) - Ref 604,Santa Cruz Verapaz,Lívingston,ACUATICA,53.06,118,BUENO
+TRM_263_294_0604,Tramo RN-15 Sacapulas (San Cristóbal Verapaz - El Estor) - Ref 605,San Cristóbal Verapaz,El Estor,NACIONAL_ASFALTO,40.89,49,BUENO
+TRM_264_295_0605,Tramo RN-9 Salcajá (Tactic - Morales) - Ref 606,Tactic,Morales,PEATONAL,34.01,108,BUENO
+TRM_265_296_0606,Tramo RN-9 Salcajá (Tamahú - Los Amates) - Ref 607,Tamahú,Los Amates,NACIONAL_ASFALTO,69.26,192,BUENO
+TRM_266_297_0607,Tramo RN-9 Salcajá (Tucurú - Zacapa) - Ref 608,Tucurú,Zacapa,NACIONAL_ASFALTO,43.87,128,BUENO
+TRM_267_298_0608,Tramo RN-7 Cobán-Quiché (Panzós - Estanzuela) - Ref 609,Panzós,Estanzuela,PEATONAL,70.19,158,MALO
+TRM_268_299_0609,Tramo CA-1 Occidente (Senahú - Río Hondo) - Ref 610,Senahú,Río Hondo,INTERAMERICANA,57.65,104,BUENO
+TRM_269_300_0610,Tramo RN-15 Sacapulas (San Pedro Carchá - Gualán) - Ref 611,San Pedro Carchá,Gualán,ACUATICA,73.88,239,REGULAR
+TRM_270_301_0611,Tramo RN-9 Salcajá (San Juan Chamelco - Teculután) - Ref 612,San Juan Chamelco,Teculután,ACUATICA,39.69,125,REGULAR
+TRM_271_302_0612,Tramo RN-15 Sacapulas (Lanquín - Usumatlán) - Ref 613,Lanquín,Usumatlán,INTERAMERICANA,57.43,81,BUENO
+TRM_272_303_0613,Tramo RN-7 Cobán-Quiché (Cahabón - Cabañas) - Ref 614,Cahabón,Cabañas,PEATONAL,59.0,116,REGULAR
+TRM_273_304_0614,Tramo Ruta Nacional RN-1 (Chisec - San Diego) - Ref 615,Chisec,San Diego,TERRACERIA,23.36,53,REGULAR
+TRM_274_305_0615,Tramo RN-11 Panajachel (Chahal - La Unión) - Ref 616,Chahal,La Unión,PEATONAL,61.07,108,BUENO
+TRM_275_306_0616,Tramo RN-15 Sacapulas (Fray Bartolomé de Las Casas - Huité) - Ref 617,Fray Bartolomé de Las Casas,Huité,INTERAMERICANA,50.41,110,BUENO
+TRM_276_307_0617,Tramo RN-7 Cobán-Quiché (Santa Catalina La Tinta - San Jorge) - Ref 618,Santa Catalina La Tinta,San Jorge,PEATONAL,63.16,107,BUENO
+TRM_277_308_0618,Tramo Ruta Nacional RN-1 (Raxruhá - Chiquimula) - Ref 619,Raxruhá,Chiquimula,ACUATICA,42.01,121,REGULAR
+TRM_278_309_0619,Tramo Ruta Nacional RN-1 (Flores - San José La Arada) - Ref 620,Flores,San José La Arada,TERRACERIA,35.99,73,REGULAR
+TRM_279_310_0620,Tramo RN-11 Panajachel (San José - San Juan Ermita) - Ref 621,San José,San Juan Ermita,ACUATICA,50.79,116,BUENO
+TRM_280_311_0621,Tramo RN-9 Salcajá (San Benito - Jocotán) - Ref 622,San Benito,Jocotán,ACUATICA,14.2,25,REGULAR
+TRM_281_312_0622,Tramo RN-11 Panajachel (San Andrés - Camotán) - Ref 623,San Andrés,Camotán,ACUATICA,9.17,28,REGULAR
+TRM_282_313_0623,Tramo CA-1 Occidente (La Libertad - Olopa) - Ref 624,La Libertad,Olopa,NACIONAL_ASFALTO,54.58,189,BUENO
+TRM_283_314_0624,Tramo RN-9 Salcajá (San Francisco - Esquipulas) - Ref 625,San Francisco,Esquipulas,INTERAMERICANA,71.52,138,BLOQUEADO
+TRM_284_315_0625,Tramo RN-9 Salcajá (Santa Ana - Concepción Las Minas) - Ref 626,Santa Ana,Concepción Las Minas,ACUATICA,61.66,109,BUENO
+TRM_285_316_0626,Tramo RN-11 Panajachel (Dolores - Quezaltepeque) - Ref 627,Dolores,Quezaltepeque,PEATONAL,47.1,76,REGULAR
+TRM_286_317_0627,Tramo Ruta Nacional RN-1 (San Luis - San Jacinto) - Ref 628,San Luis,San Jacinto,NACIONAL_ASFALTO,66.26,87,REGULAR
+TRM_287_318_0628,Tramo RN-15 Sacapulas (Sayaxché - Ipala) - Ref 629,Sayaxché,Ipala,INTERAMERICANA,7.71,26,BUENO
+TRM_288_319_0629,Tramo RN-15 Sacapulas (Melchor de Mencos - Jalapa) - Ref 630,Melchor de Mencos,Jalapa,INTERAMERICANA,18.94,64,BLOQUEADO
+TRM_289_320_0630,Tramo Ruta Nacional RN-1 (Poptún - San Pedro Pinula) - Ref 631,Poptún,San Pedro Pinula,TERRACERIA,42.79,68,REGULAR
+TRM_290_321_0631,Tramo RN-15 Sacapulas (Las Cruces - San Luis Jilotepeque) - Ref 632,Las Cruces,San Luis Jilotepeque,PEATONAL,23.21,32,BUENO
+TRM_291_322_0632,Tramo RN-7 Cobán-Quiché (El Chal - San Manuel Chaparrón) - Ref 633,El Chal,San Manuel Chaparrón,PEATONAL,73.2,144,BUENO
+TRM_292_323_0633,Tramo Ruta Nacional RN-1 (Puerto Barrios - San Carlos Alzatate) - Ref 634,Puerto Barrios,San Carlos Alzatate,NACIONAL_ASFALTO,57.54,163,MALO
+TRM_293_324_0634,Tramo RN-9 Salcajá (Lívingston - Monjas) - Ref 635,Lívingston,Monjas,NACIONAL_ASFALTO,27.46,69,MALO
+TRM_294_325_0635,Tramo Ruta Nacional RN-1 (El Estor - Mataquescuintla) - Ref 636,El Estor,Mataquescuintla,PEATONAL,39.33,101,BUENO
+TRM_295_326_0636,Tramo Ruta Nacional RN-1 (Morales - Jutiapa) - Ref 637,Morales,Jutiapa,NACIONAL_ASFALTO,46.52,120,BUENO
+TRM_296_327_0637,Tramo RN-15 Sacapulas (Los Amates - El Progreso) - Ref 638,Los Amates,El Progreso,TERRACERIA,19.87,59,BUENO
+TRM_297_328_0638,Tramo RN-15 Sacapulas (Zacapa - Santa Catarina Mita) - Ref 639,Zacapa,Santa Catarina Mita,PEATONAL,43.39,58,BUENO
+TRM_298_329_0639,Tramo RN-9 Salcajá (Estanzuela - Agua Blanca) - Ref 640,Estanzuela,Agua Blanca,ACUATICA,32.86,55,BUENO
+TRM_299_330_0640,Tramo RN-11 Panajachel (Río Hondo - Asunción Mita) - Ref 641,Río Hondo,Asunción Mita,NACIONAL_ASFALTO,43.02,140,BUENO
+TRM_300_331_0641,Tramo RN-9 Salcajá (Gualán - Yupiltepeque) - Ref 642,Gualán,Yupiltepeque,TERRACERIA,50.09,138,BUENO
+TRM_301_332_0642,Tramo CA-1 Occidente (Teculután - Atescatempa) - Ref 643,Teculután,Atescatempa,TERRACERIA,33.87,44,BUENO
+TRM_302_333_0643,Tramo RN-7 Cobán-Quiché (Usumatlán - Jerez) - Ref 644,Usumatlán,Jerez,NACIONAL_ASFALTO,19.42,36,BUENO
+TRM_303_334_0644,Tramo RN-9 Salcajá (Cabañas - El Adelanto) - Ref 645,Cabañas,El Adelanto,NACIONAL_ASFALTO,45.77,72,BUENO
+TRM_304_335_0645,Tramo RN-11 Panajachel (San Diego - Zapotitlán) - Ref 646,San Diego,Zapotitlán,INTERAMERICANA,68.16,123,BLOQUEADO
+TRM_305_336_0646,Tramo RN-9 Salcajá (La Unión - Comapa) - Ref 647,La Unión,Comapa,TERRACERIA,48.6,61,BLOQUEADO
+TRM_306_337_0647,Tramo RN-7 Cobán-Quiché (Huité - Jalpatagua) - Ref 648,Huité,Jalpatagua,PEATONAL,59.55,124,BUENO
+TRM_307_338_0648,Tramo RN-7 Cobán-Quiché (San Jorge - Conguaco) - Ref 649,San Jorge,Conguaco,ACUATICA,54.76,140,REGULAR
+TRM_308_339_0649,Tramo RN-11 Panajachel (Chiquimula - Moyuta) - Ref 650,Chiquimula,Moyuta,INTERAMERICANA,29.3,82,BUENO
+TRM_309_340_0650,Tramo RN-15 Sacapulas (San José La Arada - Pasaco) - Ref 651,San José La Arada,Pasaco,ACUATICA,60.63,136,BUENO
+TRM_310_341_0651,Tramo RN-15 Sacapulas (San Juan Ermita - San José Acatempa) - Ref 652,San Juan Ermita,San José Acatempa,INTERAMERICANA,44.89,91,BUENO
+TRM_311_342_0652,Tramo Ruta Nacional RN-1 (Jocotán - Quesada) - Ref 653,Jocotán,Quesada,TERRACERIA,40.98,112,BUENO
+TRM_312_1_0653,Tramo Ruta Nacional RN-1 (Camotán - Lago De Amatitlan) - Ref 654,Camotán,Lago De Amatitlan,INTERAMERICANA,68.48,161,REGULAR
+TRM_313_2_0654,Tramo RN-7 Cobán-Quiché (Olopa - Guatemala) - Ref 655,Olopa,Guatemala,PEATONAL,30.62,92,BUENO
+TRM_314_3_0655,Tramo RN-15 Sacapulas (Esquipulas - Santa Catarina Pinula) - Ref 656,Esquipulas,Santa Catarina Pinula,INTERAMERICANA,10.03,28,REGULAR
+TRM_315_4_0656,Tramo Ruta Nacional RN-1 (Concepción Las Minas - San José Pinula) - Ref 657,Concepción Las Minas,San José Pinula,NACIONAL_ASFALTO,50.22,162,BUENO
+TRM_316_5_0657,Tramo RN-9 Salcajá (Quezaltepeque - San José del Golfo) - Ref 658,Quezaltepeque,San José del Golfo,INTERAMERICANA,68.43,238,BUENO
+TRM_317_6_0658,Tramo CA-1 Occidente (San Jacinto - Palencia) - Ref 659,San Jacinto,Palencia,PEATONAL,65.9,169,BUENO
+TRM_318_7_0659,Tramo RN-11 Panajachel (Ipala - Chinautla) - Ref 660,Ipala,Chinautla,ACUATICA,39.21,65,REGULAR
+TRM_319_8_0660,Tramo RN-7 Cobán-Quiché (Jalapa - San Pedro Ayampuc) - Ref 661,Jalapa,San Pedro Ayampuc,NACIONAL_ASFALTO,53.54,110,REGULAR
+TRM_320_9_0661,Tramo CA-1 Occidente (San Pedro Pinula - Mixco) - Ref 662,San Pedro Pinula,Mixco,ACUATICA,56.84,193,BUENO
+TRM_321_10_0662,Tramo RN-11 Panajachel (San Luis Jilotepeque - San Pedro Sacatepéquez) - Ref 663,San Luis Jilotepeque,San Pedro Sacatepéquez,ACUATICA,53.96,100,REGULAR
+TRM_322_11_0663,Tramo Ruta Nacional RN-1 (San Manuel Chaparrón - San Juan Sacatepéquez) - Ref 664,San Manuel Chaparrón,San Juan Sacatepéquez,TERRACERIA,37.84,92,REGULAR
+TRM_323_12_0664,Tramo RN-7 Cobán-Quiché (San Carlos Alzatate - San Raimundo) - Ref 665,San Carlos Alzatate,San Raimundo,INTERAMERICANA,66.8,194,BUENO
+TRM_324_13_0665,Tramo Ruta Nacional RN-1 (Monjas - Chuarrancho) - Ref 666,Monjas,Chuarrancho,INTERAMERICANA,63.54,140,REGULAR
+TRM_325_14_0666,Tramo RN-9 Salcajá (Mataquescuintla - Fraijanes) - Ref 667,Mataquescuintla,Fraijanes,NACIONAL_ASFALTO,62.19,170,BUENO
+TRM_326_15_0667,Tramo CA-1 Occidente (Jutiapa - Amatitlán) - Ref 668,Jutiapa,Amatitlán,INTERAMERICANA,55.76,167,BUENO
+TRM_327_16_0668,Tramo RN-15 Sacapulas (El Progreso - Villa Nueva) - Ref 669,El Progreso,Villa Nueva,INTERAMERICANA,11.58,19,BUENO
+TRM_328_17_0669,Tramo Ruta Nacional RN-1 (Santa Catarina Mita - Villa Canales) - Ref 670,Santa Catarina Mita,Villa Canales,PEATONAL,59.74,191,BUENO
+TRM_329_18_0670,Tramo RN-11 Panajachel (Agua Blanca - Petapa) - Ref 671,Agua Blanca,Petapa,NACIONAL_ASFALTO,66.48,232,BLOQUEADO
+TRM_330_19_0671,Tramo RN-11 Panajachel (Asunción Mita - Guastatoya) - Ref 672,Asunción Mita,Guastatoya,TERRACERIA,44.39,109,BUENO
+TRM_331_20_0672,Tramo RN-15 Sacapulas (Yupiltepeque - Morazán) - Ref 673,Yupiltepeque,Morazán,NACIONAL_ASFALTO,47.79,74,BUENO
+TRM_332_21_0673,Tramo RN-15 Sacapulas (Atescatempa - San Agustín Acasaguastlán) - Ref 674,Atescatempa,San Agustín Acasaguastlán,INTERAMERICANA,6.86,20,BUENO
+TRM_333_22_0674,Tramo CA-1 Occidente (Jerez - San Cristóbal Acasaguastlán) - Ref 675,Jerez,San Cristóbal Acasaguastlán,PEATONAL,16.84,26,BUENO
+TRM_334_23_0675,Tramo RN-11 Panajachel (El Adelanto - El Jícaro) - Ref 676,El Adelanto,El Jícaro,NACIONAL_ASFALTO,39.94,79,BUENO
+TRM_335_24_0676,Tramo RN-7 Cobán-Quiché (Zapotitlán - Sanarate) - Ref 677,Zapotitlán,Sanarate,PEATONAL,47.64,101,BUENO
+TRM_336_25_0677,Tramo RN-7 Cobán-Quiché (Comapa - Sansare) - Ref 678,Comapa,Sansare,PEATONAL,41.45,70,BUENO
+TRM_337_26_0678,Tramo RN-15 Sacapulas (Jalpatagua - San Antonio La Paz) - Ref 679,Jalpatagua,San Antonio La Paz,INTERAMERICANA,25.64,32,MALO
+TRM_338_27_0679,Tramo RN-9 Salcajá (Conguaco - Antigua Guatemala) - Ref 680,Conguaco,Antigua Guatemala,TERRACERIA,17.48,52,BUENO
+TRM_339_28_0680,Tramo RN-7 Cobán-Quiché (Moyuta - Jocotenango) - Ref 681,Moyuta,Jocotenango,TERRACERIA,52.6,107,BUENO
+TRM_340_29_0681,Tramo CA-1 Occidente (Pasaco - Pastores) - Ref 682,Pasaco,Pastores,TERRACERIA,34.53,62,BUENO
+TRM_341_30_0682,Tramo CA-1 Occidente (San José Acatempa - Sumpango) - Ref 683,San José Acatempa,Sumpango,INTERAMERICANA,65.28,123,BUENO
+TRM_342_31_0683,Tramo RN-15 Sacapulas (Quesada - Santo Domingo Xenacoj) - Ref 684,Quesada,Santo Domingo Xenacoj,INTERAMERICANA,8.48,27,BLOQUEADO
+TRM_1_32_0684,Tramo RN-7 Cobán-Quiché (Lago De Amatitlan - Santiago Sacatepéquez) - Ref 685,Lago De Amatitlan,Santiago Sacatepéquez,INTERAMERICANA,31.54,101,BUENO
+TRM_2_33_0685,Tramo CA-1 Occidente (Guatemala - San Bartolomé Milpas Altas) - Ref 686,Guatemala,San Bartolomé Milpas Altas,TERRACERIA,47.11,88,BUENO
+TRM_3_34_0686,Tramo RN-9 Salcajá (Santa Catarina Pinula - San Lucas Sacatepéquez) - Ref 687,Santa Catarina Pinula,San Lucas Sacatepéquez,TERRACERIA,40.81,109,REGULAR
+TRM_4_35_0687,Tramo Ruta Nacional RN-1 (San José Pinula - Santa Lucía Milpas Altas) - Ref 688,San José Pinula,Santa Lucía Milpas Altas,PEATONAL,70.69,106,BUENO
+TRM_5_36_0688,Tramo RN-15 Sacapulas (San José del Golfo - Magdalena Milpas Altas) - Ref 689,San José del Golfo,Magdalena Milpas Altas,NACIONAL_ASFALTO,13.1,38,BUENO
+TRM_6_37_0689,Tramo CA-1 Occidente (Palencia - Santa María de Jesús) - Ref 690,Palencia,Santa María de Jesús,NACIONAL_ASFALTO,48.31,161,REGULAR
+TRM_7_38_0690,Tramo RN-11 Panajachel (Chinautla - Ciudad Vieja) - Ref 691,Chinautla,Ciudad Vieja,TERRACERIA,53.99,116,BUENO
+TRM_8_39_0691,Tramo RN-7 Cobán-Quiché (San Pedro Ayampuc - San Miguel Dueñas) - Ref 692,San Pedro Ayampuc,San Miguel Dueñas,TERRACERIA,28.34,56,REGULAR
+TRM_9_40_0692,Tramo Ruta Nacional RN-1 (Mixco - Alotenango) - Ref 693,Mixco,Alotenango,PEATONAL,18.65,56,BUENO
+TRM_10_41_0693,Tramo RN-7 Cobán-Quiché (San Pedro Sacatepéquez - San Antonio Aguas Calientes) - Ref 694,San Pedro Sacatepéquez,San Antonio Aguas Calientes,ACUATICA,31.63,71,BUENO
+TRM_11_42_0694,Tramo CA-1 Occidente (San Juan Sacatepéquez - Santa Catarina Barahona) - Ref 695,San Juan Sacatepéquez,Santa Catarina Barahona,PEATONAL,66.31,219,BUENO
+TRM_12_43_0695,Tramo RN-11 Panajachel (San Raimundo - Chimaltenango) - Ref 696,San Raimundo,Chimaltenango,TERRACERIA,37.25,117,BUENO
+TRM_13_44_0696,Tramo CA-1 Occidente (Chuarrancho - San José Poaquil) - Ref 697,Chuarrancho,San José Poaquil,PEATONAL,28.35,91,BUENO
+TRM_14_45_0697,Tramo RN-9 Salcajá (Fraijanes - San Martín Jilotepeque) - Ref 698,Fraijanes,San Martín Jilotepeque,PEATONAL,14.76,31,BUENO
+TRM_15_46_0698,Tramo RN-7 Cobán-Quiché (Amatitlán - Comalapa) - Ref 699,Amatitlán,Comalapa,PEATONAL,13.09,16,BUENO
+TRM_16_47_0699,Tramo Ruta Nacional RN-1 (Villa Nueva - Santa Apolonia) - Ref 700,Villa Nueva,Santa Apolonia,INTERAMERICANA,19.19,35,REGULAR
+TRM_17_48_0700,Tramo RN-9 Salcajá (Villa Canales - Tecpán Guatemala) - Ref 701,Villa Canales,Tecpán Guatemala,PEATONAL,59.68,99,BLOQUEADO
+TRM_18_49_0701,Tramo RN-15 Sacapulas (Petapa - Patzún) - Ref 702,Petapa,Patzún,TERRACERIA,38.78,113,BUENO
+TRM_19_50_0702,Tramo CA-1 Occidente (Guastatoya - Pochuta) - Ref 703,Guastatoya,Pochuta,INTERAMERICANA,14.64,26,REGULAR
+TRM_20_51_0703,Tramo RN-15 Sacapulas (Morazán - Patzicía) - Ref 704,Morazán,Patzicía,NACIONAL_ASFALTO,20.96,37,BUENO
+TRM_21_52_0704,Tramo RN-15 Sacapulas (San Agustín Acasaguastlán - Santa Cruz Balanyá) - Ref 705,San Agustín Acasaguastlán,Santa Cruz Balanyá,TERRACERIA,17.88,54,BUENO
+TRM_22_53_0705,Tramo Ruta Nacional RN-1 (San Cristóbal Acasaguastlán - Acatenango) - Ref 706,San Cristóbal Acasaguastlán,Acatenango,INTERAMERICANA,65.1,104,REGULAR
+TRM_23_54_0706,Tramo RN-7 Cobán-Quiché (El Jícaro - Yepocapa) - Ref 707,El Jícaro,Yepocapa,NACIONAL_ASFALTO,61.55,106,BUENO
+TRM_24_55_0707,Tramo Ruta Nacional RN-1 (Sanarate - San Andrés Itzapa) - Ref 708,Sanarate,San Andrés Itzapa,ACUATICA,18.88,62,BUENO
+TRM_25_56_0708,Tramo RN-9 Salcajá (Sansare - Parramos) - Ref 709,Sansare,Parramos,INTERAMERICANA,62.07,97,BUENO
+TRM_26_57_0709,Tramo RN-11 Panajachel (San Antonio La Paz - Zaragoza) - Ref 710,San Antonio La Paz,Zaragoza,TERRACERIA,26.77,78,BUENO
+TRM_27_58_0710,Tramo RN-7 Cobán-Quiché (Antigua Guatemala - El Tejar) - Ref 711,Antigua Guatemala,El Tejar,PEATONAL,61.15,76,REGULAR
+TRM_28_59_0711,Tramo Ruta Nacional RN-1 (Jocotenango - Escuintla) - Ref 712,Jocotenango,Escuintla,INTERAMERICANA,74.34,174,BUENO
+TRM_29_60_0712,Tramo CA-1 Occidente (Pastores - Santa Lucía Cotzumalguapa) - Ref 713,Pastores,Santa Lucía Cotzumalguapa,NACIONAL_ASFALTO,12.64,22,REGULAR
+TRM_30_61_0713,Tramo RN-7 Cobán-Quiché (Sumpango - La Democracia) - Ref 714,Sumpango,La Democracia,TERRACERIA,23.68,35,BUENO
+TRM_31_62_0714,Tramo RN-11 Panajachel (Santo Domingo Xenacoj - Siquinalá) - Ref 715,Santo Domingo Xenacoj,Siquinalá,TERRACERIA,65.59,195,BUENO
+TRM_32_63_0715,Tramo Ruta Nacional RN-1 (Santiago Sacatepéquez - Masagua) - Ref 716,Santiago Sacatepéquez,Masagua,PEATONAL,58.55,167,BUENO
+TRM_33_64_0716,Tramo Ruta Nacional RN-1 (San Bartolomé Milpas Altas - Tiquisate) - Ref 717,San Bartolomé Milpas Altas,Tiquisate,ACUATICA,8.9,15,BUENO
+TRM_34_65_0717,Tramo RN-7 Cobán-Quiché (San Lucas Sacatepéquez - La Gomera) - Ref 718,San Lucas Sacatepéquez,La Gomera,NACIONAL_ASFALTO,54.29,156,BUENO
+TRM_35_66_0718,Tramo RN-11 Panajachel (Santa Lucía Milpas Altas - Guanagazapa) - Ref 719,Santa Lucía Milpas Altas,Guanagazapa,PEATONAL,40.71,97,BUENO
+TRM_36_67_0719,Tramo CA-1 Occidente (Magdalena Milpas Altas - San José) - Ref 720,Magdalena Milpas Altas,San José,INTERAMERICANA,54.6,66,BUENO
+TRM_37_68_0720,Tramo RN-15 Sacapulas (Santa María de Jesús - Iztapa) - Ref 721,Santa María de Jesús,Iztapa,PEATONAL,41.32,110,REGULAR
+TRM_38_69_0721,Tramo RN-15 Sacapulas (Ciudad Vieja - Palín) - Ref 722,Ciudad Vieja,Palín,ACUATICA,43.12,125,BUENO
+TRM_39_70_0722,Tramo RN-7 Cobán-Quiché (San Miguel Dueñas - San Vicente Pacaya) - Ref 723,San Miguel Dueñas,San Vicente Pacaya,ACUATICA,70.7,233,MALO
+TRM_40_71_0723,Tramo Ruta Nacional RN-1 (Alotenango - Nueva Concepción) - Ref 724,Alotenango,Nueva Concepción,INTERAMERICANA,23.14,28,BUENO
+TRM_41_72_0724,Tramo Ruta Nacional RN-1 (San Antonio Aguas Calientes - Sipacate) - Ref 725,San Antonio Aguas Calientes,Sipacate,NACIONAL_ASFALTO,37.25,88,BUENO
+TRM_42_73_0725,Tramo CA-1 Occidente (Santa Catarina Barahona - Cuilapa) - Ref 726,Santa Catarina Barahona,Cuilapa,ACUATICA,41.01,117,REGULAR
+TRM_43_74_0726,Tramo RN-15 Sacapulas (Chimaltenango - Barberena) - Ref 727,Chimaltenango,Barberena,NACIONAL_ASFALTO,19.69,35,BUENO
+TRM_44_75_0727,Tramo RN-11 Panajachel (San José Poaquil - Santa Rosa de Lima) - Ref 728,San José Poaquil,Santa Rosa de Lima,TERRACERIA,7.66,19,BUENO
+TRM_45_76_0728,Tramo CA-1 Occidente (San Martín Jilotepeque - Casillas) - Ref 729,San Martín Jilotepeque,Casillas,ACUATICA,52.31,144,BUENO
+TRM_46_77_0729,Tramo RN-15 Sacapulas (Comalapa - San Rafael Las Flores) - Ref 730,Comalapa,San Rafael Las Flores,TERRACERIA,30.3,47,BUENO
+TRM_47_78_0730,Tramo RN-11 Panajachel (Santa Apolonia - Oratorio) - Ref 731,Santa Apolonia,Oratorio,PEATONAL,34.61,71,MALO
+TRM_48_79_0731,Tramo RN-15 Sacapulas (Tecpán Guatemala - San Juan Tecuaco) - Ref 732,Tecpán Guatemala,San Juan Tecuaco,NACIONAL_ASFALTO,35.18,79,BUENO
+TRM_49_80_0732,Tramo RN-9 Salcajá (Patzún - Chiquimulilla) - Ref 733,Patzún,Chiquimulilla,PEATONAL,19.22,35,BUENO
+TRM_50_81_0733,Tramo RN-9 Salcajá (Pochuta - Taxisco) - Ref 734,Pochuta,Taxisco,NACIONAL_ASFALTO,30.07,40,BUENO
+TRM_51_82_0734,Tramo CA-1 Occidente (Patzicía - Santa María Ixhuatán) - Ref 735,Patzicía,Santa María Ixhuatán,PEATONAL,13.74,27,REGULAR
+TRM_52_83_0735,Tramo RN-15 Sacapulas (Santa Cruz Balanyá - Guazacapán) - Ref 736,Santa Cruz Balanyá,Guazacapán,PEATONAL,9.71,11,REGULAR
+TRM_53_84_0736,Tramo RN-7 Cobán-Quiché (Acatenango - Santa Cruz Naranjo) - Ref 737,Acatenango,Santa Cruz Naranjo,PEATONAL,59.31,79,BUENO
+TRM_54_85_0737,Tramo RN-11 Panajachel (Yepocapa - Pueblo Nuevo Viñas) - Ref 738,Yepocapa,Pueblo Nuevo Viñas,ACUATICA,49.05,89,BUENO
+TRM_55_86_0738,Tramo CA-1 Occidente (San Andrés Itzapa - Nueva Santa Rosa) - Ref 739,San Andrés Itzapa,Nueva Santa Rosa,INTERAMERICANA,67.32,110,BUENO
+TRM_56_87_0739,Tramo RN-11 Panajachel (Parramos - Lago De Atitlan) - Ref 740,Parramos,Lago De Atitlan,INTERAMERICANA,19.42,66,REGULAR
+TRM_57_88_0740,Tramo RN-7 Cobán-Quiché (Zaragoza - Sololá) - Ref 741,Zaragoza,Sololá,NACIONAL_ASFALTO,65.91,94,BUENO
+TRM_58_89_0741,Tramo RN-7 Cobán-Quiché (El Tejar - San José Chacayá) - Ref 742,El Tejar,San José Chacayá,PEATONAL,17.62,38,BUENO
+TRM_59_90_0742,Tramo RN-11 Panajachel (Escuintla - Santa María Visitación) - Ref 743,Escuintla,Santa María Visitación,TERRACERIA,56.51,196,BUENO
+TRM_60_91_0743,Tramo CA-1 Occidente (Santa Lucía Cotzumalguapa - Santa Lucía Utatlán) - Ref 744,Santa Lucía Cotzumalguapa,Santa Lucía Utatlán,ACUATICA,42.85,77,BUENO
+TRM_61_92_0744,Tramo RN-11 Panajachel (La Democracia - Nahualá) - Ref 745,La Democracia,Nahualá,TERRACERIA,13.19,43,MALO
+TRM_62_93_0745,Tramo Ruta Nacional RN-1 (Siquinalá - Santa Catarina Ixtahuacán) - Ref 746,Siquinalá,Santa Catarina Ixtahuacán,PEATONAL,65.0,104,REGULAR
+TRM_63_94_0746,Tramo RN-7 Cobán-Quiché (Masagua - Santa Clara La Laguna) - Ref 747,Masagua,Santa Clara La Laguna,NACIONAL_ASFALTO,58.07,83,BUENO
+TRM_64_95_0747,Tramo CA-1 Occidente (Tiquisate - Concepción) - Ref 748,Tiquisate,Concepción,TERRACERIA,9.49,12,BUENO
+TRM_65_96_0748,Tramo RN-7 Cobán-Quiché (La Gomera - San Andrés Semetabaj) - Ref 749,La Gomera,San Andrés Semetabaj,ACUATICA,35.88,47,REGULAR
+TRM_66_97_0749,Tramo Ruta Nacional RN-1 (Guanagazapa - Panajachel) - Ref 750,Guanagazapa,Panajachel,TERRACERIA,5.15,13,BUENO
+TRM_67_98_0750,Tramo RN-11 Panajachel (San José - Santa Catarina Palopó) - Ref 751,San José,Santa Catarina Palopó,TERRACERIA,47.45,141,BUENO
+TRM_68_99_0751,Tramo RN-7 Cobán-Quiché (Iztapa - San Antonio Palopó) - Ref 752,Iztapa,San Antonio Palopó,INTERAMERICANA,64.89,129,BUENO
+TRM_69_100_0752,Tramo Ruta Nacional RN-1 (Palín - San Lucas Tolimán) - Ref 753,Palín,San Lucas Tolimán,PEATONAL,5.29,16,BUENO
+TRM_70_101_0753,Tramo RN-9 Salcajá (San Vicente Pacaya - Santa Cruz La Laguna) - Ref 754,San Vicente Pacaya,Santa Cruz La Laguna,NACIONAL_ASFALTO,17.32,48,BUENO
+TRM_71_102_0754,Tramo RN-11 Panajachel (Nueva Concepción - San Pablo La Laguna) - Ref 755,Nueva Concepción,San Pablo La Laguna,INTERAMERICANA,51.94,174,BUENO
+TRM_72_103_0755,Tramo RN-15 Sacapulas (Sipacate - San Marcos La Laguna) - Ref 756,Sipacate,San Marcos La Laguna,PEATONAL,55.03,172,BUENO
+TRM_73_104_0756,Tramo Ruta Nacional RN-1 (Cuilapa - San Juan La Laguna) - Ref 757,Cuilapa,San Juan La Laguna,NACIONAL_ASFALTO,70.77,135,MALO
+TRM_74_105_0757,Tramo RN-9 Salcajá (Barberena - San Pedro La Laguna) - Ref 758,Barberena,San Pedro La Laguna,ACUATICA,52.61,133,BUENO
+TRM_75_106_0758,Tramo RN-11 Panajachel (Santa Rosa de Lima - Santiago Atitlán) - Ref 759,Santa Rosa de Lima,Santiago Atitlán,NACIONAL_ASFALTO,30.46,99,BUENO
+TRM_76_107_0759,Tramo RN-7 Cobán-Quiché (Casillas - Totonicapán) - Ref 760,Casillas,Totonicapán,TERRACERIA,7.84,16,MALO
+TRM_77_108_0760,Tramo CA-1 Occidente (San Rafael Las Flores - San Cristóbal Totonicapán) - Ref 761,San Rafael Las Flores,San Cristóbal Totonicapán,NACIONAL_ASFALTO,63.5,107,BUENO
+TRM_78_109_0761,Tramo CA-1 Occidente (Oratorio - San Francisco El Alto) - Ref 762,Oratorio,San Francisco El Alto,ACUATICA,74.16,110,BUENO
+TRM_79_110_0762,Tramo Ruta Nacional RN-1 (San Juan Tecuaco - San Andrés Xecul) - Ref 763,San Juan Tecuaco,San Andrés Xecul,NACIONAL_ASFALTO,8.55,18,BUENO
+TRM_80_111_0763,Tramo Ruta Nacional RN-1 (Chiquimulilla - Momostenango) - Ref 764,Chiquimulilla,Momostenango,INTERAMERICANA,35.48,46,BUENO
+TRM_81_112_0764,Tramo CA-1 Occidente (Taxisco - Santa María Chiquimula) - Ref 765,Taxisco,Santa María Chiquimula,TERRACERIA,11.5,17,BUENO
+TRM_82_113_0765,Tramo RN-7 Cobán-Quiché (Santa María Ixhuatán - Santa Lucía La Reforma) - Ref 766,Santa María Ixhuatán,Santa Lucía La Reforma,NACIONAL_ASFALTO,22.17,68,REGULAR
+TRM_83_114_0766,Tramo RN-7 Cobán-Quiché (Guazacapán - San Bartolo) - Ref 767,Guazacapán,San Bartolo,ACUATICA,10.59,29,BUENO
+TRM_84_115_0767,Tramo CA-1 Occidente (Santa Cruz Naranjo - Quetzaltenango) - Ref 768,Santa Cruz Naranjo,Quetzaltenango,ACUATICA,72.59,251,BUENO
+TRM_85_116_0768,Tramo RN-7 Cobán-Quiché (Pueblo Nuevo Viñas - Salcajá) - Ref 769,Pueblo Nuevo Viñas,Salcajá,PEATONAL,12.45,27,REGULAR
+TRM_86_117_0769,Tramo RN-7 Cobán-Quiché (Nueva Santa Rosa - Olintepeque) - Ref 770,Nueva Santa Rosa,Olintepeque,NACIONAL_ASFALTO,56.34,149,BUENO
+TRM_87_118_0770,Tramo RN-7 Cobán-Quiché (Lago De Atitlan - San Carlos Sija) - Ref 771,Lago De Atitlan,San Carlos Sija,TERRACERIA,51.27,163,BUENO
+TRM_88_119_0771,Tramo Ruta Nacional RN-1 (Sololá - Sibilia) - Ref 772,Sololá,Sibilia,PEATONAL,73.21,255,BUENO
+TRM_89_120_0772,Tramo RN-15 Sacapulas (San José Chacayá - Cabricán) - Ref 773,San José Chacayá,Cabricán,INTERAMERICANA,48.2,160,REGULAR
+TRM_90_121_0773,Tramo Ruta Nacional RN-1 (Santa María Visitación - Cajolá) - Ref 774,Santa María Visitación,Cajolá,PEATONAL,42.69,147,BUENO
+TRM_91_122_0774,Tramo RN-9 Salcajá (Santa Lucía Utatlán - San Miguel Sigüila) - Ref 775,Santa Lucía Utatlán,San Miguel Sigüila,PEATONAL,58.11,71,REGULAR
+TRM_92_123_0775,Tramo RN-9 Salcajá (Nahualá - Ostuncalco) - Ref 776,Nahualá,Ostuncalco,NACIONAL_ASFALTO,26.39,58,BUENO
+TRM_93_124_0776,Tramo Ruta Nacional RN-1 (Santa Catarina Ixtahuacán - San Mateo) - Ref 777,Santa Catarina Ixtahuacán,San Mateo,NACIONAL_ASFALTO,74.8,115,BUENO
+TRM_94_125_0777,Tramo RN-7 Cobán-Quiché (Santa Clara La Laguna - Concepción Chiquirichapa) - Ref 778,Santa Clara La Laguna,Concepción Chiquirichapa,ACUATICA,8.74,15,BUENO
+TRM_95_126_0778,Tramo CA-1 Occidente (Concepción - San Martín Sacatepéquez) - Ref 779,Concepción,San Martín Sacatepéquez,NACIONAL_ASFALTO,46.78,70,REGULAR
+TRM_96_127_0779,Tramo Ruta Nacional RN-1 (San Andrés Semetabaj - Almolonga) - Ref 780,San Andrés Semetabaj,Almolonga,INTERAMERICANA,56.94,186,REGULAR
+TRM_97_128_0780,Tramo CA-1 Occidente (Panajachel - Cantel) - Ref 781,Panajachel,Cantel,INTERAMERICANA,7.85,15,BUENO
+TRM_98_129_0781,Tramo CA-1 Occidente (Santa Catarina Palopó - Huitán) - Ref 782,Santa Catarina Palopó,Huitán,INTERAMERICANA,71.37,105,BUENO
+TRM_99_130_0782,Tramo CA-1 Occidente (San Antonio Palopó - Zunil) - Ref 783,San Antonio Palopó,Zunil,PEATONAL,35.37,56,REGULAR
+TRM_100_131_0783,Tramo RN-15 Sacapulas (San Lucas Tolimán - Colomba) - Ref 784,San Lucas Tolimán,Colomba,NACIONAL_ASFALTO,43.42,77,BUENO
+TRM_101_132_0784,Tramo RN-11 Panajachel (Santa Cruz La Laguna - San Francisco La Unión) - Ref 785,Santa Cruz La Laguna,San Francisco La Unión,INTERAMERICANA,47.21,88,REGULAR
+TRM_102_133_0785,Tramo RN-7 Cobán-Quiché (San Pablo La Laguna - El Palmar) - Ref 786,San Pablo La Laguna,El Palmar,INTERAMERICANA,23.84,36,BUENO
+TRM_103_134_0786,Tramo RN-15 Sacapulas (San Marcos La Laguna - Coatepeque) - Ref 787,San Marcos La Laguna,Coatepeque,ACUATICA,63.21,83,MALO
+TRM_104_135_0787,Tramo CA-1 Occidente (San Juan La Laguna - Génova) - Ref 788,San Juan La Laguna,Génova,ACUATICA,17.11,55,BUENO
+TRM_105_136_0788,Tramo RN-11 Panajachel (San Pedro La Laguna - Flores Costa Cuca) - Ref 789,San Pedro La Laguna,Flores Costa Cuca,INTERAMERICANA,18.56,26,BUENO
+TRM_106_137_0789,Tramo RN-9 Salcajá (Santiago Atitlán - La Esperanza) - Ref 790,Santiago Atitlán,La Esperanza,NACIONAL_ASFALTO,11.67,27,BUENO
+TRM_107_138_0790,Tramo RN-15 Sacapulas (Totonicapán - Palestina de Los Altos) - Ref 791,Totonicapán,Palestina de Los Altos,NACIONAL_ASFALTO,21.17,35,BUENO
+TRM_108_139_0791,Tramo CA-1 Occidente (San Cristóbal Totonicapán - Mazatenango) - Ref 792,San Cristóbal Totonicapán,Mazatenango,TERRACERIA,30.52,95,REGULAR
+TRM_109_140_0792,Tramo RN-11 Panajachel (San Francisco El Alto - Cuyotenango) - Ref 793,San Francisco El Alto,Cuyotenango,TERRACERIA,16.49,30,MALO
+TRM_110_141_0793,Tramo RN-11 Panajachel (San Andrés Xecul - San Francisco Zapotitlán) - Ref 794,San Andrés Xecul,San Francisco Zapotitlán,ACUATICA,5.22,17,BLOQUEADO
+TRM_111_142_0794,Tramo RN-15 Sacapulas (Momostenango - San Bernardino) - Ref 795,Momostenango,San Bernardino,ACUATICA,55.37,184,BUENO
+TRM_112_143_0795,Tramo CA-1 Occidente (Santa María Chiquimula - San José El Ídolo) - Ref 796,Santa María Chiquimula,San José El Ídolo,PEATONAL,61.17,173,BUENO
+TRM_113_144_0796,Tramo Ruta Nacional RN-1 (Santa Lucía La Reforma - Santo Domingo Suchitepéquez) - Ref 797,Santa Lucía La Reforma,Santo Domingo Suchitepéquez,PEATONAL,30.16,102,REGULAR
+TRM_114_145_0797,Tramo Ruta Nacional RN-1 (San Bartolo - San Lorenzo) - Ref 798,San Bartolo,San Lorenzo,INTERAMERICANA,29.23,96,BUENO
+TRM_115_146_0798,Tramo RN-7 Cobán-Quiché (Quetzaltenango - Samayac) - Ref 799,Quetzaltenango,Samayac,NACIONAL_ASFALTO,50.01,83,BUENO
+TRM_116_147_0799,Tramo CA-1 Occidente (Salcajá - San Pablo Jocopilas) - Ref 800,Salcajá,San Pablo Jocopilas,TERRACERIA,31.16,63,BUENO
+TRM_117_148_0800,Tramo RN-7 Cobán-Quiché (Olintepeque - San Antonio Suchitepéquez) - Ref 801,Olintepeque,San Antonio Suchitepéquez,PEATONAL,71.17,150,BUENO
+TRM_118_149_0801,Tramo RN-7 Cobán-Quiché (San Carlos Sija - San Miguel Panán) - Ref 802,San Carlos Sija,San Miguel Panán,TERRACERIA,63.8,209,BUENO
+TRM_119_150_0802,Tramo RN-15 Sacapulas (Sibilia - San Gabriel) - Ref 803,Sibilia,San Gabriel,NACIONAL_ASFALTO,74.21,200,BUENO
+TRM_120_151_0803,Tramo CA-1 Occidente (Cabricán - Chicacao) - Ref 804,Cabricán,Chicacao,TERRACERIA,22.43,50,REGULAR
+TRM_121_152_0804,Tramo Ruta Nacional RN-1 (Cajolá - Patulul) - Ref 805,Cajolá,Patulul,TERRACERIA,9.45,11,REGULAR
+TRM_122_153_0805,Tramo CA-1 Occidente (San Miguel Sigüila - Santa Bárbara) - Ref 806,San Miguel Sigüila,Santa Bárbara,PEATONAL,46.94,160,BUENO
+TRM_123_154_0806,Tramo RN-11 Panajachel (Ostuncalco - San Juan Bautista) - Ref 807,Ostuncalco,San Juan Bautista,TERRACERIA,51.49,79,BUENO
+TRM_124_155_0807,Tramo RN-9 Salcajá (San Mateo - Santo Tomás La Unión) - Ref 808,San Mateo,Santo Tomás La Unión,PEATONAL,74.89,144,BUENO
+TRM_125_156_0808,Tramo CA-1 Occidente (Concepción Chiquirichapa - Zunilito) - Ref 809,Concepción Chiquirichapa,Zunilito,NACIONAL_ASFALTO,33.73,65,BUENO
+TRM_126_157_0809,Tramo Ruta Nacional RN-1 (San Martín Sacatepéquez - Pueblo Nuevo) - Ref 810,San Martín Sacatepéquez,Pueblo Nuevo,INTERAMERICANA,46.7,78,BUENO
+TRM_127_158_0810,Tramo Ruta Nacional RN-1 (Almolonga - Río Bravo) - Ref 811,Almolonga,Río Bravo,NACIONAL_ASFALTO,55.52,117,BUENO
+TRM_128_159_0811,Tramo RN-9 Salcajá (Cantel - San José La Máquina) - Ref 812,Cantel,San José La Máquina,ACUATICA,30.37,45,BUENO
+TRM_129_160_0812,Tramo RN-9 Salcajá (Huitán - Retalhuleu) - Ref 813,Huitán,Retalhuleu,PEATONAL,30.93,99,MALO
+TRM_130_161_0813,Tramo RN-7 Cobán-Quiché (Zunil - San Sebastián) - Ref 814,Zunil,San Sebastián,NACIONAL_ASFALTO,33.46,96,BUENO
+TRM_131_162_0814,Tramo CA-1 Occidente (Colomba - Santa Cruz Muluá) - Ref 815,Colomba,Santa Cruz Muluá,TERRACERIA,60.25,163,BUENO
+TRM_132_163_0815,Tramo RN-9 Salcajá (San Francisco La Unión - San Martín Zapotitlán) - Ref 816,San Francisco La Unión,San Martín Zapotitlán,ACUATICA,13.81,31,MALO
+TRM_133_164_0816,Tramo CA-1 Occidente (El Palmar - San Felipe) - Ref 817,El Palmar,San Felipe,ACUATICA,15.55,47,BUENO
+TRM_134_165_0817,Tramo RN-7 Cobán-Quiché (Coatepeque - San Andrés Villa Seca) - Ref 818,Coatepeque,San Andrés Villa Seca,TERRACERIA,69.64,119,BUENO
+TRM_135_166_0818,Tramo RN-9 Salcajá (Génova - Champerico) - Ref 819,Génova,Champerico,NACIONAL_ASFALTO,29.7,41,BUENO
+TRM_136_167_0819,Tramo Ruta Nacional RN-1 (Flores Costa Cuca - Nuevo San Carlos) - Ref 820,Flores Costa Cuca,Nuevo San Carlos,ACUATICA,51.27,115,REGULAR
+TRM_137_168_0820,Tramo Ruta Nacional RN-1 (La Esperanza - El Asintal) - Ref 821,La Esperanza,El Asintal,PEATONAL,49.52,71,BUENO
+TRM_138_169_0821,Tramo RN-9 Salcajá (Palestina de Los Altos - San Marcos) - Ref 822,Palestina de Los Altos,San Marcos,TERRACERIA,25.01,45,REGULAR
+TRM_139_170_0822,Tramo CA-1 Occidente (Mazatenango - San Pedro Sacatepéquez) - Ref 823,Mazatenango,San Pedro Sacatepéquez,NACIONAL_ASFALTO,67.93,105,BUENO
+TRM_140_171_0823,Tramo CA-1 Occidente (Cuyotenango - San Antonio Sacatepéquez) - Ref 824,Cuyotenango,San Antonio Sacatepéquez,INTERAMERICANA,10.58,30,BUENO
+TRM_141_172_0824,Tramo CA-1 Occidente (San Francisco Zapotitlán - Comitancillo) - Ref 825,San Francisco Zapotitlán,Comitancillo,NACIONAL_ASFALTO,9.23,11,BUENO
+TRM_142_173_0825,Tramo CA-1 Occidente (San Bernardino - San Miguel Ixtahuacán) - Ref 826,San Bernardino,San Miguel Ixtahuacán,PEATONAL,10.99,16,REGULAR
+TRM_143_174_0826,Tramo RN-7 Cobán-Quiché (San José El Ídolo - Concepción Tutuapa) - Ref 827,San José El Ídolo,Concepción Tutuapa,NACIONAL_ASFALTO,47.47,160,BUENO
+TRM_144_175_0827,Tramo Ruta Nacional RN-1 (Santo Domingo Suchitepéquez - Tacaná) - Ref 828,Santo Domingo Suchitepéquez,Tacaná,TERRACERIA,33.71,99,BUENO
+TRM_145_176_0828,Tramo RN-7 Cobán-Quiché (San Lorenzo - Sibinal) - Ref 829,San Lorenzo,Sibinal,TERRACERIA,45.46,78,REGULAR
+TRM_146_177_0829,Tramo RN-11 Panajachel (Samayac - Tajumulco) - Ref 830,Samayac,Tajumulco,ACUATICA,53.22,136,REGULAR
+TRM_147_178_0830,Tramo Ruta Nacional RN-1 (San Pablo Jocopilas - Tejutla) - Ref 831,San Pablo Jocopilas,Tejutla,NACIONAL_ASFALTO,35.96,100,BUENO
+TRM_148_179_0831,Tramo RN-15 Sacapulas (San Antonio Suchitepéquez - San Rafael Pie de la Cuesta) - Ref 832,San Antonio Suchitepéquez,San Rafael Pie de la Cuesta,NACIONAL_ASFALTO,29.36,101,REGULAR
+TRM_149_180_0832,Tramo RN-9 Salcajá (San Miguel Panán - Nuevo Progreso) - Ref 833,San Miguel Panán,Nuevo Progreso,INTERAMERICANA,53.79,174,BUENO
+TRM_150_181_0833,Tramo Ruta Nacional RN-1 (San Gabriel - El Tumbador) - Ref 834,San Gabriel,El Tumbador,ACUATICA,5.64,10,BUENO
+TRM_151_182_0834,Tramo RN-15 Sacapulas (Chicacao - El Rodeo) - Ref 835,Chicacao,El Rodeo,PEATONAL,39.57,54,REGULAR
+TRM_152_183_0835,Tramo RN-15 Sacapulas (Patulul - Malacatán) - Ref 836,Patulul,Malacatán,PEATONAL,54.48,77,BUENO
+TRM_153_184_0836,Tramo CA-1 Occidente (Santa Bárbara - Catarina) - Ref 837,Santa Bárbara,Catarina,NACIONAL_ASFALTO,33.67,117,BUENO
+TRM_154_185_0837,Tramo RN-9 Salcajá (San Juan Bautista - Ayutla) - Ref 838,San Juan Bautista,Ayutla,TERRACERIA,17.37,28,BUENO
+TRM_155_186_0838,Tramo RN-7 Cobán-Quiché (Santo Tomás La Unión - Ocós) - Ref 839,Santo Tomás La Unión,Ocós,TERRACERIA,31.63,93,BUENO
+TRM_156_187_0839,Tramo CA-1 Occidente (Zunilito - San Pablo) - Ref 840,Zunilito,San Pablo,TERRACERIA,13.27,37,BUENO
+TRM_157_188_0840,Tramo Ruta Nacional RN-1 (Pueblo Nuevo - El Quetzal) - Ref 841,Pueblo Nuevo,El Quetzal,INTERAMERICANA,73.97,249,BUENO
+TRM_158_189_0841,Tramo CA-1 Occidente (Río Bravo - La Reforma) - Ref 842,Río Bravo,La Reforma,NACIONAL_ASFALTO,71.21,155,REGULAR
+TRM_159_190_0842,Tramo RN-11 Panajachel (San José La Máquina - Pajapita) - Ref 843,San José La Máquina,Pajapita,INTERAMERICANA,34.51,45,BUENO
+TRM_160_191_0843,Tramo RN-9 Salcajá (Retalhuleu - Ixchiguán) - Ref 844,Retalhuleu,Ixchiguán,TERRACERIA,58.73,140,BUENO
+TRM_161_192_0844,Tramo RN-11 Panajachel (San Sebastián - San José Ojetenam) - Ref 845,San Sebastián,San José Ojetenam,ACUATICA,27.17,53,BUENO
+TRM_162_193_0845,Tramo CA-1 Occidente (Santa Cruz Muluá - San Cristóbal Cucho) - Ref 846,Santa Cruz Muluá,San Cristóbal Cucho,ACUATICA,45.87,94,BUENO
+TRM_163_194_0846,Tramo CA-1 Occidente (San Martín Zapotitlán - Sipacapa) - Ref 847,San Martín Zapotitlán,Sipacapa,PEATONAL,62.0,99,BUENO
+TRM_164_195_0847,Tramo RN-9 Salcajá (San Felipe - Esquipulas Palo Gordo) - Ref 848,San Felipe,Esquipulas Palo Gordo,PEATONAL,15.71,33,REGULAR
+TRM_165_196_0848,Tramo RN-7 Cobán-Quiché (San Andrés Villa Seca - Río Blanco) - Ref 849,San Andrés Villa Seca,Río Blanco,PEATONAL,41.25,50,BUENO
+TRM_166_197_0849,Tramo RN-9 Salcajá (Champerico - San Lorenzo) - Ref 850,Champerico,San Lorenzo,INTERAMERICANA,63.92,114,BUENO
+TRM_167_198_0850,Tramo Ruta Nacional RN-1 (Nuevo San Carlos - La Blanca) - Ref 851,Nuevo San Carlos,La Blanca,PEATONAL,58.02,190,BUENO
+TRM_168_199_0851,Tramo Ruta Nacional RN-1 (El Asintal - Huehuetenango) - Ref 852,El Asintal,Huehuetenango,INTERAMERICANA,25.91,86,REGULAR
+TRM_169_200_0852,Tramo RN-11 Panajachel (San Marcos - Chiantla) - Ref 853,San Marcos,Chiantla,TERRACERIA,17.61,54,BUENO
+TRM_170_201_0853,Tramo RN-11 Panajachel (San Pedro Sacatepéquez - Malacatancito) - Ref 854,San Pedro Sacatepéquez,Malacatancito,TERRACERIA,19.64,35,MALO
+TRM_171_202_0854,Tramo RN-9 Salcajá (San Antonio Sacatepéquez - Cuilco) - Ref 855,San Antonio Sacatepéquez,Cuilco,INTERAMERICANA,39.96,73,BUENO
+TRM_172_203_0855,Tramo Ruta Nacional RN-1 (Comitancillo - Nentón) - Ref 856,Comitancillo,Nentón,TERRACERIA,31.22,107,BUENO
+TRM_173_204_0856,Tramo CA-1 Occidente (San Miguel Ixtahuacán - San Pedro Necta) - Ref 857,San Miguel Ixtahuacán,San Pedro Necta,INTERAMERICANA,38.15,55,BLOQUEADO
+TRM_174_205_0857,Tramo RN-7 Cobán-Quiché (Concepción Tutuapa - Jacaltenango) - Ref 858,Concepción Tutuapa,Jacaltenango,TERRACERIA,41.53,108,BUENO
+TRM_175_206_0858,Tramo RN-7 Cobán-Quiché (Tacaná - Soloma) - Ref 859,Tacaná,Soloma,ACUATICA,43.55,53,BUENO
+TRM_176_207_0859,Tramo RN-7 Cobán-Quiché (Sibinal - Ixtahuacán) - Ref 860,Sibinal,Ixtahuacán,ACUATICA,43.51,107,REGULAR
+TRM_177_208_0860,Tramo RN-11 Panajachel (Tajumulco - Santa Bárbara) - Ref 861,Tajumulco,Santa Bárbara,PEATONAL,74.48,125,MALO
+TRM_178_209_0861,Tramo RN-9 Salcajá (Tejutla - La Libertad) - Ref 862,Tejutla,La Libertad,TERRACERIA,33.6,42,BUENO
+TRM_179_210_0862,Tramo RN-11 Panajachel (San Rafael Pie de la Cuesta - La Democracia) - Ref 863,San Rafael Pie de la Cuesta,La Democracia,NACIONAL_ASFALTO,29.62,48,BUENO
+TRM_180_211_0863,Tramo RN-15 Sacapulas (Nuevo Progreso - San Miguel Acatán) - Ref 864,Nuevo Progreso,San Miguel Acatán,NACIONAL_ASFALTO,16.99,33,BUENO
+TRM_181_212_0864,Tramo RN-15 Sacapulas (El Tumbador - San Rafael La Independencia) - Ref 865,El Tumbador,San Rafael La Independencia,INTERAMERICANA,53.33,159,BUENO
+TRM_182_213_0865,Tramo RN-11 Panajachel (El Rodeo - Todos Santos Cuchumatán) - Ref 866,El Rodeo,Todos Santos Cuchumatán,ACUATICA,36.86,82,BUENO
+TRM_183_214_0866,Tramo RN-11 Panajachel (Malacatán - San Juan Atitán) - Ref 867,Malacatán,San Juan Atitán,INTERAMERICANA,25.74,47,BUENO
+TRM_184_215_0867,Tramo CA-1 Occidente (Catarina - Santa Eulalia) - Ref 868,Catarina,Santa Eulalia,PEATONAL,58.12,96,BUENO
+TRM_185_216_0868,Tramo RN-9 Salcajá (Ayutla - San Mateo Ixtatán) - Ref 869,Ayutla,San Mateo Ixtatán,INTERAMERICANA,19.41,48,BUENO
+TRM_186_217_0869,Tramo RN-7 Cobán-Quiché (Ocós - Colotenango) - Ref 870,Ocós,Colotenango,NACIONAL_ASFALTO,18.38,32,BUENO
+TRM_187_218_0870,Tramo RN-7 Cobán-Quiché (San Pablo - San Sebastián Huehuetenango) - Ref 871,San Pablo,San Sebastián Huehuetenango,NACIONAL_ASFALTO,10.48,19,BUENO
+TRM_188_219_0871,Tramo RN-9 Salcajá (El Quetzal - Tectitán) - Ref 872,El Quetzal,Tectitán,TERRACERIA,72.44,219,REGULAR
+TRM_189_220_0872,Tramo RN-9 Salcajá (La Reforma - Concepción Huista) - Ref 873,La Reforma,Concepción Huista,ACUATICA,9.73,33,BUENO
+TRM_190_221_0873,Tramo RN-9 Salcajá (Pajapita - San Juan Ixcoy) - Ref 874,Pajapita,San Juan Ixcoy,NACIONAL_ASFALTO,60.21,187,MALO
+TRM_191_222_0874,Tramo RN-7 Cobán-Quiché (Ixchiguán - San Antonio Huista) - Ref 875,Ixchiguán,San Antonio Huista,PEATONAL,36.33,117,BUENO
+TRM_192_223_0875,Tramo Ruta Nacional RN-1 (San José Ojetenam - San Sebastián Coatán) - Ref 876,San José Ojetenam,San Sebastián Coatán,NACIONAL_ASFALTO,33.19,90,BUENO
+TRM_193_224_0876,Tramo Ruta Nacional RN-1 (San Cristóbal Cucho - Barillas) - Ref 877,San Cristóbal Cucho,Barillas,NACIONAL_ASFALTO,58.65,118,BUENO
+TRM_194_225_0877,Tramo RN-9 Salcajá (Sipacapa - Aguacatán) - Ref 878,Sipacapa,Aguacatán,INTERAMERICANA,39.83,52,BUENO
+TRM_195_226_0878,Tramo RN-11 Panajachel (Esquipulas Palo Gordo - San Rafael Petzal) - Ref 879,Esquipulas Palo Gordo,San Rafael Petzal,TERRACERIA,40.56,118,BUENO
+TRM_196_227_0879,Tramo RN-15 Sacapulas (Río Blanco - San Gaspar Ixchil) - Ref 880,Río Blanco,San Gaspar Ixchil,PEATONAL,69.74,163,BUENO
+TRM_197_228_0880,Tramo RN-9 Salcajá (San Lorenzo - Santiago Chimaltenango) - Ref 881,San Lorenzo,Santiago Chimaltenango,PEATONAL,58.05,106,BUENO
+TRM_198_229_0881,Tramo Ruta Nacional RN-1 (La Blanca - Santa Ana Huista) - Ref 882,La Blanca,Santa Ana Huista,ACUATICA,5.67,13,BUENO
+TRM_199_230_0882,Tramo Ruta Nacional RN-1 (Huehuetenango - Unión Cantinil) - Ref 883,Huehuetenango,Unión Cantinil,ACUATICA,18.14,45,BUENO
+TRM_200_231_0883,Tramo RN-9 Salcajá (Chiantla - Petatán) - Ref 884,Chiantla,Petatán,TERRACERIA,69.85,126,BUENO
+TRM_201_232_0884,Tramo Ruta Nacional RN-1 (Malacatancito - Santa Cruz del Quiché) - Ref 885,Malacatancito,Santa Cruz del Quiché,ACUATICA,19.76,43,BUENO
+TRM_202_233_0885,Tramo RN-11 Panajachel (Cuilco - Chiché) - Ref 886,Cuilco,Chiché,TERRACERIA,30.35,36,BUENO
+TRM_203_234_0886,Tramo CA-1 Occidente (Nentón - Chinique) - Ref 887,Nentón,Chinique,ACUATICA,21.67,57,BUENO
+TRM_204_235_0887,Tramo RN-7 Cobán-Quiché (San Pedro Necta - Zacualpa) - Ref 888,San Pedro Necta,Zacualpa,ACUATICA,53.72,166,BUENO
+TRM_205_236_0888,Tramo CA-1 Occidente (Jacaltenango - Chajul) - Ref 889,Jacaltenango,Chajul,PEATONAL,24.17,35,BUENO
+TRM_206_237_0889,Tramo RN-7 Cobán-Quiché (Soloma - Chichicastenango) - Ref 890,Soloma,Chichicastenango,PEATONAL,64.26,204,BUENO
+TRM_207_238_0890,Tramo RN-7 Cobán-Quiché (Ixtahuacán - Patzité) - Ref 891,Ixtahuacán,Patzité,INTERAMERICANA,61.09,198,BUENO
+TRM_208_239_0891,Tramo RN-9 Salcajá (Santa Bárbara - San Antonio Ilotenango) - Ref 892,Santa Bárbara,San Antonio Ilotenango,PEATONAL,64.61,216,BUENO
+TRM_209_240_0892,Tramo Ruta Nacional RN-1 (La Libertad - San Pedro Jocopilas) - Ref 893,La Libertad,San Pedro Jocopilas,PEATONAL,70.22,144,BUENO
+TRM_210_241_0893,Tramo RN-7 Cobán-Quiché (La Democracia - Cunén) - Ref 894,La Democracia,Cunén,ACUATICA,55.97,151,BUENO
+TRM_211_242_0894,Tramo Ruta Nacional RN-1 (San Miguel Acatán - San Juan Cotzal) - Ref 895,San Miguel Acatán,San Juan Cotzal,NACIONAL_ASFALTO,20.85,65,BLOQUEADO
+TRM_212_243_0895,Tramo Ruta Nacional RN-1 (San Rafael La Independencia - Joyabaj) - Ref 896,San Rafael La Independencia,Joyabaj,INTERAMERICANA,40.48,97,BUENO
+TRM_213_244_0896,Tramo RN-15 Sacapulas (Todos Santos Cuchumatán - Nebaj) - Ref 897,Todos Santos Cuchumatán,Nebaj,NACIONAL_ASFALTO,32.36,85,BUENO
+TRM_214_245_0897,Tramo RN-15 Sacapulas (San Juan Atitán - San Andrés Sajcabajá) - Ref 898,San Juan Atitán,San Andrés Sajcabajá,TERRACERIA,32.82,87,BUENO
+TRM_215_246_0898,Tramo Ruta Nacional RN-1 (Santa Eulalia - Uspantán) - Ref 899,Santa Eulalia,Uspantán,TERRACERIA,64.42,144,BUENO
+TRM_216_247_0899,Tramo RN-7 Cobán-Quiché (San Mateo Ixtatán - Sacapulas) - Ref 900,San Mateo Ixtatán,Sacapulas,INTERAMERICANA,61.8,184,BUENO
+TRM_217_248_0900,Tramo CA-1 Occidente (Colotenango - San Bartolomé Jocotenango) - Ref 901,Colotenango,San Bartolomé Jocotenango,INTERAMERICANA,58.46,174,BUENO
+TRM_218_249_0901,Tramo RN-11 Panajachel (San Sebastián Huehuetenango - Canillá) - Ref 902,San Sebastián Huehuetenango,Canillá,ACUATICA,42.52,78,BUENO
+TRM_219_250_0902,Tramo RN-11 Panajachel (Tectitán - Chicamán) - Ref 903,Tectitán,Chicamán,TERRACERIA,62.77,134,BUENO
+TRM_220_251_0903,Tramo RN-11 Panajachel (Concepción Huista - Ixcán) - Ref 904,Concepción Huista,Ixcán,TERRACERIA,23.82,28,BUENO
+TRM_221_252_0904,Tramo RN-7 Cobán-Quiché (San Juan Ixcoy - Pachalum) - Ref 905,San Juan Ixcoy,Pachalum,PEATONAL,24.27,79,REGULAR
+TRM_222_253_0905,Tramo RN-7 Cobán-Quiché (San Antonio Huista - Salamá) - Ref 906,San Antonio Huista,Salamá,INTERAMERICANA,57.81,89,BUENO
+TRM_223_254_0906,Tramo RN-9 Salcajá (San Sebastián Coatán - San Miguel Chicaj) - Ref 907,San Sebastián Coatán,San Miguel Chicaj,INTERAMERICANA,9.53,11,REGULAR
+TRM_224_255_0907,Tramo RN-9 Salcajá (Barillas - Rabinal) - Ref 908,Barillas,Rabinal,ACUATICA,48.28,141,BUENO
+TRM_225_256_0908,Tramo RN-7 Cobán-Quiché (Aguacatán - Cubulco) - Ref 909,Aguacatán,Cubulco,PEATONAL,57.0,185,BUENO
+TRM_226_257_0909,Tramo CA-1 Occidente (San Rafael Petzal - Granados) - Ref 910,San Rafael Petzal,Granados,NACIONAL_ASFALTO,72.76,202,REGULAR
+TRM_227_258_0910,Tramo CA-1 Occidente (San Gaspar Ixchil - El Chol) - Ref 911,San Gaspar Ixchil,El Chol,INTERAMERICANA,50.05,85,BUENO
+TRM_228_259_0911,Tramo RN-9 Salcajá (Santiago Chimaltenango - San Jerónimo) - Ref 912,Santiago Chimaltenango,San Jerónimo,NACIONAL_ASFALTO,69.22,224,BUENO
+TRM_229_260_0912,Tramo Ruta Nacional RN-1 (Santa Ana Huista - Purulhá) - Ref 913,Santa Ana Huista,Purulhá,INTERAMERICANA,38.82,90,MALO
+TRM_230_261_0913,Tramo CA-1 Occidente (Unión Cantinil - Cobán) - Ref 914,Unión Cantinil,Cobán,PEATONAL,32.46,42,BUENO
+TRM_231_262_0914,Tramo RN-7 Cobán-Quiché (Petatán - Santa Cruz Verapaz) - Ref 915,Petatán,Santa Cruz Verapaz,TERRACERIA,66.19,99,BUENO
+TRM_232_263_0915,Tramo CA-1 Occidente (Santa Cruz del Quiché - San Cristóbal Verapaz) - Ref 916,Santa Cruz del Quiché,San Cristóbal Verapaz,INTERAMERICANA,18.52,49,BUENO
+TRM_233_264_0916,Tramo RN-7 Cobán-Quiché (Chiché - Tactic) - Ref 917,Chiché,Tactic,ACUATICA,30.74,104,REGULAR
+TRM_234_265_0917,Tramo RN-7 Cobán-Quiché (Chinique - Tamahú) - Ref 918,Chinique,Tamahú,NACIONAL_ASFALTO,64.89,96,REGULAR
+TRM_235_266_0918,Tramo RN-11 Panajachel (Zacualpa - Tucurú) - Ref 919,Zacualpa,Tucurú,PEATONAL,25.54,39,BUENO
+TRM_236_267_0919,Tramo RN-11 Panajachel (Chajul - Panzós) - Ref 920,Chajul,Panzós,TERRACERIA,32.87,88,REGULAR
+TRM_237_268_0920,Tramo RN-15 Sacapulas (Chichicastenango - Senahú) - Ref 921,Chichicastenango,Senahú,PEATONAL,10.71,36,BUENO
+TRM_238_269_0921,Tramo RN-11 Panajachel (Patzité - San Pedro Carchá) - Ref 922,Patzité,San Pedro Carchá,PEATONAL,33.62,45,BUENO
+TRM_239_270_0922,Tramo RN-7 Cobán-Quiché (San Antonio Ilotenango - San Juan Chamelco) - Ref 923,San Antonio Ilotenango,San Juan Chamelco,INTERAMERICANA,65.9,193,MALO
+TRM_240_271_0923,Tramo CA-1 Occidente (San Pedro Jocopilas - Lanquín) - Ref 924,San Pedro Jocopilas,Lanquín,PEATONAL,19.77,63,BUENO
+TRM_241_272_0924,Tramo RN-11 Panajachel (Cunén - Cahabón) - Ref 925,Cunén,Cahabón,PEATONAL,73.96,207,REGULAR
+TRM_242_273_0925,Tramo RN-11 Panajachel (San Juan Cotzal - Chisec) - Ref 926,San Juan Cotzal,Chisec,ACUATICA,51.22,104,BUENO
+TRM_243_274_0926,Tramo RN-15 Sacapulas (Joyabaj - Chahal) - Ref 927,Joyabaj,Chahal,NACIONAL_ASFALTO,13.76,19,BUENO
+TRM_244_275_0927,Tramo RN-15 Sacapulas (Nebaj - Fray Bartolomé de Las Casas) - Ref 928,Nebaj,Fray Bartolomé de Las Casas,NACIONAL_ASFALTO,68.2,201,REGULAR
+TRM_245_276_0928,Tramo RN-11 Panajachel (San Andrés Sajcabajá - Santa Catalina La Tinta) - Ref 929,San Andrés Sajcabajá,Santa Catalina La Tinta,NACIONAL_ASFALTO,36.23,98,BUENO
+TRM_246_277_0929,Tramo RN-11 Panajachel (Uspantán - Raxruhá) - Ref 930,Uspantán,Raxruhá,ACUATICA,26.02,83,BUENO
+TRM_247_278_0930,Tramo RN-11 Panajachel (Sacapulas - Flores) - Ref 931,Sacapulas,Flores,PEATONAL,39.57,71,BUENO
+TRM_248_279_0931,Tramo CA-1 Occidente (San Bartolomé Jocotenango - San José) - Ref 932,San Bartolomé Jocotenango,San José,TERRACERIA,18.66,37,BUENO
+TRM_249_280_0932,Tramo Ruta Nacional RN-1 (Canillá - San Benito) - Ref 933,Canillá,San Benito,TERRACERIA,48.65,100,BUENO
+TRM_250_281_0933,Tramo CA-1 Occidente (Chicamán - San Andrés) - Ref 934,Chicamán,San Andrés,ACUATICA,19.97,65,REGULAR
+TRM_251_282_0934,Tramo RN-9 Salcajá (Ixcán - La Libertad) - Ref 935,Ixcán,La Libertad,INTERAMERICANA,47.45,71,MALO
+TRM_252_283_0935,Tramo RN-7 Cobán-Quiché (Pachalum - San Francisco) - Ref 936,Pachalum,San Francisco,TERRACERIA,73.6,154,BUENO
+TRM_253_284_0936,Tramo RN-7 Cobán-Quiché (Salamá - Santa Ana) - Ref 937,Salamá,Santa Ana,PEATONAL,13.17,35,BUENO
+TRM_254_285_0937,Tramo CA-1 Occidente (San Miguel Chicaj - Dolores) - Ref 938,San Miguel Chicaj,Dolores,INTERAMERICANA,62.95,209,REGULAR
+TRM_255_286_0938,Tramo RN-11 Panajachel (Rabinal - San Luis) - Ref 939,Rabinal,San Luis,PEATONAL,10.79,24,REGULAR
+TRM_256_287_0939,Tramo Ruta Nacional RN-1 (Cubulco - Sayaxché) - Ref 940,Cubulco,Sayaxché,TERRACERIA,47.18,64,BUENO
+TRM_257_288_0940,Tramo RN-15 Sacapulas (Granados - Melchor de Mencos) - Ref 941,Granados,Melchor de Mencos,PEATONAL,15.5,18,BUENO
+TRM_258_289_0941,Tramo RN-9 Salcajá (El Chol - Poptún) - Ref 942,El Chol,Poptún,NACIONAL_ASFALTO,48.25,145,REGULAR
+TRM_259_290_0942,Tramo RN-7 Cobán-Quiché (San Jerónimo - Las Cruces) - Ref 943,San Jerónimo,Las Cruces,ACUATICA,46.12,77,BUENO
+TRM_260_291_0943,Tramo CA-1 Occidente (Purulhá - El Chal) - Ref 944,Purulhá,El Chal,TERRACERIA,52.61,98,BUENO
+TRM_261_292_0944,Tramo RN-11 Panajachel (Cobán - Puerto Barrios) - Ref 945,Cobán,Puerto Barrios,TERRACERIA,19.26,33,BUENO
+TRM_262_293_0945,Tramo Ruta Nacional RN-1 (Santa Cruz Verapaz - Lívingston) - Ref 946,Santa Cruz Verapaz,Lívingston,TERRACERIA,30.36,51,BUENO
+TRM_263_294_0946,Tramo Ruta Nacional RN-1 (San Cristóbal Verapaz - El Estor) - Ref 947,San Cristóbal Verapaz,El Estor,NACIONAL_ASFALTO,5.54,18,BUENO
+TRM_264_295_0947,Tramo RN-9 Salcajá (Tactic - Morales) - Ref 948,Tactic,Morales,ACUATICA,13.81,33,BUENO
+TRM_265_296_0948,Tramo RN-11 Panajachel (Tamahú - Los Amates) - Ref 949,Tamahú,Los Amates,INTERAMERICANA,71.38,189,BUENO
+TRM_266_297_0949,Tramo RN-9 Salcajá (Tucurú - Zacapa) - Ref 950,Tucurú,Zacapa,INTERAMERICANA,44.59,82,BUENO
+TRM_267_298_0950,Tramo RN-7 Cobán-Quiché (Panzós - Estanzuela) - Ref 951,Panzós,Estanzuela,NACIONAL_ASFALTO,21.93,27,BUENO
+TRM_268_299_0951,Tramo CA-1 Occidente (Senahú - Río Hondo) - Ref 952,Senahú,Río Hondo,TERRACERIA,47.08,82,BUENO
+TRM_269_300_0952,Tramo RN-7 Cobán-Quiché (San Pedro Carchá - Gualán) - Ref 953,San Pedro Carchá,Gualán,TERRACERIA,21.01,37,BUENO
+TRM_270_301_0953,Tramo Ruta Nacional RN-1 (San Juan Chamelco - Teculután) - Ref 954,San Juan Chamelco,Teculután,INTERAMERICANA,66.64,97,BLOQUEADO
+TRM_271_302_0954,Tramo CA-1 Occidente (Lanquín - Usumatlán) - Ref 955,Lanquín,Usumatlán,PEATONAL,46.04,134,BUENO
+TRM_272_303_0955,Tramo CA-1 Occidente (Cahabón - Cabañas) - Ref 956,Cahabón,Cabañas,PEATONAL,74.53,112,BUENO
+TRM_273_304_0956,Tramo CA-1 Occidente (Chisec - San Diego) - Ref 957,Chisec,San Diego,PEATONAL,20.16,56,BUENO
+TRM_274_305_0957,Tramo Ruta Nacional RN-1 (Chahal - La Unión) - Ref 958,Chahal,La Unión,PEATONAL,63.23,199,BUENO
+TRM_275_306_0958,Tramo RN-9 Salcajá (Fray Bartolomé de Las Casas - Huité) - Ref 959,Fray Bartolomé de Las Casas,Huité,ACUATICA,25.05,78,REGULAR
+TRM_276_307_0959,Tramo Ruta Nacional RN-1 (Santa Catalina La Tinta - San Jorge) - Ref 960,Santa Catalina La Tinta,San Jorge,INTERAMERICANA,56.56,112,BUENO
+TRM_277_308_0960,Tramo Ruta Nacional RN-1 (Raxruhá - Chiquimula) - Ref 961,Raxruhá,Chiquimula,NACIONAL_ASFALTO,69.39,186,BUENO
+TRM_278_309_0961,Tramo RN-11 Panajachel (Flores - San José La Arada) - Ref 962,Flores,San José La Arada,PEATONAL,74.54,221,REGULAR
+TRM_279_310_0962,Tramo RN-15 Sacapulas (San José - San Juan Ermita) - Ref 963,San José,San Juan Ermita,PEATONAL,74.47,238,REGULAR
+TRM_280_311_0963,Tramo CA-1 Occidente (San Benito - Jocotán) - Ref 964,San Benito,Jocotán,TERRACERIA,40.52,52,BUENO
+TRM_281_312_0964,Tramo RN-7 Cobán-Quiché (San Andrés - Camotán) - Ref 965,San Andrés,Camotán,INTERAMERICANA,8.06,18,BUENO
+TRM_282_313_0965,Tramo RN-9 Salcajá (La Libertad - Olopa) - Ref 966,La Libertad,Olopa,INTERAMERICANA,42.02,109,BUENO
+TRM_283_314_0966,Tramo Ruta Nacional RN-1 (San Francisco - Esquipulas) - Ref 967,San Francisco,Esquipulas,NACIONAL_ASFALTO,10.24,15,BUENO
+TRM_284_315_0967,Tramo Ruta Nacional RN-1 (Santa Ana - Concepción Las Minas) - Ref 968,Santa Ana,Concepción Las Minas,NACIONAL_ASFALTO,21.93,59,REGULAR
+TRM_285_316_0968,Tramo CA-1 Occidente (Dolores - Quezaltepeque) - Ref 969,Dolores,Quezaltepeque,PEATONAL,14.09,49,BUENO
+TRM_286_317_0969,Tramo RN-7 Cobán-Quiché (San Luis - San Jacinto) - Ref 970,San Luis,San Jacinto,TERRACERIA,56.35,105,MALO
+TRM_287_318_0970,Tramo RN-9 Salcajá (Sayaxché - Ipala) - Ref 971,Sayaxché,Ipala,TERRACERIA,39.58,113,BUENO
+TRM_288_319_0971,Tramo RN-11 Panajachel (Melchor de Mencos - Jalapa) - Ref 972,Melchor de Mencos,Jalapa,NACIONAL_ASFALTO,22.53,41,BUENO
+TRM_289_320_0972,Tramo RN-15 Sacapulas (Poptún - San Pedro Pinula) - Ref 973,Poptún,San Pedro Pinula,NACIONAL_ASFALTO,34.36,66,REGULAR
+TRM_290_321_0973,Tramo RN-7 Cobán-Quiché (Las Cruces - San Luis Jilotepeque) - Ref 974,Las Cruces,San Luis Jilotepeque,NACIONAL_ASFALTO,15.58,22,BUENO
+TRM_291_322_0974,Tramo RN-15 Sacapulas (El Chal - San Manuel Chaparrón) - Ref 975,El Chal,San Manuel Chaparrón,NACIONAL_ASFALTO,21.22,67,BUENO
+TRM_292_323_0975,Tramo RN-15 Sacapulas (Puerto Barrios - San Carlos Alzatate) - Ref 976,Puerto Barrios,San Carlos Alzatate,NACIONAL_ASFALTO,42.86,53,BUENO
+TRM_293_324_0976,Tramo RN-7 Cobán-Quiché (Lívingston - Monjas) - Ref 977,Lívingston,Monjas,ACUATICA,29.16,88,BUENO
+TRM_294_325_0977,Tramo Ruta Nacional RN-1 (El Estor - Mataquescuintla) - Ref 978,El Estor,Mataquescuintla,INTERAMERICANA,18.15,62,BUENO
+TRM_295_326_0978,Tramo RN-7 Cobán-Quiché (Morales - Jutiapa) - Ref 979,Morales,Jutiapa,INTERAMERICANA,28.92,51,BUENO
+TRM_296_327_0979,Tramo RN-7 Cobán-Quiché (Los Amates - El Progreso) - Ref 980,Los Amates,El Progreso,ACUATICA,36.05,105,REGULAR
+TRM_297_328_0980,Tramo Ruta Nacional RN-1 (Zacapa - Santa Catarina Mita) - Ref 981,Zacapa,Santa Catarina Mita,TERRACERIA,67.2,202,BUENO
+TRM_298_329_0981,Tramo RN-9 Salcajá (Estanzuela - Agua Blanca) - Ref 982,Estanzuela,Agua Blanca,ACUATICA,56.25,91,BUENO
+TRM_299_330_0982,Tramo RN-7 Cobán-Quiché (Río Hondo - Asunción Mita) - Ref 983,Río Hondo,Asunción Mita,PEATONAL,54.07,101,MALO
+TRM_300_331_0983,Tramo CA-1 Occidente (Gualán - Yupiltepeque) - Ref 984,Gualán,Yupiltepeque,TERRACERIA,36.17,88,BUENO
+TRM_301_332_0984,Tramo Ruta Nacional RN-1 (Teculután - Atescatempa) - Ref 985,Teculután,Atescatempa,PEATONAL,66.96,156,BUENO
+TRM_302_333_0985,Tramo Ruta Nacional RN-1 (Usumatlán - Jerez) - Ref 986,Usumatlán,Jerez,PEATONAL,30.55,65,BUENO
+TRM_303_334_0986,Tramo RN-9 Salcajá (Cabañas - El Adelanto) - Ref 987,Cabañas,El Adelanto,PEATONAL,56.96,157,REGULAR
+TRM_304_335_0987,Tramo Ruta Nacional RN-1 (San Diego - Zapotitlán) - Ref 988,San Diego,Zapotitlán,NACIONAL_ASFALTO,23.49,66,BUENO
+TRM_305_336_0988,Tramo RN-7 Cobán-Quiché (La Unión - Comapa) - Ref 989,La Unión,Comapa,ACUATICA,57.89,163,MALO
+TRM_306_337_0989,Tramo CA-1 Occidente (Huité - Jalpatagua) - Ref 990,Huité,Jalpatagua,NACIONAL_ASFALTO,11.59,24,BUENO
+TRM_307_338_0990,Tramo RN-15 Sacapulas (San Jorge - Conguaco) - Ref 991,San Jorge,Conguaco,PEATONAL,46.2,157,BUENO
+TRM_308_339_0991,Tramo RN-15 Sacapulas (Chiquimula - Moyuta) - Ref 992,Chiquimula,Moyuta,TERRACERIA,7.59,24,BUENO
+TRM_309_340_0992,Tramo RN-11 Panajachel (San José La Arada - Pasaco) - Ref 993,San José La Arada,Pasaco,INTERAMERICANA,55.27,167,REGULAR
+TRM_310_341_0993,Tramo CA-1 Occidente (San Juan Ermita - San José Acatempa) - Ref 994,San Juan Ermita,San José Acatempa,ACUATICA,26.31,32,BUENO
+TRM_311_342_0994,Tramo RN-7 Cobán-Quiché (Jocotán - Quesada) - Ref 995,Jocotán,Quesada,TERRACERIA,40.14,99,BUENO
+TRM_312_1_0995,Tramo Ruta Nacional RN-1 (Camotán - Lago De Amatitlan) - Ref 996,Camotán,Lago De Amatitlan,TERRACERIA,26.11,83,BUENO
+TRM_313_2_0996,Tramo RN-9 Salcajá (Olopa - Guatemala) - Ref 997,Olopa,Guatemala,PEATONAL,51.76,168,BUENO
+TRM_314_3_0997,Tramo Ruta Nacional RN-1 (Esquipulas - Santa Catarina Pinula) - Ref 998,Esquipulas,Santa Catarina Pinula,INTERAMERICANA,29.98,100,BUENO
+TRM_315_4_0998,Tramo RN-7 Cobán-Quiché (Concepción Las Minas - San José Pinula) - Ref 999,Concepción Las Minas,San José Pinula,ACUATICA,13.62,41,REGULAR
+TRM_316_5_0999,Tramo RN-7 Cobán-Quiché (Quezaltepeque - San José del Golfo) - Ref 1000,Quezaltepeque,San José del Golfo,PEATONAL,5.59,19,REGULAR
+TRM_317_6_1000,Tramo RN-15 Sacapulas (San Jacinto - Palencia) - Ref 1001,San Jacinto,Palencia,PEATONAL,21.78,27,BUENO
+TRM_318_7_1001,Tramo RN-7 Cobán-Quiché (Ipala - Chinautla) - Ref 1002,Ipala,Chinautla,INTERAMERICANA,66.81,195,MALO
+TRM_319_8_1002,Tramo RN-11 Panajachel (Jalapa - San Pedro Ayampuc) - Ref 1003,Jalapa,San Pedro Ayampuc,ACUATICA,46.32,120,MALO
+TRM_320_9_1003,Tramo RN-7 Cobán-Quiché (San Pedro Pinula - Mixco) - Ref 1004,San Pedro Pinula,Mixco,PEATONAL,49.78,68,BUENO
+TRM_321_10_1004,Tramo Ruta Nacional RN-1 (San Luis Jilotepeque - San Pedro Sacatepéquez) - Ref 1005,San Luis Jilotepeque,San Pedro Sacatepéquez,PEATONAL,42.7,96,BUENO
+TRM_322_11_1005,Tramo RN-11 Panajachel (San Manuel Chaparrón - San Juan Sacatepéquez) - Ref 1006,San Manuel Chaparrón,San Juan Sacatepéquez,PEATONAL,36.25,114,BUENO
+TRM_323_12_1006,Tramo RN-15 Sacapulas (San Carlos Alzatate - San Raimundo) - Ref 1007,San Carlos Alzatate,San Raimundo,TERRACERIA,69.22,197,BUENO
+TRM_324_13_1007,Tramo RN-9 Salcajá (Monjas - Chuarrancho) - Ref 1008,Monjas,Chuarrancho,INTERAMERICANA,5.56,12,BUENO
+TRM_325_14_1008,Tramo RN-7 Cobán-Quiché (Mataquescuintla - Fraijanes) - Ref 1009,Mataquescuintla,Fraijanes,NACIONAL_ASFALTO,12.96,27,BUENO
+TRM_326_15_1009,Tramo RN-7 Cobán-Quiché (Jutiapa - Amatitlán) - Ref 1010,Jutiapa,Amatitlán,INTERAMERICANA,40.21,54,BUENO
+TRM_327_16_1010,Tramo RN-9 Salcajá (El Progreso - Villa Nueva) - Ref 1011,El Progreso,Villa Nueva,INTERAMERICANA,52.78,157,REGULAR
+TRM_328_17_1011,Tramo Ruta Nacional RN-1 (Santa Catarina Mita - Villa Canales) - Ref 1012,Santa Catarina Mita,Villa Canales,INTERAMERICANA,38.51,126,BUENO
+TRM_329_18_1012,Tramo Ruta Nacional RN-1 (Agua Blanca - Petapa) - Ref 1013,Agua Blanca,Petapa,NACIONAL_ASFALTO,54.79,169,REGULAR
+TRM_330_19_1013,Tramo RN-15 Sacapulas (Asunción Mita - Guastatoya) - Ref 1014,Asunción Mita,Guastatoya,NACIONAL_ASFALTO,72.96,100,BUENO
+TRM_331_20_1014,Tramo RN-11 Panajachel (Yupiltepeque - Morazán) - Ref 1015,Yupiltepeque,Morazán,PEATONAL,28.25,70,BUENO
+TRM_332_21_1015,Tramo Ruta Nacional RN-1 (Atescatempa - San Agustín Acasaguastlán) - Ref 1016,Atescatempa,San Agustín Acasaguastlán,TERRACERIA,31.95,60,BUENO
+TRM_333_22_1016,Tramo RN-15 Sacapulas (Jerez - San Cristóbal Acasaguastlán) - Ref 1017,Jerez,San Cristóbal Acasaguastlán,TERRACERIA,54.01,146,BUENO
+TRM_334_23_1017,Tramo RN-9 Salcajá (El Adelanto - El Jícaro) - Ref 1018,El Adelanto,El Jícaro,PEATONAL,45.61,72,BUENO
+TRM_335_24_1018,Tramo RN-15 Sacapulas (Zapotitlán - Sanarate) - Ref 1019,Zapotitlán,Sanarate,ACUATICA,9.62,21,BUENO
+TRM_336_25_1019,Tramo Ruta Nacional RN-1 (Comapa - Sansare) - Ref 1020,Comapa,Sansare,ACUATICA,39.28,58,BUENO

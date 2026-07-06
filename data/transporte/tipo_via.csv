@@ -1,0 +1,6 @@
+codigo,nombre,descripcion
+INTERAMERICANA,Carretera Interamericana (CA-1),Carretera principal asfaltada de alta velocidad de 2 o 4 carriles.
+NACIONAL_ASFALTO,Ruta Nacional Asfaltada,Vías de conexión asfaltadas de dos carriles.
+TERRACERIA,Camino de terracería,Vías de tierra y balastro. Sujetas a afectaciones climáticas.
+ACUATICA,Vía Fluvial / Lacustre,Rutas de navegación acuática en lancha o transbordador.
+PEATONAL,Sendero Peatonal,Caminos rurales transitables únicamente a pie o a caballo.
