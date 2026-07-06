@@ -16,6 +16,7 @@
 - **meta**: `carga`, `cobertura_carga`, `estado_carga`, `fuente`, `tipo_fuente`
 - **patrimonio**: `banco`, `cuenta_bancaria`, `empresa`, `inmueble`, `rol_empresa`, `vehiculo`
 - **sector_publico**: `banco`, `cargo`, `contrato`, `cuenta_bancaria`, `empresa`, `inmueble`, `institucion`, `nivel_institucion`, `rol_empresa`, `tipo_contrato`, `tipo_institucion`, `trabajador`, `vehiculo`
+- **transporte**: `conexion_municipal`, `destino_transporte`, `incidencia_vial`, `itinerario_transporte`, `proveedor_transporte`, `ruta_transporte`, `tipo_transporte`, `tipo_via`, `tramo_vial`
 - **turismo**: `actividad_turistica`, `categoria_destino`, `departamento_region_turistica`, `destino_actividad`, `destino_categoria`, `destino_fuente`, `destino_patrimonio`, `destino_temporada`, `destino_turistico`, `dim_actividad`, `dim_actividad_turismo`, `dim_categoria`, `dim_categoria_turismo`, `dim_departamento`, `dim_destino`, `dim_fecha`, `dim_fuente`, `dim_geografia_turistica`, `dim_municipio`, `dim_patrimonio`, `dim_region`, `dim_region_turistica`, `dim_ruta`, `dim_temporada`, `etl_ejecucion`, `etl_ejecucion_turismo`, `etl_error_turismo`, `etl_job`, `etl_validacion`, `fact_destino_actividad`, `fact_destino_catalogo`, `fact_destino_categoria`, `fact_destino_patrimonio`, `fact_destino_temporada`, `fact_destino_turistico`, `fact_metrica_destino`, `fact_ruta_destino`, `fuente_turistica`, `patrimonio_turistico`, `recomendacion_destino`, `region_turistica`, `ruta_destino`, `ruta_turistica`, `stg_destino_raw`, `stg_destino_turistico`, `stg_evento_usuario_raw`, `stg_fuente_raw`, `stg_metricas_destino_raw`, `temporada_turistica`
 
 
@@ -1079,6 +1080,138 @@ Vehiculos declarados por trabajadores del sector publico.
 | anio | smallint | sí |  |  |  |  |
 | valor_declarado | numeric(15,2) | sí |  |  |  |  |
 | fecha_adquisicion | date | sí |  |  |  |  |
+
+
+## Schema: `transporte`
+
+### `transporte.conexion_municipal`
+
+Matriz de accesibilidad de municipios hacia cabeceras y capital por tipo de vehículo.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_conexion | integer | no | X |  | `IDENTITY` | Identificador de la conexión. |
+| municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio analizado. |
+| tipo_vehiculo | character varying(80) | no |  |  | `'LIVIANO'::character varying` | Tipo de vehículo utilizado para la estimación (LIVIANO, PESADO, AUTOBUS). |
+| distancia_cabecera_km | numeric(8,2) | no |  |  |  | Distancia vial a la cabecera de su departamento (en km). |
+| tiempo_cabecera_minutos | integer | no |  |  |  | Tiempo promedio de viaje a la cabecera (en minutos). |
+| distancia_capital_km | numeric(8,2) | no |  |  |  | Distancia vial a la Ciudad de Guatemala (en km). |
+| tiempo_capital_minutos | integer | no |  |  |  | Tiempo promedio de viaje a la Ciudad de Guatemala (en minutos). |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.destino_transporte`
+
+Integración de destinos turísticos con conectores de transporte e indicaciones de llegada.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_destino_transporte | integer | no | X |  | `IDENTITY` | Identificador único de la parada asociada al destino. |
+| destino_id | integer | no |  | turismo.destino_turistico(id_destino) |  | Identificador de la atracción turística de la tabla turismo.destino_turistico. |
+| parada_cercana | character varying(220) | no |  |  |  | Nombre o ubicación de la parada/estación de autobús o lancha más cercana. |
+| tipo_transporte_id | integer | no |  | transporte.tipo_transporte(id_tipo_transporte) |  | Tipo de transporte que llega a dicha parada. |
+| distancia_parada_km | numeric(6,2) | no |  |  |  | Distancia restante desde la parada hasta la entrada de la atracción (en km). |
+| costo_traslado_local_q | numeric(8,2) | no |  |  |  | Costo promedio del traslado final (ej. tarifa de tuc-tuc en Quetzales). |
+| tiempo_traslado_minutos | integer | no |  |  |  | Tiempo del trayecto final de conexión en minutos. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.incidencia_vial`
+
+Alertas de transitabilidad, bloqueos, derrumbes u obras en los tramos viales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_incidencia | integer | no | X |  | `IDENTITY` | Identificador único de la incidencia. |
+| codigo | character varying(80) | no |  |  |  | Código único de la incidencia. |
+| tramo_id | integer | no |  | transporte.tramo_vial(id_tramo) |  | Tramo afectado por la incidencia. |
+| tipo_incidencia | character varying(120) | no |  |  |  | Tipo (Derrumbe, Bloqueo de carreteras, Trabajos en vía, Accidente). |
+| descripcion | text | no |  |  |  | Explicación de la afectación vial. |
+| fecha_reporte | timestamp without time zone | no |  |  | `now()` | Fecha y hora del reporte. |
+| activo | boolean | no |  |  | `true` | Indica si la incidencia sigue activa afectando el paso. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.itinerario_transporte`
+
+Horarios de salida, frecuencias y tarifas del transporte por proveedor.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_itinerario | integer | no | X |  | `IDENTITY` | Identificador único del itinerario. |
+| ruta_transporte_id | integer | no |  | transporte.ruta_transporte(id_ruta_transporte) |  | Ruta asociada a este itinerario. |
+| proveedor_id | integer | no |  | transporte.proveedor_transporte(id_proveedor) |  | Proveedor a cargo de este horario/servicio. |
+| hora_salida | time without time zone | no |  |  |  | Hora programada de salida. |
+| frecuencia | character varying(80) | no |  |  |  | Frecuencia de salidas (ej. Diario, Lunes a Viernes, Cada 20 min). |
+| tarifa_q | numeric(10,2) | no |  |  |  | Tarifa oficial o estimada en Quetzales. |
+| duracion_estimada_minutos | integer | no |  |  |  | Duración promedio del viaje en minutos. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.proveedor_transporte`
+
+Líneas de autobuses, cooperativas de lanchas, y asociaciones locales de transportistas.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_proveedor | integer | no | X |  | `IDENTITY` | Identificador único del proveedor. |
+| codigo | character varying(80) | no |  |  |  | Código estable de identificación del proveedor. |
+| nombre | character varying(220) | no |  |  |  | Nombre comercial o razón social de la empresa/cooperativa. |
+| representante | character varying(180) | sí |  |  |  | Representante o encargado del servicio. |
+| contacto | character varying(150) | sí |  |  |  | Teléfono o contacto para reservaciones e información. |
+| departamento_id | integer | no |  | geografia.departamento(id) |  | Departamento donde reside la sede del proveedor. |
+| municipio_id | integer | sí |  | geografia.municipio(id) |  | Municipio donde reside la sede del proveedor. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.ruta_transporte`
+
+Rutas de viaje establecidas entre municipios de origen y destino.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_ruta_transporte | integer | no | X |  | `IDENTITY` | Identificador único de la ruta. |
+| codigo | character varying(80) | no |  |  |  | Código de la ruta (ej. RT_GTM_MUNI1_MUNI2). |
+| origen_municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio de inicio del trayecto. |
+| destino_municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio de finalización del trayecto. |
+| tipo_transporte_id | integer | no |  | transporte.tipo_transporte(id_tipo_transporte) |  | Medio de transporte principal usado en la ruta. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.tipo_transporte`
+
+Medios de transporte público y privado disponibles para moverse en la región.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_tipo_transporte | integer | no | X |  | `IDENTITY` | Identificador único del tipo de transporte. |
+| codigo | character varying(80) | no |  |  |  | Código único estable del tipo de transporte (ej. TUC_TUC, CHICKEN_BUS). |
+| nombre | character varying(120) | no |  |  |  | Nombre común del medio (ej. Tuc-tuc, Autobús extraurbano, Shuttle turístico). |
+| descripcion | text | sí |  |  |  | Descripción del servicio, capacidad y cobertura habitual. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.tipo_via`
+
+Clasificación física y legal de las carreteras y vías en la región.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_tipo_via | integer | no | X |  | `IDENTITY` | Identificador único del tipo de vía. |
+| codigo | character varying(80) | no |  |  |  | Código del tipo de vía (ej. AUTOPISTA, CARRETERA_ASFALTO, PEATONAL). |
+| nombre | character varying(120) | no |  |  |  | Nombre del tipo de vía (ej. Autopista de 4 carriles, Camino de terracería, Vía fluvial). |
+| descripcion | text | sí |  |  |  | Detalles constructivos y tipo de vehículos permitidos. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
+
+### `transporte.tramo_vial`
+
+Segmentos reales de carreteras que conectan municipios y nodos turísticos principales.
+
+| Columna | Tipo | Nulo | PK | FK | Default | Descripción |
+|---|---|---|---|---|---|---|
+| id_tramo | integer | no | X |  | `IDENTITY` | Identificador único del tramo vial. |
+| codigo | character varying(80) | no |  |  |  | Código del tramo. |
+| nombre | character varying(220) | no |  |  |  | Nombre descriptivo del tramo (ej. Interamericana Quetzaltenango - Totonicapán). |
+| origen_municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio origen del tramo. |
+| destino_municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio destino del tramo. |
+| tipo_via_id | integer | no |  | transporte.tipo_via(id_tipo_via) |  | Estructura constructiva del tramo. |
+| distancia_km | numeric(8,2) | no |  |  |  | Distancia real en kilómetros. |
+| tiempo_promedio_minutos | integer | no |  |  |  | Tiempo promedio de recorrido en vehículo normal. |
+| estado_transitabilidad | character varying(80) | no |  |  | `'BUENO'::character varying` | Estado de la vía (BUENO, REGULAR, MALO, BLOQUEADO). |
+| carga_id | integer | sí |  | meta.carga(id) |  | Referencia al registro de carga de metadatos. |
 
 
 ## Schema: `turismo`

@@ -1,0 +1,7 @@
+codigo,nombre,descripcion
+TUC_TUC,Tuc-tuc,Mototaxi local para traslados cortos de pasajeros dentro del municipio.
+EXTRAURBANO,Autobús extraurbano,Autobús de parrilla tradicional (chicken bus) para rutas intermunicipales.
+LANCHA,Lancha colectiva,Transporte acuático en lanchas compartidas para destinos alrededor de lagos (ej. Atitlán).
+FLETERO,Microbús / Fletero,Microbús rápido para trayectos rotativos intercomunitarios.
+SHUTTLE,Shuttle turístico,Transporte privado o compartido con aire acondicionado ideal para turistas.
+TAXI,Taxi local,Servicio de transporte privado individual en vehículo sedán.

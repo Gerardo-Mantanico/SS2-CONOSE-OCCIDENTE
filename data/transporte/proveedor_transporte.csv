@@ -1,0 +1,1021 @@
+codigo,nombre,representante,contacto,departamento_nombre,municipio_nombre
+PROV_GT01_0000,Transportes Lago De Amatitlan - Ref 1,María Guzmán,+502 44775897,Guatemala,Lago De Amatitlan
+PROV_GT01_0001,Autobuses Guatemala - Ref 2,Manuel Cox,+502 41972616,Guatemala,Guatemala
+PROV_GT01_0002,Lancheros Unidos Santa Catarina Pinula - Ref 3,Luisa Chaj,+502 58257711,Guatemala,Santa Catarina Pinula
+PROV_GT01_0003,Fleteros del Altiplano San José Pinula - Ref 4,Diego Méndez,+502 54135883,Guatemala,San José Pinula
+PROV_GT01_0004,Cooperativa de Transportistas San José del Golfo - Ref 5,Pedro Cabrera,+502 45782722,Guatemala,San José del Golfo
+PROV_GT01_0005,Rápidos de Occidente Palencia - Ref 6,María Cox,+502 52178035,Guatemala,Palencia
+PROV_GT01_0006,Shuttles Chinautla - Ref 7,Tomasa Marroquín,+502 58282986,Guatemala,Chinautla
+PROV_GT01_0007,Taxis del Centro San Pedro Ayampuc - Ref 8,Carlos Tzul,+502 55977092,Guatemala,San Pedro Ayampuc
+PROV_GT01_0008,Transportes Mixco - Ref 9,Juana Tzul,+502 50059980,Guatemala,Mixco
+PROV_GT01_0009,Autobuses San Pedro Sacatepéquez - Ref 10,Elena Méndez,+502 42405667,Guatemala,San Pedro Sacatepéquez
+PROV_GT01_0010,Lancheros Unidos San Juan Sacatepéquez - Ref 11,Manuel Jax,+502 47734134,Guatemala,San Juan Sacatepéquez
+PROV_GT01_0011,Fleteros del Altiplano San Raimundo - Ref 12,Elena Hernández,+502 55343950,Guatemala,San Raimundo
+PROV_GT01_0012,Cooperativa de Transportistas Chuarrancho - Ref 13,Luisa Pérez,+502 43817184,Guatemala,Chuarrancho
+PROV_GT01_0013,Rápidos de Occidente Fraijanes - Ref 14,Luisa Tzoc,+502 56953579,Guatemala,Fraijanes
+PROV_GT01_0014,Shuttles Amatitlán - Ref 15,Juan Chaj,+502 54565271,Guatemala,Amatitlán
+PROV_GT01_0015,Taxis del Centro Villa Nueva - Ref 16,Miguel Méndez,+502 52425260,Guatemala,Villa Nueva
+PROV_GT01_0016,Transportes Villa Canales - Ref 17,Juana Cox,+502 49635367,Guatemala,Villa Canales
+PROV_GT01_0017,Autobuses Petapa - Ref 18,Miguel Hernández,+502 42223128,Guatemala,Petapa
+PROV_GT02_0018,Lancheros Unidos Guastatoya - Ref 19,Manuel Chaj,+502 55626829,El Progreso,Guastatoya
+PROV_GT02_0019,Fleteros del Altiplano Morazán - Ref 20,Pedro Guzmán,+502 46332558,El Progreso,Morazán
+PROV_GT02_0020,Cooperativa de Transportistas San Agustín Acasaguastlán - Ref 21,Elena Chaj,+502 41434844,El Progreso,San Agustín Acasaguastlán
+PROV_GT02_0021,Rápidos de Occidente San Cristóbal Acasaguastlán - Ref 22,Carlos Marroquín,+502 43135922,El Progreso,San Cristóbal Acasaguastlán
+PROV_GT02_0022,Shuttles El Jícaro - Ref 23,Juana López,+502 54876223,El Progreso,El Jícaro
+PROV_GT02_0023,Taxis del Centro Sanarate - Ref 24,Elena Pérez,+502 45477414,El Progreso,Sanarate
+PROV_GT02_0024,Transportes Sansare - Ref 25,Manuel Jax,+502 52976874,El Progreso,Sansare
+PROV_GT02_0025,Autobuses San Antonio La Paz - Ref 26,Juana Méndez,+502 50346538,El Progreso,San Antonio La Paz
+PROV_GT03_0026,Lancheros Unidos Antigua Guatemala - Ref 27,Pedro Chaj,+502 49381560,Sacatepéquez,Antigua Guatemala
+PROV_GT03_0027,Fleteros del Altiplano Jocotenango - Ref 28,Elena Batz,+502 52571528,Sacatepéquez,Jocotenango
+PROV_GT03_0028,Cooperativa de Transportistas Pastores - Ref 29,Juana Méndez,+502 50002404,Sacatepéquez,Pastores
+PROV_GT03_0029,Rápidos de Occidente Sumpango - Ref 30,Miguel Tzul,+502 41461289,Sacatepéquez,Sumpango
+PROV_GT03_0030,Shuttles Santo Domingo Xenacoj - Ref 31,José Méndez,+502 56011142,Sacatepéquez,Santo Domingo Xenacoj
+PROV_GT03_0031,Taxis del Centro Santiago Sacatepéquez - Ref 32,Miguel Gómez,+502 50727992,Sacatepéquez,Santiago Sacatepéquez
+PROV_GT03_0032,Transportes San Bartolomé Milpas Altas - Ref 33,Manuel López,+502 47838226,Sacatepéquez,San Bartolomé Milpas Altas
+PROV_GT03_0033,Autobuses San Lucas Sacatepéquez - Ref 34,Luisa Batz,+502 59166825,Sacatepéquez,San Lucas Sacatepéquez
+PROV_GT03_0034,Lancheros Unidos Santa Lucía Milpas Altas - Ref 35,Esteban Chaj,+502 57137994,Sacatepéquez,Santa Lucía Milpas Altas
+PROV_GT03_0035,Fleteros del Altiplano Magdalena Milpas Altas - Ref 36,Miguel Tzul,+502 46018514,Sacatepéquez,Magdalena Milpas Altas
+PROV_GT03_0036,Cooperativa de Transportistas Santa María de Jesús - Ref 37,Rosa Gómez,+502 42675432,Sacatepéquez,Santa María de Jesús
+PROV_GT03_0037,Rápidos de Occidente Ciudad Vieja - Ref 38,José Jax,+502 59522718,Sacatepéquez,Ciudad Vieja
+PROV_GT03_0038,Shuttles San Miguel Dueñas - Ref 39,Manuel Cox,+502 46761603,Sacatepéquez,San Miguel Dueñas
+PROV_GT03_0039,Taxis del Centro Alotenango - Ref 40,Diego Chaj,+502 56529574,Sacatepéquez,Alotenango
+PROV_GT03_0040,Transportes San Antonio Aguas Calientes - Ref 41,Esteban Marroquín,+502 53335359,Sacatepéquez,San Antonio Aguas Calientes
+PROV_GT03_0041,Autobuses Santa Catarina Barahona - Ref 42,Juan Cabrera,+502 51362957,Sacatepéquez,Santa Catarina Barahona
+PROV_GT04_0042,Lancheros Unidos Chimaltenango - Ref 43,Tomasa Marroquín,+502 53017788,Chimaltenango,Chimaltenango
+PROV_GT04_0043,Fleteros del Altiplano San José Poaquil - Ref 44,Juana Tzul,+502 47022790,Chimaltenango,San José Poaquil
+PROV_GT04_0044,Cooperativa de Transportistas San Martín Jilotepeque - Ref 45,Carlos Méndez,+502 43088111,Chimaltenango,San Martín Jilotepeque
+PROV_GT04_0045,Rápidos de Occidente Comalapa - Ref 46,Pedro Cox,+502 53616593,Chimaltenango,Comalapa
+PROV_GT04_0046,Shuttles Santa Apolonia - Ref 47,Miguel Hernández,+502 58624626,Chimaltenango,Santa Apolonia
+PROV_GT04_0047,Taxis del Centro Tecpán Guatemala - Ref 48,José Cabrera,+502 50527616,Chimaltenango,Tecpán Guatemala
+PROV_GT04_0048,Transportes Patzún - Ref 49,José Hernández,+502 54167877,Chimaltenango,Patzún
+PROV_GT04_0049,Autobuses Pochuta - Ref 50,Pedro Tzul,+502 55328976,Chimaltenango,Pochuta
+PROV_GT04_0050,Lancheros Unidos Patzicía - Ref 51,Esteban Cabrera,+502 41567032,Chimaltenango,Patzicía
+PROV_GT04_0051,Fleteros del Altiplano Santa Cruz Balanyá - Ref 52,Luisa Marroquín,+502 47455394,Chimaltenango,Santa Cruz Balanyá
+PROV_GT04_0052,Cooperativa de Transportistas Acatenango - Ref 53,Luisa Chaj,+502 48388931,Chimaltenango,Acatenango
+PROV_GT04_0053,Rápidos de Occidente Yepocapa - Ref 54,José Chaj,+502 41183657,Chimaltenango,Yepocapa
+PROV_GT04_0054,Shuttles San Andrés Itzapa - Ref 55,Carlos Marroquín,+502 57657435,Chimaltenango,San Andrés Itzapa
+PROV_GT04_0055,Taxis del Centro Parramos - Ref 56,Carlos Marroquín,+502 44205773,Chimaltenango,Parramos
+PROV_GT04_0056,Transportes Zaragoza - Ref 57,Elena Batz,+502 41407152,Chimaltenango,Zaragoza
+PROV_GT04_0057,Autobuses El Tejar - Ref 58,María Chaj,+502 58378879,Chimaltenango,El Tejar
+PROV_GT05_0058,Lancheros Unidos Escuintla - Ref 59,José López,+502 45822409,Escuintla,Escuintla
+PROV_GT05_0059,Fleteros del Altiplano Santa Lucía Cotzumalguapa - Ref 60,Tomasa Gómez,+502 53103415,Escuintla,Santa Lucía Cotzumalguapa
+PROV_GT05_0060,Cooperativa de Transportistas La Democracia - Ref 61,Esteban López,+502 54477509,Escuintla,La Democracia
+PROV_GT05_0061,Rápidos de Occidente Siquinalá - Ref 62,Elena Méndez,+502 57859064,Escuintla,Siquinalá
+PROV_GT05_0062,Shuttles Masagua - Ref 63,Pedro Tzoc,+502 41092413,Escuintla,Masagua
+PROV_GT05_0063,Taxis del Centro Tiquisate - Ref 64,Elena Jax,+502 50113301,Escuintla,Tiquisate
+PROV_GT05_0064,Transportes La Gomera - Ref 65,Francisco Tzoc,+502 45037063,Escuintla,La Gomera
+PROV_GT05_0065,Autobuses Guanagazapa - Ref 66,Tomasa Hernández,+502 57088239,Escuintla,Guanagazapa
+PROV_GT05_0066,Lancheros Unidos San José - Ref 67,Juan Marroquín,+502 52101666,Escuintla,San José
+PROV_GT05_0067,Fleteros del Altiplano Iztapa - Ref 68,María Batz,+502 42018363,Escuintla,Iztapa
+PROV_GT05_0068,Cooperativa de Transportistas Palín - Ref 69,María López,+502 58193104,Escuintla,Palín
+PROV_GT05_0069,Rápidos de Occidente San Vicente Pacaya - Ref 70,María Tzoc,+502 46701816,Escuintla,San Vicente Pacaya
+PROV_GT05_0070,Shuttles Nueva Concepción - Ref 71,Manuel López,+502 49009452,Escuintla,Nueva Concepción
+PROV_GT05_0071,Taxis del Centro Sipacate - Ref 72,Manuel Gómez,+502 55922847,Escuintla,Sipacate
+PROV_GT06_0072,Transportes Cuilapa - Ref 73,Esteban Hernández,+502 52212690,Santa Rosa,Cuilapa
+PROV_GT06_0073,Autobuses Barberena - Ref 74,Diego Tzul,+502 46675413,Santa Rosa,Barberena
+PROV_GT06_0074,Lancheros Unidos Santa Rosa de Lima - Ref 75,José Batz,+502 42239214,Santa Rosa,Santa Rosa de Lima
+PROV_GT06_0075,Fleteros del Altiplano Casillas - Ref 76,Esteban Yax,+502 56451617,Santa Rosa,Casillas
+PROV_GT06_0076,Cooperativa de Transportistas San Rafael Las Flores - Ref 77,Francisco Batz,+502 56097284,Santa Rosa,San Rafael Las Flores
+PROV_GT06_0077,Rápidos de Occidente Oratorio - Ref 78,María Yax,+502 58929061,Santa Rosa,Oratorio
+PROV_GT06_0078,Shuttles San Juan Tecuaco - Ref 79,Esteban Méndez,+502 45705166,Santa Rosa,San Juan Tecuaco
+PROV_GT06_0079,Taxis del Centro Chiquimulilla - Ref 80,Miguel Hernández,+502 40008435,Santa Rosa,Chiquimulilla
+PROV_GT06_0080,Transportes Taxisco - Ref 81,Juan Tzul,+502 41822753,Santa Rosa,Taxisco
+PROV_GT06_0081,Autobuses Santa María Ixhuatán - Ref 82,Juana Guzmán,+502 58081832,Santa Rosa,Santa María Ixhuatán
+PROV_GT06_0082,Lancheros Unidos Guazacapán - Ref 83,Juana Pérez,+502 57652228,Santa Rosa,Guazacapán
+PROV_GT06_0083,Fleteros del Altiplano Santa Cruz Naranjo - Ref 84,Luisa Gómez,+502 57237869,Santa Rosa,Santa Cruz Naranjo
+PROV_GT06_0084,Cooperativa de Transportistas Pueblo Nuevo Viñas - Ref 85,Pedro Méndez,+502 47274220,Santa Rosa,Pueblo Nuevo Viñas
+PROV_GT06_0085,Rápidos de Occidente Nueva Santa Rosa - Ref 86,Juan Cabrera,+502 52477354,Santa Rosa,Nueva Santa Rosa
+PROV_GT07_0086,Shuttles Lago De Atitlan - Ref 87,Manuel Gómez,+502 55955102,Sololá,Lago De Atitlan
+PROV_GT07_0087,Taxis del Centro Sololá - Ref 88,Manuel López,+502 42058515,Sololá,Sololá
+PROV_GT07_0088,Transportes San José Chacayá - Ref 89,Esteban Chaj,+502 49259802,Sololá,San José Chacayá
+PROV_GT07_0089,Autobuses Santa María Visitación - Ref 90,Miguel Tzoc,+502 51949871,Sololá,Santa María Visitación
+PROV_GT07_0090,Lancheros Unidos Santa Lucía Utatlán - Ref 91,María Batz,+502 42613994,Sololá,Santa Lucía Utatlán
+PROV_GT07_0091,Fleteros del Altiplano Nahualá - Ref 92,Juan Gómez,+502 43878937,Sololá,Nahualá
+PROV_GT07_0092,Cooperativa de Transportistas Santa Catarina Ixtahuacán - Ref 93,Esteban Tzul,+502 57406079,Sololá,Santa Catarina Ixtahuacán
+PROV_GT07_0093,Rápidos de Occidente Santa Clara La Laguna - Ref 94,Juan Chaj,+502 55893617,Sololá,Santa Clara La Laguna
+PROV_GT07_0094,Shuttles Concepción - Ref 95,Juan Méndez,+502 43817268,Sololá,Concepción
+PROV_GT07_0095,Taxis del Centro San Andrés Semetabaj - Ref 96,María Méndez,+502 52318702,Sololá,San Andrés Semetabaj
+PROV_GT07_0096,Transportes Panajachel - Ref 97,Manuel Cabrera,+502 48005337,Sololá,Panajachel
+PROV_GT07_0097,Autobuses Santa Catarina Palopó - Ref 98,Diego Chaj,+502 55018262,Sololá,Santa Catarina Palopó
+PROV_GT07_0098,Lancheros Unidos San Antonio Palopó - Ref 99,Esteban Cox,+502 57726685,Sololá,San Antonio Palopó
+PROV_GT07_0099,Fleteros del Altiplano San Lucas Tolimán - Ref 100,Juana Méndez,+502 53271901,Sololá,San Lucas Tolimán
+PROV_GT07_0100,Cooperativa de Transportistas Santa Cruz La Laguna - Ref 101,Diego Batz,+502 54028376,Sololá,Santa Cruz La Laguna
+PROV_GT07_0101,Rápidos de Occidente San Pablo La Laguna - Ref 102,Elena Marroquín,+502 57202636,Sololá,San Pablo La Laguna
+PROV_GT07_0102,Shuttles San Marcos La Laguna - Ref 103,Esteban Yax,+502 46387321,Sololá,San Marcos La Laguna
+PROV_GT07_0103,Taxis del Centro San Juan La Laguna - Ref 104,Juana Cabrera,+502 43076234,Sololá,San Juan La Laguna
+PROV_GT07_0104,Transportes San Pedro La Laguna - Ref 105,María Pérez,+502 44495841,Sololá,San Pedro La Laguna
+PROV_GT07_0105,Autobuses Santiago Atitlán - Ref 106,Elena Tzoc,+502 56072614,Sololá,Santiago Atitlán
+PROV_GT08_0106,Lancheros Unidos Totonicapán - Ref 107,Elena Cox,+502 44861727,Totonicapán,Totonicapán
+PROV_GT08_0107,Fleteros del Altiplano San Cristóbal Totonicapán - Ref 108,Manuel Pérez,+502 59786402,Totonicapán,San Cristóbal Totonicapán
+PROV_GT08_0108,Cooperativa de Transportistas San Francisco El Alto - Ref 109,Rosa Cox,+502 49853360,Totonicapán,San Francisco El Alto
+PROV_GT08_0109,Rápidos de Occidente San Andrés Xecul - Ref 110,Carlos Gómez,+502 49908142,Totonicapán,San Andrés Xecul
+PROV_GT08_0110,Shuttles Momostenango - Ref 111,Miguel Méndez,+502 47341369,Totonicapán,Momostenango
+PROV_GT08_0111,Taxis del Centro Santa María Chiquimula - Ref 112,Manuel Batz,+502 44545155,Totonicapán,Santa María Chiquimula
+PROV_GT08_0112,Transportes Santa Lucía La Reforma - Ref 113,Miguel Hernández,+502 49072506,Totonicapán,Santa Lucía La Reforma
+PROV_GT08_0113,Autobuses San Bartolo - Ref 114,Pedro López,+502 54878188,Totonicapán,San Bartolo
+PROV_GT09_0114,Lancheros Unidos Quetzaltenango - Ref 115,Pedro Méndez,+502 59857941,Quetzaltenango,Quetzaltenango
+PROV_GT09_0115,Fleteros del Altiplano Salcajá - Ref 116,Rosa López,+502 40479849,Quetzaltenango,Salcajá
+PROV_GT09_0116,Cooperativa de Transportistas Olintepeque - Ref 117,Carlos Gómez,+502 58335739,Quetzaltenango,Olintepeque
+PROV_GT09_0117,Rápidos de Occidente San Carlos Sija - Ref 118,Elena Marroquín,+502 51033939,Quetzaltenango,San Carlos Sija
+PROV_GT09_0118,Shuttles Sibilia - Ref 119,José López,+502 49914441,Quetzaltenango,Sibilia
+PROV_GT09_0119,Taxis del Centro Cabricán - Ref 120,Rosa Tzoc,+502 53138626,Quetzaltenango,Cabricán
+PROV_GT09_0120,Transportes Cajolá - Ref 121,Juana Pérez,+502 56996581,Quetzaltenango,Cajolá
+PROV_GT09_0121,Autobuses San Miguel Sigüila - Ref 122,Carlos Cabrera,+502 55043790,Quetzaltenango,San Miguel Sigüila
+PROV_GT09_0122,Lancheros Unidos Ostuncalco - Ref 123,José Chaj,+502 55111687,Quetzaltenango,Ostuncalco
+PROV_GT09_0123,Fleteros del Altiplano San Mateo - Ref 124,Pedro Tzoc,+502 55569939,Quetzaltenango,San Mateo
+PROV_GT09_0124,Cooperativa de Transportistas Concepción Chiquirichapa - Ref 125,María Jax,+502 44863263,Quetzaltenango,Concepción Chiquirichapa
+PROV_GT09_0125,Rápidos de Occidente San Martín Sacatepéquez - Ref 126,Miguel Gómez,+502 41548542,Quetzaltenango,San Martín Sacatepéquez
+PROV_GT09_0126,Shuttles Almolonga - Ref 127,Manuel Cabrera,+502 59015941,Quetzaltenango,Almolonga
+PROV_GT09_0127,Taxis del Centro Cantel - Ref 128,Tomasa Cabrera,+502 49179928,Quetzaltenango,Cantel
+PROV_GT09_0128,Transportes Huitán - Ref 129,José Tzoc,+502 49098508,Quetzaltenango,Huitán
+PROV_GT09_0129,Autobuses Zunil - Ref 130,Esteban Méndez,+502 57129577,Quetzaltenango,Zunil
+PROV_GT09_0130,Lancheros Unidos Colomba - Ref 131,Tomasa Tzul,+502 45846147,Quetzaltenango,Colomba
+PROV_GT09_0131,Fleteros del Altiplano San Francisco La Unión - Ref 132,Miguel Tzul,+502 47755326,Quetzaltenango,San Francisco La Unión
+PROV_GT09_0132,Cooperativa de Transportistas El Palmar - Ref 133,Luisa Gómez,+502 56543711,Quetzaltenango,El Palmar
+PROV_GT09_0133,Rápidos de Occidente Coatepeque - Ref 134,Rosa Cox,+502 50059505,Quetzaltenango,Coatepeque
+PROV_GT09_0134,Shuttles Génova - Ref 135,Tomasa Hernández,+502 53852643,Quetzaltenango,Génova
+PROV_GT09_0135,Taxis del Centro Flores Costa Cuca - Ref 136,Pedro Méndez,+502 56334804,Quetzaltenango,Flores Costa Cuca
+PROV_GT09_0136,Transportes La Esperanza - Ref 137,Pedro Marroquín,+502 40688432,Quetzaltenango,La Esperanza
+PROV_GT09_0137,Autobuses Palestina de Los Altos - Ref 138,Elena Tzul,+502 52794677,Quetzaltenango,Palestina de Los Altos
+PROV_GT10_0138,Lancheros Unidos Mazatenango - Ref 139,Manuel Cabrera,+502 43128259,Suchitepéquez,Mazatenango
+PROV_GT10_0139,Fleteros del Altiplano Cuyotenango - Ref 140,Pedro Jax,+502 44083690,Suchitepéquez,Cuyotenango
+PROV_GT10_0140,Cooperativa de Transportistas San Francisco Zapotitlán - Ref 141,José Pérez,+502 44651128,Suchitepéquez,San Francisco Zapotitlán
+PROV_GT10_0141,Rápidos de Occidente San Bernardino - Ref 142,Rosa Cox,+502 49085475,Suchitepéquez,San Bernardino
+PROV_GT10_0142,Shuttles San José El Ídolo - Ref 143,Miguel Chaj,+502 44055282,Suchitepéquez,San José El Ídolo
+PROV_GT10_0143,Taxis del Centro Santo Domingo Suchitepéquez - Ref 144,Juana López,+502 48057235,Suchitepéquez,Santo Domingo Suchitepéquez
+PROV_GT10_0144,Transportes San Lorenzo - Ref 145,Luisa Cox,+502 58297149,Suchitepéquez,San Lorenzo
+PROV_GT10_0145,Autobuses Samayac - Ref 146,Tomasa Cabrera,+502 51015837,Suchitepéquez,Samayac
+PROV_GT10_0146,Lancheros Unidos San Pablo Jocopilas - Ref 147,Elena Chaj,+502 41449549,Suchitepéquez,San Pablo Jocopilas
+PROV_GT10_0147,Fleteros del Altiplano San Antonio Suchitepéquez - Ref 148,Juan Tzoc,+502 40629868,Suchitepéquez,San Antonio Suchitepéquez
+PROV_GT10_0148,Cooperativa de Transportistas San Miguel Panán - Ref 149,Manuel Batz,+502 48984144,Suchitepéquez,San Miguel Panán
+PROV_GT10_0149,Rápidos de Occidente San Gabriel - Ref 150,Rosa Yax,+502 58924811,Suchitepéquez,San Gabriel
+PROV_GT10_0150,Shuttles Chicacao - Ref 151,Juan Guzmán,+502 41428556,Suchitepéquez,Chicacao
+PROV_GT10_0151,Taxis del Centro Patulul - Ref 152,María Pérez,+502 46419913,Suchitepéquez,Patulul
+PROV_GT10_0152,Transportes Santa Bárbara - Ref 153,María Guzmán,+502 45324661,Suchitepéquez,Santa Bárbara
+PROV_GT10_0153,Autobuses San Juan Bautista - Ref 154,Elena Guzmán,+502 40302136,Suchitepéquez,San Juan Bautista
+PROV_GT10_0154,Lancheros Unidos Santo Tomás La Unión - Ref 155,Juan Gómez,+502 41762838,Suchitepéquez,Santo Tomás La Unión
+PROV_GT10_0155,Fleteros del Altiplano Zunilito - Ref 156,María Marroquín,+502 47365486,Suchitepéquez,Zunilito
+PROV_GT10_0156,Cooperativa de Transportistas Pueblo Nuevo - Ref 157,Tomasa Pérez,+502 46407440,Suchitepéquez,Pueblo Nuevo
+PROV_GT10_0157,Rápidos de Occidente Río Bravo - Ref 158,Esteban Yax,+502 40728661,Suchitepéquez,Río Bravo
+PROV_GT10_0158,Shuttles San José La Máquina - Ref 159,Manuel Gómez,+502 40563272,Suchitepéquez,San José La Máquina
+PROV_GT11_0159,Taxis del Centro Retalhuleu - Ref 160,Tomasa Méndez,+502 50598496,Retalhuleu,Retalhuleu
+PROV_GT11_0160,Transportes San Sebastián - Ref 161,Tomasa Marroquín,+502 59529347,Retalhuleu,San Sebastián
+PROV_GT11_0161,Autobuses Santa Cruz Muluá - Ref 162,Esteban Cox,+502 54557177,Retalhuleu,Santa Cruz Muluá
+PROV_GT11_0162,Lancheros Unidos San Martín Zapotitlán - Ref 163,Rosa Marroquín,+502 46184584,Retalhuleu,San Martín Zapotitlán
+PROV_GT11_0163,Fleteros del Altiplano San Felipe - Ref 164,Diego Batz,+502 53138418,Retalhuleu,San Felipe
+PROV_GT11_0164,Cooperativa de Transportistas San Andrés Villa Seca - Ref 165,María Guzmán,+502 45351281,Retalhuleu,San Andrés Villa Seca
+PROV_GT11_0165,Rápidos de Occidente Champerico - Ref 166,José Tzoc,+502 51263562,Retalhuleu,Champerico
+PROV_GT11_0166,Shuttles Nuevo San Carlos - Ref 167,Tomasa Hernández,+502 42653270,Retalhuleu,Nuevo San Carlos
+PROV_GT11_0167,Taxis del Centro El Asintal - Ref 168,Tomasa Yax,+502 51278874,Retalhuleu,El Asintal
+PROV_GT12_0168,Transportes San Marcos - Ref 169,Carlos Jax,+502 50506441,San Marcos,San Marcos
+PROV_GT12_0169,Autobuses San Pedro Sacatepéquez - Ref 170,Tomasa Cabrera,+502 53589166,San Marcos,San Pedro Sacatepéquez
+PROV_GT12_0170,Lancheros Unidos San Antonio Sacatepéquez - Ref 171,Carlos López,+502 58487916,San Marcos,San Antonio Sacatepéquez
+PROV_GT12_0171,Fleteros del Altiplano Comitancillo - Ref 172,Francisco Jax,+502 49566100,San Marcos,Comitancillo
+PROV_GT12_0172,Cooperativa de Transportistas San Miguel Ixtahuacán - Ref 173,Pedro Hernández,+502 52416387,San Marcos,San Miguel Ixtahuacán
+PROV_GT12_0173,Rápidos de Occidente Concepción Tutuapa - Ref 174,José Cox,+502 50109244,San Marcos,Concepción Tutuapa
+PROV_GT12_0174,Shuttles Tacaná - Ref 175,Pedro Tzoc,+502 56217385,San Marcos,Tacaná
+PROV_GT12_0175,Taxis del Centro Sibinal - Ref 176,Carlos Jax,+502 44908157,San Marcos,Sibinal
+PROV_GT12_0176,Transportes Tajumulco - Ref 177,Manuel Tzul,+502 50579175,San Marcos,Tajumulco
+PROV_GT12_0177,Autobuses Tejutla - Ref 178,Luisa Marroquín,+502 51827878,San Marcos,Tejutla
+PROV_GT12_0178,Lancheros Unidos San Rafael Pie de la Cuesta - Ref 179,María Gómez,+502 55809097,San Marcos,San Rafael Pie de la Cuesta
+PROV_GT12_0179,Fleteros del Altiplano Nuevo Progreso - Ref 180,Manuel Hernández,+502 56535079,San Marcos,Nuevo Progreso
+PROV_GT12_0180,Cooperativa de Transportistas El Tumbador - Ref 181,Juana Cox,+502 54153714,San Marcos,El Tumbador
+PROV_GT12_0181,Rápidos de Occidente El Rodeo - Ref 182,Manuel López,+502 54617536,San Marcos,El Rodeo
+PROV_GT12_0182,Shuttles Malacatán - Ref 183,Manuel Méndez,+502 52682756,San Marcos,Malacatán
+PROV_GT12_0183,Taxis del Centro Catarina - Ref 184,Francisco Cabrera,+502 56217477,San Marcos,Catarina
+PROV_GT12_0184,Transportes Ayutla - Ref 185,Juan Yax,+502 49312625,San Marcos,Ayutla
+PROV_GT12_0185,Autobuses Ocós - Ref 186,Esteban Hernández,+502 55407779,San Marcos,Ocós
+PROV_GT12_0186,Lancheros Unidos San Pablo - Ref 187,Diego Tzoc,+502 49419671,San Marcos,San Pablo
+PROV_GT12_0187,Fleteros del Altiplano El Quetzal - Ref 188,Rosa Marroquín,+502 50056855,San Marcos,El Quetzal
+PROV_GT12_0188,Cooperativa de Transportistas La Reforma - Ref 189,Juan Méndez,+502 43843126,San Marcos,La Reforma
+PROV_GT12_0189,Rápidos de Occidente Pajapita - Ref 190,Rosa Chaj,+502 57585146,San Marcos,Pajapita
+PROV_GT12_0190,Shuttles Ixchiguán - Ref 191,Francisco Jax,+502 58715659,San Marcos,Ixchiguán
+PROV_GT12_0191,Taxis del Centro San José Ojetenam - Ref 192,Elena Cox,+502 56162727,San Marcos,San José Ojetenam
+PROV_GT12_0192,Transportes San Cristóbal Cucho - Ref 193,Juan Yax,+502 50315077,San Marcos,San Cristóbal Cucho
+PROV_GT12_0193,Autobuses Sipacapa - Ref 194,Juan Cox,+502 56385264,San Marcos,Sipacapa
+PROV_GT12_0194,Lancheros Unidos Esquipulas Palo Gordo - Ref 195,Juana Tzoc,+502 42097417,San Marcos,Esquipulas Palo Gordo
+PROV_GT12_0195,Fleteros del Altiplano Río Blanco - Ref 196,Juana López,+502 46124504,San Marcos,Río Blanco
+PROV_GT12_0196,Cooperativa de Transportistas San Lorenzo - Ref 197,Rosa Pérez,+502 53382024,San Marcos,San Lorenzo
+PROV_GT12_0197,Rápidos de Occidente La Blanca - Ref 198,Juan Batz,+502 48718609,San Marcos,La Blanca
+PROV_GT13_0198,Shuttles Huehuetenango - Ref 199,Elena López,+502 46511528,Huehuetenango,Huehuetenango
+PROV_GT13_0199,Taxis del Centro Chiantla - Ref 200,Pedro López,+502 57448010,Huehuetenango,Chiantla
+PROV_GT13_0200,Transportes Malacatancito - Ref 201,Diego López,+502 40572951,Huehuetenango,Malacatancito
+PROV_GT13_0201,Autobuses Cuilco - Ref 202,José Hernández,+502 49672211,Huehuetenango,Cuilco
+PROV_GT13_0202,Lancheros Unidos Nentón - Ref 203,Carlos Jax,+502 57653079,Huehuetenango,Nentón
+PROV_GT13_0203,Fleteros del Altiplano San Pedro Necta - Ref 204,Miguel Méndez,+502 43525554,Huehuetenango,San Pedro Necta
+PROV_GT13_0204,Cooperativa de Transportistas Jacaltenango - Ref 205,Juana Yax,+502 44595148,Huehuetenango,Jacaltenango
+PROV_GT13_0205,Rápidos de Occidente Soloma - Ref 206,Manuel López,+502 42903709,Huehuetenango,Soloma
+PROV_GT13_0206,Shuttles Ixtahuacán - Ref 207,Manuel Hernández,+502 45019397,Huehuetenango,Ixtahuacán
+PROV_GT13_0207,Taxis del Centro Santa Bárbara - Ref 208,Carlos Jax,+502 46277410,Huehuetenango,Santa Bárbara
+PROV_GT13_0208,Transportes La Libertad - Ref 209,Miguel Gómez,+502 41949187,Huehuetenango,La Libertad
+PROV_GT13_0209,Autobuses La Democracia - Ref 210,Esteban Hernández,+502 40809589,Huehuetenango,La Democracia
+PROV_GT13_0210,Lancheros Unidos San Miguel Acatán - Ref 211,Pedro Batz,+502 52162750,Huehuetenango,San Miguel Acatán
+PROV_GT13_0211,Fleteros del Altiplano San Rafael La Independencia - Ref 212,Miguel Cabrera,+502 51202110,Huehuetenango,San Rafael La Independencia
+PROV_GT13_0212,Cooperativa de Transportistas Todos Santos Cuchumatán - Ref 213,José Cox,+502 48991145,Huehuetenango,Todos Santos Cuchumatán
+PROV_GT13_0213,Rápidos de Occidente San Juan Atitán - Ref 214,Manuel Hernández,+502 49351269,Huehuetenango,San Juan Atitán
+PROV_GT13_0214,Shuttles Santa Eulalia - Ref 215,Rosa Cabrera,+502 56167828,Huehuetenango,Santa Eulalia
+PROV_GT13_0215,Taxis del Centro San Mateo Ixtatán - Ref 216,Miguel López,+502 46901116,Huehuetenango,San Mateo Ixtatán
+PROV_GT13_0216,Transportes Colotenango - Ref 217,Esteban Pérez,+502 42502301,Huehuetenango,Colotenango
+PROV_GT13_0217,Autobuses San Sebastián Huehuetenango - Ref 218,María Gómez,+502 58929141,Huehuetenango,San Sebastián Huehuetenango
+PROV_GT13_0218,Lancheros Unidos Tectitán - Ref 219,Luisa Gómez,+502 41757978,Huehuetenango,Tectitán
+PROV_GT13_0219,Fleteros del Altiplano Concepción Huista - Ref 220,Pedro Marroquín,+502 45176142,Huehuetenango,Concepción Huista
+PROV_GT13_0220,Cooperativa de Transportistas San Juan Ixcoy - Ref 221,Juan Marroquín,+502 41551039,Huehuetenango,San Juan Ixcoy
+PROV_GT13_0221,Rápidos de Occidente San Antonio Huista - Ref 222,Luisa Chaj,+502 50986312,Huehuetenango,San Antonio Huista
+PROV_GT13_0222,Shuttles San Sebastián Coatán - Ref 223,Juana López,+502 59976031,Huehuetenango,San Sebastián Coatán
+PROV_GT13_0223,Taxis del Centro Barillas - Ref 224,Luisa Batz,+502 46661993,Huehuetenango,Barillas
+PROV_GT13_0224,Transportes Aguacatán - Ref 225,Luisa López,+502 56552766,Huehuetenango,Aguacatán
+PROV_GT13_0225,Autobuses San Rafael Petzal - Ref 226,María Gómez,+502 42623180,Huehuetenango,San Rafael Petzal
+PROV_GT13_0226,Lancheros Unidos San Gaspar Ixchil - Ref 227,Luisa Marroquín,+502 51474400,Huehuetenango,San Gaspar Ixchil
+PROV_GT13_0227,Fleteros del Altiplano Santiago Chimaltenango - Ref 228,Elena Guzmán,+502 40401592,Huehuetenango,Santiago Chimaltenango
+PROV_GT13_0228,Cooperativa de Transportistas Santa Ana Huista - Ref 229,Manuel López,+502 57252885,Huehuetenango,Santa Ana Huista
+PROV_GT13_0229,Rápidos de Occidente Unión Cantinil - Ref 230,Elena Cox,+502 56308779,Huehuetenango,Unión Cantinil
+PROV_GT13_0230,Shuttles Petatán - Ref 231,Juan Batz,+502 47345350,Huehuetenango,Petatán
+PROV_GT14_0231,Taxis del Centro Santa Cruz del Quiché - Ref 232,Carlos Pérez,+502 58174855,Quiché,Santa Cruz del Quiché
+PROV_GT14_0232,Transportes Chiché - Ref 233,Rosa Chaj,+502 50306963,Quiché,Chiché
+PROV_GT14_0233,Autobuses Chinique - Ref 234,Rosa Tzul,+502 40092479,Quiché,Chinique
+PROV_GT14_0234,Lancheros Unidos Zacualpa - Ref 235,Carlos Jax,+502 45922508,Quiché,Zacualpa
+PROV_GT14_0235,Fleteros del Altiplano Chajul - Ref 236,Carlos Cabrera,+502 50393621,Quiché,Chajul
+PROV_GT14_0236,Cooperativa de Transportistas Chichicastenango - Ref 237,Pedro Gómez,+502 58563386,Quiché,Chichicastenango
+PROV_GT14_0237,Rápidos de Occidente Patzité - Ref 238,José Guzmán,+502 48026714,Quiché,Patzité
+PROV_GT14_0238,Shuttles San Antonio Ilotenango - Ref 239,María Hernández,+502 40709080,Quiché,San Antonio Ilotenango
+PROV_GT14_0239,Taxis del Centro San Pedro Jocopilas - Ref 240,Manuel Tzul,+502 50099321,Quiché,San Pedro Jocopilas
+PROV_GT14_0240,Transportes Cunén - Ref 241,Carlos Batz,+502 52852077,Quiché,Cunén
+PROV_GT14_0241,Autobuses San Juan Cotzal - Ref 242,Tomasa Guzmán,+502 49561479,Quiché,San Juan Cotzal
+PROV_GT14_0242,Lancheros Unidos Joyabaj - Ref 243,Pedro Chaj,+502 59704805,Quiché,Joyabaj
+PROV_GT14_0243,Fleteros del Altiplano Nebaj - Ref 244,Luisa Cox,+502 40755203,Quiché,Nebaj
+PROV_GT14_0244,Cooperativa de Transportistas San Andrés Sajcabajá - Ref 245,Rosa Cabrera,+502 48568166,Quiché,San Andrés Sajcabajá
+PROV_GT14_0245,Rápidos de Occidente Uspantán - Ref 246,Tomasa Yax,+502 57015301,Quiché,Uspantán
+PROV_GT14_0246,Shuttles Sacapulas - Ref 247,Pedro Jax,+502 56789893,Quiché,Sacapulas
+PROV_GT14_0247,Taxis del Centro San Bartolomé Jocotenango - Ref 248,Juan Guzmán,+502 52132796,Quiché,San Bartolomé Jocotenango
+PROV_GT14_0248,Transportes Canillá - Ref 249,Miguel Batz,+502 53691519,Quiché,Canillá
+PROV_GT14_0249,Autobuses Chicamán - Ref 250,Pedro Guzmán,+502 57049909,Quiché,Chicamán
+PROV_GT14_0250,Lancheros Unidos Ixcán - Ref 251,Francisco Pérez,+502 45296844,Quiché,Ixcán
+PROV_GT14_0251,Fleteros del Altiplano Pachalum - Ref 252,Esteban Gómez,+502 45799892,Quiché,Pachalum
+PROV_GT15_0252,Cooperativa de Transportistas Salamá - Ref 253,Juana Tzoc,+502 50705055,Baja Verapaz,Salamá
+PROV_GT15_0253,Rápidos de Occidente San Miguel Chicaj - Ref 254,Francisco Tzul,+502 41413812,Baja Verapaz,San Miguel Chicaj
+PROV_GT15_0254,Shuttles Rabinal - Ref 255,Luisa Tzul,+502 40985199,Baja Verapaz,Rabinal
+PROV_GT15_0255,Taxis del Centro Cubulco - Ref 256,Francisco López,+502 47321404,Baja Verapaz,Cubulco
+PROV_GT15_0256,Transportes Granados - Ref 257,María Gómez,+502 43697933,Baja Verapaz,Granados
+PROV_GT15_0257,Autobuses El Chol - Ref 258,Miguel Marroquín,+502 48328525,Baja Verapaz,El Chol
+PROV_GT15_0258,Lancheros Unidos San Jerónimo - Ref 259,Miguel Jax,+502 54424895,Baja Verapaz,San Jerónimo
+PROV_GT15_0259,Fleteros del Altiplano Purulhá - Ref 260,Luisa Guzmán,+502 52044434,Baja Verapaz,Purulhá
+PROV_GT16_0260,Cooperativa de Transportistas Cobán - Ref 261,Pedro López,+502 41016586,Alta Verapaz,Cobán
+PROV_GT16_0261,Rápidos de Occidente Santa Cruz Verapaz - Ref 262,Carlos Jax,+502 48929258,Alta Verapaz,Santa Cruz Verapaz
+PROV_GT16_0262,Shuttles San Cristóbal Verapaz - Ref 263,Diego Chaj,+502 55013104,Alta Verapaz,San Cristóbal Verapaz
+PROV_GT16_0263,Taxis del Centro Tactic - Ref 264,José Batz,+502 59152823,Alta Verapaz,Tactic
+PROV_GT16_0264,Transportes Tamahú - Ref 265,Juan Guzmán,+502 52174990,Alta Verapaz,Tamahú
+PROV_GT16_0265,Autobuses Tucurú - Ref 266,Pedro Cabrera,+502 58705784,Alta Verapaz,Tucurú
+PROV_GT16_0266,Lancheros Unidos Panzós - Ref 267,Luisa López,+502 46232147,Alta Verapaz,Panzós
+PROV_GT16_0267,Fleteros del Altiplano Senahú - Ref 268,María Cox,+502 53812059,Alta Verapaz,Senahú
+PROV_GT16_0268,Cooperativa de Transportistas San Pedro Carchá - Ref 269,Miguel López,+502 55064929,Alta Verapaz,San Pedro Carchá
+PROV_GT16_0269,Rápidos de Occidente San Juan Chamelco - Ref 270,María Batz,+502 44148408,Alta Verapaz,San Juan Chamelco
+PROV_GT16_0270,Shuttles Lanquín - Ref 271,Manuel Pérez,+502 58202799,Alta Verapaz,Lanquín
+PROV_GT16_0271,Taxis del Centro Cahabón - Ref 272,Juan Tzul,+502 45915181,Alta Verapaz,Cahabón
+PROV_GT16_0272,Transportes Chisec - Ref 273,Rosa Tzul,+502 49103992,Alta Verapaz,Chisec
+PROV_GT16_0273,Autobuses Chahal - Ref 274,Tomasa Batz,+502 50722974,Alta Verapaz,Chahal
+PROV_GT16_0274,Lancheros Unidos Fray Bartolomé de Las Casas - Ref 275,Diego Jax,+502 58988953,Alta Verapaz,Fray Bartolomé de Las Casas
+PROV_GT16_0275,Fleteros del Altiplano Santa Catalina La Tinta - Ref 276,Tomasa Pérez,+502 50635888,Alta Verapaz,Santa Catalina La Tinta
+PROV_GT16_0276,Cooperativa de Transportistas Raxruhá - Ref 277,Diego Chaj,+502 56168633,Alta Verapaz,Raxruhá
+PROV_GT17_0277,Rápidos de Occidente Flores - Ref 278,Esteban Chaj,+502 49581015,Petén,Flores
+PROV_GT17_0278,Shuttles San José - Ref 279,Pedro Méndez,+502 45098631,Petén,San José
+PROV_GT17_0279,Taxis del Centro San Benito - Ref 280,Luisa Cox,+502 50037602,Petén,San Benito
+PROV_GT17_0280,Transportes San Andrés - Ref 281,Rosa Cox,+502 56197688,Petén,San Andrés
+PROV_GT17_0281,Autobuses La Libertad - Ref 282,Diego Tzoc,+502 49852100,Petén,La Libertad
+PROV_GT17_0282,Lancheros Unidos San Francisco - Ref 283,Esteban Hernández,+502 41051089,Petén,San Francisco
+PROV_GT17_0283,Fleteros del Altiplano Santa Ana - Ref 284,Luisa Marroquín,+502 52731594,Petén,Santa Ana
+PROV_GT17_0284,Cooperativa de Transportistas Dolores - Ref 285,Tomasa Hernández,+502 50816298,Petén,Dolores
+PROV_GT17_0285,Rápidos de Occidente San Luis - Ref 286,Tomasa Guzmán,+502 40182749,Petén,San Luis
+PROV_GT17_0286,Shuttles Sayaxché - Ref 287,María Guzmán,+502 56948114,Petén,Sayaxché
+PROV_GT17_0287,Taxis del Centro Melchor de Mencos - Ref 288,Luisa Chaj,+502 41891456,Petén,Melchor de Mencos
+PROV_GT17_0288,Transportes Poptún - Ref 289,Francisco Cox,+502 54466290,Petén,Poptún
+PROV_GT17_0289,Autobuses Las Cruces - Ref 290,Manuel Cox,+502 51128103,Petén,Las Cruces
+PROV_GT17_0290,Lancheros Unidos El Chal - Ref 291,Tomasa Batz,+502 46313774,Petén,El Chal
+PROV_GT18_0291,Fleteros del Altiplano Puerto Barrios - Ref 292,Luisa Tzul,+502 50322279,Izabal,Puerto Barrios
+PROV_GT18_0292,Cooperativa de Transportistas Lívingston - Ref 293,Francisco Guzmán,+502 40491736,Izabal,Lívingston
+PROV_GT18_0293,Rápidos de Occidente El Estor - Ref 294,María Pérez,+502 58109325,Izabal,El Estor
+PROV_GT18_0294,Shuttles Morales - Ref 295,Francisco Cox,+502 41787707,Izabal,Morales
+PROV_GT18_0295,Taxis del Centro Los Amates - Ref 296,Miguel López,+502 41722962,Izabal,Los Amates
+PROV_GT19_0296,Transportes Zacapa - Ref 297,Francisco Méndez,+502 53003787,Zacapa,Zacapa
+PROV_GT19_0297,Autobuses Estanzuela - Ref 298,José Tzoc,+502 56324764,Zacapa,Estanzuela
+PROV_GT19_0298,Lancheros Unidos Río Hondo - Ref 299,Miguel Méndez,+502 51057735,Zacapa,Río Hondo
+PROV_GT19_0299,Fleteros del Altiplano Gualán - Ref 300,Esteban Batz,+502 49831333,Zacapa,Gualán
+PROV_GT19_0300,Cooperativa de Transportistas Teculután - Ref 301,Manuel Hernández,+502 42559406,Zacapa,Teculután
+PROV_GT19_0301,Rápidos de Occidente Usumatlán - Ref 302,Pedro Tzoc,+502 54188514,Zacapa,Usumatlán
+PROV_GT19_0302,Shuttles Cabañas - Ref 303,José Cox,+502 45278905,Zacapa,Cabañas
+PROV_GT19_0303,Taxis del Centro San Diego - Ref 304,Rosa Méndez,+502 57031870,Zacapa,San Diego
+PROV_GT19_0304,Transportes La Unión - Ref 305,Elena Pérez,+502 49585970,Zacapa,La Unión
+PROV_GT19_0305,Autobuses Huité - Ref 306,Juana Cox,+502 48109237,Zacapa,Huité
+PROV_GT19_0306,Lancheros Unidos San Jorge - Ref 307,Tomasa Méndez,+502 56573208,Zacapa,San Jorge
+PROV_GT20_0307,Fleteros del Altiplano Chiquimula - Ref 308,Miguel Guzmán,+502 58959771,Chiquimula,Chiquimula
+PROV_GT20_0308,Cooperativa de Transportistas San José La Arada - Ref 309,Diego Yax,+502 58936191,Chiquimula,San José La Arada
+PROV_GT20_0309,Rápidos de Occidente San Juan Ermita - Ref 310,Carlos Hernández,+502 45841937,Chiquimula,San Juan Ermita
+PROV_GT20_0310,Shuttles Jocotán - Ref 311,Miguel Méndez,+502 42279451,Chiquimula,Jocotán
+PROV_GT20_0311,Taxis del Centro Camotán - Ref 312,Esteban Cabrera,+502 58291231,Chiquimula,Camotán
+PROV_GT20_0312,Transportes Olopa - Ref 313,Elena Hernández,+502 54158477,Chiquimula,Olopa
+PROV_GT20_0313,Autobuses Esquipulas - Ref 314,Elena Hernández,+502 52933296,Chiquimula,Esquipulas
+PROV_GT20_0314,Lancheros Unidos Concepción Las Minas - Ref 315,Elena Batz,+502 44209733,Chiquimula,Concepción Las Minas
+PROV_GT20_0315,Fleteros del Altiplano Quezaltepeque - Ref 316,María Gómez,+502 41438706,Chiquimula,Quezaltepeque
+PROV_GT20_0316,Cooperativa de Transportistas San Jacinto - Ref 317,Francisco López,+502 42438910,Chiquimula,San Jacinto
+PROV_GT20_0317,Rápidos de Occidente Ipala - Ref 318,Tomasa Jax,+502 44359805,Chiquimula,Ipala
+PROV_GT21_0318,Shuttles Jalapa - Ref 319,José Tzul,+502 56501900,Jalapa,Jalapa
+PROV_GT21_0319,Taxis del Centro San Pedro Pinula - Ref 320,José Tzul,+502 54027358,Jalapa,San Pedro Pinula
+PROV_GT21_0320,Transportes San Luis Jilotepeque - Ref 321,Francisco Tzul,+502 50175684,Jalapa,San Luis Jilotepeque
+PROV_GT21_0321,Autobuses San Manuel Chaparrón - Ref 322,María López,+502 53821591,Jalapa,San Manuel Chaparrón
+PROV_GT21_0322,Lancheros Unidos San Carlos Alzatate - Ref 323,Luisa Pérez,+502 55633801,Jalapa,San Carlos Alzatate
+PROV_GT21_0323,Fleteros del Altiplano Monjas - Ref 324,Luisa Marroquín,+502 46565565,Jalapa,Monjas
+PROV_GT21_0324,Cooperativa de Transportistas Mataquescuintla - Ref 325,Pedro Guzmán,+502 47137451,Jalapa,Mataquescuintla
+PROV_GT22_0325,Rápidos de Occidente Jutiapa - Ref 326,Miguel Yax,+502 44189044,Jutiapa,Jutiapa
+PROV_GT22_0326,Shuttles El Progreso - Ref 327,Rosa Marroquín,+502 45483277,Jutiapa,El Progreso
+PROV_GT22_0327,Taxis del Centro Santa Catarina Mita - Ref 328,Pedro Marroquín,+502 53836839,Jutiapa,Santa Catarina Mita
+PROV_GT22_0328,Transportes Agua Blanca - Ref 329,Juana Chaj,+502 57243154,Jutiapa,Agua Blanca
+PROV_GT22_0329,Autobuses Asunción Mita - Ref 330,Rosa Batz,+502 48892896,Jutiapa,Asunción Mita
+PROV_GT22_0330,Lancheros Unidos Yupiltepeque - Ref 331,Francisco Gómez,+502 51687139,Jutiapa,Yupiltepeque
+PROV_GT22_0331,Fleteros del Altiplano Atescatempa - Ref 332,Miguel Méndez,+502 46805279,Jutiapa,Atescatempa
+PROV_GT22_0332,Cooperativa de Transportistas Jerez - Ref 333,Manuel Yax,+502 59565292,Jutiapa,Jerez
+PROV_GT22_0333,Rápidos de Occidente El Adelanto - Ref 334,José Hernández,+502 48269348,Jutiapa,El Adelanto
+PROV_GT22_0334,Shuttles Zapotitlán - Ref 335,Tomasa Cox,+502 48833488,Jutiapa,Zapotitlán
+PROV_GT22_0335,Taxis del Centro Comapa - Ref 336,Esteban Pérez,+502 50816438,Jutiapa,Comapa
+PROV_GT22_0336,Transportes Jalpatagua - Ref 337,Rosa Guzmán,+502 47258304,Jutiapa,Jalpatagua
+PROV_GT22_0337,Autobuses Conguaco - Ref 338,Pedro Tzoc,+502 44613284,Jutiapa,Conguaco
+PROV_GT22_0338,Lancheros Unidos Moyuta - Ref 339,Pedro Tzoc,+502 57336249,Jutiapa,Moyuta
+PROV_GT22_0339,Fleteros del Altiplano Pasaco - Ref 340,Rosa Marroquín,+502 41114528,Jutiapa,Pasaco
+PROV_GT22_0340,Cooperativa de Transportistas San José Acatempa - Ref 341,Esteban Jax,+502 53421824,Jutiapa,San José Acatempa
+PROV_GT22_0341,Rápidos de Occidente Quesada - Ref 342,Juana Marroquín,+502 42376546,Jutiapa,Quesada
+PROV_GT01_0342,Shuttles Lago De Amatitlan - Ref 343,Esteban López,+502 59863815,Guatemala,Lago De Amatitlan
+PROV_GT01_0343,Taxis del Centro Guatemala - Ref 344,Rosa Cox,+502 42454241,Guatemala,Guatemala
+PROV_GT01_0344,Transportes Santa Catarina Pinula - Ref 345,Tomasa Yax,+502 50224631,Guatemala,Santa Catarina Pinula
+PROV_GT01_0345,Autobuses San José Pinula - Ref 346,Luisa Méndez,+502 44572368,Guatemala,San José Pinula
+PROV_GT01_0346,Lancheros Unidos San José del Golfo - Ref 347,Rosa Tzul,+502 56544274,Guatemala,San José del Golfo
+PROV_GT01_0347,Fleteros del Altiplano Palencia - Ref 348,María Guzmán,+502 48854239,Guatemala,Palencia
+PROV_GT01_0348,Cooperativa de Transportistas Chinautla - Ref 349,Carlos Pérez,+502 52064532,Guatemala,Chinautla
+PROV_GT01_0349,Rápidos de Occidente San Pedro Ayampuc - Ref 350,Esteban López,+502 59341474,Guatemala,San Pedro Ayampuc
+PROV_GT01_0350,Shuttles Mixco - Ref 351,Esteban Méndez,+502 50723471,Guatemala,Mixco
+PROV_GT01_0351,Taxis del Centro San Pedro Sacatepéquez - Ref 352,María Tzoc,+502 59529166,Guatemala,San Pedro Sacatepéquez
+PROV_GT01_0352,Transportes San Juan Sacatepéquez - Ref 353,José Batz,+502 59881285,Guatemala,San Juan Sacatepéquez
+PROV_GT01_0353,Autobuses San Raimundo - Ref 354,María Cabrera,+502 59072958,Guatemala,San Raimundo
+PROV_GT01_0354,Lancheros Unidos Chuarrancho - Ref 355,Francisco Tzoc,+502 55455846,Guatemala,Chuarrancho
+PROV_GT01_0355,Fleteros del Altiplano Fraijanes - Ref 356,Pedro Gómez,+502 59788315,Guatemala,Fraijanes
+PROV_GT01_0356,Cooperativa de Transportistas Amatitlán - Ref 357,María Cox,+502 59196665,Guatemala,Amatitlán
+PROV_GT01_0357,Rápidos de Occidente Villa Nueva - Ref 358,Esteban Batz,+502 45537167,Guatemala,Villa Nueva
+PROV_GT01_0358,Shuttles Villa Canales - Ref 359,Carlos López,+502 53875311,Guatemala,Villa Canales
+PROV_GT01_0359,Taxis del Centro Petapa - Ref 360,María Tzul,+502 52986860,Guatemala,Petapa
+PROV_GT02_0360,Transportes Guastatoya - Ref 361,María Jax,+502 46185305,El Progreso,Guastatoya
+PROV_GT02_0361,Autobuses Morazán - Ref 362,Esteban Gómez,+502 45425910,El Progreso,Morazán
+PROV_GT02_0362,Lancheros Unidos San Agustín Acasaguastlán - Ref 363,José Batz,+502 48244756,El Progreso,San Agustín Acasaguastlán
+PROV_GT02_0363,Fleteros del Altiplano San Cristóbal Acasaguastlán - Ref 364,Pedro Hernández,+502 59007485,El Progreso,San Cristóbal Acasaguastlán
+PROV_GT02_0364,Cooperativa de Transportistas El Jícaro - Ref 365,Luisa Pérez,+502 55286041,El Progreso,El Jícaro
+PROV_GT02_0365,Rápidos de Occidente Sanarate - Ref 366,Rosa Jax,+502 51572565,El Progreso,Sanarate
+PROV_GT02_0366,Shuttles Sansare - Ref 367,Pedro Tzoc,+502 54015172,El Progreso,Sansare
+PROV_GT02_0367,Taxis del Centro San Antonio La Paz - Ref 368,Elena Guzmán,+502 45712471,El Progreso,San Antonio La Paz
+PROV_GT03_0368,Transportes Antigua Guatemala - Ref 369,Elena Tzoc,+502 52169855,Sacatepéquez,Antigua Guatemala
+PROV_GT03_0369,Autobuses Jocotenango - Ref 370,Pedro Yax,+502 50293734,Sacatepéquez,Jocotenango
+PROV_GT03_0370,Lancheros Unidos Pastores - Ref 371,Juana Guzmán,+502 48145286,Sacatepéquez,Pastores
+PROV_GT03_0371,Fleteros del Altiplano Sumpango - Ref 372,Pedro Méndez,+502 58372399,Sacatepéquez,Sumpango
+PROV_GT03_0372,Cooperativa de Transportistas Santo Domingo Xenacoj - Ref 373,Rosa Cabrera,+502 51099273,Sacatepéquez,Santo Domingo Xenacoj
+PROV_GT03_0373,Rápidos de Occidente Santiago Sacatepéquez - Ref 374,Miguel Cox,+502 43518199,Sacatepéquez,Santiago Sacatepéquez
+PROV_GT03_0374,Shuttles San Bartolomé Milpas Altas - Ref 375,Diego Guzmán,+502 51399486,Sacatepéquez,San Bartolomé Milpas Altas
+PROV_GT03_0375,Taxis del Centro San Lucas Sacatepéquez - Ref 376,Diego López,+502 49134863,Sacatepéquez,San Lucas Sacatepéquez
+PROV_GT03_0376,Transportes Santa Lucía Milpas Altas - Ref 377,Rosa Jax,+502 44426210,Sacatepéquez,Santa Lucía Milpas Altas
+PROV_GT03_0377,Autobuses Magdalena Milpas Altas - Ref 378,Elena Pérez,+502 56766375,Sacatepéquez,Magdalena Milpas Altas
+PROV_GT03_0378,Lancheros Unidos Santa María de Jesús - Ref 379,José Marroquín,+502 43318750,Sacatepéquez,Santa María de Jesús
+PROV_GT03_0379,Fleteros del Altiplano Ciudad Vieja - Ref 380,Rosa Jax,+502 49112184,Sacatepéquez,Ciudad Vieja
+PROV_GT03_0380,Cooperativa de Transportistas San Miguel Dueñas - Ref 381,Manuel Tzoc,+502 57747422,Sacatepéquez,San Miguel Dueñas
+PROV_GT03_0381,Rápidos de Occidente Alotenango - Ref 382,Miguel Batz,+502 57828859,Sacatepéquez,Alotenango
+PROV_GT03_0382,Shuttles San Antonio Aguas Calientes - Ref 383,Rosa Hernández,+502 44294660,Sacatepéquez,San Antonio Aguas Calientes
+PROV_GT03_0383,Taxis del Centro Santa Catarina Barahona - Ref 384,Juan Batz,+502 56139671,Sacatepéquez,Santa Catarina Barahona
+PROV_GT04_0384,Transportes Chimaltenango - Ref 385,María Hernández,+502 48479627,Chimaltenango,Chimaltenango
+PROV_GT04_0385,Autobuses San José Poaquil - Ref 386,Carlos Tzoc,+502 43922403,Chimaltenango,San José Poaquil
+PROV_GT04_0386,Lancheros Unidos San Martín Jilotepeque - Ref 387,Rosa Chaj,+502 58835862,Chimaltenango,San Martín Jilotepeque
+PROV_GT04_0387,Fleteros del Altiplano Comalapa - Ref 388,Rosa Hernández,+502 49464603,Chimaltenango,Comalapa
+PROV_GT04_0388,Cooperativa de Transportistas Santa Apolonia - Ref 389,Manuel Marroquín,+502 49037750,Chimaltenango,Santa Apolonia
+PROV_GT04_0389,Rápidos de Occidente Tecpán Guatemala - Ref 390,Juan Cox,+502 42646572,Chimaltenango,Tecpán Guatemala
+PROV_GT04_0390,Shuttles Patzún - Ref 391,José Jax,+502 40266084,Chimaltenango,Patzún
+PROV_GT04_0391,Taxis del Centro Pochuta - Ref 392,Juan López,+502 50184311,Chimaltenango,Pochuta
+PROV_GT04_0392,Transportes Patzicía - Ref 393,Juan Cabrera,+502 45394819,Chimaltenango,Patzicía
+PROV_GT04_0393,Autobuses Santa Cruz Balanyá - Ref 394,Carlos Méndez,+502 43783655,Chimaltenango,Santa Cruz Balanyá
+PROV_GT04_0394,Lancheros Unidos Acatenango - Ref 395,Luisa Cabrera,+502 58292828,Chimaltenango,Acatenango
+PROV_GT04_0395,Fleteros del Altiplano Yepocapa - Ref 396,Tomasa Tzoc,+502 45957133,Chimaltenango,Yepocapa
+PROV_GT04_0396,Cooperativa de Transportistas San Andrés Itzapa - Ref 397,Luisa López,+502 54165454,Chimaltenango,San Andrés Itzapa
+PROV_GT04_0397,Rápidos de Occidente Parramos - Ref 398,Luisa Tzoc,+502 47789716,Chimaltenango,Parramos
+PROV_GT04_0398,Shuttles Zaragoza - Ref 399,Diego López,+502 59957115,Chimaltenango,Zaragoza
+PROV_GT04_0399,Taxis del Centro El Tejar - Ref 400,Manuel Tzul,+502 48669061,Chimaltenango,El Tejar
+PROV_GT05_0400,Transportes Escuintla - Ref 401,Tomasa Méndez,+502 41991085,Escuintla,Escuintla
+PROV_GT05_0401,Autobuses Santa Lucía Cotzumalguapa - Ref 402,Elena Tzoc,+502 49133047,Escuintla,Santa Lucía Cotzumalguapa
+PROV_GT05_0402,Lancheros Unidos La Democracia - Ref 403,Tomasa Cox,+502 46961169,Escuintla,La Democracia
+PROV_GT05_0403,Fleteros del Altiplano Siquinalá - Ref 404,Esteban Cox,+502 48227778,Escuintla,Siquinalá
+PROV_GT05_0404,Cooperativa de Transportistas Masagua - Ref 405,José López,+502 45625450,Escuintla,Masagua
+PROV_GT05_0405,Rápidos de Occidente Tiquisate - Ref 406,Miguel Gómez,+502 47939521,Escuintla,Tiquisate
+PROV_GT05_0406,Shuttles La Gomera - Ref 407,Manuel Jax,+502 55478085,Escuintla,La Gomera
+PROV_GT05_0407,Taxis del Centro Guanagazapa - Ref 408,Francisco Pérez,+502 58996682,Escuintla,Guanagazapa
+PROV_GT05_0408,Transportes San José - Ref 409,Luisa Batz,+502 48116182,Escuintla,San José
+PROV_GT05_0409,Autobuses Iztapa - Ref 410,Manuel Cox,+502 49845086,Escuintla,Iztapa
+PROV_GT05_0410,Lancheros Unidos Palín - Ref 411,Diego Cox,+502 49717152,Escuintla,Palín
+PROV_GT05_0411,Fleteros del Altiplano San Vicente Pacaya - Ref 412,Rosa Yax,+502 41862150,Escuintla,San Vicente Pacaya
+PROV_GT05_0412,Cooperativa de Transportistas Nueva Concepción - Ref 413,Francisco Méndez,+502 41755656,Escuintla,Nueva Concepción
+PROV_GT05_0413,Rápidos de Occidente Sipacate - Ref 414,Rosa López,+502 42676259,Escuintla,Sipacate
+PROV_GT06_0414,Shuttles Cuilapa - Ref 415,Diego Yax,+502 52289797,Santa Rosa,Cuilapa
+PROV_GT06_0415,Taxis del Centro Barberena - Ref 416,Carlos Cox,+502 59338892,Santa Rosa,Barberena
+PROV_GT06_0416,Transportes Santa Rosa de Lima - Ref 417,Manuel Guzmán,+502 56789263,Santa Rosa,Santa Rosa de Lima
+PROV_GT06_0417,Autobuses Casillas - Ref 418,Carlos Yax,+502 40338791,Santa Rosa,Casillas
+PROV_GT06_0418,Lancheros Unidos San Rafael Las Flores - Ref 419,Manuel Cabrera,+502 56844467,Santa Rosa,San Rafael Las Flores
+PROV_GT06_0419,Fleteros del Altiplano Oratorio - Ref 420,Pedro Jax,+502 55735075,Santa Rosa,Oratorio
+PROV_GT06_0420,Cooperativa de Transportistas San Juan Tecuaco - Ref 421,Luisa Cox,+502 41932183,Santa Rosa,San Juan Tecuaco
+PROV_GT06_0421,Rápidos de Occidente Chiquimulilla - Ref 422,Pedro Méndez,+502 41881464,Santa Rosa,Chiquimulilla
+PROV_GT06_0422,Shuttles Taxisco - Ref 423,Esteban Cabrera,+502 41546299,Santa Rosa,Taxisco
+PROV_GT06_0423,Taxis del Centro Santa María Ixhuatán - Ref 424,Pedro Hernández,+502 47051939,Santa Rosa,Santa María Ixhuatán
+PROV_GT06_0424,Transportes Guazacapán - Ref 425,María Tzul,+502 55523605,Santa Rosa,Guazacapán
+PROV_GT06_0425,Autobuses Santa Cruz Naranjo - Ref 426,Elena Marroquín,+502 43631102,Santa Rosa,Santa Cruz Naranjo
+PROV_GT06_0426,Lancheros Unidos Pueblo Nuevo Viñas - Ref 427,María Gómez,+502 45415968,Santa Rosa,Pueblo Nuevo Viñas
+PROV_GT06_0427,Fleteros del Altiplano Nueva Santa Rosa - Ref 428,Juan Cabrera,+502 46103014,Santa Rosa,Nueva Santa Rosa
+PROV_GT07_0428,Cooperativa de Transportistas Lago De Atitlan - Ref 429,Luisa Méndez,+502 55624867,Sololá,Lago De Atitlan
+PROV_GT07_0429,Rápidos de Occidente Sololá - Ref 430,Luisa Batz,+502 43215445,Sololá,Sololá
+PROV_GT07_0430,Shuttles San José Chacayá - Ref 431,María Hernández,+502 50647935,Sololá,San José Chacayá
+PROV_GT07_0431,Taxis del Centro Santa María Visitación - Ref 432,María Tzul,+502 40306383,Sololá,Santa María Visitación
+PROV_GT07_0432,Transportes Santa Lucía Utatlán - Ref 433,Juana Jax,+502 58351223,Sololá,Santa Lucía Utatlán
+PROV_GT07_0433,Autobuses Nahualá - Ref 434,Miguel Tzul,+502 58348388,Sololá,Nahualá
+PROV_GT07_0434,Lancheros Unidos Santa Catarina Ixtahuacán - Ref 435,José Hernández,+502 47966006,Sololá,Santa Catarina Ixtahuacán
+PROV_GT07_0435,Fleteros del Altiplano Santa Clara La Laguna - Ref 436,Elena Jax,+502 43287134,Sololá,Santa Clara La Laguna
+PROV_GT07_0436,Cooperativa de Transportistas Concepción - Ref 437,María Hernández,+502 58058867,Sololá,Concepción
+PROV_GT07_0437,Rápidos de Occidente San Andrés Semetabaj - Ref 438,María Gómez,+502 50815096,Sololá,San Andrés Semetabaj
+PROV_GT07_0438,Shuttles Panajachel - Ref 439,Diego Hernández,+502 40802611,Sololá,Panajachel
+PROV_GT07_0439,Taxis del Centro Santa Catarina Palopó - Ref 440,Pedro Marroquín,+502 46949568,Sololá,Santa Catarina Palopó
+PROV_GT07_0440,Transportes San Antonio Palopó - Ref 441,Elena Cox,+502 55719130,Sololá,San Antonio Palopó
+PROV_GT07_0441,Autobuses San Lucas Tolimán - Ref 442,José Marroquín,+502 59416993,Sololá,San Lucas Tolimán
+PROV_GT07_0442,Lancheros Unidos Santa Cruz La Laguna - Ref 443,Manuel Jax,+502 59091151,Sololá,Santa Cruz La Laguna
+PROV_GT07_0443,Fleteros del Altiplano San Pablo La Laguna - Ref 444,Miguel Pérez,+502 51473936,Sololá,San Pablo La Laguna
+PROV_GT07_0444,Cooperativa de Transportistas San Marcos La Laguna - Ref 445,Luisa López,+502 56814295,Sololá,San Marcos La Laguna
+PROV_GT07_0445,Rápidos de Occidente San Juan La Laguna - Ref 446,Elena Chaj,+502 48468518,Sololá,San Juan La Laguna
+PROV_GT07_0446,Shuttles San Pedro La Laguna - Ref 447,Rosa Méndez,+502 42973102,Sololá,San Pedro La Laguna
+PROV_GT07_0447,Taxis del Centro Santiago Atitlán - Ref 448,Carlos Jax,+502 47993286,Sololá,Santiago Atitlán
+PROV_GT08_0448,Transportes Totonicapán - Ref 449,Esteban Guzmán,+502 54958995,Totonicapán,Totonicapán
+PROV_GT08_0449,Autobuses San Cristóbal Totonicapán - Ref 450,Francisco Cabrera,+502 58485027,Totonicapán,San Cristóbal Totonicapán
+PROV_GT08_0450,Lancheros Unidos San Francisco El Alto - Ref 451,Tomasa Pérez,+502 45544198,Totonicapán,San Francisco El Alto
+PROV_GT08_0451,Fleteros del Altiplano San Andrés Xecul - Ref 452,Tomasa Guzmán,+502 44071130,Totonicapán,San Andrés Xecul
+PROV_GT08_0452,Cooperativa de Transportistas Momostenango - Ref 453,María Yax,+502 40365847,Totonicapán,Momostenango
+PROV_GT08_0453,Rápidos de Occidente Santa María Chiquimula - Ref 454,Luisa Marroquín,+502 57781356,Totonicapán,Santa María Chiquimula
+PROV_GT08_0454,Shuttles Santa Lucía La Reforma - Ref 455,Elena Marroquín,+502 54221075,Totonicapán,Santa Lucía La Reforma
+PROV_GT08_0455,Taxis del Centro San Bartolo - Ref 456,María Hernández,+502 50304150,Totonicapán,San Bartolo
+PROV_GT09_0456,Transportes Quetzaltenango - Ref 457,Miguel López,+502 45947462,Quetzaltenango,Quetzaltenango
+PROV_GT09_0457,Autobuses Salcajá - Ref 458,José Batz,+502 42407285,Quetzaltenango,Salcajá
+PROV_GT09_0458,Lancheros Unidos Olintepeque - Ref 459,Esteban Tzul,+502 44154331,Quetzaltenango,Olintepeque
+PROV_GT09_0459,Fleteros del Altiplano San Carlos Sija - Ref 460,Tomasa López,+502 45937762,Quetzaltenango,San Carlos Sija
+PROV_GT09_0460,Cooperativa de Transportistas Sibilia - Ref 461,Juan Pérez,+502 58975922,Quetzaltenango,Sibilia
+PROV_GT09_0461,Rápidos de Occidente Cabricán - Ref 462,Francisco Tzoc,+502 50214615,Quetzaltenango,Cabricán
+PROV_GT09_0462,Shuttles Cajolá - Ref 463,Juana Gómez,+502 47663342,Quetzaltenango,Cajolá
+PROV_GT09_0463,Taxis del Centro San Miguel Sigüila - Ref 464,María Gómez,+502 57296497,Quetzaltenango,San Miguel Sigüila
+PROV_GT09_0464,Transportes Ostuncalco - Ref 465,Carlos Cabrera,+502 42128515,Quetzaltenango,Ostuncalco
+PROV_GT09_0465,Autobuses San Mateo - Ref 466,Elena Chaj,+502 45757539,Quetzaltenango,San Mateo
+PROV_GT09_0466,Lancheros Unidos Concepción Chiquirichapa - Ref 467,Tomasa López,+502 49576973,Quetzaltenango,Concepción Chiquirichapa
+PROV_GT09_0467,Fleteros del Altiplano San Martín Sacatepéquez - Ref 468,Elena Gómez,+502 59942636,Quetzaltenango,San Martín Sacatepéquez
+PROV_GT09_0468,Cooperativa de Transportistas Almolonga - Ref 469,Pedro Cabrera,+502 48552599,Quetzaltenango,Almolonga
+PROV_GT09_0469,Rápidos de Occidente Cantel - Ref 470,José Guzmán,+502 56515482,Quetzaltenango,Cantel
+PROV_GT09_0470,Shuttles Huitán - Ref 471,Francisco Yax,+502 41199925,Quetzaltenango,Huitán
+PROV_GT09_0471,Taxis del Centro Zunil - Ref 472,Luisa Jax,+502 42154695,Quetzaltenango,Zunil
+PROV_GT09_0472,Transportes Colomba - Ref 473,Luisa Pérez,+502 46056121,Quetzaltenango,Colomba
+PROV_GT09_0473,Autobuses San Francisco La Unión - Ref 474,Manuel Chaj,+502 40454942,Quetzaltenango,San Francisco La Unión
+PROV_GT09_0474,Lancheros Unidos El Palmar - Ref 475,Pedro Méndez,+502 49922750,Quetzaltenango,El Palmar
+PROV_GT09_0475,Fleteros del Altiplano Coatepeque - Ref 476,Tomasa Hernández,+502 48531476,Quetzaltenango,Coatepeque
+PROV_GT09_0476,Cooperativa de Transportistas Génova - Ref 477,Carlos Méndez,+502 44726112,Quetzaltenango,Génova
+PROV_GT09_0477,Rápidos de Occidente Flores Costa Cuca - Ref 478,Pedro Cox,+502 46147485,Quetzaltenango,Flores Costa Cuca
+PROV_GT09_0478,Shuttles La Esperanza - Ref 479,Francisco Yax,+502 48246152,Quetzaltenango,La Esperanza
+PROV_GT09_0479,Taxis del Centro Palestina de Los Altos - Ref 480,María Tzul,+502 54317780,Quetzaltenango,Palestina de Los Altos
+PROV_GT10_0480,Transportes Mazatenango - Ref 481,Manuel Pérez,+502 49802189,Suchitepéquez,Mazatenango
+PROV_GT10_0481,Autobuses Cuyotenango - Ref 482,Juan Marroquín,+502 53719217,Suchitepéquez,Cuyotenango
+PROV_GT10_0482,Lancheros Unidos San Francisco Zapotitlán - Ref 483,Diego Tzoc,+502 42171365,Suchitepéquez,San Francisco Zapotitlán
+PROV_GT10_0483,Fleteros del Altiplano San Bernardino - Ref 484,Elena Yax,+502 52737887,Suchitepéquez,San Bernardino
+PROV_GT10_0484,Cooperativa de Transportistas San José El Ídolo - Ref 485,Francisco Yax,+502 49562656,Suchitepéquez,San José El Ídolo
+PROV_GT10_0485,Rápidos de Occidente Santo Domingo Suchitepéquez - Ref 486,Esteban Batz,+502 50308443,Suchitepéquez,Santo Domingo Suchitepéquez
+PROV_GT10_0486,Shuttles San Lorenzo - Ref 487,Elena Tzoc,+502 46706481,Suchitepéquez,San Lorenzo
+PROV_GT10_0487,Taxis del Centro Samayac - Ref 488,Esteban Jax,+502 50576230,Suchitepéquez,Samayac
+PROV_GT10_0488,Transportes San Pablo Jocopilas - Ref 489,José Méndez,+502 46384042,Suchitepéquez,San Pablo Jocopilas
+PROV_GT10_0489,Autobuses San Antonio Suchitepéquez - Ref 490,Rosa Yax,+502 58861530,Suchitepéquez,San Antonio Suchitepéquez
+PROV_GT10_0490,Lancheros Unidos San Miguel Panán - Ref 491,Tomasa Guzmán,+502 54129654,Suchitepéquez,San Miguel Panán
+PROV_GT10_0491,Fleteros del Altiplano San Gabriel - Ref 492,Juan Cabrera,+502 44477992,Suchitepéquez,San Gabriel
+PROV_GT10_0492,Cooperativa de Transportistas Chicacao - Ref 493,Elena López,+502 59369939,Suchitepéquez,Chicacao
+PROV_GT10_0493,Rápidos de Occidente Patulul - Ref 494,Francisco Marroquín,+502 53076170,Suchitepéquez,Patulul
+PROV_GT10_0494,Shuttles Santa Bárbara - Ref 495,José Guzmán,+502 59801148,Suchitepéquez,Santa Bárbara
+PROV_GT10_0495,Taxis del Centro San Juan Bautista - Ref 496,Carlos Guzmán,+502 41207765,Suchitepéquez,San Juan Bautista
+PROV_GT10_0496,Transportes Santo Tomás La Unión - Ref 497,María López,+502 41243548,Suchitepéquez,Santo Tomás La Unión
+PROV_GT10_0497,Autobuses Zunilito - Ref 498,Pedro Tzoc,+502 53873003,Suchitepéquez,Zunilito
+PROV_GT10_0498,Lancheros Unidos Pueblo Nuevo - Ref 499,Rosa Jax,+502 46768264,Suchitepéquez,Pueblo Nuevo
+PROV_GT10_0499,Fleteros del Altiplano Río Bravo - Ref 500,Miguel Yax,+502 50129790,Suchitepéquez,Río Bravo
+PROV_GT10_0500,Cooperativa de Transportistas San José La Máquina - Ref 501,Tomasa Chaj,+502 45067270,Suchitepéquez,San José La Máquina
+PROV_GT11_0501,Rápidos de Occidente Retalhuleu - Ref 502,Juana Cabrera,+502 51234049,Retalhuleu,Retalhuleu
+PROV_GT11_0502,Shuttles San Sebastián - Ref 503,María Tzoc,+502 40579684,Retalhuleu,San Sebastián
+PROV_GT11_0503,Taxis del Centro Santa Cruz Muluá - Ref 504,Pedro Yax,+502 44414608,Retalhuleu,Santa Cruz Muluá
+PROV_GT11_0504,Transportes San Martín Zapotitlán - Ref 505,María Cabrera,+502 58496155,Retalhuleu,San Martín Zapotitlán
+PROV_GT11_0505,Autobuses San Felipe - Ref 506,María Tzoc,+502 55871262,Retalhuleu,San Felipe
+PROV_GT11_0506,Lancheros Unidos San Andrés Villa Seca - Ref 507,Miguel Tzul,+502 46569815,Retalhuleu,San Andrés Villa Seca
+PROV_GT11_0507,Fleteros del Altiplano Champerico - Ref 508,Pedro Jax,+502 46701492,Retalhuleu,Champerico
+PROV_GT11_0508,Cooperativa de Transportistas Nuevo San Carlos - Ref 509,Tomasa Méndez,+502 50002455,Retalhuleu,Nuevo San Carlos
+PROV_GT11_0509,Rápidos de Occidente El Asintal - Ref 510,Juan Cabrera,+502 52592068,Retalhuleu,El Asintal
+PROV_GT12_0510,Shuttles San Marcos - Ref 511,Francisco Tzoc,+502 42339594,San Marcos,San Marcos
+PROV_GT12_0511,Taxis del Centro San Pedro Sacatepéquez - Ref 512,Rosa Hernández,+502 53585666,San Marcos,San Pedro Sacatepéquez
+PROV_GT12_0512,Transportes San Antonio Sacatepéquez - Ref 513,Manuel Chaj,+502 42411133,San Marcos,San Antonio Sacatepéquez
+PROV_GT12_0513,Autobuses Comitancillo - Ref 514,Juana Gómez,+502 58757009,San Marcos,Comitancillo
+PROV_GT12_0514,Lancheros Unidos San Miguel Ixtahuacán - Ref 515,Miguel Gómez,+502 53211466,San Marcos,San Miguel Ixtahuacán
+PROV_GT12_0515,Fleteros del Altiplano Concepción Tutuapa - Ref 516,Diego Gómez,+502 56965213,San Marcos,Concepción Tutuapa
+PROV_GT12_0516,Cooperativa de Transportistas Tacaná - Ref 517,María Guzmán,+502 54683531,San Marcos,Tacaná
+PROV_GT12_0517,Rápidos de Occidente Sibinal - Ref 518,Carlos Jax,+502 45948329,San Marcos,Sibinal
+PROV_GT12_0518,Shuttles Tajumulco - Ref 519,Carlos Cabrera,+502 47847446,San Marcos,Tajumulco
+PROV_GT12_0519,Taxis del Centro Tejutla - Ref 520,Luisa Chaj,+502 53041228,San Marcos,Tejutla
+PROV_GT12_0520,Transportes San Rafael Pie de la Cuesta - Ref 521,Francisco Cabrera,+502 47894447,San Marcos,San Rafael Pie de la Cuesta
+PROV_GT12_0521,Autobuses Nuevo Progreso - Ref 522,María Tzoc,+502 50124751,San Marcos,Nuevo Progreso
+PROV_GT12_0522,Lancheros Unidos El Tumbador - Ref 523,Rosa Méndez,+502 54755845,San Marcos,El Tumbador
+PROV_GT12_0523,Fleteros del Altiplano El Rodeo - Ref 524,Francisco Jax,+502 50934179,San Marcos,El Rodeo
+PROV_GT12_0524,Cooperativa de Transportistas Malacatán - Ref 525,Pedro Tzul,+502 42412791,San Marcos,Malacatán
+PROV_GT12_0525,Rápidos de Occidente Catarina - Ref 526,Tomasa Pérez,+502 51754882,San Marcos,Catarina
+PROV_GT12_0526,Shuttles Ayutla - Ref 527,Miguel Cabrera,+502 51153519,San Marcos,Ayutla
+PROV_GT12_0527,Taxis del Centro Ocós - Ref 528,Esteban Jax,+502 40773448,San Marcos,Ocós
+PROV_GT12_0528,Transportes San Pablo - Ref 529,Tomasa Pérez,+502 55249157,San Marcos,San Pablo
+PROV_GT12_0529,Autobuses El Quetzal - Ref 530,José Tzul,+502 44138536,San Marcos,El Quetzal
+PROV_GT12_0530,Lancheros Unidos La Reforma - Ref 531,María Tzoc,+502 43734943,San Marcos,La Reforma
+PROV_GT12_0531,Fleteros del Altiplano Pajapita - Ref 532,José Méndez,+502 42568870,San Marcos,Pajapita
+PROV_GT12_0532,Cooperativa de Transportistas Ixchiguán - Ref 533,Diego Jax,+502 44751926,San Marcos,Ixchiguán
+PROV_GT12_0533,Rápidos de Occidente San José Ojetenam - Ref 534,Rosa Batz,+502 41876884,San Marcos,San José Ojetenam
+PROV_GT12_0534,Shuttles San Cristóbal Cucho - Ref 535,Rosa Hernández,+502 47888266,San Marcos,San Cristóbal Cucho
+PROV_GT12_0535,Taxis del Centro Sipacapa - Ref 536,Rosa Méndez,+502 51713167,San Marcos,Sipacapa
+PROV_GT12_0536,Transportes Esquipulas Palo Gordo - Ref 537,Carlos Guzmán,+502 41666348,San Marcos,Esquipulas Palo Gordo
+PROV_GT12_0537,Autobuses Río Blanco - Ref 538,Juana Yax,+502 52981193,San Marcos,Río Blanco
+PROV_GT12_0538,Lancheros Unidos San Lorenzo - Ref 539,María Méndez,+502 46433027,San Marcos,San Lorenzo
+PROV_GT12_0539,Fleteros del Altiplano La Blanca - Ref 540,Juan Gómez,+502 48817428,San Marcos,La Blanca
+PROV_GT13_0540,Cooperativa de Transportistas Huehuetenango - Ref 541,Diego Cabrera,+502 48779224,Huehuetenango,Huehuetenango
+PROV_GT13_0541,Rápidos de Occidente Chiantla - Ref 542,Carlos Guzmán,+502 58691588,Huehuetenango,Chiantla
+PROV_GT13_0542,Shuttles Malacatancito - Ref 543,Carlos Cox,+502 44803685,Huehuetenango,Malacatancito
+PROV_GT13_0543,Taxis del Centro Cuilco - Ref 544,Pedro Cox,+502 48505919,Huehuetenango,Cuilco
+PROV_GT13_0544,Transportes Nentón - Ref 545,Elena Hernández,+502 47132283,Huehuetenango,Nentón
+PROV_GT13_0545,Autobuses San Pedro Necta - Ref 546,Juana Tzoc,+502 47489858,Huehuetenango,San Pedro Necta
+PROV_GT13_0546,Lancheros Unidos Jacaltenango - Ref 547,Carlos Batz,+502 51913114,Huehuetenango,Jacaltenango
+PROV_GT13_0547,Fleteros del Altiplano Soloma - Ref 548,María Pérez,+502 40344984,Huehuetenango,Soloma
+PROV_GT13_0548,Cooperativa de Transportistas Ixtahuacán - Ref 549,Juan Batz,+502 53562996,Huehuetenango,Ixtahuacán
+PROV_GT13_0549,Rápidos de Occidente Santa Bárbara - Ref 550,Francisco Guzmán,+502 45375193,Huehuetenango,Santa Bárbara
+PROV_GT13_0550,Shuttles La Libertad - Ref 551,Luisa Méndez,+502 47236830,Huehuetenango,La Libertad
+PROV_GT13_0551,Taxis del Centro La Democracia - Ref 552,Luisa Cox,+502 58695442,Huehuetenango,La Democracia
+PROV_GT13_0552,Transportes San Miguel Acatán - Ref 553,Miguel Tzoc,+502 47915128,Huehuetenango,San Miguel Acatán
+PROV_GT13_0553,Autobuses San Rafael La Independencia - Ref 554,Francisco Cox,+502 44558567,Huehuetenango,San Rafael La Independencia
+PROV_GT13_0554,Lancheros Unidos Todos Santos Cuchumatán - Ref 555,Luisa Gómez,+502 47625434,Huehuetenango,Todos Santos Cuchumatán
+PROV_GT13_0555,Fleteros del Altiplano San Juan Atitán - Ref 556,Rosa Marroquín,+502 59789522,Huehuetenango,San Juan Atitán
+PROV_GT13_0556,Cooperativa de Transportistas Santa Eulalia - Ref 557,Rosa Guzmán,+502 42311863,Huehuetenango,Santa Eulalia
+PROV_GT13_0557,Rápidos de Occidente San Mateo Ixtatán - Ref 558,Miguel Hernández,+502 59368752,Huehuetenango,San Mateo Ixtatán
+PROV_GT13_0558,Shuttles Colotenango - Ref 559,Pedro Hernández,+502 51349324,Huehuetenango,Colotenango
+PROV_GT13_0559,Taxis del Centro San Sebastián Huehuetenango - Ref 560,Rosa Yax,+502 40421694,Huehuetenango,San Sebastián Huehuetenango
+PROV_GT13_0560,Transportes Tectitán - Ref 561,Pedro Pérez,+502 56869504,Huehuetenango,Tectitán
+PROV_GT13_0561,Autobuses Concepción Huista - Ref 562,Francisco Marroquín,+502 57119628,Huehuetenango,Concepción Huista
+PROV_GT13_0562,Lancheros Unidos San Juan Ixcoy - Ref 563,Esteban Tzoc,+502 55011522,Huehuetenango,San Juan Ixcoy
+PROV_GT13_0563,Fleteros del Altiplano San Antonio Huista - Ref 564,Esteban Chaj,+502 42272191,Huehuetenango,San Antonio Huista
+PROV_GT13_0564,Cooperativa de Transportistas San Sebastián Coatán - Ref 565,Juan Cox,+502 58634303,Huehuetenango,San Sebastián Coatán
+PROV_GT13_0565,Rápidos de Occidente Barillas - Ref 566,Manuel Cabrera,+502 48863788,Huehuetenango,Barillas
+PROV_GT13_0566,Shuttles Aguacatán - Ref 567,Manuel Méndez,+502 49646341,Huehuetenango,Aguacatán
+PROV_GT13_0567,Taxis del Centro San Rafael Petzal - Ref 568,Elena Cox,+502 56169242,Huehuetenango,San Rafael Petzal
+PROV_GT13_0568,Transportes San Gaspar Ixchil - Ref 569,Elena Gómez,+502 50703726,Huehuetenango,San Gaspar Ixchil
+PROV_GT13_0569,Autobuses Santiago Chimaltenango - Ref 570,Tomasa Gómez,+502 57485199,Huehuetenango,Santiago Chimaltenango
+PROV_GT13_0570,Lancheros Unidos Santa Ana Huista - Ref 571,José Chaj,+502 44651885,Huehuetenango,Santa Ana Huista
+PROV_GT13_0571,Fleteros del Altiplano Unión Cantinil - Ref 572,Rosa Gómez,+502 51316115,Huehuetenango,Unión Cantinil
+PROV_GT13_0572,Cooperativa de Transportistas Petatán - Ref 573,Diego Batz,+502 50991808,Huehuetenango,Petatán
+PROV_GT14_0573,Rápidos de Occidente Santa Cruz del Quiché - Ref 574,María Tzul,+502 42917011,Quiché,Santa Cruz del Quiché
+PROV_GT14_0574,Shuttles Chiché - Ref 575,Luisa Tzoc,+502 43588948,Quiché,Chiché
+PROV_GT14_0575,Taxis del Centro Chinique - Ref 576,Tomasa Marroquín,+502 48031797,Quiché,Chinique
+PROV_GT14_0576,Transportes Zacualpa - Ref 577,Francisco Méndez,+502 47939974,Quiché,Zacualpa
+PROV_GT14_0577,Autobuses Chajul - Ref 578,María Yax,+502 51529281,Quiché,Chajul
+PROV_GT14_0578,Lancheros Unidos Chichicastenango - Ref 579,María Méndez,+502 40455484,Quiché,Chichicastenango
+PROV_GT14_0579,Fleteros del Altiplano Patzité - Ref 580,Francisco Tzul,+502 49576531,Quiché,Patzité
+PROV_GT14_0580,Cooperativa de Transportistas San Antonio Ilotenango - Ref 581,Rosa López,+502 45969311,Quiché,San Antonio Ilotenango
+PROV_GT14_0581,Rápidos de Occidente San Pedro Jocopilas - Ref 582,Esteban Méndez,+502 58882975,Quiché,San Pedro Jocopilas
+PROV_GT14_0582,Shuttles Cunén - Ref 583,Juana Batz,+502 49443321,Quiché,Cunén
+PROV_GT14_0583,Taxis del Centro San Juan Cotzal - Ref 584,Pedro Jax,+502 45608413,Quiché,San Juan Cotzal
+PROV_GT14_0584,Transportes Joyabaj - Ref 585,Carlos Cabrera,+502 54786283,Quiché,Joyabaj
+PROV_GT14_0585,Autobuses Nebaj - Ref 586,Tomasa Cox,+502 58781902,Quiché,Nebaj
+PROV_GT14_0586,Lancheros Unidos San Andrés Sajcabajá - Ref 587,Luisa Yax,+502 45957744,Quiché,San Andrés Sajcabajá
+PROV_GT14_0587,Fleteros del Altiplano Uspantán - Ref 588,Diego Marroquín,+502 42198004,Quiché,Uspantán
+PROV_GT14_0588,Cooperativa de Transportistas Sacapulas - Ref 589,Rosa Tzul,+502 58502118,Quiché,Sacapulas
+PROV_GT14_0589,Rápidos de Occidente San Bartolomé Jocotenango - Ref 590,Luisa Chaj,+502 41571010,Quiché,San Bartolomé Jocotenango
+PROV_GT14_0590,Shuttles Canillá - Ref 591,José Cabrera,+502 57414566,Quiché,Canillá
+PROV_GT14_0591,Taxis del Centro Chicamán - Ref 592,Juan Hernández,+502 58045215,Quiché,Chicamán
+PROV_GT14_0592,Transportes Ixcán - Ref 593,Carlos Yax,+502 51209963,Quiché,Ixcán
+PROV_GT14_0593,Autobuses Pachalum - Ref 594,Carlos Pérez,+502 49743511,Quiché,Pachalum
+PROV_GT15_0594,Lancheros Unidos Salamá - Ref 595,Juan Yax,+502 50882876,Baja Verapaz,Salamá
+PROV_GT15_0595,Fleteros del Altiplano San Miguel Chicaj - Ref 596,Rosa Yax,+502 58146533,Baja Verapaz,San Miguel Chicaj
+PROV_GT15_0596,Cooperativa de Transportistas Rabinal - Ref 597,Rosa Batz,+502 58706678,Baja Verapaz,Rabinal
+PROV_GT15_0597,Rápidos de Occidente Cubulco - Ref 598,Carlos Pérez,+502 50012024,Baja Verapaz,Cubulco
+PROV_GT15_0598,Shuttles Granados - Ref 599,María Chaj,+502 46882250,Baja Verapaz,Granados
+PROV_GT15_0599,Taxis del Centro El Chol - Ref 600,Miguel Cox,+502 54467449,Baja Verapaz,El Chol
+PROV_GT15_0600,Transportes San Jerónimo - Ref 601,Elena Pérez,+502 43317710,Baja Verapaz,San Jerónimo
+PROV_GT15_0601,Autobuses Purulhá - Ref 602,Rosa Marroquín,+502 41578705,Baja Verapaz,Purulhá
+PROV_GT16_0602,Lancheros Unidos Cobán - Ref 603,Diego Cabrera,+502 40259352,Alta Verapaz,Cobán
+PROV_GT16_0603,Fleteros del Altiplano Santa Cruz Verapaz - Ref 604,Manuel Guzmán,+502 40032164,Alta Verapaz,Santa Cruz Verapaz
+PROV_GT16_0604,Cooperativa de Transportistas San Cristóbal Verapaz - Ref 605,Tomasa Tzoc,+502 56035999,Alta Verapaz,San Cristóbal Verapaz
+PROV_GT16_0605,Rápidos de Occidente Tactic - Ref 606,Juan Guzmán,+502 49338251,Alta Verapaz,Tactic
+PROV_GT16_0606,Shuttles Tamahú - Ref 607,Diego Yax,+502 46661754,Alta Verapaz,Tamahú
+PROV_GT16_0607,Taxis del Centro Tucurú - Ref 608,Miguel Batz,+502 44312771,Alta Verapaz,Tucurú
+PROV_GT16_0608,Transportes Panzós - Ref 609,Juana Méndez,+502 52681994,Alta Verapaz,Panzós
+PROV_GT16_0609,Autobuses Senahú - Ref 610,María Guzmán,+502 48836270,Alta Verapaz,Senahú
+PROV_GT16_0610,Lancheros Unidos San Pedro Carchá - Ref 611,Carlos Marroquín,+502 46746023,Alta Verapaz,San Pedro Carchá
+PROV_GT16_0611,Fleteros del Altiplano San Juan Chamelco - Ref 612,Esteban Pérez,+502 41692004,Alta Verapaz,San Juan Chamelco
+PROV_GT16_0612,Cooperativa de Transportistas Lanquín - Ref 613,Luisa Méndez,+502 45256190,Alta Verapaz,Lanquín
+PROV_GT16_0613,Rápidos de Occidente Cahabón - Ref 614,Francisco Méndez,+502 45462663,Alta Verapaz,Cahabón
+PROV_GT16_0614,Shuttles Chisec - Ref 615,Francisco Marroquín,+502 57344042,Alta Verapaz,Chisec
+PROV_GT16_0615,Taxis del Centro Chahal - Ref 616,Elena López,+502 56143068,Alta Verapaz,Chahal
+PROV_GT16_0616,Transportes Fray Bartolomé de Las Casas - Ref 617,Diego Tzul,+502 57588160,Alta Verapaz,Fray Bartolomé de Las Casas
+PROV_GT16_0617,Autobuses Santa Catalina La Tinta - Ref 618,Francisco Chaj,+502 42911082,Alta Verapaz,Santa Catalina La Tinta
+PROV_GT16_0618,Lancheros Unidos Raxruhá - Ref 619,Juan Tzoc,+502 59855986,Alta Verapaz,Raxruhá
+PROV_GT17_0619,Fleteros del Altiplano Flores - Ref 620,Elena Marroquín,+502 59046532,Petén,Flores
+PROV_GT17_0620,Cooperativa de Transportistas San José - Ref 621,Rosa Pérez,+502 41524216,Petén,San José
+PROV_GT17_0621,Rápidos de Occidente San Benito - Ref 622,José Gómez,+502 52678699,Petén,San Benito
+PROV_GT17_0622,Shuttles San Andrés - Ref 623,Rosa Yax,+502 45656708,Petén,San Andrés
+PROV_GT17_0623,Taxis del Centro La Libertad - Ref 624,Juana Tzoc,+502 45294623,Petén,La Libertad
+PROV_GT17_0624,Transportes San Francisco - Ref 625,Tomasa López,+502 52918196,Petén,San Francisco
+PROV_GT17_0625,Autobuses Santa Ana - Ref 626,Diego Hernández,+502 55019764,Petén,Santa Ana
+PROV_GT17_0626,Lancheros Unidos Dolores - Ref 627,Juana Cabrera,+502 49502118,Petén,Dolores
+PROV_GT17_0627,Fleteros del Altiplano San Luis - Ref 628,Juan Chaj,+502 58424762,Petén,San Luis
+PROV_GT17_0628,Cooperativa de Transportistas Sayaxché - Ref 629,Luisa Tzul,+502 44118780,Petén,Sayaxché
+PROV_GT17_0629,Rápidos de Occidente Melchor de Mencos - Ref 630,Carlos Jax,+502 52662086,Petén,Melchor de Mencos
+PROV_GT17_0630,Shuttles Poptún - Ref 631,Elena Méndez,+502 51346237,Petén,Poptún
+PROV_GT17_0631,Taxis del Centro Las Cruces - Ref 632,Juana Yax,+502 42135631,Petén,Las Cruces
+PROV_GT17_0632,Transportes El Chal - Ref 633,Esteban Tzoc,+502 48681641,Petén,El Chal
+PROV_GT18_0633,Autobuses Puerto Barrios - Ref 634,José Méndez,+502 59946243,Izabal,Puerto Barrios
+PROV_GT18_0634,Lancheros Unidos Lívingston - Ref 635,María López,+502 57656754,Izabal,Lívingston
+PROV_GT18_0635,Fleteros del Altiplano El Estor - Ref 636,José Cox,+502 40139473,Izabal,El Estor
+PROV_GT18_0636,Cooperativa de Transportistas Morales - Ref 637,Pedro Tzul,+502 44471675,Izabal,Morales
+PROV_GT18_0637,Rápidos de Occidente Los Amates - Ref 638,Miguel Cox,+502 43117353,Izabal,Los Amates
+PROV_GT19_0638,Shuttles Zacapa - Ref 639,Diego Batz,+502 47392560,Zacapa,Zacapa
+PROV_GT19_0639,Taxis del Centro Estanzuela - Ref 640,Juana Cabrera,+502 49628802,Zacapa,Estanzuela
+PROV_GT19_0640,Transportes Río Hondo - Ref 641,Pedro Cox,+502 46727644,Zacapa,Río Hondo
+PROV_GT19_0641,Autobuses Gualán - Ref 642,Juana Méndez,+502 54949937,Zacapa,Gualán
+PROV_GT19_0642,Lancheros Unidos Teculután - Ref 643,Miguel Cabrera,+502 43506910,Zacapa,Teculután
+PROV_GT19_0643,Fleteros del Altiplano Usumatlán - Ref 644,Tomasa Tzoc,+502 53281049,Zacapa,Usumatlán
+PROV_GT19_0644,Cooperativa de Transportistas Cabañas - Ref 645,Luisa Tzoc,+502 52207543,Zacapa,Cabañas
+PROV_GT19_0645,Rápidos de Occidente San Diego - Ref 646,Pedro Hernández,+502 44556790,Zacapa,San Diego
+PROV_GT19_0646,Shuttles La Unión - Ref 647,Pedro Hernández,+502 42094639,Zacapa,La Unión
+PROV_GT19_0647,Taxis del Centro Huité - Ref 648,Pedro Guzmán,+502 45826052,Zacapa,Huité
+PROV_GT19_0648,Transportes San Jorge - Ref 649,Tomasa Chaj,+502 58855645,Zacapa,San Jorge
+PROV_GT20_0649,Autobuses Chiquimula - Ref 650,Luisa Yax,+502 45252263,Chiquimula,Chiquimula
+PROV_GT20_0650,Lancheros Unidos San José La Arada - Ref 651,Juana Méndez,+502 57842224,Chiquimula,San José La Arada
+PROV_GT20_0651,Fleteros del Altiplano San Juan Ermita - Ref 652,Juan Cox,+502 49162106,Chiquimula,San Juan Ermita
+PROV_GT20_0652,Cooperativa de Transportistas Jocotán - Ref 653,Miguel Pérez,+502 41391917,Chiquimula,Jocotán
+PROV_GT20_0653,Rápidos de Occidente Camotán - Ref 654,Luisa Guzmán,+502 46088415,Chiquimula,Camotán
+PROV_GT20_0654,Shuttles Olopa - Ref 655,Pedro Yax,+502 56909045,Chiquimula,Olopa
+PROV_GT20_0655,Taxis del Centro Esquipulas - Ref 656,Elena Jax,+502 45575311,Chiquimula,Esquipulas
+PROV_GT20_0656,Transportes Concepción Las Minas - Ref 657,Rosa Gómez,+502 43578652,Chiquimula,Concepción Las Minas
+PROV_GT20_0657,Autobuses Quezaltepeque - Ref 658,Tomasa Gómez,+502 52293455,Chiquimula,Quezaltepeque
+PROV_GT20_0658,Lancheros Unidos San Jacinto - Ref 659,María Marroquín,+502 41256412,Chiquimula,San Jacinto
+PROV_GT20_0659,Fleteros del Altiplano Ipala - Ref 660,Diego Tzoc,+502 46569993,Chiquimula,Ipala
+PROV_GT21_0660,Cooperativa de Transportistas Jalapa - Ref 661,Juan Tzoc,+502 43035139,Jalapa,Jalapa
+PROV_GT21_0661,Rápidos de Occidente San Pedro Pinula - Ref 662,María Hernández,+502 54619149,Jalapa,San Pedro Pinula
+PROV_GT21_0662,Shuttles San Luis Jilotepeque - Ref 663,Esteban Cabrera,+502 56255194,Jalapa,San Luis Jilotepeque
+PROV_GT21_0663,Taxis del Centro San Manuel Chaparrón - Ref 664,Carlos Tzoc,+502 57039586,Jalapa,San Manuel Chaparrón
+PROV_GT21_0664,Transportes San Carlos Alzatate - Ref 665,Miguel López,+502 41677311,Jalapa,San Carlos Alzatate
+PROV_GT21_0665,Autobuses Monjas - Ref 666,Carlos Batz,+502 40077350,Jalapa,Monjas
+PROV_GT21_0666,Lancheros Unidos Mataquescuintla - Ref 667,Juana Gómez,+502 56738379,Jalapa,Mataquescuintla
+PROV_GT22_0667,Fleteros del Altiplano Jutiapa - Ref 668,Carlos Jax,+502 57076714,Jutiapa,Jutiapa
+PROV_GT22_0668,Cooperativa de Transportistas El Progreso - Ref 669,Luisa Guzmán,+502 55975091,Jutiapa,El Progreso
+PROV_GT22_0669,Rápidos de Occidente Santa Catarina Mita - Ref 670,Luisa López,+502 46711869,Jutiapa,Santa Catarina Mita
+PROV_GT22_0670,Shuttles Agua Blanca - Ref 671,Pedro Pérez,+502 52445228,Jutiapa,Agua Blanca
+PROV_GT22_0671,Taxis del Centro Asunción Mita - Ref 672,María Guzmán,+502 49239917,Jutiapa,Asunción Mita
+PROV_GT22_0672,Transportes Yupiltepeque - Ref 673,José López,+502 51446653,Jutiapa,Yupiltepeque
+PROV_GT22_0673,Autobuses Atescatempa - Ref 674,María Tzul,+502 40519740,Jutiapa,Atescatempa
+PROV_GT22_0674,Lancheros Unidos Jerez - Ref 675,Miguel Marroquín,+502 59056171,Jutiapa,Jerez
+PROV_GT22_0675,Fleteros del Altiplano El Adelanto - Ref 676,Diego Yax,+502 40983041,Jutiapa,El Adelanto
+PROV_GT22_0676,Cooperativa de Transportistas Zapotitlán - Ref 677,Esteban Pérez,+502 44347790,Jutiapa,Zapotitlán
+PROV_GT22_0677,Rápidos de Occidente Comapa - Ref 678,Rosa Jax,+502 54118846,Jutiapa,Comapa
+PROV_GT22_0678,Shuttles Jalpatagua - Ref 679,Carlos Hernández,+502 41227488,Jutiapa,Jalpatagua
+PROV_GT22_0679,Taxis del Centro Conguaco - Ref 680,Tomasa Hernández,+502 58798882,Jutiapa,Conguaco
+PROV_GT22_0680,Transportes Moyuta - Ref 681,Diego Tzoc,+502 55879958,Jutiapa,Moyuta
+PROV_GT22_0681,Autobuses Pasaco - Ref 682,Luisa Batz,+502 40297746,Jutiapa,Pasaco
+PROV_GT22_0682,Lancheros Unidos San José Acatempa - Ref 683,Elena Gómez,+502 56762027,Jutiapa,San José Acatempa
+PROV_GT22_0683,Fleteros del Altiplano Quesada - Ref 684,Francisco Batz,+502 41912446,Jutiapa,Quesada
+PROV_GT01_0684,Cooperativa de Transportistas Lago De Amatitlan - Ref 685,Diego Gómez,+502 51321912,Guatemala,Lago De Amatitlan
+PROV_GT01_0685,Rápidos de Occidente Guatemala - Ref 686,Elena Hernández,+502 54327991,Guatemala,Guatemala
+PROV_GT01_0686,Shuttles Santa Catarina Pinula - Ref 687,Juana Tzul,+502 54082557,Guatemala,Santa Catarina Pinula
+PROV_GT01_0687,Taxis del Centro San José Pinula - Ref 688,Manuel López,+502 50159543,Guatemala,San José Pinula
+PROV_GT01_0688,Transportes San José del Golfo - Ref 689,Diego Chaj,+502 55039101,Guatemala,San José del Golfo
+PROV_GT01_0689,Autobuses Palencia - Ref 690,Francisco Hernández,+502 58102808,Guatemala,Palencia
+PROV_GT01_0690,Lancheros Unidos Chinautla - Ref 691,Juana Pérez,+502 55219276,Guatemala,Chinautla
+PROV_GT01_0691,Fleteros del Altiplano San Pedro Ayampuc - Ref 692,Elena Hernández,+502 54228854,Guatemala,San Pedro Ayampuc
+PROV_GT01_0692,Cooperativa de Transportistas Mixco - Ref 693,Tomasa Cox,+502 55262623,Guatemala,Mixco
+PROV_GT01_0693,Rápidos de Occidente San Pedro Sacatepéquez - Ref 694,Francisco Tzoc,+502 45703435,Guatemala,San Pedro Sacatepéquez
+PROV_GT01_0694,Shuttles San Juan Sacatepéquez - Ref 695,Francisco Hernández,+502 59081032,Guatemala,San Juan Sacatepéquez
+PROV_GT01_0695,Taxis del Centro San Raimundo - Ref 696,Diego Gómez,+502 42439580,Guatemala,San Raimundo
+PROV_GT01_0696,Transportes Chuarrancho - Ref 697,Miguel Batz,+502 51208283,Guatemala,Chuarrancho
+PROV_GT01_0697,Autobuses Fraijanes - Ref 698,José Pérez,+502 59568234,Guatemala,Fraijanes
+PROV_GT01_0698,Lancheros Unidos Amatitlán - Ref 699,Elena Méndez,+502 59987174,Guatemala,Amatitlán
+PROV_GT01_0699,Fleteros del Altiplano Villa Nueva - Ref 700,Carlos Marroquín,+502 52733786,Guatemala,Villa Nueva
+PROV_GT01_0700,Cooperativa de Transportistas Villa Canales - Ref 701,Diego Tzoc,+502 57079313,Guatemala,Villa Canales
+PROV_GT01_0701,Rápidos de Occidente Petapa - Ref 702,Pedro Chaj,+502 51843014,Guatemala,Petapa
+PROV_GT02_0702,Shuttles Guastatoya - Ref 703,Miguel Cox,+502 41696391,El Progreso,Guastatoya
+PROV_GT02_0703,Taxis del Centro Morazán - Ref 704,Luisa Tzoc,+502 42631908,El Progreso,Morazán
+PROV_GT02_0704,Transportes San Agustín Acasaguastlán - Ref 705,Juan Chaj,+502 49297634,El Progreso,San Agustín Acasaguastlán
+PROV_GT02_0705,Autobuses San Cristóbal Acasaguastlán - Ref 706,Elena Cox,+502 42861026,El Progreso,San Cristóbal Acasaguastlán
+PROV_GT02_0706,Lancheros Unidos El Jícaro - Ref 707,Luisa Tzoc,+502 48665640,El Progreso,El Jícaro
+PROV_GT02_0707,Fleteros del Altiplano Sanarate - Ref 708,Juan Pérez,+502 49196548,El Progreso,Sanarate
+PROV_GT02_0708,Cooperativa de Transportistas Sansare - Ref 709,Tomasa Batz,+502 52531944,El Progreso,Sansare
+PROV_GT02_0709,Rápidos de Occidente San Antonio La Paz - Ref 710,Francisco Marroquín,+502 45287817,El Progreso,San Antonio La Paz
+PROV_GT03_0710,Shuttles Antigua Guatemala - Ref 711,Juana Marroquín,+502 57503666,Sacatepéquez,Antigua Guatemala
+PROV_GT03_0711,Taxis del Centro Jocotenango - Ref 712,Miguel Tzul,+502 59064120,Sacatepéquez,Jocotenango
+PROV_GT03_0712,Transportes Pastores - Ref 713,Esteban Chaj,+502 56101911,Sacatepéquez,Pastores
+PROV_GT03_0713,Autobuses Sumpango - Ref 714,Juana Marroquín,+502 48397958,Sacatepéquez,Sumpango
+PROV_GT03_0714,Lancheros Unidos Santo Domingo Xenacoj - Ref 715,Francisco Tzul,+502 45906514,Sacatepéquez,Santo Domingo Xenacoj
+PROV_GT03_0715,Fleteros del Altiplano Santiago Sacatepéquez - Ref 716,Luisa Jax,+502 55667701,Sacatepéquez,Santiago Sacatepéquez
+PROV_GT03_0716,Cooperativa de Transportistas San Bartolomé Milpas Altas - Ref 717,Elena Pérez,+502 51251569,Sacatepéquez,San Bartolomé Milpas Altas
+PROV_GT03_0717,Rápidos de Occidente San Lucas Sacatepéquez - Ref 718,Elena Cox,+502 45542376,Sacatepéquez,San Lucas Sacatepéquez
+PROV_GT03_0718,Shuttles Santa Lucía Milpas Altas - Ref 719,Diego Pérez,+502 55752360,Sacatepéquez,Santa Lucía Milpas Altas
+PROV_GT03_0719,Taxis del Centro Magdalena Milpas Altas - Ref 720,José Cox,+502 43718215,Sacatepéquez,Magdalena Milpas Altas
+PROV_GT03_0720,Transportes Santa María de Jesús - Ref 721,Carlos Jax,+502 59241422,Sacatepéquez,Santa María de Jesús
+PROV_GT03_0721,Autobuses Ciudad Vieja - Ref 722,María Jax,+502 40776182,Sacatepéquez,Ciudad Vieja
+PROV_GT03_0722,Lancheros Unidos San Miguel Dueñas - Ref 723,Manuel Méndez,+502 51928359,Sacatepéquez,San Miguel Dueñas
+PROV_GT03_0723,Fleteros del Altiplano Alotenango - Ref 724,Juan Batz,+502 57698283,Sacatepéquez,Alotenango
+PROV_GT03_0724,Cooperativa de Transportistas San Antonio Aguas Calientes - Ref 725,Juana Cox,+502 46995384,Sacatepéquez,San Antonio Aguas Calientes
+PROV_GT03_0725,Rápidos de Occidente Santa Catarina Barahona - Ref 726,Manuel Chaj,+502 53606252,Sacatepéquez,Santa Catarina Barahona
+PROV_GT04_0726,Shuttles Chimaltenango - Ref 727,Luisa Pérez,+502 41176150,Chimaltenango,Chimaltenango
+PROV_GT04_0727,Taxis del Centro San José Poaquil - Ref 728,Pedro Jax,+502 40431259,Chimaltenango,San José Poaquil
+PROV_GT04_0728,Transportes San Martín Jilotepeque - Ref 729,Diego Marroquín,+502 54981397,Chimaltenango,San Martín Jilotepeque
+PROV_GT04_0729,Autobuses Comalapa - Ref 730,Carlos López,+502 57123017,Chimaltenango,Comalapa
+PROV_GT04_0730,Lancheros Unidos Santa Apolonia - Ref 731,Luisa Pérez,+502 44159786,Chimaltenango,Santa Apolonia
+PROV_GT04_0731,Fleteros del Altiplano Tecpán Guatemala - Ref 732,Manuel Jax,+502 58853949,Chimaltenango,Tecpán Guatemala
+PROV_GT04_0732,Cooperativa de Transportistas Patzún - Ref 733,Tomasa López,+502 56372817,Chimaltenango,Patzún
+PROV_GT04_0733,Rápidos de Occidente Pochuta - Ref 734,Esteban López,+502 51574758,Chimaltenango,Pochuta
+PROV_GT04_0734,Shuttles Patzicía - Ref 735,Esteban Gómez,+502 54852241,Chimaltenango,Patzicía
+PROV_GT04_0735,Taxis del Centro Santa Cruz Balanyá - Ref 736,Miguel Pérez,+502 42218219,Chimaltenango,Santa Cruz Balanyá
+PROV_GT04_0736,Transportes Acatenango - Ref 737,Elena Batz,+502 52315896,Chimaltenango,Acatenango
+PROV_GT04_0737,Autobuses Yepocapa - Ref 738,Rosa Gómez,+502 48014401,Chimaltenango,Yepocapa
+PROV_GT04_0738,Lancheros Unidos San Andrés Itzapa - Ref 739,Juana Tzul,+502 45139733,Chimaltenango,San Andrés Itzapa
+PROV_GT04_0739,Fleteros del Altiplano Parramos - Ref 740,Juana Batz,+502 51577320,Chimaltenango,Parramos
+PROV_GT04_0740,Cooperativa de Transportistas Zaragoza - Ref 741,Luisa Tzoc,+502 48546969,Chimaltenango,Zaragoza
+PROV_GT04_0741,Rápidos de Occidente El Tejar - Ref 742,María Hernández,+502 57205176,Chimaltenango,El Tejar
+PROV_GT05_0742,Shuttles Escuintla - Ref 743,Diego López,+502 46218767,Escuintla,Escuintla
+PROV_GT05_0743,Taxis del Centro Santa Lucía Cotzumalguapa - Ref 744,Diego Tzoc,+502 51086340,Escuintla,Santa Lucía Cotzumalguapa
+PROV_GT05_0744,Transportes La Democracia - Ref 745,Esteban Jax,+502 58331728,Escuintla,La Democracia
+PROV_GT05_0745,Autobuses Siquinalá - Ref 746,Pedro Pérez,+502 57401415,Escuintla,Siquinalá
+PROV_GT05_0746,Lancheros Unidos Masagua - Ref 747,Pedro Pérez,+502 49196876,Escuintla,Masagua
+PROV_GT05_0747,Fleteros del Altiplano Tiquisate - Ref 748,Manuel Hernández,+502 47812417,Escuintla,Tiquisate
+PROV_GT05_0748,Cooperativa de Transportistas La Gomera - Ref 749,Rosa Pérez,+502 49077133,Escuintla,La Gomera
+PROV_GT05_0749,Rápidos de Occidente Guanagazapa - Ref 750,Francisco Batz,+502 54518412,Escuintla,Guanagazapa
+PROV_GT05_0750,Shuttles San José - Ref 751,Rosa Méndez,+502 55018110,Escuintla,San José
+PROV_GT05_0751,Taxis del Centro Iztapa - Ref 752,Juan Pérez,+502 45051643,Escuintla,Iztapa
+PROV_GT05_0752,Transportes Palín - Ref 753,Juan Cabrera,+502 49449992,Escuintla,Palín
+PROV_GT05_0753,Autobuses San Vicente Pacaya - Ref 754,José Jax,+502 58721869,Escuintla,San Vicente Pacaya
+PROV_GT05_0754,Lancheros Unidos Nueva Concepción - Ref 755,María López,+502 59214946,Escuintla,Nueva Concepción
+PROV_GT05_0755,Fleteros del Altiplano Sipacate - Ref 756,Manuel Batz,+502 50695572,Escuintla,Sipacate
+PROV_GT06_0756,Cooperativa de Transportistas Cuilapa - Ref 757,Pedro Batz,+502 46934688,Santa Rosa,Cuilapa
+PROV_GT06_0757,Rápidos de Occidente Barberena - Ref 758,Juan Batz,+502 50086470,Santa Rosa,Barberena
+PROV_GT06_0758,Shuttles Santa Rosa de Lima - Ref 759,Juan Gómez,+502 48289591,Santa Rosa,Santa Rosa de Lima
+PROV_GT06_0759,Taxis del Centro Casillas - Ref 760,Pedro Hernández,+502 44773361,Santa Rosa,Casillas
+PROV_GT06_0760,Transportes San Rafael Las Flores - Ref 761,Diego Guzmán,+502 47928869,Santa Rosa,San Rafael Las Flores
+PROV_GT06_0761,Autobuses Oratorio - Ref 762,Diego Tzoc,+502 53308408,Santa Rosa,Oratorio
+PROV_GT06_0762,Lancheros Unidos San Juan Tecuaco - Ref 763,Juana López,+502 43474662,Santa Rosa,San Juan Tecuaco
+PROV_GT06_0763,Fleteros del Altiplano Chiquimulilla - Ref 764,Francisco Guzmán,+502 57283463,Santa Rosa,Chiquimulilla
+PROV_GT06_0764,Cooperativa de Transportistas Taxisco - Ref 765,Diego Hernández,+502 43451652,Santa Rosa,Taxisco
+PROV_GT06_0765,Rápidos de Occidente Santa María Ixhuatán - Ref 766,Manuel Chaj,+502 54538007,Santa Rosa,Santa María Ixhuatán
+PROV_GT06_0766,Shuttles Guazacapán - Ref 767,Rosa Batz,+502 47918596,Santa Rosa,Guazacapán
+PROV_GT06_0767,Taxis del Centro Santa Cruz Naranjo - Ref 768,Pedro Chaj,+502 43522815,Santa Rosa,Santa Cruz Naranjo
+PROV_GT06_0768,Transportes Pueblo Nuevo Viñas - Ref 769,Miguel Tzoc,+502 59273059,Santa Rosa,Pueblo Nuevo Viñas
+PROV_GT06_0769,Autobuses Nueva Santa Rosa - Ref 770,Juana Tzul,+502 55269018,Santa Rosa,Nueva Santa Rosa
+PROV_GT07_0770,Lancheros Unidos Lago De Atitlan - Ref 771,Carlos Tzul,+502 50104321,Sololá,Lago De Atitlan
+PROV_GT07_0771,Fleteros del Altiplano Sololá - Ref 772,Miguel Chaj,+502 54036552,Sololá,Sololá
+PROV_GT07_0772,Cooperativa de Transportistas San José Chacayá - Ref 773,José López,+502 42449831,Sololá,San José Chacayá
+PROV_GT07_0773,Rápidos de Occidente Santa María Visitación - Ref 774,Elena Chaj,+502 52896366,Sololá,Santa María Visitación
+PROV_GT07_0774,Shuttles Santa Lucía Utatlán - Ref 775,Luisa Chaj,+502 43094753,Sololá,Santa Lucía Utatlán
+PROV_GT07_0775,Taxis del Centro Nahualá - Ref 776,Diego Tzul,+502 59082273,Sololá,Nahualá
+PROV_GT07_0776,Transportes Santa Catarina Ixtahuacán - Ref 777,Miguel Gómez,+502 52947763,Sololá,Santa Catarina Ixtahuacán
+PROV_GT07_0777,Autobuses Santa Clara La Laguna - Ref 778,María Yax,+502 41362563,Sololá,Santa Clara La Laguna
+PROV_GT07_0778,Lancheros Unidos Concepción - Ref 779,Elena Pérez,+502 50779868,Sololá,Concepción
+PROV_GT07_0779,Fleteros del Altiplano San Andrés Semetabaj - Ref 780,Diego Tzul,+502 44574828,Sololá,San Andrés Semetabaj
+PROV_GT07_0780,Cooperativa de Transportistas Panajachel - Ref 781,Miguel Jax,+502 57013627,Sololá,Panajachel
+PROV_GT07_0781,Rápidos de Occidente Santa Catarina Palopó - Ref 782,Pedro Pérez,+502 48202890,Sololá,Santa Catarina Palopó
+PROV_GT07_0782,Shuttles San Antonio Palopó - Ref 783,Juan Pérez,+502 50727647,Sololá,San Antonio Palopó
+PROV_GT07_0783,Taxis del Centro San Lucas Tolimán - Ref 784,Tomasa Chaj,+502 49667824,Sololá,San Lucas Tolimán
+PROV_GT07_0784,Transportes Santa Cruz La Laguna - Ref 785,Miguel Chaj,+502 54062374,Sololá,Santa Cruz La Laguna
+PROV_GT07_0785,Autobuses San Pablo La Laguna - Ref 786,Esteban López,+502 50627046,Sololá,San Pablo La Laguna
+PROV_GT07_0786,Lancheros Unidos San Marcos La Laguna - Ref 787,Tomasa Marroquín,+502 45946792,Sololá,San Marcos La Laguna
+PROV_GT07_0787,Fleteros del Altiplano San Juan La Laguna - Ref 788,Diego Guzmán,+502 59572564,Sololá,San Juan La Laguna
+PROV_GT07_0788,Cooperativa de Transportistas San Pedro La Laguna - Ref 789,Juana Yax,+502 44184555,Sololá,San Pedro La Laguna
+PROV_GT07_0789,Rápidos de Occidente Santiago Atitlán - Ref 790,Luisa Gómez,+502 58036609,Sololá,Santiago Atitlán
+PROV_GT08_0790,Shuttles Totonicapán - Ref 791,Juana Hernández,+502 54032785,Totonicapán,Totonicapán
+PROV_GT08_0791,Taxis del Centro San Cristóbal Totonicapán - Ref 792,Carlos Yax,+502 54465932,Totonicapán,San Cristóbal Totonicapán
+PROV_GT08_0792,Transportes San Francisco El Alto - Ref 793,Juan Guzmán,+502 56468056,Totonicapán,San Francisco El Alto
+PROV_GT08_0793,Autobuses San Andrés Xecul - Ref 794,Rosa Batz,+502 55987397,Totonicapán,San Andrés Xecul
+PROV_GT08_0794,Lancheros Unidos Momostenango - Ref 795,Tomasa Marroquín,+502 51977694,Totonicapán,Momostenango
+PROV_GT08_0795,Fleteros del Altiplano Santa María Chiquimula - Ref 796,Elena Cabrera,+502 50355054,Totonicapán,Santa María Chiquimula
+PROV_GT08_0796,Cooperativa de Transportistas Santa Lucía La Reforma - Ref 797,Juana Chaj,+502 43396986,Totonicapán,Santa Lucía La Reforma
+PROV_GT08_0797,Rápidos de Occidente San Bartolo - Ref 798,Diego Guzmán,+502 46228141,Totonicapán,San Bartolo
+PROV_GT09_0798,Shuttles Quetzaltenango - Ref 799,Manuel Méndez,+502 49419979,Quetzaltenango,Quetzaltenango
+PROV_GT09_0799,Taxis del Centro Salcajá - Ref 800,Carlos Cabrera,+502 44493447,Quetzaltenango,Salcajá
+PROV_GT09_0800,Transportes Olintepeque - Ref 801,Luisa Jax,+502 40738367,Quetzaltenango,Olintepeque
+PROV_GT09_0801,Autobuses San Carlos Sija - Ref 802,Esteban Chaj,+502 59327527,Quetzaltenango,San Carlos Sija
+PROV_GT09_0802,Lancheros Unidos Sibilia - Ref 803,Manuel Méndez,+502 52658105,Quetzaltenango,Sibilia
+PROV_GT09_0803,Fleteros del Altiplano Cabricán - Ref 804,Carlos Gómez,+502 43549414,Quetzaltenango,Cabricán
+PROV_GT09_0804,Cooperativa de Transportistas Cajolá - Ref 805,Esteban Tzoc,+502 59818760,Quetzaltenango,Cajolá
+PROV_GT09_0805,Rápidos de Occidente San Miguel Sigüila - Ref 806,Miguel López,+502 58983528,Quetzaltenango,San Miguel Sigüila
+PROV_GT09_0806,Shuttles Ostuncalco - Ref 807,Tomasa Batz,+502 44612117,Quetzaltenango,Ostuncalco
+PROV_GT09_0807,Taxis del Centro San Mateo - Ref 808,Pedro Hernández,+502 48532366,Quetzaltenango,San Mateo
+PROV_GT09_0808,Transportes Concepción Chiquirichapa - Ref 809,Tomasa Hernández,+502 59023899,Quetzaltenango,Concepción Chiquirichapa
+PROV_GT09_0809,Autobuses San Martín Sacatepéquez - Ref 810,Carlos Marroquín,+502 56011588,Quetzaltenango,San Martín Sacatepéquez
+PROV_GT09_0810,Lancheros Unidos Almolonga - Ref 811,Esteban Batz,+502 59348240,Quetzaltenango,Almolonga
+PROV_GT09_0811,Fleteros del Altiplano Cantel - Ref 812,Luisa Guzmán,+502 53917148,Quetzaltenango,Cantel
+PROV_GT09_0812,Cooperativa de Transportistas Huitán - Ref 813,Diego Chaj,+502 49357817,Quetzaltenango,Huitán
+PROV_GT09_0813,Rápidos de Occidente Zunil - Ref 814,Esteban Tzul,+502 49675926,Quetzaltenango,Zunil
+PROV_GT09_0814,Shuttles Colomba - Ref 815,Manuel Cox,+502 40556648,Quetzaltenango,Colomba
+PROV_GT09_0815,Taxis del Centro San Francisco La Unión - Ref 816,Esteban Jax,+502 41843995,Quetzaltenango,San Francisco La Unión
+PROV_GT09_0816,Transportes El Palmar - Ref 817,Rosa Batz,+502 48932287,Quetzaltenango,El Palmar
+PROV_GT09_0817,Autobuses Coatepeque - Ref 818,Carlos Méndez,+502 56122061,Quetzaltenango,Coatepeque
+PROV_GT09_0818,Lancheros Unidos Génova - Ref 819,María Marroquín,+502 49633657,Quetzaltenango,Génova
+PROV_GT09_0819,Fleteros del Altiplano Flores Costa Cuca - Ref 820,Pedro Jax,+502 45528399,Quetzaltenango,Flores Costa Cuca
+PROV_GT09_0820,Cooperativa de Transportistas La Esperanza - Ref 821,Diego Pérez,+502 43164355,Quetzaltenango,La Esperanza
+PROV_GT09_0821,Rápidos de Occidente Palestina de Los Altos - Ref 822,Esteban Jax,+502 48031900,Quetzaltenango,Palestina de Los Altos
+PROV_GT10_0822,Shuttles Mazatenango - Ref 823,Miguel Guzmán,+502 50908403,Suchitepéquez,Mazatenango
+PROV_GT10_0823,Taxis del Centro Cuyotenango - Ref 824,Miguel Batz,+502 51641684,Suchitepéquez,Cuyotenango
+PROV_GT10_0824,Transportes San Francisco Zapotitlán - Ref 825,Manuel Chaj,+502 59436164,Suchitepéquez,San Francisco Zapotitlán
+PROV_GT10_0825,Autobuses San Bernardino - Ref 826,José Cox,+502 49257705,Suchitepéquez,San Bernardino
+PROV_GT10_0826,Lancheros Unidos San José El Ídolo - Ref 827,Miguel Batz,+502 49681471,Suchitepéquez,San José El Ídolo
+PROV_GT10_0827,Fleteros del Altiplano Santo Domingo Suchitepéquez - Ref 828,Esteban Chaj,+502 55403906,Suchitepéquez,Santo Domingo Suchitepéquez
+PROV_GT10_0828,Cooperativa de Transportistas San Lorenzo - Ref 829,Rosa Pérez,+502 50116800,Suchitepéquez,San Lorenzo
+PROV_GT10_0829,Rápidos de Occidente Samayac - Ref 830,Elena Marroquín,+502 54978499,Suchitepéquez,Samayac
+PROV_GT10_0830,Shuttles San Pablo Jocopilas - Ref 831,Elena Yax,+502 44883150,Suchitepéquez,San Pablo Jocopilas
+PROV_GT10_0831,Taxis del Centro San Antonio Suchitepéquez - Ref 832,Esteban Pérez,+502 58611359,Suchitepéquez,San Antonio Suchitepéquez
+PROV_GT10_0832,Transportes San Miguel Panán - Ref 833,José Gómez,+502 44256185,Suchitepéquez,San Miguel Panán
+PROV_GT10_0833,Autobuses San Gabriel - Ref 834,Elena Cabrera,+502 43936393,Suchitepéquez,San Gabriel
+PROV_GT10_0834,Lancheros Unidos Chicacao - Ref 835,Carlos Batz,+502 51125088,Suchitepéquez,Chicacao
+PROV_GT10_0835,Fleteros del Altiplano Patulul - Ref 836,Esteban López,+502 58261243,Suchitepéquez,Patulul
+PROV_GT10_0836,Cooperativa de Transportistas Santa Bárbara - Ref 837,Diego Guzmán,+502 40883974,Suchitepéquez,Santa Bárbara
+PROV_GT10_0837,Rápidos de Occidente San Juan Bautista - Ref 838,Manuel Yax,+502 54881639,Suchitepéquez,San Juan Bautista
+PROV_GT10_0838,Shuttles Santo Tomás La Unión - Ref 839,Luisa López,+502 44653072,Suchitepéquez,Santo Tomás La Unión
+PROV_GT10_0839,Taxis del Centro Zunilito - Ref 840,Tomasa Batz,+502 42553254,Suchitepéquez,Zunilito
+PROV_GT10_0840,Transportes Pueblo Nuevo - Ref 841,Miguel Chaj,+502 46661504,Suchitepéquez,Pueblo Nuevo
+PROV_GT10_0841,Autobuses Río Bravo - Ref 842,José Méndez,+502 43631897,Suchitepéquez,Río Bravo
+PROV_GT10_0842,Lancheros Unidos San José La Máquina - Ref 843,Manuel Cabrera,+502 40528243,Suchitepéquez,San José La Máquina
+PROV_GT11_0843,Fleteros del Altiplano Retalhuleu - Ref 844,Rosa Hernández,+502 40569098,Retalhuleu,Retalhuleu
+PROV_GT11_0844,Cooperativa de Transportistas San Sebastián - Ref 845,Miguel Marroquín,+502 43079249,Retalhuleu,San Sebastián
+PROV_GT11_0845,Rápidos de Occidente Santa Cruz Muluá - Ref 846,María Pérez,+502 56341706,Retalhuleu,Santa Cruz Muluá
+PROV_GT11_0846,Shuttles San Martín Zapotitlán - Ref 847,Francisco Tzul,+502 55379252,Retalhuleu,San Martín Zapotitlán
+PROV_GT11_0847,Taxis del Centro San Felipe - Ref 848,Pedro Hernández,+502 54055359,Retalhuleu,San Felipe
+PROV_GT11_0848,Transportes San Andrés Villa Seca - Ref 849,Pedro Chaj,+502 53273624,Retalhuleu,San Andrés Villa Seca
+PROV_GT11_0849,Autobuses Champerico - Ref 850,Diego Cabrera,+502 57269218,Retalhuleu,Champerico
+PROV_GT11_0850,Lancheros Unidos Nuevo San Carlos - Ref 851,Juan Cox,+502 43844712,Retalhuleu,Nuevo San Carlos
+PROV_GT11_0851,Fleteros del Altiplano El Asintal - Ref 852,Carlos Cox,+502 52721621,Retalhuleu,El Asintal
+PROV_GT12_0852,Cooperativa de Transportistas San Marcos - Ref 853,Carlos Tzoc,+502 54016904,San Marcos,San Marcos
+PROV_GT12_0853,Rápidos de Occidente San Pedro Sacatepéquez - Ref 854,Juana Guzmán,+502 51049292,San Marcos,San Pedro Sacatepéquez
+PROV_GT12_0854,Shuttles San Antonio Sacatepéquez - Ref 855,Luisa López,+502 59348006,San Marcos,San Antonio Sacatepéquez
+PROV_GT12_0855,Taxis del Centro Comitancillo - Ref 856,Francisco Batz,+502 43487344,San Marcos,Comitancillo
+PROV_GT12_0856,Transportes San Miguel Ixtahuacán - Ref 857,Rosa Hernández,+502 42686839,San Marcos,San Miguel Ixtahuacán
+PROV_GT12_0857,Autobuses Concepción Tutuapa - Ref 858,María Méndez,+502 41326022,San Marcos,Concepción Tutuapa
+PROV_GT12_0858,Lancheros Unidos Tacaná - Ref 859,Rosa Batz,+502 58819013,San Marcos,Tacaná
+PROV_GT12_0859,Fleteros del Altiplano Sibinal - Ref 860,Miguel Guzmán,+502 51733016,San Marcos,Sibinal
+PROV_GT12_0860,Cooperativa de Transportistas Tajumulco - Ref 861,Juana Hernández,+502 57592986,San Marcos,Tajumulco
+PROV_GT12_0861,Rápidos de Occidente Tejutla - Ref 862,Carlos Yax,+502 44374526,San Marcos,Tejutla
+PROV_GT12_0862,Shuttles San Rafael Pie de la Cuesta - Ref 863,Juana Tzul,+502 56765626,San Marcos,San Rafael Pie de la Cuesta
+PROV_GT12_0863,Taxis del Centro Nuevo Progreso - Ref 864,Francisco Pérez,+502 58987119,San Marcos,Nuevo Progreso
+PROV_GT12_0864,Transportes El Tumbador - Ref 865,Tomasa Chaj,+502 46077599,San Marcos,El Tumbador
+PROV_GT12_0865,Autobuses El Rodeo - Ref 866,José Gómez,+502 49315491,San Marcos,El Rodeo
+PROV_GT12_0866,Lancheros Unidos Malacatán - Ref 867,Elena Guzmán,+502 49315375,San Marcos,Malacatán
+PROV_GT12_0867,Fleteros del Altiplano Catarina - Ref 868,María Gómez,+502 54538454,San Marcos,Catarina
+PROV_GT12_0868,Cooperativa de Transportistas Ayutla - Ref 869,Elena Tzul,+502 41982411,San Marcos,Ayutla
+PROV_GT12_0869,Rápidos de Occidente Ocós - Ref 870,Manuel Cabrera,+502 51224072,San Marcos,Ocós
+PROV_GT12_0870,Shuttles San Pablo - Ref 871,Manuel Jax,+502 43501215,San Marcos,San Pablo
+PROV_GT12_0871,Taxis del Centro El Quetzal - Ref 872,Francisco Tzoc,+502 56043152,San Marcos,El Quetzal
+PROV_GT12_0872,Transportes La Reforma - Ref 873,Pedro Hernández,+502 49779249,San Marcos,La Reforma
+PROV_GT12_0873,Autobuses Pajapita - Ref 874,Diego Tzul,+502 55406937,San Marcos,Pajapita
+PROV_GT12_0874,Lancheros Unidos Ixchiguán - Ref 875,Miguel Batz,+502 46585044,San Marcos,Ixchiguán
+PROV_GT12_0875,Fleteros del Altiplano San José Ojetenam - Ref 876,Manuel Gómez,+502 59707988,San Marcos,San José Ojetenam
+PROV_GT12_0876,Cooperativa de Transportistas San Cristóbal Cucho - Ref 877,Miguel Jax,+502 55025746,San Marcos,San Cristóbal Cucho
+PROV_GT12_0877,Rápidos de Occidente Sipacapa - Ref 878,Carlos Jax,+502 45243351,San Marcos,Sipacapa
+PROV_GT12_0878,Shuttles Esquipulas Palo Gordo - Ref 879,Juan Pérez,+502 57276613,San Marcos,Esquipulas Palo Gordo
+PROV_GT12_0879,Taxis del Centro Río Blanco - Ref 880,José Gómez,+502 56825527,San Marcos,Río Blanco
+PROV_GT12_0880,Transportes San Lorenzo - Ref 881,María Pérez,+502 52162773,San Marcos,San Lorenzo
+PROV_GT12_0881,Autobuses La Blanca - Ref 882,Carlos Yax,+502 41385996,San Marcos,La Blanca
+PROV_GT13_0882,Lancheros Unidos Huehuetenango - Ref 883,Juana Hernández,+502 59356906,Huehuetenango,Huehuetenango
+PROV_GT13_0883,Fleteros del Altiplano Chiantla - Ref 884,Esteban Jax,+502 55578262,Huehuetenango,Chiantla
+PROV_GT13_0884,Cooperativa de Transportistas Malacatancito - Ref 885,María Gómez,+502 40879062,Huehuetenango,Malacatancito
+PROV_GT13_0885,Rápidos de Occidente Cuilco - Ref 886,Miguel Batz,+502 59146951,Huehuetenango,Cuilco
+PROV_GT13_0886,Shuttles Nentón - Ref 887,Rosa Gómez,+502 44954891,Huehuetenango,Nentón
+PROV_GT13_0887,Taxis del Centro San Pedro Necta - Ref 888,Carlos Tzul,+502 43935954,Huehuetenango,San Pedro Necta
+PROV_GT13_0888,Transportes Jacaltenango - Ref 889,Diego López,+502 55352388,Huehuetenango,Jacaltenango
+PROV_GT13_0889,Autobuses Soloma - Ref 890,Francisco Batz,+502 59974442,Huehuetenango,Soloma
+PROV_GT13_0890,Lancheros Unidos Ixtahuacán - Ref 891,Juan Pérez,+502 40127105,Huehuetenango,Ixtahuacán
+PROV_GT13_0891,Fleteros del Altiplano Santa Bárbara - Ref 892,Rosa Pérez,+502 50864042,Huehuetenango,Santa Bárbara
+PROV_GT13_0892,Cooperativa de Transportistas La Libertad - Ref 893,Rosa Chaj,+502 41765637,Huehuetenango,La Libertad
+PROV_GT13_0893,Rápidos de Occidente La Democracia - Ref 894,Juan Hernández,+502 47524346,Huehuetenango,La Democracia
+PROV_GT13_0894,Shuttles San Miguel Acatán - Ref 895,Pedro Jax,+502 49903430,Huehuetenango,San Miguel Acatán
+PROV_GT13_0895,Taxis del Centro San Rafael La Independencia - Ref 896,Pedro Batz,+502 40347100,Huehuetenango,San Rafael La Independencia
+PROV_GT13_0896,Transportes Todos Santos Cuchumatán - Ref 897,Francisco Jax,+502 57759718,Huehuetenango,Todos Santos Cuchumatán
+PROV_GT13_0897,Autobuses San Juan Atitán - Ref 898,María Batz,+502 42357358,Huehuetenango,San Juan Atitán
+PROV_GT13_0898,Lancheros Unidos Santa Eulalia - Ref 899,Miguel Yax,+502 49326410,Huehuetenango,Santa Eulalia
+PROV_GT13_0899,Fleteros del Altiplano San Mateo Ixtatán - Ref 900,Rosa Pérez,+502 49794817,Huehuetenango,San Mateo Ixtatán
+PROV_GT13_0900,Cooperativa de Transportistas Colotenango - Ref 901,Juana Yax,+502 46881443,Huehuetenango,Colotenango
+PROV_GT13_0901,Rápidos de Occidente San Sebastián Huehuetenango - Ref 902,María Méndez,+502 48573161,Huehuetenango,San Sebastián Huehuetenango
+PROV_GT13_0902,Shuttles Tectitán - Ref 903,Pedro Tzoc,+502 53164485,Huehuetenango,Tectitán
+PROV_GT13_0903,Taxis del Centro Concepción Huista - Ref 904,Carlos Batz,+502 45383430,Huehuetenango,Concepción Huista
+PROV_GT13_0904,Transportes San Juan Ixcoy - Ref 905,Rosa Tzul,+502 59919620,Huehuetenango,San Juan Ixcoy
+PROV_GT13_0905,Autobuses San Antonio Huista - Ref 906,Pedro Marroquín,+502 56757540,Huehuetenango,San Antonio Huista
+PROV_GT13_0906,Lancheros Unidos San Sebastián Coatán - Ref 907,Juan Hernández,+502 45106543,Huehuetenango,San Sebastián Coatán
+PROV_GT13_0907,Fleteros del Altiplano Barillas - Ref 908,Esteban López,+502 48715694,Huehuetenango,Barillas
+PROV_GT13_0908,Cooperativa de Transportistas Aguacatán - Ref 909,Francisco Pérez,+502 58396454,Huehuetenango,Aguacatán
+PROV_GT13_0909,Rápidos de Occidente San Rafael Petzal - Ref 910,Luisa Hernández,+502 44115757,Huehuetenango,San Rafael Petzal
+PROV_GT13_0910,Shuttles San Gaspar Ixchil - Ref 911,Miguel Tzul,+502 41682312,Huehuetenango,San Gaspar Ixchil
+PROV_GT13_0911,Taxis del Centro Santiago Chimaltenango - Ref 912,Francisco Pérez,+502 54887970,Huehuetenango,Santiago Chimaltenango
+PROV_GT13_0912,Transportes Santa Ana Huista - Ref 913,María Pérez,+502 46948221,Huehuetenango,Santa Ana Huista
+PROV_GT13_0913,Autobuses Unión Cantinil - Ref 914,María Tzoc,+502 45886819,Huehuetenango,Unión Cantinil
+PROV_GT13_0914,Lancheros Unidos Petatán - Ref 915,María Tzul,+502 49471416,Huehuetenango,Petatán
+PROV_GT14_0915,Fleteros del Altiplano Santa Cruz del Quiché - Ref 916,Miguel Cox,+502 45773717,Quiché,Santa Cruz del Quiché
+PROV_GT14_0916,Cooperativa de Transportistas Chiché - Ref 917,Pedro Méndez,+502 59244567,Quiché,Chiché
+PROV_GT14_0917,Rápidos de Occidente Chinique - Ref 918,Francisco Cox,+502 49662458,Quiché,Chinique
+PROV_GT14_0918,Shuttles Zacualpa - Ref 919,Elena Marroquín,+502 53527376,Quiché,Zacualpa
+PROV_GT14_0919,Taxis del Centro Chajul - Ref 920,Juan Chaj,+502 56128495,Quiché,Chajul
+PROV_GT14_0920,Transportes Chichicastenango - Ref 921,María Chaj,+502 46621121,Quiché,Chichicastenango
+PROV_GT14_0921,Autobuses Patzité - Ref 922,Diego Jax,+502 44733574,Quiché,Patzité
+PROV_GT14_0922,Lancheros Unidos San Antonio Ilotenango - Ref 923,Manuel Gómez,+502 40063589,Quiché,San Antonio Ilotenango
+PROV_GT14_0923,Fleteros del Altiplano San Pedro Jocopilas - Ref 924,Elena Batz,+502 57373705,Quiché,San Pedro Jocopilas
+PROV_GT14_0924,Cooperativa de Transportistas Cunén - Ref 925,Rosa Batz,+502 57661717,Quiché,Cunén
+PROV_GT14_0925,Rápidos de Occidente San Juan Cotzal - Ref 926,Manuel Pérez,+502 46569017,Quiché,San Juan Cotzal
+PROV_GT14_0926,Shuttles Joyabaj - Ref 927,Juana Pérez,+502 54851212,Quiché,Joyabaj
+PROV_GT14_0927,Taxis del Centro Nebaj - Ref 928,Tomasa Jax,+502 47398919,Quiché,Nebaj
+PROV_GT14_0928,Transportes San Andrés Sajcabajá - Ref 929,Juan Tzul,+502 53802399,Quiché,San Andrés Sajcabajá
+PROV_GT14_0929,Autobuses Uspantán - Ref 930,Diego Cabrera,+502 58637852,Quiché,Uspantán
+PROV_GT14_0930,Lancheros Unidos Sacapulas - Ref 931,Luisa Batz,+502 41032483,Quiché,Sacapulas
+PROV_GT14_0931,Fleteros del Altiplano San Bartolomé Jocotenango - Ref 932,José Tzoc,+502 45602985,Quiché,San Bartolomé Jocotenango
+PROV_GT14_0932,Cooperativa de Transportistas Canillá - Ref 933,Manuel Yax,+502 57989547,Quiché,Canillá
+PROV_GT14_0933,Rápidos de Occidente Chicamán - Ref 934,Francisco Tzoc,+502 42254778,Quiché,Chicamán
+PROV_GT14_0934,Shuttles Ixcán - Ref 935,Rosa López,+502 54952982,Quiché,Ixcán
+PROV_GT14_0935,Taxis del Centro Pachalum - Ref 936,Rosa Cox,+502 50339695,Quiché,Pachalum
+PROV_GT15_0936,Transportes Salamá - Ref 937,Miguel Hernández,+502 42347865,Baja Verapaz,Salamá
+PROV_GT15_0937,Autobuses San Miguel Chicaj - Ref 938,Juan Hernández,+502 47015718,Baja Verapaz,San Miguel Chicaj
+PROV_GT15_0938,Lancheros Unidos Rabinal - Ref 939,Juana Chaj,+502 49731479,Baja Verapaz,Rabinal
+PROV_GT15_0939,Fleteros del Altiplano Cubulco - Ref 940,Miguel Tzoc,+502 54332410,Baja Verapaz,Cubulco
+PROV_GT15_0940,Cooperativa de Transportistas Granados - Ref 941,José Batz,+502 40029436,Baja Verapaz,Granados
+PROV_GT15_0941,Rápidos de Occidente El Chol - Ref 942,Juana Yax,+502 45496492,Baja Verapaz,El Chol
+PROV_GT15_0942,Shuttles San Jerónimo - Ref 943,Rosa Cox,+502 54203896,Baja Verapaz,San Jerónimo
+PROV_GT15_0943,Taxis del Centro Purulhá - Ref 944,Juana Yax,+502 45477037,Baja Verapaz,Purulhá
+PROV_GT16_0944,Transportes Cobán - Ref 945,Diego Cox,+502 53336504,Alta Verapaz,Cobán
+PROV_GT16_0945,Autobuses Santa Cruz Verapaz - Ref 946,Elena Gómez,+502 58152472,Alta Verapaz,Santa Cruz Verapaz
+PROV_GT16_0946,Lancheros Unidos San Cristóbal Verapaz - Ref 947,Rosa Yax,+502 57209669,Alta Verapaz,San Cristóbal Verapaz
+PROV_GT16_0947,Fleteros del Altiplano Tactic - Ref 948,Diego Tzul,+502 55311756,Alta Verapaz,Tactic
+PROV_GT16_0948,Cooperativa de Transportistas Tamahú - Ref 949,Tomasa Jax,+502 42525655,Alta Verapaz,Tamahú
+PROV_GT16_0949,Rápidos de Occidente Tucurú - Ref 950,Juan López,+502 44235085,Alta Verapaz,Tucurú
+PROV_GT16_0950,Shuttles Panzós - Ref 951,Manuel Cox,+502 50496236,Alta Verapaz,Panzós
+PROV_GT16_0951,Taxis del Centro Senahú - Ref 952,Carlos Chaj,+502 57564912,Alta Verapaz,Senahú
+PROV_GT16_0952,Transportes San Pedro Carchá - Ref 953,José Cabrera,+502 58741470,Alta Verapaz,San Pedro Carchá
+PROV_GT16_0953,Autobuses San Juan Chamelco - Ref 954,Carlos Gómez,+502 54785025,Alta Verapaz,San Juan Chamelco
+PROV_GT16_0954,Lancheros Unidos Lanquín - Ref 955,Miguel Jax,+502 44351715,Alta Verapaz,Lanquín
+PROV_GT16_0955,Fleteros del Altiplano Cahabón - Ref 956,Rosa Jax,+502 40208250,Alta Verapaz,Cahabón
+PROV_GT16_0956,Cooperativa de Transportistas Chisec - Ref 957,Rosa Yax,+502 47116021,Alta Verapaz,Chisec
+PROV_GT16_0957,Rápidos de Occidente Chahal - Ref 958,José Méndez,+502 52188650,Alta Verapaz,Chahal
+PROV_GT16_0958,Shuttles Fray Bartolomé de Las Casas - Ref 959,Tomasa Yax,+502 41001794,Alta Verapaz,Fray Bartolomé de Las Casas
+PROV_GT16_0959,Taxis del Centro Santa Catalina La Tinta - Ref 960,Francisco Tzul,+502 45819753,Alta Verapaz,Santa Catalina La Tinta
+PROV_GT16_0960,Transportes Raxruhá - Ref 961,Carlos Guzmán,+502 47802491,Alta Verapaz,Raxruhá
+PROV_GT17_0961,Autobuses Flores - Ref 962,Rosa Hernández,+502 45427642,Petén,Flores
+PROV_GT17_0962,Lancheros Unidos San José - Ref 963,Diego Pérez,+502 55805044,Petén,San José
+PROV_GT17_0963,Fleteros del Altiplano San Benito - Ref 964,Diego Marroquín,+502 46749214,Petén,San Benito
+PROV_GT17_0964,Cooperativa de Transportistas San Andrés - Ref 965,Carlos López,+502 44576893,Petén,San Andrés
+PROV_GT17_0965,Rápidos de Occidente La Libertad - Ref 966,Luisa Yax,+502 46903761,Petén,La Libertad
+PROV_GT17_0966,Shuttles San Francisco - Ref 967,Juan Guzmán,+502 45319698,Petén,San Francisco
+PROV_GT17_0967,Taxis del Centro Santa Ana - Ref 968,Rosa Jax,+502 43546116,Petén,Santa Ana
+PROV_GT17_0968,Transportes Dolores - Ref 969,Esteban Méndez,+502 44397445,Petén,Dolores
+PROV_GT17_0969,Autobuses San Luis - Ref 970,José López,+502 55475974,Petén,San Luis
+PROV_GT17_0970,Lancheros Unidos Sayaxché - Ref 971,Juan López,+502 46877960,Petén,Sayaxché
+PROV_GT17_0971,Fleteros del Altiplano Melchor de Mencos - Ref 972,Pedro Yax,+502 42727412,Petén,Melchor de Mencos
+PROV_GT17_0972,Cooperativa de Transportistas Poptún - Ref 973,José Batz,+502 58286062,Petén,Poptún
+PROV_GT17_0973,Rápidos de Occidente Las Cruces - Ref 974,Carlos Marroquín,+502 47203074,Petén,Las Cruces
+PROV_GT17_0974,Shuttles El Chal - Ref 975,Francisco Chaj,+502 40806398,Petén,El Chal
+PROV_GT18_0975,Taxis del Centro Puerto Barrios - Ref 976,Diego Chaj,+502 50529837,Izabal,Puerto Barrios
+PROV_GT18_0976,Transportes Lívingston - Ref 977,Juan Yax,+502 46259295,Izabal,Lívingston
+PROV_GT18_0977,Autobuses El Estor - Ref 978,Carlos Cabrera,+502 49439067,Izabal,El Estor
+PROV_GT18_0978,Lancheros Unidos Morales - Ref 979,Juan Yax,+502 43859673,Izabal,Morales
+PROV_GT18_0979,Fleteros del Altiplano Los Amates - Ref 980,Juana Cox,+502 43367182,Izabal,Los Amates
+PROV_GT19_0980,Cooperativa de Transportistas Zacapa - Ref 981,Diego Jax,+502 56313201,Zacapa,Zacapa
+PROV_GT19_0981,Rápidos de Occidente Estanzuela - Ref 982,Pedro Hernández,+502 51009588,Zacapa,Estanzuela
+PROV_GT19_0982,Shuttles Río Hondo - Ref 983,Elena Yax,+502 59496943,Zacapa,Río Hondo
+PROV_GT19_0983,Taxis del Centro Gualán - Ref 984,Francisco Tzul,+502 52541265,Zacapa,Gualán
+PROV_GT19_0984,Transportes Teculután - Ref 985,Pedro Tzoc,+502 47305766,Zacapa,Teculután
+PROV_GT19_0985,Autobuses Usumatlán - Ref 986,María Gómez,+502 59424223,Zacapa,Usumatlán
+PROV_GT19_0986,Lancheros Unidos Cabañas - Ref 987,María Guzmán,+502 58923839,Zacapa,Cabañas
+PROV_GT19_0987,Fleteros del Altiplano San Diego - Ref 988,Carlos Guzmán,+502 40278596,Zacapa,San Diego
+PROV_GT19_0988,Cooperativa de Transportistas La Unión - Ref 989,Tomasa Marroquín,+502 41021336,Zacapa,La Unión
+PROV_GT19_0989,Rápidos de Occidente Huité - Ref 990,Carlos Chaj,+502 47626289,Zacapa,Huité
+PROV_GT19_0990,Shuttles San Jorge - Ref 991,Diego Cox,+502 57145199,Zacapa,San Jorge
+PROV_GT20_0991,Taxis del Centro Chiquimula - Ref 992,Luisa Marroquín,+502 49311040,Chiquimula,Chiquimula
+PROV_GT20_0992,Transportes San José La Arada - Ref 993,Miguel Tzul,+502 50033747,Chiquimula,San José La Arada
+PROV_GT20_0993,Autobuses San Juan Ermita - Ref 994,Francisco Pérez,+502 49667846,Chiquimula,San Juan Ermita
+PROV_GT20_0994,Lancheros Unidos Jocotán - Ref 995,Carlos López,+502 50284807,Chiquimula,Jocotán
+PROV_GT20_0995,Fleteros del Altiplano Camotán - Ref 996,Francisco Tzul,+502 45609617,Chiquimula,Camotán
+PROV_GT20_0996,Cooperativa de Transportistas Olopa - Ref 997,Diego Hernández,+502 58332959,Chiquimula,Olopa
+PROV_GT20_0997,Rápidos de Occidente Esquipulas - Ref 998,José Gómez,+502 58482540,Chiquimula,Esquipulas
+PROV_GT20_0998,Shuttles Concepción Las Minas - Ref 999,Juan López,+502 57806908,Chiquimula,Concepción Las Minas
+PROV_GT20_0999,Taxis del Centro Quezaltepeque - Ref 1000,Manuel Guzmán,+502 55608864,Chiquimula,Quezaltepeque
+PROV_GT20_1000,Transportes San Jacinto - Ref 1001,Miguel Méndez,+502 45814552,Chiquimula,San Jacinto
+PROV_GT20_1001,Autobuses Ipala - Ref 1002,Carlos Guzmán,+502 57247137,Chiquimula,Ipala
+PROV_GT21_1002,Lancheros Unidos Jalapa - Ref 1003,Juan López,+502 57759324,Jalapa,Jalapa
+PROV_GT21_1003,Fleteros del Altiplano San Pedro Pinula - Ref 1004,Manuel Cox,+502 42162772,Jalapa,San Pedro Pinula
+PROV_GT21_1004,Cooperativa de Transportistas San Luis Jilotepeque - Ref 1005,Esteban Guzmán,+502 43804294,Jalapa,San Luis Jilotepeque
+PROV_GT21_1005,Rápidos de Occidente San Manuel Chaparrón - Ref 1006,Pedro López,+502 55453132,Jalapa,San Manuel Chaparrón
+PROV_GT21_1006,Shuttles San Carlos Alzatate - Ref 1007,José Jax,+502 47383436,Jalapa,San Carlos Alzatate
+PROV_GT21_1007,Taxis del Centro Monjas - Ref 1008,Esteban Hernández,+502 53268997,Jalapa,Monjas
+PROV_GT21_1008,Transportes Mataquescuintla - Ref 1009,Diego Tzul,+502 49421537,Jalapa,Mataquescuintla
+PROV_GT22_1009,Autobuses Jutiapa - Ref 1010,Rosa López,+502 58501729,Jutiapa,Jutiapa
+PROV_GT22_1010,Lancheros Unidos El Progreso - Ref 1011,Pedro Pérez,+502 56891026,Jutiapa,El Progreso
+PROV_GT22_1011,Fleteros del Altiplano Santa Catarina Mita - Ref 1012,Luisa López,+502 40561337,Jutiapa,Santa Catarina Mita
+PROV_GT22_1012,Cooperativa de Transportistas Agua Blanca - Ref 1013,Juan Yax,+502 56246350,Jutiapa,Agua Blanca
+PROV_GT22_1013,Rápidos de Occidente Asunción Mita - Ref 1014,María Tzul,+502 50534030,Jutiapa,Asunción Mita
+PROV_GT22_1014,Shuttles Yupiltepeque - Ref 1015,Luisa López,+502 53261358,Jutiapa,Yupiltepeque
+PROV_GT22_1015,Taxis del Centro Atescatempa - Ref 1016,Rosa López,+502 59383553,Jutiapa,Atescatempa
+PROV_GT22_1016,Transportes Jerez - Ref 1017,Rosa Cabrera,+502 50686520,Jutiapa,Jerez
+PROV_GT22_1017,Autobuses El Adelanto - Ref 1018,Tomasa Cabrera,+502 49295715,Jutiapa,El Adelanto
+PROV_GT22_1018,Lancheros Unidos Zapotitlán - Ref 1019,Juan Hernández,+502 52428025,Jutiapa,Zapotitlán
+PROV_GT22_1019,Fleteros del Altiplano Comapa - Ref 1020,Carlos Guzmán,+502 53187541,Jutiapa,Comapa
