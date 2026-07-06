@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-"""Ejecuta procesos BI del esquema turismo.
-
+"""
 Este script no reemplaza Flyway. Primero se aplican migraciones; luego se usa
 para refrescar dimensiones, hechos, validaciones y datamarts.
 """

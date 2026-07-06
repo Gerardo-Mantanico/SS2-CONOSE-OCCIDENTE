@@ -2,8 +2,6 @@
 -- Flyway migration: V20260705111500__crear_staging_y_control_etl_turismo.sql
 -- Motor: PostgreSQL
 -- Esquema: turismo
--- Convencion del proyecto: todos los objetos van calificados con turismo.<objeto>; no se usa search_path.
--- Objetivo: crear zona staging y control de procesos ETL/ELT
 -- ============================================================
 
 
