@@ -1,0 +1,1021 @@
+destino_nombre,parada_cercana,tipo_transporte_codigo,distancia_parada_km,costo_traslado_local_q,tiempo_traslado_minutos
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 1,TUC_TUC,11.22,17.76,44
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 2,EXTRAURBANO,11.38,35.01,30
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 3,LANCHA,5.28,49.35,24
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 4,FLETERO,14.07,36.53,44
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 5,SHUTTLE,5.75,21.1,18
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 6,TAXI,12.27,26.44,60
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 7,TUC_TUC,11.63,13.65,57
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 8,EXTRAURBANO,12.64,9.07,43
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 9,LANCHA,4.47,24.19,15
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 10,FLETERO,10.7,42.76,31
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 11,SHUTTLE,12.95,16.54,38
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 12,TAXI,1.89,12.98,7
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 13,TUC_TUC,2.0,25.96,5
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 14,EXTRAURBANO,1.58,22.48,6
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 15,LANCHA,4.33,48.5,13
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 16,FLETERO,2.25,26.77,7
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 17,SHUTTLE,9.7,24.3,34
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 18,TAXI,9.6,17.8,41
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 19,TUC_TUC,8.92,25.62,43
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 20,EXTRAURBANO,10.77,27.22,38
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 21,LANCHA,13.31,36.35,55
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 22,FLETERO,13.94,25.58,67
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 23,SHUTTLE,6.63,17.53,23
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 24,TAXI,5.05,36.46,24
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 25,TUC_TUC,10.8,48.33,50
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 26,EXTRAURBANO,11.83,22.66,47
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 27,LANCHA,13.93,21.44,41
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 28,FLETERO,6.3,12.03,19
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 29,SHUTTLE,13.95,21.82,36
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 30,TAXI,11.41,24.81,48
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 31,TUC_TUC,12.63,45.74,53
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 32,EXTRAURBANO,7.67,37.13,19
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 33,LANCHA,14.29,23.58,40
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 34,FLETERO,6.6,28.81,16
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 35,SHUTTLE,6.93,49.47,20
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 36,TAXI,6.13,42.56,24
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 37,TUC_TUC,9.44,39.46,31
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 38,EXTRAURBANO,0.58,32.24,2
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 39,LANCHA,8.59,40.85,23
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 40,FLETERO,10.93,42.37,29
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 41,SHUTTLE,6.48,25.14,19
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 42,TAXI,6.77,46.05,26
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 43,TUC_TUC,9.19,12.1,44
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 44,EXTRAURBANO,2.98,17.3,11
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 45,LANCHA,7.75,42.5,21
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 46,FLETERO,2.17,11.87,8
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 47,SHUTTLE,13.72,13.96,38
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 48,TAXI,8.49,6.42,40
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 49,TUC_TUC,1.78,19.5,8
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 50,EXTRAURBANO,10.35,22.84,33
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 51,LANCHA,11.2,7.96,50
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 52,FLETERO,6.84,34.69,18
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 53,SHUTTLE,3.74,43.79,17
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 54,TAXI,7.64,40.9,29
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 55,TUC_TUC,8.38,39.67,39
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 56,EXTRAURBANO,12.8,13.56,44
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 57,LANCHA,1.98,36.05,7
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 58,FLETERO,8.61,11.79,40
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 59,SHUTTLE,7.6,48.92,36
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 60,TAXI,12.54,25.04,58
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 61,TUC_TUC,5.99,46.1,17
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 62,EXTRAURBANO,1.55,23.95,6
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 63,LANCHA,6.88,37.64,25
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 64,FLETERO,14.56,30.28,38
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 65,SHUTTLE,2.49,21.45,11
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 66,TAXI,0.73,25.1,2
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 67,TUC_TUC,8.0,8.92,31
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 68,EXTRAURBANO,1.3,38.16,3
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 69,LANCHA,3.43,5.67,12
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 70,FLETERO,13.26,37.57,39
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 71,SHUTTLE,13.48,45.07,64
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 72,TAXI,4.78,27.71,23
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 73,TUC_TUC,3.36,17.45,11
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 74,EXTRAURBANO,4.09,27.2,17
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 75,LANCHA,5.23,32.97,23
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 76,FLETERO,3.31,29.53,14
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 77,SHUTTLE,7.7,24.28,29
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 78,TAXI,6.51,38.36,17
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 79,TUC_TUC,14.24,16.64,66
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 80,EXTRAURBANO,6.61,39.66,32
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 81,LANCHA,0.94,35.72,3
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 82,FLETERO,14.12,43.01,39
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 83,SHUTTLE,2.96,8.83,13
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 84,TAXI,7.16,30.49,24
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 85,TUC_TUC,12.44,23.63,50
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 86,EXTRAURBANO,6.74,35.44,24
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 87,LANCHA,2.61,22.06,9
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 88,FLETERO,5.8,33.76,17
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 89,SHUTTLE,7.88,8.53,39
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 90,TAXI,10.29,27.16,28
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 91,TUC_TUC,10.39,11.78,38
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 92,EXTRAURBANO,13.02,18.95,53
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 93,LANCHA,1.38,43.92,6
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 94,FLETERO,3.35,29.91,11
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 95,SHUTTLE,11.76,45.29,57
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 96,TAXI,2.59,14.04,7
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 97,TUC_TUC,9.69,35.11,38
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 98,EXTRAURBANO,12.77,32.17,56
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 99,LANCHA,7.07,45.35,34
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 100,FLETERO,1.9,43.79,5
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 101,SHUTTLE,13.76,19.32,37
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 102,TAXI,6.95,39.1,33
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 103,TUC_TUC,14.06,38.68,35
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 104,EXTRAURBANO,1.51,49.17,4
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 105,LANCHA,4.57,38.65,22
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 106,FLETERO,8.29,12.26,35
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 107,SHUTTLE,6.28,44.25,21
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 108,TAXI,4.18,11.09,14
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 109,TUC_TUC,13.19,27.91,61
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 110,EXTRAURBANO,2.71,23.36,9
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 111,LANCHA,13.59,20.64,64
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 112,FLETERO,13.16,43.13,49
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 113,SHUTTLE,5.35,42.64,21
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 114,TAXI,10.11,26.69,43
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 115,TUC_TUC,9.67,36.0,37
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 116,EXTRAURBANO,5.5,19.6,25
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 117,LANCHA,6.11,10.33,25
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 118,FLETERO,3.27,13.71,15
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 119,SHUTTLE,8.88,39.56,34
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 120,TAXI,3.56,29.79,15
+Volcán de Pacaya,Estación Central de Tuc-tuc cerca de Volcán de Pacaya - Ref 121,TUC_TUC,15.0,46.88,72
+Monterrico,Estación Central de Autobús extraurbano cerca de Monterrico - Ref 122,EXTRAURBANO,3.86,38.31,12
+Parque Nacional Sipacate-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Sipacate-Naranjo - Ref 123,LANCHA,4.52,22.61,19
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Microbús / Fletero cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 124,FLETERO,9.66,9.07,46
+Parques Xetulul y Xocomil,Estación Central de Shuttle turístico cerca de Parques Xetulul y Xocomil - Ref 125,SHUTTLE,8.84,21.35,27
+Puerto San José,Estación Central de Taxi local cerca de Puerto San José - Ref 126,TAXI,7.65,22.31,29
+Playa Tilapa,Estación Central de Tuc-tuc cerca de Playa Tilapa - Ref 127,TUC_TUC,11.73,21.79,45
+Fuentes Georginas,Estación Central de Autobús extraurbano cerca de Fuentes Georginas - Ref 128,EXTRAURBANO,14.59,49.57,40
+Centro Histórico de Quetzaltenango,Estación Central de Lancha colectiva cerca de Centro Histórico de Quetzaltenango - Ref 129,LANCHA,12.69,9.15,61
+Volcán Tajumulco,Estación Central de Microbús / Fletero cerca de Volcán Tajumulco - Ref 130,FLETERO,9.0,47.04,30
+Laguna Brava,Estación Central de Shuttle turístico cerca de Laguna Brava - Ref 131,SHUTTLE,4.47,39.68,19
+Cenotes de Candelaria,Estación Central de Taxi local cerca de Cenotes de Candelaria - Ref 132,TAXI,11.74,39.97,52
+Todos Santos Cuchumatán,Estación Central de Tuc-tuc cerca de Todos Santos Cuchumatán - Ref 133,TUC_TUC,0.81,16.69,3
+Nebaj,Estación Central de Autobús extraurbano cerca de Nebaj - Ref 134,EXTRAURBANO,3.59,48.36,11
+Museo Nacional de Arqueología y Etnología,Estación Central de Lancha colectiva cerca de Museo Nacional de Arqueología y Etnología - Ref 135,LANCHA,6.68,6.28,28
+Kaminaljuyú,Estación Central de Microbús / Fletero cerca de Kaminaljuyú - Ref 136,FLETERO,13.7,20.67,51
+Zoológico La Aurora,Estación Central de Shuttle turístico cerca de Zoológico La Aurora - Ref 137,SHUTTLE,2.64,32.66,6
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Taxi local cerca de Centro Histórico de la Ciudad de Guatemala - Ref 138,TAXI,8.3,41.1,29
+Mixco Viejo,Estación Central de Tuc-tuc cerca de Mixco Viejo - Ref 139,TUC_TUC,7.93,25.29,27
+Volcán Acatenango,Estación Central de Autobús extraurbano cerca de Volcán Acatenango - Ref 140,EXTRAURBANO,12.68,12.87,34
+Volcán de Agua,Estación Central de Lancha colectiva cerca de Volcán de Agua - Ref 141,LANCHA,9.72,41.08,33
+Hobbitenango,Estación Central de Microbús / Fletero cerca de Hobbitenango - Ref 142,FLETERO,3.09,16.64,13
+Museo Miraflores,Estación Central de Shuttle turístico cerca de Museo Miraflores - Ref 143,SHUTTLE,12.67,18.39,60
+Reserva de Biosfera Sierra de las Minas,Estación Central de Taxi local cerca de Reserva de Biosfera Sierra de las Minas - Ref 144,TAXI,8.4,40.76,39
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Tuc-tuc cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 145,TUC_TUC,14.18,36.97,61
+Volcán y Laguna de Ipala,Estación Central de Autobús extraurbano cerca de Volcán y Laguna de Ipala - Ref 146,EXTRAURBANO,12.75,40.55,33
+Lago de Güija,Estación Central de Lancha colectiva cerca de Lago de Güija - Ref 147,LANCHA,8.84,38.85,24
+Volcán Suchitán,Estación Central de Microbús / Fletero cerca de Volcán Suchitán - Ref 148,FLETERO,0.56,20.28,2
+Playa Blanca,Estación Central de Shuttle turístico cerca de Playa Blanca - Ref 149,SHUTTLE,14.12,5.69,65
+Laguna Lachuá,Estación Central de Taxi local cerca de Laguna Lachuá - Ref 150,TAXI,12.78,12.91,37
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 151,TUC_TUC,12.15,18.29,54
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 152,EXTRAURBANO,5.99,43.0,16
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 153,LANCHA,14.91,8.99,42
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 154,FLETERO,10.69,5.54,43
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 155,SHUTTLE,4.14,45.0,12
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 156,TAXI,12.21,8.8,32
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 157,TUC_TUC,11.19,19.1,42
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 158,EXTRAURBANO,8.84,16.76,23
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 159,LANCHA,0.7,41.33,2
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 160,FLETERO,11.88,5.98,41
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 161,SHUTTLE,11.34,36.78,47
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 162,TAXI,11.93,8.08,49
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 163,TUC_TUC,6.74,8.98,17
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 164,EXTRAURBANO,8.66,15.46,26
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 165,LANCHA,7.68,7.65,23
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 166,FLETERO,10.39,9.5,40
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 167,SHUTTLE,5.83,34.53,19
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 168,TAXI,13.37,37.95,51
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 169,TUC_TUC,12.98,16.54,40
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 170,EXTRAURBANO,11.17,33.03,40
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 171,LANCHA,1.9,31.82,7
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 172,FLETERO,8.35,22.94,33
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 173,SHUTTLE,2.03,11.56,8
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 174,TAXI,13.47,40.25,56
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 175,TUC_TUC,3.95,5.06,16
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 176,EXTRAURBANO,7.43,8.06,24
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 177,LANCHA,7.71,40.55,30
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 178,FLETERO,14.72,24.61,47
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 179,SHUTTLE,13.46,25.01,55
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 180,TAXI,1.24,38.52,5
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 181,TUC_TUC,6.28,8.03,29
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 182,EXTRAURBANO,11.09,40.18,54
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 183,LANCHA,10.87,30.78,43
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 184,FLETERO,4.49,34.13,15
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 185,SHUTTLE,9.2,24.93,24
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 186,TAXI,9.83,6.29,31
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 187,TUC_TUC,6.83,24.36,34
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 188,EXTRAURBANO,3.35,25.35,15
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 189,LANCHA,10.64,13.33,33
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 190,FLETERO,10.19,17.61,39
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 191,SHUTTLE,10.13,28.27,45
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 192,TAXI,3.93,49.64,16
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 193,TUC_TUC,3.48,41.36,13
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 194,EXTRAURBANO,5.22,25.83,21
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 195,LANCHA,4.25,8.33,13
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 196,FLETERO,1.28,10.6,5
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 197,SHUTTLE,13.71,9.67,57
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 198,TAXI,6.45,40.1,27
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 199,TUC_TUC,8.32,38.61,32
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 200,EXTRAURBANO,10.14,45.1,37
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 201,LANCHA,14.91,23.6,37
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 202,FLETERO,7.94,25.77,27
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 203,SHUTTLE,12.64,49.8,55
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 204,TAXI,4.95,15.53,24
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 205,TUC_TUC,3.86,22.05,15
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 206,EXTRAURBANO,10.7,44.31,49
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 207,LANCHA,9.31,46.85,40
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 208,FLETERO,4.67,23.05,18
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 209,SHUTTLE,11.59,13.8,34
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 210,TAXI,9.6,21.63,42
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 211,TUC_TUC,3.75,30.32,18
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 212,EXTRAURBANO,8.71,48.62,30
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 213,LANCHA,6.81,29.71,18
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 214,FLETERO,5.75,49.37,16
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 215,SHUTTLE,6.56,26.57,29
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 216,TAXI,5.79,18.43,19
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 217,TUC_TUC,2.88,23.22,12
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 218,EXTRAURBANO,10.41,29.38,50
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 219,LANCHA,8.17,26.57,37
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 220,FLETERO,8.63,37.49,26
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 221,SHUTTLE,8.35,25.27,36
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 222,TAXI,7.5,38.23,34
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 223,TUC_TUC,0.59,49.45,2
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 224,EXTRAURBANO,13.44,29.05,47
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 225,LANCHA,1.88,13.67,9
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 226,FLETERO,9.36,23.28,37
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 227,SHUTTLE,8.85,48.83,22
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 228,TAXI,0.79,39.14,3
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 229,TUC_TUC,5.16,6.2,19
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 230,EXTRAURBANO,5.59,40.86,25
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 231,LANCHA,11.96,12.05,52
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 232,FLETERO,3.14,15.32,11
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 233,SHUTTLE,7.89,5.72,32
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 234,TAXI,3.42,22.57,10
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 235,TUC_TUC,11.78,38.03,45
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 236,EXTRAURBANO,7.44,17.85,20
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 237,LANCHA,1.64,21.57,6
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 238,FLETERO,3.96,17.1,13
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 239,SHUTTLE,2.43,40.0,12
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 240,TAXI,11.53,47.42,49
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 241,TUC_TUC,5.12,16.4,20
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 242,EXTRAURBANO,12.15,22.5,52
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 243,LANCHA,8.39,23.08,22
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 244,FLETERO,6.09,7.71,16
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 245,SHUTTLE,0.89,39.74,3
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 246,TAXI,11.38,26.14,42
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 247,TUC_TUC,2.15,34.94,8
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 248,EXTRAURBANO,13.87,6.36,44
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 249,LANCHA,3.33,20.79,12
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 250,FLETERO,1.56,22.66,5
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 251,SHUTTLE,10.23,31.86,37
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 252,TAXI,9.73,18.43,33
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 253,TUC_TUC,8.26,37.94,21
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 254,EXTRAURBANO,12.02,38.56,35
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 255,LANCHA,6.77,18.95,17
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 256,FLETERO,14.92,37.73,48
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 257,SHUTTLE,8.34,22.08,23
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 258,TAXI,10.97,30.24,45
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 259,TUC_TUC,10.18,41.98,48
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 260,EXTRAURBANO,6.08,20.18,28
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 261,LANCHA,8.19,8.22,31
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 262,FLETERO,4.78,17.87,15
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 263,SHUTTLE,1.65,41.78,8
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 264,TAXI,5.53,29.97,17
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 265,TUC_TUC,9.57,17.42,43
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 266,EXTRAURBANO,3.72,22.87,18
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 267,LANCHA,7.81,16.95,29
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 268,FLETERO,4.78,45.72,22
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 269,SHUTTLE,3.09,27.55,12
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 270,TAXI,7.52,13.93,36
+Volcán de Pacaya,Estación Central de Tuc-tuc cerca de Volcán de Pacaya - Ref 271,TUC_TUC,4.26,34.96,19
+Monterrico,Estación Central de Autobús extraurbano cerca de Monterrico - Ref 272,EXTRAURBANO,14.64,18.41,55
+Parque Nacional Sipacate-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Sipacate-Naranjo - Ref 273,LANCHA,4.45,26.43,21
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Microbús / Fletero cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 274,FLETERO,14.07,8.39,47
+Parques Xetulul y Xocomil,Estación Central de Shuttle turístico cerca de Parques Xetulul y Xocomil - Ref 275,SHUTTLE,7.28,44.51,29
+Puerto San José,Estación Central de Taxi local cerca de Puerto San José - Ref 276,TAXI,10.83,36.81,44
+Playa Tilapa,Estación Central de Tuc-tuc cerca de Playa Tilapa - Ref 277,TUC_TUC,0.55,34.39,2
+Fuentes Georginas,Estación Central de Autobús extraurbano cerca de Fuentes Georginas - Ref 278,EXTRAURBANO,5.63,15.35,24
+Centro Histórico de Quetzaltenango,Estación Central de Lancha colectiva cerca de Centro Histórico de Quetzaltenango - Ref 279,LANCHA,11.3,27.73,41
+Volcán Tajumulco,Estación Central de Microbús / Fletero cerca de Volcán Tajumulco - Ref 280,FLETERO,12.63,25.2,56
+Laguna Brava,Estación Central de Shuttle turístico cerca de Laguna Brava - Ref 281,SHUTTLE,6.36,44.85,18
+Cenotes de Candelaria,Estación Central de Taxi local cerca de Cenotes de Candelaria - Ref 282,TAXI,7.84,34.3,27
+Todos Santos Cuchumatán,Estación Central de Tuc-tuc cerca de Todos Santos Cuchumatán - Ref 283,TUC_TUC,8.84,8.36,29
+Nebaj,Estación Central de Autobús extraurbano cerca de Nebaj - Ref 284,EXTRAURBANO,2.67,5.05,7
+Museo Nacional de Arqueología y Etnología,Estación Central de Lancha colectiva cerca de Museo Nacional de Arqueología y Etnología - Ref 285,LANCHA,10.47,6.06,48
+Kaminaljuyú,Estación Central de Microbús / Fletero cerca de Kaminaljuyú - Ref 286,FLETERO,3.06,47.35,13
+Zoológico La Aurora,Estación Central de Shuttle turístico cerca de Zoológico La Aurora - Ref 287,SHUTTLE,7.04,37.9,26
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Taxi local cerca de Centro Histórico de la Ciudad de Guatemala - Ref 288,TAXI,0.94,15.72,2
+Mixco Viejo,Estación Central de Tuc-tuc cerca de Mixco Viejo - Ref 289,TUC_TUC,3.62,11.27,9
+Volcán Acatenango,Estación Central de Autobús extraurbano cerca de Volcán Acatenango - Ref 290,EXTRAURBANO,12.31,5.32,57
+Volcán de Agua,Estación Central de Lancha colectiva cerca de Volcán de Agua - Ref 291,LANCHA,5.03,8.1,23
+Hobbitenango,Estación Central de Microbús / Fletero cerca de Hobbitenango - Ref 292,FLETERO,2.94,25.61,13
+Museo Miraflores,Estación Central de Shuttle turístico cerca de Museo Miraflores - Ref 293,SHUTTLE,7.69,34.74,36
+Reserva de Biosfera Sierra de las Minas,Estación Central de Taxi local cerca de Reserva de Biosfera Sierra de las Minas - Ref 294,TAXI,5.88,17.46,15
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Tuc-tuc cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 295,TUC_TUC,9.01,34.94,35
+Volcán y Laguna de Ipala,Estación Central de Autobús extraurbano cerca de Volcán y Laguna de Ipala - Ref 296,EXTRAURBANO,5.27,45.72,18
+Lago de Güija,Estación Central de Lancha colectiva cerca de Lago de Güija - Ref 297,LANCHA,2.57,30.94,7
+Volcán Suchitán,Estación Central de Microbús / Fletero cerca de Volcán Suchitán - Ref 298,FLETERO,7.65,16.76,19
+Playa Blanca,Estación Central de Shuttle turístico cerca de Playa Blanca - Ref 299,SHUTTLE,1.84,44.03,7
+Laguna Lachuá,Estación Central de Taxi local cerca de Laguna Lachuá - Ref 300,TAXI,5.14,9.09,20
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 301,TUC_TUC,10.65,35.01,29
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 302,EXTRAURBANO,11.03,6.0,47
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 303,LANCHA,4.19,22.49,10
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 304,FLETERO,14.68,11.51,55
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 305,SHUTTLE,14.6,13.07,69
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 306,TAXI,6.43,7.63,27
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 307,TUC_TUC,2.17,22.42,7
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 308,EXTRAURBANO,3.68,9.51,15
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 309,LANCHA,7.2,14.76,31
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 310,FLETERO,5.15,25.28,18
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 311,SHUTTLE,12.29,30.67,48
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 312,TAXI,6.09,23.02,18
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 313,TUC_TUC,5.83,24.79,18
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 314,EXTRAURBANO,11.06,33.7,47
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 315,LANCHA,4.88,42.92,24
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 316,FLETERO,0.9,14.87,3
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 317,SHUTTLE,3.42,16.4,13
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 318,TAXI,6.36,47.82,28
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 319,TUC_TUC,2.97,7.01,13
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 320,EXTRAURBANO,5.95,15.95,19
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 321,LANCHA,8.53,17.09,35
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 322,FLETERO,10.81,10.71,49
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 323,SHUTTLE,3.25,19.55,8
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 324,TAXI,10.68,26.35,37
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 325,TUC_TUC,5.3,36.47,23
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 326,EXTRAURBANO,11.91,36.3,45
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 327,LANCHA,1.79,34.63,4
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 328,FLETERO,11.67,30.45,40
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 329,SHUTTLE,14.26,20.16,48
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 330,TAXI,2.64,15.1,9
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 331,TUC_TUC,5.01,49.12,23
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 332,EXTRAURBANO,2.69,19.55,7
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 333,LANCHA,8.82,29.33,34
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 334,FLETERO,12.28,42.63,43
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 335,SHUTTLE,3.32,26.41,9
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 336,TAXI,7.55,15.2,24
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 337,TUC_TUC,9.0,38.09,43
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 338,EXTRAURBANO,7.44,21.28,31
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 339,LANCHA,11.42,24.61,54
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 340,FLETERO,5.58,21.57,15
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 341,SHUTTLE,1.35,28.98,4
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 342,TAXI,4.79,29.87,19
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 343,TUC_TUC,13.62,27.68,65
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 344,EXTRAURBANO,12.72,8.64,46
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 345,LANCHA,13.77,37.27,44
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 346,FLETERO,12.48,35.54,51
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 347,SHUTTLE,13.77,12.64,34
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 348,TAXI,3.94,31.1,19
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 349,TUC_TUC,13.76,23.15,40
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 350,EXTRAURBANO,14.69,24.95,51
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 351,LANCHA,12.77,25.78,55
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 352,FLETERO,9.32,31.43,41
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 353,SHUTTLE,4.07,22.21,11
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 354,TAXI,7.87,7.48,24
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 355,TUC_TUC,2.51,5.25,11
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 356,EXTRAURBANO,8.11,21.99,35
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 357,LANCHA,13.29,17.46,48
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 358,FLETERO,13.85,42.75,61
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 359,SHUTTLE,5.91,33.33,15
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 360,TAXI,12.9,28.46,55
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 361,TUC_TUC,9.9,7.69,25
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 362,EXTRAURBANO,10.4,30.04,46
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 363,LANCHA,12.19,45.91,45
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 364,FLETERO,2.72,36.91,11
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 365,SHUTTLE,11.65,43.72,52
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 366,TAXI,10.5,43.71,30
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 367,TUC_TUC,7.75,6.89,26
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 368,EXTRAURBANO,1.03,30.53,4
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 369,LANCHA,3.11,32.25,13
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 370,FLETERO,14.13,10.84,39
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 371,SHUTTLE,2.59,31.03,7
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 372,TAXI,7.88,19.15,30
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 373,TUC_TUC,7.17,30.01,35
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 374,EXTRAURBANO,5.17,41.68,23
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 375,LANCHA,3.98,17.08,14
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 376,FLETERO,6.71,7.83,19
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 377,SHUTTLE,3.84,47.88,16
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 378,TAXI,13.87,6.95,43
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 379,TUC_TUC,1.69,29.29,5
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 380,EXTRAURBANO,9.44,22.01,44
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 381,LANCHA,11.49,20.63,32
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 382,FLETERO,12.77,33.28,51
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 383,SHUTTLE,9.45,21.97,28
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 384,TAXI,6.95,49.91,21
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 385,TUC_TUC,9.4,30.17,42
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 386,EXTRAURBANO,1.44,40.33,5
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 387,LANCHA,1.37,41.69,6
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 388,FLETERO,13.63,44.04,45
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 389,SHUTTLE,8.82,16.58,26
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 390,TAXI,1.02,15.77,3
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 391,TUC_TUC,8.47,34.41,22
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 392,EXTRAURBANO,11.32,29.28,52
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 393,LANCHA,0.84,47.62,3
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 394,FLETERO,13.38,26.76,44
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 395,SHUTTLE,10.51,32.9,40
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 396,TAXI,6.35,48.52,25
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 397,TUC_TUC,7.05,21.74,33
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 398,EXTRAURBANO,4.0,35.81,11
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 399,LANCHA,5.36,45.41,23
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 400,FLETERO,0.8,9.57,2
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 401,SHUTTLE,12.49,31.71,34
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 402,TAXI,7.77,9.95,30
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 403,TUC_TUC,12.47,20.91,40
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 404,EXTRAURBANO,11.07,19.92,43
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 405,LANCHA,3.91,34.32,14
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 406,FLETERO,10.35,33.42,37
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 407,SHUTTLE,11.83,6.41,48
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 408,TAXI,13.88,9.82,34
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 409,TUC_TUC,11.8,12.47,44
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 410,EXTRAURBANO,11.82,33.65,42
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 411,LANCHA,11.28,40.82,37
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 412,FLETERO,8.01,23.97,21
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 413,SHUTTLE,9.64,42.04,25
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 414,TAXI,13.37,30.87,50
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 415,TUC_TUC,3.66,40.05,9
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 416,EXTRAURBANO,5.42,23.33,16
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 417,LANCHA,2.49,11.77,10
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 418,FLETERO,6.56,44.15,32
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 419,SHUTTLE,13.71,40.27,63
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 420,TAXI,14.18,46.29,61
+Volcán de Pacaya,Estación Central de Tuc-tuc cerca de Volcán de Pacaya - Ref 421,TUC_TUC,4.45,26.35,19
+Monterrico,Estación Central de Autobús extraurbano cerca de Monterrico - Ref 422,EXTRAURBANO,9.25,42.43,33
+Parque Nacional Sipacate-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Sipacate-Naranjo - Ref 423,LANCHA,12.59,27.52,42
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Microbús / Fletero cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 424,FLETERO,5.98,9.1,17
+Parques Xetulul y Xocomil,Estación Central de Shuttle turístico cerca de Parques Xetulul y Xocomil - Ref 425,SHUTTLE,7.58,11.39,20
+Puerto San José,Estación Central de Taxi local cerca de Puerto San José - Ref 426,TAXI,7.09,32.21,21
+Playa Tilapa,Estación Central de Tuc-tuc cerca de Playa Tilapa - Ref 427,TUC_TUC,3.76,6.31,10
+Fuentes Georginas,Estación Central de Autobús extraurbano cerca de Fuentes Georginas - Ref 428,EXTRAURBANO,3.94,35.51,11
+Centro Histórico de Quetzaltenango,Estación Central de Lancha colectiva cerca de Centro Histórico de Quetzaltenango - Ref 429,LANCHA,3.09,10.25,10
+Volcán Tajumulco,Estación Central de Microbús / Fletero cerca de Volcán Tajumulco - Ref 430,FLETERO,12.41,13.99,61
+Laguna Brava,Estación Central de Shuttle turístico cerca de Laguna Brava - Ref 431,SHUTTLE,0.96,10.06,2
+Cenotes de Candelaria,Estación Central de Taxi local cerca de Cenotes de Candelaria - Ref 432,TAXI,7.63,14.9,22
+Todos Santos Cuchumatán,Estación Central de Tuc-tuc cerca de Todos Santos Cuchumatán - Ref 433,TUC_TUC,9.94,6.79,29
+Nebaj,Estación Central de Autobús extraurbano cerca de Nebaj - Ref 434,EXTRAURBANO,4.08,41.27,11
+Museo Nacional de Arqueología y Etnología,Estación Central de Lancha colectiva cerca de Museo Nacional de Arqueología y Etnología - Ref 435,LANCHA,11.69,43.87,48
+Kaminaljuyú,Estación Central de Microbús / Fletero cerca de Kaminaljuyú - Ref 436,FLETERO,14.57,20.47,66
+Zoológico La Aurora,Estación Central de Shuttle turístico cerca de Zoológico La Aurora - Ref 437,SHUTTLE,5.49,36.87,19
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Taxi local cerca de Centro Histórico de la Ciudad de Guatemala - Ref 438,TAXI,4.23,9.36,16
+Mixco Viejo,Estación Central de Tuc-tuc cerca de Mixco Viejo - Ref 439,TUC_TUC,5.22,14.12,15
+Volcán Acatenango,Estación Central de Autobús extraurbano cerca de Volcán Acatenango - Ref 440,EXTRAURBANO,14.13,34.55,53
+Volcán de Agua,Estación Central de Lancha colectiva cerca de Volcán de Agua - Ref 441,LANCHA,14.44,6.58,68
+Hobbitenango,Estación Central de Microbús / Fletero cerca de Hobbitenango - Ref 442,FLETERO,10.01,49.03,30
+Museo Miraflores,Estación Central de Shuttle turístico cerca de Museo Miraflores - Ref 443,SHUTTLE,3.73,13.4,13
+Reserva de Biosfera Sierra de las Minas,Estación Central de Taxi local cerca de Reserva de Biosfera Sierra de las Minas - Ref 444,TAXI,2.7,15.11,7
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Tuc-tuc cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 445,TUC_TUC,10.22,7.79,46
+Volcán y Laguna de Ipala,Estación Central de Autobús extraurbano cerca de Volcán y Laguna de Ipala - Ref 446,EXTRAURBANO,2.47,20.37,7
+Lago de Güija,Estación Central de Lancha colectiva cerca de Lago de Güija - Ref 447,LANCHA,8.88,16.56,26
+Volcán Suchitán,Estación Central de Microbús / Fletero cerca de Volcán Suchitán - Ref 448,FLETERO,14.75,19.99,69
+Playa Blanca,Estación Central de Shuttle turístico cerca de Playa Blanca - Ref 449,SHUTTLE,8.26,9.4,39
+Laguna Lachuá,Estación Central de Taxi local cerca de Laguna Lachuá - Ref 450,TAXI,8.95,16.35,25
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 451,TUC_TUC,7.48,41.76,32
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 452,EXTRAURBANO,12.98,16.33,36
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 453,LANCHA,11.12,39.77,49
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 454,FLETERO,5.45,22.09,17
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 455,SHUTTLE,4.59,23.0,22
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 456,TAXI,3.85,5.05,15
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 457,TUC_TUC,9.75,40.97,34
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 458,EXTRAURBANO,6.52,17.8,32
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 459,LANCHA,5.79,11.77,27
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 460,FLETERO,6.31,32.62,16
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 461,SHUTTLE,1.34,39.21,6
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 462,TAXI,5.12,33.77,20
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 463,TUC_TUC,3.05,31.3,12
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 464,EXTRAURBANO,3.68,13.13,15
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 465,LANCHA,6.12,22.57,24
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 466,FLETERO,4.29,13.53,12
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 467,SHUTTLE,6.02,36.17,28
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 468,TAXI,13.83,12.2,57
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 469,TUC_TUC,0.58,10.31,2
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 470,EXTRAURBANO,2.29,42.75,7
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 471,LANCHA,12.96,10.43,60
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 472,FLETERO,6.22,10.85,23
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 473,SHUTTLE,2.22,18.23,6
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 474,TAXI,11.96,16.36,35
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 475,TUC_TUC,9.13,47.77,28
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 476,EXTRAURBANO,12.05,33.83,31
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 477,LANCHA,14.61,35.3,63
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 478,FLETERO,11.14,7.58,48
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 479,SHUTTLE,0.87,28.3,2
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 480,TAXI,12.22,25.18,46
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 481,TUC_TUC,10.89,35.5,45
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 482,EXTRAURBANO,3.9,49.26,12
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 483,LANCHA,10.08,18.13,45
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 484,FLETERO,2.43,6.42,8
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 485,SHUTTLE,11.93,41.39,36
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 486,TAXI,10.43,41.01,28
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 487,TUC_TUC,4.39,47.73,13
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 488,EXTRAURBANO,5.75,13.83,28
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 489,LANCHA,12.99,19.96,61
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 490,FLETERO,14.33,16.5,53
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 491,SHUTTLE,8.13,27.3,34
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 492,TAXI,3.07,32.77,11
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 493,TUC_TUC,1.3,20.59,5
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 494,EXTRAURBANO,5.96,26.64,18
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 495,LANCHA,7.38,23.37,23
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 496,FLETERO,3.03,9.69,7
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 497,SHUTTLE,7.43,25.11,34
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 498,TAXI,3.34,33.95,9
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 499,TUC_TUC,3.05,33.54,12
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 500,EXTRAURBANO,9.88,25.03,47
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 501,LANCHA,8.65,5.75,40
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 502,FLETERO,6.92,44.14,21
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 503,SHUTTLE,12.98,46.16,50
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 504,TAXI,6.64,5.11,21
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 505,TUC_TUC,6.9,39.04,33
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 506,EXTRAURBANO,9.16,10.7,24
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 507,LANCHA,8.98,43.52,26
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 508,FLETERO,14.48,32.45,38
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 509,SHUTTLE,1.88,44.96,7
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 510,TAXI,4.78,18.64,17
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 511,TUC_TUC,3.22,11.27,10
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 512,EXTRAURBANO,14.55,5.35,40
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 513,LANCHA,14.62,27.91,68
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 514,FLETERO,2.86,6.4,11
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 515,SHUTTLE,5.62,23.58,21
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 516,TAXI,10.75,30.88,34
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 517,TUC_TUC,12.09,34.61,35
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 518,EXTRAURBANO,13.48,46.86,46
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 519,LANCHA,14.91,33.04,43
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 520,FLETERO,7.53,24.21,24
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 521,SHUTTLE,8.38,46.54,39
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 522,TAXI,1.27,41.51,6
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 523,TUC_TUC,4.33,12.27,18
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 524,EXTRAURBANO,7.52,8.0,35
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 525,LANCHA,3.97,26.75,19
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 526,FLETERO,7.97,24.18,28
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 527,SHUTTLE,7.75,34.43,33
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 528,TAXI,5.68,37.75,15
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 529,TUC_TUC,12.51,7.51,37
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 530,EXTRAURBANO,13.26,16.42,35
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 531,LANCHA,8.52,19.36,29
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 532,FLETERO,1.01,45.61,3
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 533,SHUTTLE,12.26,10.63,48
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 534,TAXI,8.34,43.47,33
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 535,TUC_TUC,12.62,47.33,33
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 536,EXTRAURBANO,3.33,29.24,14
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 537,LANCHA,4.92,20.7,23
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 538,FLETERO,2.94,15.95,11
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 539,SHUTTLE,4.16,9.82,18
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 540,TAXI,13.32,42.34,47
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 541,TUC_TUC,3.41,38.5,14
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 542,EXTRAURBANO,10.06,38.81,35
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 543,LANCHA,6.4,30.71,21
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 544,FLETERO,5.51,12.71,23
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 545,SHUTTLE,6.47,47.81,22
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 546,TAXI,5.08,44.64,17
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 547,TUC_TUC,9.22,44.46,27
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 548,EXTRAURBANO,11.9,47.77,51
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 549,LANCHA,9.18,10.2,36
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 550,FLETERO,14.76,7.73,65
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 551,SHUTTLE,6.18,27.85,24
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 552,TAXI,0.94,42.05,4
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 553,TUC_TUC,6.82,23.69,33
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 554,EXTRAURBANO,7.03,12.28,24
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 555,LANCHA,2.15,6.16,9
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 556,FLETERO,9.64,16.26,36
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 557,SHUTTLE,11.45,11.86,46
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 558,TAXI,13.59,49.44,42
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 559,TUC_TUC,4.29,5.19,17
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 560,EXTRAURBANO,5.52,49.69,18
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 561,LANCHA,6.69,18.61,28
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 562,FLETERO,7.2,27.49,30
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 563,SHUTTLE,13.76,23.25,35
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 564,TAXI,1.37,46.19,6
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 565,TUC_TUC,11.54,15.55,48
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 566,EXTRAURBANO,4.76,12.99,19
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 567,LANCHA,4.55,48.93,11
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 568,FLETERO,3.55,14.58,14
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 569,SHUTTLE,4.68,21.2,12
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 570,TAXI,12.03,22.41,31
+Volcán de Pacaya,Estación Central de Tuc-tuc cerca de Volcán de Pacaya - Ref 571,TUC_TUC,3.2,26.0,15
+Monterrico,Estación Central de Autobús extraurbano cerca de Monterrico - Ref 572,EXTRAURBANO,7.75,24.23,25
+Parque Nacional Sipacate-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Sipacate-Naranjo - Ref 573,LANCHA,3.38,39.42,11
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Microbús / Fletero cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 574,FLETERO,11.88,16.34,44
+Parques Xetulul y Xocomil,Estación Central de Shuttle turístico cerca de Parques Xetulul y Xocomil - Ref 575,SHUTTLE,13.48,43.25,38
+Puerto San José,Estación Central de Taxi local cerca de Puerto San José - Ref 576,TAXI,9.28,39.8,32
+Playa Tilapa,Estación Central de Tuc-tuc cerca de Playa Tilapa - Ref 577,TUC_TUC,12.45,27.72,31
+Fuentes Georginas,Estación Central de Autobús extraurbano cerca de Fuentes Georginas - Ref 578,EXTRAURBANO,14.57,38.52,36
+Centro Histórico de Quetzaltenango,Estación Central de Lancha colectiva cerca de Centro Histórico de Quetzaltenango - Ref 579,LANCHA,14.05,24.13,49
+Volcán Tajumulco,Estación Central de Microbús / Fletero cerca de Volcán Tajumulco - Ref 580,FLETERO,6.21,18.66,28
+Laguna Brava,Estación Central de Shuttle turístico cerca de Laguna Brava - Ref 581,SHUTTLE,3.05,33.38,8
+Cenotes de Candelaria,Estación Central de Taxi local cerca de Cenotes de Candelaria - Ref 582,TAXI,13.3,27.29,49
+Todos Santos Cuchumatán,Estación Central de Tuc-tuc cerca de Todos Santos Cuchumatán - Ref 583,TUC_TUC,10.36,48.34,30
+Nebaj,Estación Central de Autobús extraurbano cerca de Nebaj - Ref 584,EXTRAURBANO,9.94,32.17,44
+Museo Nacional de Arqueología y Etnología,Estación Central de Lancha colectiva cerca de Museo Nacional de Arqueología y Etnología - Ref 585,LANCHA,9.55,17.94,44
+Kaminaljuyú,Estación Central de Microbús / Fletero cerca de Kaminaljuyú - Ref 586,FLETERO,8.3,14.18,37
+Zoológico La Aurora,Estación Central de Shuttle turístico cerca de Zoológico La Aurora - Ref 587,SHUTTLE,5.48,7.62,21
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Taxi local cerca de Centro Histórico de la Ciudad de Guatemala - Ref 588,TAXI,11.87,47.02,45
+Mixco Viejo,Estación Central de Tuc-tuc cerca de Mixco Viejo - Ref 589,TUC_TUC,11.75,22.37,46
+Volcán Acatenango,Estación Central de Autobús extraurbano cerca de Volcán Acatenango - Ref 590,EXTRAURBANO,3.87,21.89,10
+Volcán de Agua,Estación Central de Lancha colectiva cerca de Volcán de Agua - Ref 591,LANCHA,14.03,23.64,52
+Hobbitenango,Estación Central de Microbús / Fletero cerca de Hobbitenango - Ref 592,FLETERO,11.13,45.92,28
+Museo Miraflores,Estación Central de Shuttle turístico cerca de Museo Miraflores - Ref 593,SHUTTLE,9.15,39.58,32
+Reserva de Biosfera Sierra de las Minas,Estación Central de Taxi local cerca de Reserva de Biosfera Sierra de las Minas - Ref 594,TAXI,3.9,30.09,11
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Tuc-tuc cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 595,TUC_TUC,12.39,24.4,41
+Volcán y Laguna de Ipala,Estación Central de Autobús extraurbano cerca de Volcán y Laguna de Ipala - Ref 596,EXTRAURBANO,8.11,9.45,38
+Lago de Güija,Estación Central de Lancha colectiva cerca de Lago de Güija - Ref 597,LANCHA,1.49,45.83,5
+Volcán Suchitán,Estación Central de Microbús / Fletero cerca de Volcán Suchitán - Ref 598,FLETERO,12.44,31.93,32
+Playa Blanca,Estación Central de Shuttle turístico cerca de Playa Blanca - Ref 599,SHUTTLE,6.98,16.21,22
+Laguna Lachuá,Estación Central de Taxi local cerca de Laguna Lachuá - Ref 600,TAXI,4.69,29.34,20
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 601,TUC_TUC,5.57,17.05,17
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 602,EXTRAURBANO,7.78,46.05,20
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 603,LANCHA,0.99,28.03,4
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 604,FLETERO,4.06,48.28,15
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 605,SHUTTLE,9.3,33.76,32
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 606,TAXI,13.24,15.18,58
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 607,TUC_TUC,4.1,7.14,11
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 608,EXTRAURBANO,2.27,7.63,10
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 609,LANCHA,12.47,49.31,32
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 610,FLETERO,8.58,35.98,24
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 611,SHUTTLE,6.49,36.7,29
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 612,TAXI,1.88,44.26,7
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 613,TUC_TUC,13.11,27.44,53
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 614,EXTRAURBANO,0.9,15.62,3
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 615,LANCHA,12.53,49.74,43
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 616,FLETERO,13.98,13.49,40
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 617,SHUTTLE,10.92,6.92,37
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 618,TAXI,10.05,15.96,37
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 619,TUC_TUC,2.32,21.87,10
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 620,EXTRAURBANO,7.07,35.81,19
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 621,LANCHA,9.45,13.02,39
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 622,FLETERO,5.73,24.5,20
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 623,SHUTTLE,14.6,6.42,67
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 624,TAXI,10.74,7.7,53
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 625,TUC_TUC,5.2,25.82,24
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 626,EXTRAURBANO,13.75,30.65,44
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 627,LANCHA,7.06,42.47,28
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 628,FLETERO,5.34,39.36,15
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 629,SHUTTLE,1.36,45.38,3
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 630,TAXI,1.03,19.48,4
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 631,TUC_TUC,8.55,23.51,35
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 632,EXTRAURBANO,10.01,40.62,49
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 633,LANCHA,12.13,19.12,48
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 634,FLETERO,1.47,45.81,6
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 635,SHUTTLE,2.94,38.61,13
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 636,TAXI,4.95,42.02,14
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 637,TUC_TUC,4.36,41.58,14
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 638,EXTRAURBANO,1.35,31.18,5
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 639,LANCHA,13.5,23.05,41
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 640,FLETERO,13.97,19.57,49
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 641,SHUTTLE,9.53,44.68,34
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 642,TAXI,10.9,12.3,44
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 643,TUC_TUC,4.99,15.03,15
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 644,EXTRAURBANO,7.38,14.06,30
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 645,LANCHA,14.88,23.36,57
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 646,FLETERO,4.36,47.21,19
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 647,SHUTTLE,14.83,37.0,73
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 648,TAXI,4.42,24.7,20
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 649,TUC_TUC,2.91,43.14,11
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 650,EXTRAURBANO,3.73,10.91,11
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 651,LANCHA,13.91,32.45,47
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 652,FLETERO,6.36,8.17,23
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 653,SHUTTLE,2.47,9.11,10
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 654,TAXI,7.57,10.71,30
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 655,TUC_TUC,5.62,26.55,18
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 656,EXTRAURBANO,5.24,6.03,21
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 657,LANCHA,1.78,21.11,7
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 658,FLETERO,6.49,17.57,23
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 659,SHUTTLE,10.06,8.26,40
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 660,TAXI,9.48,47.74,32
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 661,TUC_TUC,10.85,34.85,40
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 662,EXTRAURBANO,8.36,44.2,39
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 663,LANCHA,1.62,31.52,5
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 664,FLETERO,14.94,39.95,59
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 665,SHUTTLE,10.97,49.35,52
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 666,TAXI,11.6,25.67,56
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 667,TUC_TUC,10.36,13.46,26
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 668,EXTRAURBANO,3.16,8.66,15
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 669,LANCHA,9.22,28.65,36
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 670,FLETERO,9.62,17.54,46
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 671,SHUTTLE,7.54,27.29,29
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 672,TAXI,12.28,27.63,58
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 673,TUC_TUC,1.54,32.91,5
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 674,EXTRAURBANO,5.64,45.18,20
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 675,LANCHA,3.29,20.36,16
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 676,FLETERO,2.65,25.82,9
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 677,SHUTTLE,7.3,19.07,19
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 678,TAXI,0.89,21.5,2
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 679,TUC_TUC,14.39,40.98,49
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 680,EXTRAURBANO,5.15,16.51,18
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 681,LANCHA,1.42,37.64,7
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 682,FLETERO,3.08,6.83,10
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 683,SHUTTLE,9.25,7.37,24
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 684,TAXI,1.6,21.74,5
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 685,TUC_TUC,14.95,40.95,56
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 686,EXTRAURBANO,14.41,21.83,70
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 687,LANCHA,11.61,17.18,32
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 688,FLETERO,3.12,38.28,9
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 689,SHUTTLE,6.79,34.42,33
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 690,TAXI,13.12,22.92,49
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 691,TUC_TUC,11.6,5.55,55
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 692,EXTRAURBANO,3.92,35.9,14
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 693,LANCHA,2.23,17.36,9
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 694,FLETERO,13.01,47.62,40
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 695,SHUTTLE,14.88,33.54,71
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 696,TAXI,6.04,19.39,19
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 697,TUC_TUC,1.75,47.65,5
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 698,EXTRAURBANO,4.94,39.87,16
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 699,LANCHA,7.94,41.78,34
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 700,FLETERO,2.26,36.08,10
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 701,SHUTTLE,12.25,21.91,53
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 702,TAXI,14.24,21.43,55
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 703,TUC_TUC,10.15,35.0,50
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 704,EXTRAURBANO,1.01,8.98,4
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 705,LANCHA,2.48,40.73,9
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 706,FLETERO,14.32,13.95,69
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 707,SHUTTLE,2.07,39.86,5
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 708,TAXI,6.71,36.3,25
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 709,TUC_TUC,3.66,21.61,16
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 710,EXTRAURBANO,8.16,26.93,29
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 711,LANCHA,13.61,36.37,38
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 712,FLETERO,11.16,10.2,50
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 713,SHUTTLE,7.81,35.96,25
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 714,TAXI,4.13,5.37,14
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 715,TUC_TUC,13.69,48.57,47
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 716,EXTRAURBANO,11.49,25.39,35
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 717,LANCHA,4.3,30.04,14
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 718,FLETERO,12.16,49.13,32
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 719,SHUTTLE,2.28,45.75,9
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 720,TAXI,9.07,17.85,32
+Volcán de Pacaya,Estación Central de Tuc-tuc cerca de Volcán de Pacaya - Ref 721,TUC_TUC,8.28,15.82,28
+Monterrico,Estación Central de Autobús extraurbano cerca de Monterrico - Ref 722,EXTRAURBANO,13.44,37.7,42
+Parque Nacional Sipacate-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Sipacate-Naranjo - Ref 723,LANCHA,11.33,31.24,36
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Microbús / Fletero cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 724,FLETERO,13.44,17.25,39
+Parques Xetulul y Xocomil,Estación Central de Shuttle turístico cerca de Parques Xetulul y Xocomil - Ref 725,SHUTTLE,3.6,32.34,13
+Puerto San José,Estación Central de Taxi local cerca de Puerto San José - Ref 726,TAXI,1.15,27.91,5
+Playa Tilapa,Estación Central de Tuc-tuc cerca de Playa Tilapa - Ref 727,TUC_TUC,0.85,37.31,2
+Fuentes Georginas,Estación Central de Autobús extraurbano cerca de Fuentes Georginas - Ref 728,EXTRAURBANO,13.13,24.67,61
+Centro Histórico de Quetzaltenango,Estación Central de Lancha colectiva cerca de Centro Histórico de Quetzaltenango - Ref 729,LANCHA,1.87,20.86,8
+Volcán Tajumulco,Estación Central de Microbús / Fletero cerca de Volcán Tajumulco - Ref 730,FLETERO,7.22,42.69,32
+Laguna Brava,Estación Central de Shuttle turístico cerca de Laguna Brava - Ref 731,SHUTTLE,3.09,36.34,13
+Cenotes de Candelaria,Estación Central de Taxi local cerca de Cenotes de Candelaria - Ref 732,TAXI,13.95,26.72,53
+Todos Santos Cuchumatán,Estación Central de Tuc-tuc cerca de Todos Santos Cuchumatán - Ref 733,TUC_TUC,14.24,8.44,60
+Nebaj,Estación Central de Autobús extraurbano cerca de Nebaj - Ref 734,EXTRAURBANO,1.82,14.79,7
+Museo Nacional de Arqueología y Etnología,Estación Central de Lancha colectiva cerca de Museo Nacional de Arqueología y Etnología - Ref 735,LANCHA,9.89,19.34,28
+Kaminaljuyú,Estación Central de Microbús / Fletero cerca de Kaminaljuyú - Ref 736,FLETERO,4.84,39.1,16
+Zoológico La Aurora,Estación Central de Shuttle turístico cerca de Zoológico La Aurora - Ref 737,SHUTTLE,8.01,48.66,33
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Taxi local cerca de Centro Histórico de la Ciudad de Guatemala - Ref 738,TAXI,8.25,39.85,35
+Mixco Viejo,Estación Central de Tuc-tuc cerca de Mixco Viejo - Ref 739,TUC_TUC,8.29,38.91,36
+Volcán Acatenango,Estación Central de Autobús extraurbano cerca de Volcán Acatenango - Ref 740,EXTRAURBANO,14.24,16.58,39
+Volcán de Agua,Estación Central de Lancha colectiva cerca de Volcán de Agua - Ref 741,LANCHA,7.46,10.48,23
+Hobbitenango,Estación Central de Microbús / Fletero cerca de Hobbitenango - Ref 742,FLETERO,6.11,19.21,30
+Museo Miraflores,Estación Central de Shuttle turístico cerca de Museo Miraflores - Ref 743,SHUTTLE,9.0,9.92,30
+Reserva de Biosfera Sierra de las Minas,Estación Central de Taxi local cerca de Reserva de Biosfera Sierra de las Minas - Ref 744,TAXI,10.63,42.75,29
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Tuc-tuc cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 745,TUC_TUC,12.75,6.47,59
+Volcán y Laguna de Ipala,Estación Central de Autobús extraurbano cerca de Volcán y Laguna de Ipala - Ref 746,EXTRAURBANO,5.02,17.93,18
+Lago de Güija,Estación Central de Lancha colectiva cerca de Lago de Güija - Ref 747,LANCHA,10.35,41.49,32
+Volcán Suchitán,Estación Central de Microbús / Fletero cerca de Volcán Suchitán - Ref 748,FLETERO,4.17,23.68,10
+Playa Blanca,Estación Central de Shuttle turístico cerca de Playa Blanca - Ref 749,SHUTTLE,8.33,30.04,22
+Laguna Lachuá,Estación Central de Taxi local cerca de Laguna Lachuá - Ref 750,TAXI,6.82,47.79,22
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 751,TUC_TUC,13.38,35.42,53
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 752,EXTRAURBANO,4.74,24.98,23
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 753,LANCHA,8.9,13.75,27
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 754,FLETERO,10.98,17.71,48
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 755,SHUTTLE,2.49,5.49,10
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 756,TAXI,12.87,16.18,37
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 757,TUC_TUC,13.84,39.71,37
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 758,EXTRAURBANO,13.43,6.81,63
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 759,LANCHA,1.28,22.19,5
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 760,FLETERO,13.0,14.97,59
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 761,SHUTTLE,9.88,31.95,46
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 762,TAXI,4.28,30.51,18
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 763,TUC_TUC,7.79,42.72,36
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 764,EXTRAURBANO,12.64,40.1,36
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 765,LANCHA,13.28,26.02,46
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 766,FLETERO,6.92,26.49,24
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 767,SHUTTLE,12.34,7.31,60
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 768,TAXI,4.8,15.77,23
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 769,TUC_TUC,4.14,23.4,16
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 770,EXTRAURBANO,5.65,26.09,28
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 771,LANCHA,9.9,45.03,38
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 772,FLETERO,13.66,28.17,45
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 773,SHUTTLE,14.57,16.85,37
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 774,TAXI,6.35,40.3,20
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 775,TUC_TUC,0.96,34.51,2
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 776,EXTRAURBANO,12.98,38.28,42
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 777,LANCHA,1.72,6.33,6
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 778,FLETERO,9.12,23.99,37
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 779,SHUTTLE,6.03,36.26,27
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 780,TAXI,2.88,38.42,9
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 781,TUC_TUC,2.44,44.97,12
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 782,EXTRAURBANO,8.08,17.9,28
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 783,LANCHA,10.55,9.41,34
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 784,FLETERO,5.52,47.37,16
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 785,SHUTTLE,5.18,10.43,20
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 786,TAXI,1.59,17.93,5
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 787,TUC_TUC,2.36,32.58,10
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 788,EXTRAURBANO,9.43,25.83,28
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 789,LANCHA,14.81,10.56,72
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 790,FLETERO,12.12,35.84,52
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 791,SHUTTLE,4.45,6.13,16
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 792,TAXI,8.49,21.03,27
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 793,TUC_TUC,1.08,26.6,3
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 794,EXTRAURBANO,0.58,17.05,2
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 795,LANCHA,2.52,36.19,11
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 796,FLETERO,5.98,32.41,21
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 797,SHUTTLE,1.59,42.66,6
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 798,TAXI,6.36,43.74,16
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 799,TUC_TUC,3.94,16.5,12
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 800,EXTRAURBANO,2.22,14.57,10
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 801,LANCHA,8.13,31.39,20
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 802,FLETERO,9.49,16.36,31
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 803,SHUTTLE,4.87,35.33,13
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 804,TAXI,5.24,33.94,22
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 805,TUC_TUC,4.31,47.51,15
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 806,EXTRAURBANO,4.77,23.2,23
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 807,LANCHA,8.51,45.49,22
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 808,FLETERO,11.06,19.62,36
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 809,SHUTTLE,3.39,13.0,8
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 810,TAXI,2.64,38.95,10
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 811,TUC_TUC,13.99,14.2,68
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 812,EXTRAURBANO,7.05,7.23,23
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 813,LANCHA,10.06,34.3,28
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 814,FLETERO,2.27,49.8,8
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 815,SHUTTLE,7.55,41.3,35
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 816,TAXI,6.04,18.95,27
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 817,TUC_TUC,5.97,37.09,26
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 818,EXTRAURBANO,2.25,17.26,8
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 819,LANCHA,13.9,34.1,65
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 820,FLETERO,9.74,32.8,28
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 821,SHUTTLE,9.86,44.85,35
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 822,TAXI,3.75,21.01,9
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 823,TUC_TUC,4.13,17.48,10
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 824,EXTRAURBANO,0.5,28.08,2
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 825,LANCHA,2.5,10.66,7
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 826,FLETERO,4.07,34.54,18
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 827,SHUTTLE,7.41,32.8,35
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 828,TAXI,1.72,42.68,6
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 829,TUC_TUC,1.07,47.63,4
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 830,EXTRAURBANO,9.42,29.59,40
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 831,LANCHA,12.02,11.14,32
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 832,FLETERO,7.32,27.45,34
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 833,SHUTTLE,8.13,38.27,40
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 834,TAXI,5.87,30.77,24
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 835,TUC_TUC,12.35,19.12,36
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 836,EXTRAURBANO,9.26,5.35,31
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 837,LANCHA,4.33,26.89,13
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 838,FLETERO,11.53,27.08,54
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 839,SHUTTLE,4.52,6.88,12
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 840,TAXI,7.71,6.55,27
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 841,TUC_TUC,6.78,38.61,31
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 842,EXTRAURBANO,13.3,17.87,46
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 843,LANCHA,3.78,42.53,16
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 844,FLETERO,11.89,30.58,53
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 845,SHUTTLE,4.52,19.23,13
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 846,TAXI,3.34,46.12,9
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 847,TUC_TUC,0.77,26.02,3
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 848,EXTRAURBANO,13.04,16.33,54
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 849,LANCHA,12.71,44.11,45
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 850,FLETERO,12.28,48.69,60
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 851,SHUTTLE,5.09,44.78,17
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 852,TAXI,6.07,34.05,21
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 853,TUC_TUC,11.84,26.24,42
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 854,EXTRAURBANO,6.42,19.22,31
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 855,LANCHA,13.47,22.4,61
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 856,FLETERO,10.92,44.53,53
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 857,SHUTTLE,12.48,12.95,60
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 858,TAXI,8.02,40.82,29
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 859,TUC_TUC,4.1,22.94,13
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 860,EXTRAURBANO,11.24,34.0,51
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 861,LANCHA,6.98,22.88,23
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 862,FLETERO,7.06,28.48,32
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 863,SHUTTLE,2.69,29.64,12
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 864,TAXI,7.09,43.81,27
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 865,TUC_TUC,11.02,5.19,34
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 866,EXTRAURBANO,13.32,14.99,65
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 867,LANCHA,11.25,10.84,42
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 868,FLETERO,13.64,37.54,36
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 869,SHUTTLE,12.75,24.6,41
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 870,TAXI,11.57,14.16,48
+Volcán de Pacaya,Estación Central de Tuc-tuc cerca de Volcán de Pacaya - Ref 871,TUC_TUC,12.19,27.8,39
+Monterrico,Estación Central de Autobús extraurbano cerca de Monterrico - Ref 872,EXTRAURBANO,1.22,19.34,4
+Parque Nacional Sipacate-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Sipacate-Naranjo - Ref 873,LANCHA,10.64,23.78,52
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Microbús / Fletero cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 874,FLETERO,10.79,41.02,40
+Parques Xetulul y Xocomil,Estación Central de Shuttle turístico cerca de Parques Xetulul y Xocomil - Ref 875,SHUTTLE,4.11,6.93,15
+Puerto San José,Estación Central de Taxi local cerca de Puerto San José - Ref 876,TAXI,6.0,38.75,29
+Playa Tilapa,Estación Central de Tuc-tuc cerca de Playa Tilapa - Ref 877,TUC_TUC,3.49,17.35,9
+Fuentes Georginas,Estación Central de Autobús extraurbano cerca de Fuentes Georginas - Ref 878,EXTRAURBANO,8.23,13.62,35
+Centro Histórico de Quetzaltenango,Estación Central de Lancha colectiva cerca de Centro Histórico de Quetzaltenango - Ref 879,LANCHA,6.48,35.99,18
+Volcán Tajumulco,Estación Central de Microbús / Fletero cerca de Volcán Tajumulco - Ref 880,FLETERO,13.1,5.14,45
+Laguna Brava,Estación Central de Shuttle turístico cerca de Laguna Brava - Ref 881,SHUTTLE,13.72,42.95,47
+Cenotes de Candelaria,Estación Central de Taxi local cerca de Cenotes de Candelaria - Ref 882,TAXI,3.84,38.74,14
+Todos Santos Cuchumatán,Estación Central de Tuc-tuc cerca de Todos Santos Cuchumatán - Ref 883,TUC_TUC,7.88,46.89,36
+Nebaj,Estación Central de Autobús extraurbano cerca de Nebaj - Ref 884,EXTRAURBANO,11.84,39.3,53
+Museo Nacional de Arqueología y Etnología,Estación Central de Lancha colectiva cerca de Museo Nacional de Arqueología y Etnología - Ref 885,LANCHA,12.04,9.93,56
+Kaminaljuyú,Estación Central de Microbús / Fletero cerca de Kaminaljuyú - Ref 886,FLETERO,7.75,18.8,29
+Zoológico La Aurora,Estación Central de Shuttle turístico cerca de Zoológico La Aurora - Ref 887,SHUTTLE,1.29,25.2,4
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Taxi local cerca de Centro Histórico de la Ciudad de Guatemala - Ref 888,TAXI,14.99,19.97,52
+Mixco Viejo,Estación Central de Tuc-tuc cerca de Mixco Viejo - Ref 889,TUC_TUC,2.23,26.1,8
+Volcán Acatenango,Estación Central de Autobús extraurbano cerca de Volcán Acatenango - Ref 890,EXTRAURBANO,6.34,20.91,22
+Volcán de Agua,Estación Central de Lancha colectiva cerca de Volcán de Agua - Ref 891,LANCHA,5.4,37.14,20
+Hobbitenango,Estación Central de Microbús / Fletero cerca de Hobbitenango - Ref 892,FLETERO,7.7,11.79,24
+Museo Miraflores,Estación Central de Shuttle turístico cerca de Museo Miraflores - Ref 893,SHUTTLE,9.21,49.61,42
+Reserva de Biosfera Sierra de las Minas,Estación Central de Taxi local cerca de Reserva de Biosfera Sierra de las Minas - Ref 894,TAXI,12.21,12.41,33
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Tuc-tuc cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 895,TUC_TUC,7.98,33.18,31
+Volcán y Laguna de Ipala,Estación Central de Autobús extraurbano cerca de Volcán y Laguna de Ipala - Ref 896,EXTRAURBANO,10.71,8.4,45
+Lago de Güija,Estación Central de Lancha colectiva cerca de Lago de Güija - Ref 897,LANCHA,1.51,11.16,4
+Volcán Suchitán,Estación Central de Microbús / Fletero cerca de Volcán Suchitán - Ref 898,FLETERO,13.79,38.9,55
+Playa Blanca,Estación Central de Shuttle turístico cerca de Playa Blanca - Ref 899,SHUTTLE,14.13,39.31,49
+Laguna Lachuá,Estación Central de Taxi local cerca de Laguna Lachuá - Ref 900,TAXI,13.54,22.23,43
+Antigua Guatemala,Estación Central de Tuc-tuc cerca de Antigua Guatemala - Ref 901,TUC_TUC,11.04,17.45,50
+Parque Nacional Tikal,Estación Central de Autobús extraurbano cerca de Parque Nacional Tikal - Ref 902,EXTRAURBANO,4.45,48.32,11
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Lancha colectiva cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 903,LANCHA,12.99,44.55,47
+Sitio arqueológico El Mirador,Estación Central de Microbús / Fletero cerca de Sitio arqueológico El Mirador - Ref 904,FLETERO,12.02,12.88,35
+Uaxactún,Estación Central de Shuttle turístico cerca de Uaxactún - Ref 905,SHUTTLE,9.81,6.41,31
+Lago de Atitlán,Estación Central de Taxi local cerca de Lago de Atitlán - Ref 906,TAXI,6.52,13.19,31
+Panajachel,Estación Central de Tuc-tuc cerca de Panajachel - Ref 907,TUC_TUC,6.0,10.0,15
+San Juan La Laguna,Estación Central de Autobús extraurbano cerca de San Juan La Laguna - Ref 908,EXTRAURBANO,6.94,20.74,25
+Chichicastenango,Estación Central de Lancha colectiva cerca de Chichicastenango - Ref 909,LANCHA,14.44,39.0,41
+Iximché,Estación Central de Microbús / Fletero cerca de Iximché - Ref 910,FLETERO,14.87,37.2,56
+Parque Arqueológico Quiriguá,Estación Central de Shuttle turístico cerca de Parque Arqueológico Quiriguá - Ref 911,SHUTTLE,9.64,20.86,27
+Río Dulce,Estación Central de Taxi local cerca de Río Dulce - Ref 912,TAXI,11.22,21.25,47
+Castillo de San Felipe de Lara,Estación Central de Tuc-tuc cerca de Castillo de San Felipe de Lara - Ref 913,TUC_TUC,0.64,36.87,2
+Livingston,Estación Central de Autobús extraurbano cerca de Livingston - Ref 914,EXTRAURBANO,1.25,28.26,3
+Semuc Champey,Estación Central de Lancha colectiva cerca de Semuc Champey - Ref 915,LANCHA,6.77,9.73,22
+Cuevas de Candelaria,Estación Central de Microbús / Fletero cerca de Cuevas de Candelaria - Ref 916,FLETERO,7.15,24.26,32
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Shuttle turístico cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 917,SHUTTLE,6.07,43.8,22
+Cobán,Estación Central de Taxi local cerca de Cobán - Ref 918,TAXI,6.05,23.08,21
+Esquipulas,Estación Central de Tuc-tuc cerca de Esquipulas - Ref 919,TUC_TUC,13.57,24.27,40
+Basílica del Cristo Negro de Esquipulas,Estación Central de Autobús extraurbano cerca de Basílica del Cristo Negro de Esquipulas - Ref 920,EXTRAURBANO,10.39,40.27,36
+Volcán de Pacaya,Estación Central de Lancha colectiva cerca de Volcán de Pacaya - Ref 921,LANCHA,6.28,23.61,19
+Monterrico,Estación Central de Microbús / Fletero cerca de Monterrico - Ref 922,FLETERO,7.83,40.48,31
+Parque Nacional Sipacate-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Sipacate-Naranjo - Ref 923,SHUTTLE,14.51,31.76,43
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Taxi local cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 924,TAXI,12.96,27.05,34
+Parques Xetulul y Xocomil,Estación Central de Tuc-tuc cerca de Parques Xetulul y Xocomil - Ref 925,TUC_TUC,14.0,44.24,53
+Puerto San José,Estación Central de Autobús extraurbano cerca de Puerto San José - Ref 926,EXTRAURBANO,8.24,20.84,24
+Playa Tilapa,Estación Central de Lancha colectiva cerca de Playa Tilapa - Ref 927,LANCHA,13.63,12.53,43
+Fuentes Georginas,Estación Central de Microbús / Fletero cerca de Fuentes Georginas - Ref 928,FLETERO,12.09,26.16,42
+Centro Histórico de Quetzaltenango,Estación Central de Shuttle turístico cerca de Centro Histórico de Quetzaltenango - Ref 929,SHUTTLE,6.22,49.55,25
+Volcán Tajumulco,Estación Central de Taxi local cerca de Volcán Tajumulco - Ref 930,TAXI,10.3,8.7,32
+Laguna Brava,Estación Central de Tuc-tuc cerca de Laguna Brava - Ref 931,TUC_TUC,4.72,18.46,16
+Cenotes de Candelaria,Estación Central de Autobús extraurbano cerca de Cenotes de Candelaria - Ref 932,EXTRAURBANO,10.93,41.53,40
+Todos Santos Cuchumatán,Estación Central de Lancha colectiva cerca de Todos Santos Cuchumatán - Ref 933,LANCHA,9.19,12.76,39
+Nebaj,Estación Central de Microbús / Fletero cerca de Nebaj - Ref 934,FLETERO,7.61,26.11,36
+Museo Nacional de Arqueología y Etnología,Estación Central de Shuttle turístico cerca de Museo Nacional de Arqueología y Etnología - Ref 935,SHUTTLE,5.5,20.7,19
+Kaminaljuyú,Estación Central de Taxi local cerca de Kaminaljuyú - Ref 936,TAXI,8.37,24.01,40
+Zoológico La Aurora,Estación Central de Tuc-tuc cerca de Zoológico La Aurora - Ref 937,TUC_TUC,5.68,29.7,17
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Autobús extraurbano cerca de Centro Histórico de la Ciudad de Guatemala - Ref 938,EXTRAURBANO,13.95,17.78,58
+Mixco Viejo,Estación Central de Lancha colectiva cerca de Mixco Viejo - Ref 939,LANCHA,3.7,45.38,18
+Volcán Acatenango,Estación Central de Microbús / Fletero cerca de Volcán Acatenango - Ref 940,FLETERO,2.84,38.09,8
+Volcán de Agua,Estación Central de Shuttle turístico cerca de Volcán de Agua - Ref 941,SHUTTLE,13.29,23.61,42
+Hobbitenango,Estación Central de Taxi local cerca de Hobbitenango - Ref 942,TAXI,2.11,32.45,9
+Museo Miraflores,Estación Central de Tuc-tuc cerca de Museo Miraflores - Ref 943,TUC_TUC,10.95,43.26,30
+Reserva de Biosfera Sierra de las Minas,Estación Central de Autobús extraurbano cerca de Reserva de Biosfera Sierra de las Minas - Ref 944,EXTRAURBANO,1.88,35.49,5
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Lancha colectiva cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 945,LANCHA,1.36,38.73,4
+Volcán y Laguna de Ipala,Estación Central de Microbús / Fletero cerca de Volcán y Laguna de Ipala - Ref 946,FLETERO,3.27,21.03,10
+Lago de Güija,Estación Central de Shuttle turístico cerca de Lago de Güija - Ref 947,SHUTTLE,5.38,16.69,17
+Volcán Suchitán,Estación Central de Taxi local cerca de Volcán Suchitán - Ref 948,TAXI,10.27,23.08,28
+Playa Blanca,Estación Central de Tuc-tuc cerca de Playa Blanca - Ref 949,TUC_TUC,4.21,5.86,12
+Laguna Lachuá,Estación Central de Autobús extraurbano cerca de Laguna Lachuá - Ref 950,EXTRAURBANO,4.5,32.69,18
+Antigua Guatemala,Estación Central de Lancha colectiva cerca de Antigua Guatemala - Ref 951,LANCHA,8.52,15.64,25
+Parque Nacional Tikal,Estación Central de Microbús / Fletero cerca de Parque Nacional Tikal - Ref 952,FLETERO,12.97,46.22,57
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Shuttle turístico cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 953,SHUTTLE,5.5,31.89,16
+Sitio arqueológico El Mirador,Estación Central de Taxi local cerca de Sitio arqueológico El Mirador - Ref 954,TAXI,14.23,48.73,64
+Uaxactún,Estación Central de Tuc-tuc cerca de Uaxactún - Ref 955,TUC_TUC,8.59,49.02,23
+Lago de Atitlán,Estación Central de Autobús extraurbano cerca de Lago de Atitlán - Ref 956,EXTRAURBANO,1.25,43.04,4
+Panajachel,Estación Central de Lancha colectiva cerca de Panajachel - Ref 957,LANCHA,5.55,48.11,19
+San Juan La Laguna,Estación Central de Microbús / Fletero cerca de San Juan La Laguna - Ref 958,FLETERO,8.22,25.35,27
+Chichicastenango,Estación Central de Shuttle turístico cerca de Chichicastenango - Ref 959,SHUTTLE,2.77,6.11,12
+Iximché,Estación Central de Taxi local cerca de Iximché - Ref 960,TAXI,12.73,35.86,45
+Parque Arqueológico Quiriguá,Estación Central de Tuc-tuc cerca de Parque Arqueológico Quiriguá - Ref 961,TUC_TUC,12.77,30.21,55
+Río Dulce,Estación Central de Autobús extraurbano cerca de Río Dulce - Ref 962,EXTRAURBANO,11.71,23.21,40
+Castillo de San Felipe de Lara,Estación Central de Lancha colectiva cerca de Castillo de San Felipe de Lara - Ref 963,LANCHA,7.0,38.99,29
+Livingston,Estación Central de Microbús / Fletero cerca de Livingston - Ref 964,FLETERO,10.23,16.44,50
+Semuc Champey,Estación Central de Shuttle turístico cerca de Semuc Champey - Ref 965,SHUTTLE,2.94,37.82,8
+Cuevas de Candelaria,Estación Central de Taxi local cerca de Cuevas de Candelaria - Ref 966,TAXI,2.05,10.72,8
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Tuc-tuc cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 967,TUC_TUC,9.46,46.89,39
+Cobán,Estación Central de Autobús extraurbano cerca de Cobán - Ref 968,EXTRAURBANO,13.68,11.59,66
+Esquipulas,Estación Central de Lancha colectiva cerca de Esquipulas - Ref 969,LANCHA,2.6,35.36,9
+Basílica del Cristo Negro de Esquipulas,Estación Central de Microbús / Fletero cerca de Basílica del Cristo Negro de Esquipulas - Ref 970,FLETERO,6.32,43.28,29
+Volcán de Pacaya,Estación Central de Shuttle turístico cerca de Volcán de Pacaya - Ref 971,SHUTTLE,7.49,23.04,24
+Monterrico,Estación Central de Taxi local cerca de Monterrico - Ref 972,TAXI,6.86,24.53,25
+Parque Nacional Sipacate-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Sipacate-Naranjo - Ref 973,TUC_TUC,4.83,19.01,23
+Parque Arqueológico Nacional Tak’alik Ab’aj,Estación Central de Autobús extraurbano cerca de Parque Arqueológico Nacional Tak’alik Ab’aj - Ref 974,EXTRAURBANO,2.13,9.72,8
+Parques Xetulul y Xocomil,Estación Central de Lancha colectiva cerca de Parques Xetulul y Xocomil - Ref 975,LANCHA,6.33,21.58,18
+Puerto San José,Estación Central de Microbús / Fletero cerca de Puerto San José - Ref 976,FLETERO,7.48,42.86,18
+Playa Tilapa,Estación Central de Shuttle turístico cerca de Playa Tilapa - Ref 977,SHUTTLE,13.76,30.82,43
+Fuentes Georginas,Estación Central de Taxi local cerca de Fuentes Georginas - Ref 978,TAXI,13.72,27.07,62
+Centro Histórico de Quetzaltenango,Estación Central de Tuc-tuc cerca de Centro Histórico de Quetzaltenango - Ref 979,TUC_TUC,8.09,39.3,23
+Volcán Tajumulco,Estación Central de Autobús extraurbano cerca de Volcán Tajumulco - Ref 980,EXTRAURBANO,11.46,20.72,55
+Laguna Brava,Estación Central de Lancha colectiva cerca de Laguna Brava - Ref 981,LANCHA,12.83,21.67,44
+Cenotes de Candelaria,Estación Central de Microbús / Fletero cerca de Cenotes de Candelaria - Ref 982,FLETERO,3.32,42.57,9
+Todos Santos Cuchumatán,Estación Central de Shuttle turístico cerca de Todos Santos Cuchumatán - Ref 983,SHUTTLE,12.32,11.78,42
+Nebaj,Estación Central de Taxi local cerca de Nebaj - Ref 984,TAXI,9.8,31.3,30
+Museo Nacional de Arqueología y Etnología,Estación Central de Tuc-tuc cerca de Museo Nacional de Arqueología y Etnología - Ref 985,TUC_TUC,13.46,48.95,53
+Kaminaljuyú,Estación Central de Autobús extraurbano cerca de Kaminaljuyú - Ref 986,EXTRAURBANO,3.41,30.03,10
+Zoológico La Aurora,Estación Central de Lancha colectiva cerca de Zoológico La Aurora - Ref 987,LANCHA,8.0,12.2,38
+Centro Histórico de la Ciudad de Guatemala,Estación Central de Microbús / Fletero cerca de Centro Histórico de la Ciudad de Guatemala - Ref 988,FLETERO,8.37,34.17,23
+Mixco Viejo,Estación Central de Shuttle turístico cerca de Mixco Viejo - Ref 989,SHUTTLE,8.62,20.72,31
+Volcán Acatenango,Estación Central de Taxi local cerca de Volcán Acatenango - Ref 990,TAXI,11.04,18.54,30
+Volcán de Agua,Estación Central de Tuc-tuc cerca de Volcán de Agua - Ref 991,TUC_TUC,1.94,32.9,6
+Hobbitenango,Estación Central de Autobús extraurbano cerca de Hobbitenango - Ref 992,EXTRAURBANO,14.34,6.53,44
+Museo Miraflores,Estación Central de Lancha colectiva cerca de Museo Miraflores - Ref 993,LANCHA,2.99,24.25,12
+Reserva de Biosfera Sierra de las Minas,Estación Central de Microbús / Fletero cerca de Reserva de Biosfera Sierra de las Minas - Ref 994,FLETERO,1.42,14.86,6
+Museo de Paleontología y Arqueología de Estanzuela,Estación Central de Shuttle turístico cerca de Museo de Paleontología y Arqueología de Estanzuela - Ref 995,SHUTTLE,7.92,16.32,23
+Volcán y Laguna de Ipala,Estación Central de Taxi local cerca de Volcán y Laguna de Ipala - Ref 996,TAXI,11.72,38.71,33
+Lago de Güija,Estación Central de Tuc-tuc cerca de Lago de Güija - Ref 997,TUC_TUC,3.12,24.33,11
+Volcán Suchitán,Estación Central de Autobús extraurbano cerca de Volcán Suchitán - Ref 998,EXTRAURBANO,10.61,32.31,43
+Playa Blanca,Estación Central de Lancha colectiva cerca de Playa Blanca - Ref 999,LANCHA,8.51,32.6,25
+Laguna Lachuá,Estación Central de Microbús / Fletero cerca de Laguna Lachuá - Ref 1000,FLETERO,9.25,25.32,43
+Antigua Guatemala,Estación Central de Shuttle turístico cerca de Antigua Guatemala - Ref 1001,SHUTTLE,14.37,43.73,52
+Parque Nacional Tikal,Estación Central de Taxi local cerca de Parque Nacional Tikal - Ref 1002,TAXI,3.89,33.83,19
+Parque Nacional Yaxhá-Nakum-Naranjo,Estación Central de Tuc-tuc cerca de Parque Nacional Yaxhá-Nakum-Naranjo - Ref 1003,TUC_TUC,2.22,21.36,6
+Sitio arqueológico El Mirador,Estación Central de Autobús extraurbano cerca de Sitio arqueológico El Mirador - Ref 1004,EXTRAURBANO,8.12,34.99,32
+Uaxactún,Estación Central de Lancha colectiva cerca de Uaxactún - Ref 1005,LANCHA,13.59,20.06,58
+Lago de Atitlán,Estación Central de Microbús / Fletero cerca de Lago de Atitlán - Ref 1006,FLETERO,1.18,21.64,5
+Panajachel,Estación Central de Shuttle turístico cerca de Panajachel - Ref 1007,SHUTTLE,13.16,19.98,50
+San Juan La Laguna,Estación Central de Taxi local cerca de San Juan La Laguna - Ref 1008,TAXI,6.28,12.54,30
+Chichicastenango,Estación Central de Tuc-tuc cerca de Chichicastenango - Ref 1009,TUC_TUC,0.6,44.02,2
+Iximché,Estación Central de Autobús extraurbano cerca de Iximché - Ref 1010,EXTRAURBANO,13.77,47.63,49
+Parque Arqueológico Quiriguá,Estación Central de Lancha colectiva cerca de Parque Arqueológico Quiriguá - Ref 1011,LANCHA,5.3,48.29,20
+Río Dulce,Estación Central de Microbús / Fletero cerca de Río Dulce - Ref 1012,FLETERO,5.57,17.02,19
+Castillo de San Felipe de Lara,Estación Central de Shuttle turístico cerca de Castillo de San Felipe de Lara - Ref 1013,SHUTTLE,8.7,40.88,25
+Livingston,Estación Central de Taxi local cerca de Livingston - Ref 1014,TAXI,14.25,22.63,37
+Semuc Champey,Estación Central de Tuc-tuc cerca de Semuc Champey - Ref 1015,TUC_TUC,13.65,28.07,52
+Cuevas de Candelaria,Estación Central de Autobús extraurbano cerca de Cuevas de Candelaria - Ref 1016,EXTRAURBANO,8.74,23.36,34
+Biotopo del Quetzal Mario Dary Rivera,Estación Central de Lancha colectiva cerca de Biotopo del Quetzal Mario Dary Rivera - Ref 1017,LANCHA,13.57,6.38,41
+Cobán,Estación Central de Microbús / Fletero cerca de Cobán - Ref 1018,FLETERO,6.12,37.14,29
+Esquipulas,Estación Central de Shuttle turístico cerca de Esquipulas - Ref 1019,SHUTTLE,10.7,25.16,33
+Basílica del Cristo Negro de Esquipulas,Estación Central de Taxi local cerca de Basílica del Cristo Negro de Esquipulas - Ref 1020,TAXI,2.42,37.91,10

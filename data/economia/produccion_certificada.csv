@@ -1,0 +1,1381 @@
+municipio_pcode,actividad_nombre,certificacion_nombre,porcentaje_produccion,fecha_auditoria
+GT0100,Cultivo de Maíz en Lago De Amatitlan,Certificación Orgánica y de Origen - Reg COOP-GT0100-A,85.00,2026-03-15
+GT0100,Cultivo de Frijol en Lago De Amatitlan,Certificación Orgánica y de Origen - Reg COOP-GT0100-B,52.00,2026-03-15
+GT0100,Crianza de Aves en Lago De Amatitlan,Certificación Orgánica y de Origen - Reg ASO-GT0100-C,72.00,2026-03-15
+GT0101,Cultivo de Maíz en Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0101-A,86.00,2026-03-15
+GT0101,Cultivo de Frijol en Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0101-B,95.00,2026-03-15
+GT0101,Crianza de Aves en Guatemala,Certificación Orgánica y de Origen - Reg ASO-GT0101-C,79.00,2026-03-15
+GT0102,Cultivo de Maíz en Santa Catarina Pinula,Certificación Orgánica y de Origen - Reg COOP-GT0102-A,80.00,2026-03-15
+GT0102,Cultivo de Frijol en Santa Catarina Pinula,Certificación Orgánica y de Origen - Reg COOP-GT0102-B,87.00,2026-03-15
+GT0102,Crianza de Aves en Santa Catarina Pinula,Certificación Orgánica y de Origen - Reg ASO-GT0102-C,93.00,2026-03-15
+GT0103,Cultivo de Maíz en San José Pinula,Certificación Orgánica y de Origen - Reg COOP-GT0103-A,89.00,2026-03-15
+GT0103,Cultivo de Frijol en San José Pinula,Certificación Orgánica y de Origen - Reg COOP-GT0103-B,92.00,2026-03-15
+GT0103,Crianza de Aves en San José Pinula,Certificación Orgánica y de Origen - Reg ASO-GT0103-C,84.00,2026-03-15
+GT0104,Cultivo de Maíz en San José del Golfo,Certificación Orgánica y de Origen - Reg COOP-GT0104-A,99.00,2026-03-15
+GT0104,Cultivo de Frijol en San José del Golfo,Certificación Orgánica y de Origen - Reg COOP-GT0104-B,66.00,2026-03-15
+GT0104,Crianza de Aves en San José del Golfo,Certificación Orgánica y de Origen - Reg ASO-GT0104-C,80.00,2026-03-15
+GT0105,Cultivo de Maíz en Palencia,Certificación Orgánica y de Origen - Reg COOP-GT0105-A,71.00,2026-03-15
+GT0105,Cultivo de Frijol en Palencia,Certificación Orgánica y de Origen - Reg COOP-GT0105-B,63.00,2026-03-15
+GT0105,Crianza de Aves en Palencia,Certificación Orgánica y de Origen - Reg ASO-GT0105-C,75.00,2026-03-15
+GT0106,Cultivo de Maíz en Chinautla,Certificación Orgánica y de Origen - Reg COOP-GT0106-A,65.00,2026-03-15
+GT0106,Cultivo de Frijol en Chinautla,Certificación Orgánica y de Origen - Reg COOP-GT0106-B,88.00,2026-03-15
+GT0106,Crianza de Aves en Chinautla,Certificación Orgánica y de Origen - Reg ASO-GT0106-C,78.00,2026-03-15
+GT0107,Cultivo de Maíz en San Pedro Ayampuc,Certificación Orgánica y de Origen - Reg COOP-GT0107-A,66.00,2026-03-15
+GT0107,Cultivo de Frijol en San Pedro Ayampuc,Certificación Orgánica y de Origen - Reg COOP-GT0107-B,77.00,2026-03-15
+GT0107,Crianza de Aves en San Pedro Ayampuc,Certificación Orgánica y de Origen - Reg ASO-GT0107-C,87.00,2026-03-15
+GT0108,Cultivo de Maíz en Mixco,Certificación Orgánica y de Origen - Reg COOP-GT0108-A,61.00,2026-03-15
+GT0108,Cultivo de Frijol en Mixco,Certificación Orgánica y de Origen - Reg COOP-GT0108-B,50.00,2026-03-15
+GT0108,Crianza de Aves en Mixco,Certificación Orgánica y de Origen - Reg ASO-GT0108-C,82.00,2026-03-15
+GT0109,Cultivo de Maíz en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0109-A,67.00,2026-03-15
+GT0109,Cultivo de Frijol en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0109-B,50.00,2026-03-15
+GT0109,Cultivo de Flores en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0109-C,75.00,2026-03-15
+GT0109,Producción de Muebles en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0109-C,90.00,2026-03-15
+GT0110,Cultivo de Maíz en San Juan Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0110-A,90.00,2026-03-15
+GT0110,Cultivo de Frijol en San Juan Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0110-B,79.00,2026-03-15
+GT0110,Cultivo de Flores en San Juan Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0110-C,92.00,2026-03-15
+GT0110,Producción de Muebles en San Juan Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0110-C,82.00,2026-03-15
+GT0111,Cultivo de Maíz en San Raimundo,Certificación Orgánica y de Origen - Reg COOP-GT0111-A,98.00,2026-03-15
+GT0111,Cultivo de Frijol en San Raimundo,Certificación Orgánica y de Origen - Reg COOP-GT0111-B,81.00,2026-03-15
+GT0111,Crianza de Aves en San Raimundo,Certificación Orgánica y de Origen - Reg ASO-GT0111-C,79.00,2026-03-15
+GT0112,Cultivo de Maíz en Chuarrancho,Certificación Orgánica y de Origen - Reg COOP-GT0112-A,99.00,2026-03-15
+GT0112,Cultivo de Frijol en Chuarrancho,Certificación Orgánica y de Origen - Reg COOP-GT0112-B,89.00,2026-03-15
+GT0112,Crianza de Aves en Chuarrancho,Certificación Orgánica y de Origen - Reg ASO-GT0112-C,81.00,2026-03-15
+GT0113,Cultivo de Maíz en Fraijanes,Certificación Orgánica y de Origen - Reg COOP-GT0113-A,85.00,2026-03-15
+GT0113,Cultivo de Frijol en Fraijanes,Certificación Orgánica y de Origen - Reg COOP-GT0113-B,69.00,2026-03-15
+GT0113,Crianza de Aves en Fraijanes,Certificación Orgánica y de Origen - Reg ASO-GT0113-C,72.00,2026-03-15
+GT0114,Cultivo de Maíz en Amatitlán,Certificación Orgánica y de Origen - Reg COOP-GT0114-A,68.00,2026-03-15
+GT0114,Cultivo de Frijol en Amatitlán,Certificación Orgánica y de Origen - Reg COOP-GT0114-B,58.00,2026-03-15
+GT0114,Crianza de Aves en Amatitlán,Certificación Orgánica y de Origen - Reg ASO-GT0114-C,70.00,2026-03-15
+GT0115,Cultivo de Maíz en Villa Nueva,Certificación Orgánica y de Origen - Reg COOP-GT0115-A,72.00,2026-03-15
+GT0115,Cultivo de Frijol en Villa Nueva,Certificación Orgánica y de Origen - Reg COOP-GT0115-B,57.00,2026-03-15
+GT0115,Crianza de Aves en Villa Nueva,Certificación Orgánica y de Origen - Reg ASO-GT0115-C,96.00,2026-03-15
+GT0116,Cultivo de Maíz en Villa Canales,Certificación Orgánica y de Origen - Reg COOP-GT0116-A,61.00,2026-03-15
+GT0116,Cultivo de Frijol en Villa Canales,Certificación Orgánica y de Origen - Reg COOP-GT0116-B,94.00,2026-03-15
+GT0116,Crianza de Aves en Villa Canales,Certificación Orgánica y de Origen - Reg ASO-GT0116-C,76.00,2026-03-15
+GT0117,Cultivo de Maíz en Petapa,Certificación Orgánica y de Origen - Reg COOP-GT0117-A,61.00,2026-03-15
+GT0117,Cultivo de Frijol en Petapa,Certificación Orgánica y de Origen - Reg COOP-GT0117-B,63.00,2026-03-15
+GT0117,Crianza de Aves en Petapa,Certificación Orgánica y de Origen - Reg ASO-GT0117-C,85.00,2026-03-15
+GT0201,Cultivo de Maíz en Guastatoya,Certificación Orgánica y de Origen - Reg COOP-GT0201-A,69.00,2026-03-15
+GT0201,Cultivo de Frijol en Guastatoya,Certificación Orgánica y de Origen - Reg COOP-GT0201-B,91.00,2026-03-15
+GT0201,Producción Ganadera en Guastatoya,Certificación Orgánica y de Origen - Reg ASO-GT0201-C,77.00,2026-03-15
+GT0202,Cultivo de Maíz en Morazán,Certificación Orgánica y de Origen - Reg COOP-GT0202-A,87.00,2026-03-15
+GT0202,Cultivo de Frijol en Morazán,Certificación Orgánica y de Origen - Reg COOP-GT0202-B,90.00,2026-03-15
+GT0202,Producción Ganadera en Morazán,Certificación Orgánica y de Origen - Reg ASO-GT0202-C,97.00,2026-03-15
+GT0203,Cultivo de Maíz en San Agustín Acasaguastlán,Certificación Orgánica y de Origen - Reg COOP-GT0203-A,94.00,2026-03-15
+GT0203,Cultivo de Frijol en San Agustín Acasaguastlán,Certificación Orgánica y de Origen - Reg COOP-GT0203-B,62.00,2026-03-15
+GT0203,Producción Ganadera en San Agustín Acasaguastlán,Certificación Orgánica y de Origen - Reg ASO-GT0203-C,72.00,2026-03-15
+GT0204,Cultivo de Maíz en San Cristóbal Acasaguastlán,Certificación Orgánica y de Origen - Reg COOP-GT0204-A,79.00,2026-03-15
+GT0204,Cultivo de Frijol en San Cristóbal Acasaguastlán,Certificación Orgánica y de Origen - Reg COOP-GT0204-B,79.00,2026-03-15
+GT0204,Producción Ganadera en San Cristóbal Acasaguastlán,Certificación Orgánica y de Origen - Reg ASO-GT0204-C,74.00,2026-03-15
+GT0205,Cultivo de Maíz en El Jícaro,Certificación Orgánica y de Origen - Reg COOP-GT0205-A,90.00,2026-03-15
+GT0205,Cultivo de Frijol en El Jícaro,Certificación Orgánica y de Origen - Reg COOP-GT0205-B,77.00,2026-03-15
+GT0205,Producción Ganadera en El Jícaro,Certificación Orgánica y de Origen - Reg ASO-GT0205-C,70.00,2026-03-15
+GT0206,Cultivo de Maíz en Sanarate,Certificación Orgánica y de Origen - Reg COOP-GT0206-A,67.00,2026-03-15
+GT0206,Cultivo de Frijol en Sanarate,Certificación Orgánica y de Origen - Reg COOP-GT0206-B,60.00,2026-03-15
+GT0206,Producción Ganadera en Sanarate,Certificación Orgánica y de Origen - Reg ASO-GT0206-C,98.00,2026-03-15
+GT0207,Cultivo de Maíz en Sansare,Certificación Orgánica y de Origen - Reg COOP-GT0207-A,69.00,2026-03-15
+GT0207,Cultivo de Frijol en Sansare,Certificación Orgánica y de Origen - Reg COOP-GT0207-B,94.00,2026-03-15
+GT0207,Producción Ganadera en Sansare,Certificación Orgánica y de Origen - Reg ASO-GT0207-C,84.00,2026-03-15
+GT0208,Cultivo de Maíz en San Antonio La Paz,Certificación Orgánica y de Origen - Reg COOP-GT0208-A,91.00,2026-03-15
+GT0208,Cultivo de Frijol en San Antonio La Paz,Certificación Orgánica y de Origen - Reg COOP-GT0208-B,80.00,2026-03-15
+GT0208,Producción Ganadera en San Antonio La Paz,Certificación Orgánica y de Origen - Reg ASO-GT0208-C,70.00,2026-03-15
+GT0301,Cultivo de Maíz en Antigua Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0301-A,88.00,2026-03-15
+GT0301,Cultivo de Frijol en Antigua Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0301-B,87.00,2026-03-15
+GT0301,Cultivo de Flores en Antigua Guatemala,Certificación Orgánica y de Origen - Reg ASO-GT0301-C,77.00,2026-03-15
+GT0301,Cultivo de Café en Antigua Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0301-A,76.00,2026-03-15
+GT0302,Cultivo de Maíz en Jocotenango,Certificación Orgánica y de Origen - Reg COOP-GT0302-A,78.00,2026-03-15
+GT0302,Cultivo de Frijol en Jocotenango,Certificación Orgánica y de Origen - Reg COOP-GT0302-B,86.00,2026-03-15
+GT0302,Cultivo de Flores en Jocotenango,Certificación Orgánica y de Origen - Reg ASO-GT0302-C,96.00,2026-03-15
+GT0302,Cultivo de Café en Jocotenango,Certificación Orgánica y de Origen - Reg COOP-GT0302-A,96.00,2026-03-15
+GT0303,Cultivo de Maíz en Pastores,Certificación Orgánica y de Origen - Reg COOP-GT0303-A,85.00,2026-03-15
+GT0303,Cultivo de Frijol en Pastores,Certificación Orgánica y de Origen - Reg COOP-GT0303-B,53.00,2026-03-15
+GT0303,Cultivo de Flores en Pastores,Certificación Orgánica y de Origen - Reg ASO-GT0303-C,80.00,2026-03-15
+GT0303,Cultivo de Café en Pastores,Certificación Orgánica y de Origen - Reg COOP-GT0303-A,70.00,2026-03-15
+GT0303,Producción de Calzado en Pastores,Certificación Orgánica y de Origen - Reg ASO-GT0303-C,73.00,2026-03-15
+GT0304,Cultivo de Maíz en Sumpango,Certificación Orgánica y de Origen - Reg COOP-GT0304-A,100.00,2026-03-15
+GT0304,Cultivo de Frijol en Sumpango,Certificación Orgánica y de Origen - Reg COOP-GT0304-B,95.00,2026-03-15
+GT0304,Cultivo de Flores en Sumpango,Certificación Orgánica y de Origen - Reg ASO-GT0304-C,83.00,2026-03-15
+GT0304,Cultivo de Café en Sumpango,Certificación Orgánica y de Origen - Reg COOP-GT0304-A,83.00,2026-03-15
+GT0305,Cultivo de Maíz en Santo Domingo Xenacoj,Certificación Orgánica y de Origen - Reg COOP-GT0305-A,91.00,2026-03-15
+GT0305,Cultivo de Frijol en Santo Domingo Xenacoj,Certificación Orgánica y de Origen - Reg COOP-GT0305-B,87.00,2026-03-15
+GT0305,Cultivo de Flores en Santo Domingo Xenacoj,Certificación Orgánica y de Origen - Reg ASO-GT0305-C,89.00,2026-03-15
+GT0305,Cultivo de Café en Santo Domingo Xenacoj,Certificación Orgánica y de Origen - Reg COOP-GT0305-A,93.00,2026-03-15
+GT0306,Cultivo de Maíz en Santiago Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0306-A,95.00,2026-03-15
+GT0306,Cultivo de Frijol en Santiago Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0306-B,68.00,2026-03-15
+GT0306,Cultivo de Flores en Santiago Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0306-C,71.00,2026-03-15
+GT0306,Cultivo de Café en Santiago Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0306-A,85.00,2026-03-15
+GT0307,Cultivo de Maíz en San Bartolomé Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0307-A,85.00,2026-03-15
+GT0307,Cultivo de Frijol en San Bartolomé Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0307-B,81.00,2026-03-15
+GT0307,Cultivo de Flores en San Bartolomé Milpas Altas,Certificación Orgánica y de Origen - Reg ASO-GT0307-C,86.00,2026-03-15
+GT0307,Cultivo de Café en San Bartolomé Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0307-A,88.00,2026-03-15
+GT0308,Cultivo de Maíz en San Lucas Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0308-A,99.00,2026-03-15
+GT0308,Cultivo de Frijol en San Lucas Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0308-B,93.00,2026-03-15
+GT0308,Cultivo de Flores en San Lucas Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0308-C,98.00,2026-03-15
+GT0308,Cultivo de Café en San Lucas Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0308-A,96.00,2026-03-15
+GT0309,Cultivo de Maíz en Santa Lucía Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0309-A,91.00,2026-03-15
+GT0309,Cultivo de Frijol en Santa Lucía Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0309-B,64.00,2026-03-15
+GT0309,Cultivo de Flores en Santa Lucía Milpas Altas,Certificación Orgánica y de Origen - Reg ASO-GT0309-C,92.00,2026-03-15
+GT0309,Cultivo de Café en Santa Lucía Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0309-A,71.00,2026-03-15
+GT0310,Cultivo de Maíz en Magdalena Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0310-A,93.00,2026-03-15
+GT0310,Cultivo de Frijol en Magdalena Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0310-B,51.00,2026-03-15
+GT0310,Cultivo de Flores en Magdalena Milpas Altas,Certificación Orgánica y de Origen - Reg ASO-GT0310-C,83.00,2026-03-15
+GT0310,Cultivo de Café en Magdalena Milpas Altas,Certificación Orgánica y de Origen - Reg COOP-GT0310-A,88.00,2026-03-15
+GT0311,Cultivo de Maíz en Santa María de Jesús,Certificación Orgánica y de Origen - Reg COOP-GT0311-A,80.00,2026-03-15
+GT0311,Cultivo de Frijol en Santa María de Jesús,Certificación Orgánica y de Origen - Reg COOP-GT0311-B,85.00,2026-03-15
+GT0311,Cultivo de Flores en Santa María de Jesús,Certificación Orgánica y de Origen - Reg ASO-GT0311-C,72.00,2026-03-15
+GT0311,Cultivo de Café en Santa María de Jesús,Certificación Orgánica y de Origen - Reg COOP-GT0311-A,78.00,2026-03-15
+GT0312,Cultivo de Maíz en Ciudad Vieja,Certificación Orgánica y de Origen - Reg COOP-GT0312-A,86.00,2026-03-15
+GT0312,Cultivo de Frijol en Ciudad Vieja,Certificación Orgánica y de Origen - Reg COOP-GT0312-B,80.00,2026-03-15
+GT0312,Cultivo de Flores en Ciudad Vieja,Certificación Orgánica y de Origen - Reg ASO-GT0312-C,73.00,2026-03-15
+GT0312,Cultivo de Café en Ciudad Vieja,Certificación Orgánica y de Origen - Reg COOP-GT0312-A,85.00,2026-03-15
+GT0313,Cultivo de Maíz en San Miguel Dueñas,Certificación Orgánica y de Origen - Reg COOP-GT0313-A,99.00,2026-03-15
+GT0313,Cultivo de Frijol en San Miguel Dueñas,Certificación Orgánica y de Origen - Reg COOP-GT0313-B,91.00,2026-03-15
+GT0313,Cultivo de Flores en San Miguel Dueñas,Certificación Orgánica y de Origen - Reg ASO-GT0313-C,81.00,2026-03-15
+GT0313,Cultivo de Café en San Miguel Dueñas,Certificación Orgánica y de Origen - Reg COOP-GT0313-A,84.00,2026-03-15
+GT0314,Cultivo de Maíz en Alotenango,Certificación Orgánica y de Origen - Reg COOP-GT0314-A,87.00,2026-03-15
+GT0314,Cultivo de Frijol en Alotenango,Certificación Orgánica y de Origen - Reg COOP-GT0314-B,51.00,2026-03-15
+GT0314,Cultivo de Flores en Alotenango,Certificación Orgánica y de Origen - Reg ASO-GT0314-C,75.00,2026-03-15
+GT0314,Cultivo de Café en Alotenango,Certificación Orgánica y de Origen - Reg COOP-GT0314-A,79.00,2026-03-15
+GT0315,Cultivo de Maíz en San Antonio Aguas Calientes,Certificación Orgánica y de Origen - Reg COOP-GT0315-A,72.00,2026-03-15
+GT0315,Cultivo de Frijol en San Antonio Aguas Calientes,Certificación Orgánica y de Origen - Reg COOP-GT0315-B,80.00,2026-03-15
+GT0315,Cultivo de Flores en San Antonio Aguas Calientes,Certificación Orgánica y de Origen - Reg ASO-GT0315-C,81.00,2026-03-15
+GT0315,Cultivo de Café en San Antonio Aguas Calientes,Certificación Orgánica y de Origen - Reg COOP-GT0315-A,84.00,2026-03-15
+GT0316,Cultivo de Maíz en Santa Catarina Barahona,Certificación Orgánica y de Origen - Reg COOP-GT0316-A,74.00,2026-03-15
+GT0316,Cultivo de Frijol en Santa Catarina Barahona,Certificación Orgánica y de Origen - Reg COOP-GT0316-B,82.00,2026-03-15
+GT0316,Cultivo de Flores en Santa Catarina Barahona,Certificación Orgánica y de Origen - Reg ASO-GT0316-C,77.00,2026-03-15
+GT0316,Cultivo de Café en Santa Catarina Barahona,Certificación Orgánica y de Origen - Reg COOP-GT0316-A,88.00,2026-03-15
+GT0401,Cultivo de Maíz en Chimaltenango,Certificación Orgánica y de Origen - Reg COOP-GT0401-A,81.00,2026-03-15
+GT0401,Cultivo de Frijol en Chimaltenango,Certificación Orgánica y de Origen - Reg COOP-GT0401-B,88.00,2026-03-15
+GT0401,Cultivo de Hortalizas en Chimaltenango,Certificación Orgánica y de Origen - Reg ASO-GT0401-C,97.00,2026-03-15
+GT0402,Cultivo de Maíz en San José Poaquil,Certificación Orgánica y de Origen - Reg COOP-GT0402-A,89.00,2026-03-15
+GT0402,Cultivo de Frijol en San José Poaquil,Certificación Orgánica y de Origen - Reg COOP-GT0402-B,58.00,2026-03-15
+GT0402,Cultivo de Hortalizas en San José Poaquil,Certificación Orgánica y de Origen - Reg ASO-GT0402-C,98.00,2026-03-15
+GT0403,Cultivo de Maíz en San Martín Jilotepeque,Certificación Orgánica y de Origen - Reg COOP-GT0403-A,78.00,2026-03-15
+GT0403,Cultivo de Frijol en San Martín Jilotepeque,Certificación Orgánica y de Origen - Reg COOP-GT0403-B,95.00,2026-03-15
+GT0403,Cultivo de Hortalizas en San Martín Jilotepeque,Certificación Orgánica y de Origen - Reg ASO-GT0403-C,82.00,2026-03-15
+GT0404,Cultivo de Maíz en Comalapa,Certificación Orgánica y de Origen - Reg COOP-GT0404-A,86.00,2026-03-15
+GT0404,Cultivo de Frijol en Comalapa,Certificación Orgánica y de Origen - Reg COOP-GT0404-B,93.00,2026-03-15
+GT0404,Cultivo de Hortalizas en Comalapa,Certificación Orgánica y de Origen - Reg ASO-GT0404-C,90.00,2026-03-15
+GT0405,Cultivo de Maíz en Santa Apolonia,Certificación Orgánica y de Origen - Reg COOP-GT0405-A,83.00,2026-03-15
+GT0405,Cultivo de Frijol en Santa Apolonia,Certificación Orgánica y de Origen - Reg COOP-GT0405-B,80.00,2026-03-15
+GT0405,Cultivo de Hortalizas en Santa Apolonia,Certificación Orgánica y de Origen - Reg ASO-GT0405-C,95.00,2026-03-15
+GT0406,Cultivo de Maíz en Tecpán Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0406-A,70.00,2026-03-15
+GT0406,Cultivo de Frijol en Tecpán Guatemala,Certificación Orgánica y de Origen - Reg COOP-GT0406-B,89.00,2026-03-15
+GT0406,Cultivo de Hortalizas en Tecpán Guatemala,Certificación Orgánica y de Origen - Reg ASO-GT0406-C,76.00,2026-03-15
+GT0407,Cultivo de Maíz en Patzún,Certificación Orgánica y de Origen - Reg COOP-GT0407-A,78.00,2026-03-15
+GT0407,Cultivo de Frijol en Patzún,Certificación Orgánica y de Origen - Reg COOP-GT0407-B,94.00,2026-03-15
+GT0407,Cultivo de Hortalizas en Patzún,Certificación Orgánica y de Origen - Reg ASO-GT0407-C,93.00,2026-03-15
+GT0408,Cultivo de Maíz en Pochuta,Certificación Orgánica y de Origen - Reg COOP-GT0408-A,65.00,2026-03-15
+GT0408,Cultivo de Frijol en Pochuta,Certificación Orgánica y de Origen - Reg COOP-GT0408-B,92.00,2026-03-15
+GT0408,Cultivo de Hortalizas en Pochuta,Certificación Orgánica y de Origen - Reg ASO-GT0408-C,85.00,2026-03-15
+GT0409,Cultivo de Maíz en Patzicía,Certificación Orgánica y de Origen - Reg COOP-GT0409-A,68.00,2026-03-15
+GT0409,Cultivo de Frijol en Patzicía,Certificación Orgánica y de Origen - Reg COOP-GT0409-B,61.00,2026-03-15
+GT0409,Cultivo de Hortalizas en Patzicía,Certificación Orgánica y de Origen - Reg ASO-GT0409-C,76.00,2026-03-15
+GT0410,Cultivo de Maíz en Santa Cruz Balanyá,Certificación Orgánica y de Origen - Reg COOP-GT0410-A,70.00,2026-03-15
+GT0410,Cultivo de Frijol en Santa Cruz Balanyá,Certificación Orgánica y de Origen - Reg COOP-GT0410-B,88.00,2026-03-15
+GT0410,Cultivo de Hortalizas en Santa Cruz Balanyá,Certificación Orgánica y de Origen - Reg ASO-GT0410-C,85.00,2026-03-15
+GT0411,Cultivo de Maíz en Acatenango,Certificación Orgánica y de Origen - Reg COOP-GT0411-A,66.00,2026-03-15
+GT0411,Cultivo de Frijol en Acatenango,Certificación Orgánica y de Origen - Reg COOP-GT0411-B,76.00,2026-03-15
+GT0411,Cultivo de Hortalizas en Acatenango,Certificación Orgánica y de Origen - Reg ASO-GT0411-C,100.00,2026-03-15
+GT0412,Cultivo de Maíz en Yepocapa,Certificación Orgánica y de Origen - Reg COOP-GT0412-A,91.00,2026-03-15
+GT0412,Cultivo de Frijol en Yepocapa,Certificación Orgánica y de Origen - Reg COOP-GT0412-B,69.00,2026-03-15
+GT0412,Cultivo de Hortalizas en Yepocapa,Certificación Orgánica y de Origen - Reg ASO-GT0412-C,77.00,2026-03-15
+GT0413,Cultivo de Maíz en San Andrés Itzapa,Certificación Orgánica y de Origen - Reg COOP-GT0413-A,73.00,2026-03-15
+GT0413,Cultivo de Frijol en San Andrés Itzapa,Certificación Orgánica y de Origen - Reg COOP-GT0413-B,85.00,2026-03-15
+GT0413,Cultivo de Hortalizas en San Andrés Itzapa,Certificación Orgánica y de Origen - Reg ASO-GT0413-C,71.00,2026-03-15
+GT0414,Cultivo de Maíz en Parramos,Certificación Orgánica y de Origen - Reg COOP-GT0414-A,61.00,2026-03-15
+GT0414,Cultivo de Frijol en Parramos,Certificación Orgánica y de Origen - Reg COOP-GT0414-B,72.00,2026-03-15
+GT0414,Cultivo de Hortalizas en Parramos,Certificación Orgánica y de Origen - Reg ASO-GT0414-C,98.00,2026-03-15
+GT0415,Cultivo de Maíz en Zaragoza,Certificación Orgánica y de Origen - Reg COOP-GT0415-A,76.00,2026-03-15
+GT0415,Cultivo de Frijol en Zaragoza,Certificación Orgánica y de Origen - Reg COOP-GT0415-B,72.00,2026-03-15
+GT0415,Cultivo de Hortalizas en Zaragoza,Certificación Orgánica y de Origen - Reg ASO-GT0415-C,91.00,2026-03-15
+GT0416,Cultivo de Maíz en El Tejar,Certificación Orgánica y de Origen - Reg COOP-GT0416-A,70.00,2026-03-15
+GT0416,Cultivo de Frijol en El Tejar,Certificación Orgánica y de Origen - Reg COOP-GT0416-B,61.00,2026-03-15
+GT0416,Cultivo de Hortalizas en El Tejar,Certificación Orgánica y de Origen - Reg ASO-GT0416-C,96.00,2026-03-15
+GT0501,Cultivo de Maíz en Escuintla,Certificación Orgánica y de Origen - Reg COOP-GT0501-A,92.00,2026-03-15
+GT0501,Cultivo de Frijol en Escuintla,Certificación Orgánica y de Origen - Reg COOP-GT0501-B,52.00,2026-03-15
+GT0501,Cultivo de Caña de Azúcar en Escuintla,Certificación Orgánica y de Origen - Reg ASO-GT0501-C,95.00,2026-03-15
+GT0501,Cultivo de Banano en Escuintla,Certificación Orgánica y de Origen - Reg ASO-GT0501-C,72.00,2026-03-15
+GT0501,Producción Ganadera en Escuintla,Certificación Orgánica y de Origen - Reg ASO-GT0501-C,80.00,2026-03-15
+GT0502,Cultivo de Maíz en Santa Lucía Cotzumalguapa,Certificación Orgánica y de Origen - Reg COOP-GT0502-A,87.00,2026-03-15
+GT0502,Cultivo de Frijol en Santa Lucía Cotzumalguapa,Certificación Orgánica y de Origen - Reg COOP-GT0502-B,57.00,2026-03-15
+GT0502,Cultivo de Caña de Azúcar en Santa Lucía Cotzumalguapa,Certificación Orgánica y de Origen - Reg ASO-GT0502-C,89.00,2026-03-15
+GT0502,Cultivo de Banano en Santa Lucía Cotzumalguapa,Certificación Orgánica y de Origen - Reg ASO-GT0502-C,77.00,2026-03-15
+GT0502,Producción Ganadera en Santa Lucía Cotzumalguapa,Certificación Orgánica y de Origen - Reg ASO-GT0502-C,73.00,2026-03-15
+GT0503,Cultivo de Maíz en La Democracia,Certificación Orgánica y de Origen - Reg COOP-GT0503-A,95.00,2026-03-15
+GT0503,Cultivo de Frijol en La Democracia,Certificación Orgánica y de Origen - Reg COOP-GT0503-B,64.00,2026-03-15
+GT0503,Cultivo de Caña de Azúcar en La Democracia,Certificación Orgánica y de Origen - Reg ASO-GT0503-C,85.00,2026-03-15
+GT0503,Cultivo de Banano en La Democracia,Certificación Orgánica y de Origen - Reg ASO-GT0503-C,78.00,2026-03-15
+GT0503,Producción Ganadera en La Democracia,Certificación Orgánica y de Origen - Reg ASO-GT0503-C,80.00,2026-03-15
+GT0504,Cultivo de Maíz en Siquinalá,Certificación Orgánica y de Origen - Reg COOP-GT0504-A,82.00,2026-03-15
+GT0504,Cultivo de Frijol en Siquinalá,Certificación Orgánica y de Origen - Reg COOP-GT0504-B,52.00,2026-03-15
+GT0504,Cultivo de Caña de Azúcar en Siquinalá,Certificación Orgánica y de Origen - Reg ASO-GT0504-C,94.00,2026-03-15
+GT0504,Cultivo de Banano en Siquinalá,Certificación Orgánica y de Origen - Reg ASO-GT0504-C,98.00,2026-03-15
+GT0504,Producción Ganadera en Siquinalá,Certificación Orgánica y de Origen - Reg ASO-GT0504-C,87.00,2026-03-15
+GT0505,Cultivo de Maíz en Masagua,Certificación Orgánica y de Origen - Reg COOP-GT0505-A,77.00,2026-03-15
+GT0505,Cultivo de Frijol en Masagua,Certificación Orgánica y de Origen - Reg COOP-GT0505-B,59.00,2026-03-15
+GT0505,Cultivo de Caña de Azúcar en Masagua,Certificación Orgánica y de Origen - Reg ASO-GT0505-C,97.00,2026-03-15
+GT0505,Cultivo de Banano en Masagua,Certificación Orgánica y de Origen - Reg ASO-GT0505-C,92.00,2026-03-15
+GT0505,Producción Ganadera en Masagua,Certificación Orgánica y de Origen - Reg ASO-GT0505-C,97.00,2026-03-15
+GT0506,Cultivo de Maíz en Tiquisate,Certificación Orgánica y de Origen - Reg COOP-GT0506-A,92.00,2026-03-15
+GT0506,Cultivo de Frijol en Tiquisate,Certificación Orgánica y de Origen - Reg COOP-GT0506-B,88.00,2026-03-15
+GT0506,Cultivo de Caña de Azúcar en Tiquisate,Certificación Orgánica y de Origen - Reg ASO-GT0506-C,91.00,2026-03-15
+GT0506,Cultivo de Banano en Tiquisate,Certificación Orgánica y de Origen - Reg ASO-GT0506-C,73.00,2026-03-15
+GT0506,Producción Ganadera en Tiquisate,Certificación Orgánica y de Origen - Reg ASO-GT0506-C,92.00,2026-03-15
+GT0507,Cultivo de Maíz en La Gomera,Certificación Orgánica y de Origen - Reg COOP-GT0507-A,63.00,2026-03-15
+GT0507,Cultivo de Frijol en La Gomera,Certificación Orgánica y de Origen - Reg COOP-GT0507-B,78.00,2026-03-15
+GT0507,Cultivo de Caña de Azúcar en La Gomera,Certificación Orgánica y de Origen - Reg ASO-GT0507-C,95.00,2026-03-15
+GT0507,Cultivo de Banano en La Gomera,Certificación Orgánica y de Origen - Reg ASO-GT0507-C,84.00,2026-03-15
+GT0507,Producción Ganadera en La Gomera,Certificación Orgánica y de Origen - Reg ASO-GT0507-C,100.00,2026-03-15
+GT0508,Cultivo de Maíz en Guanagazapa,Certificación Orgánica y de Origen - Reg COOP-GT0508-A,67.00,2026-03-15
+GT0508,Cultivo de Frijol en Guanagazapa,Certificación Orgánica y de Origen - Reg COOP-GT0508-B,56.00,2026-03-15
+GT0508,Cultivo de Caña de Azúcar en Guanagazapa,Certificación Orgánica y de Origen - Reg ASO-GT0508-C,95.00,2026-03-15
+GT0508,Cultivo de Banano en Guanagazapa,Certificación Orgánica y de Origen - Reg ASO-GT0508-C,89.00,2026-03-15
+GT0508,Producción Ganadera en Guanagazapa,Certificación Orgánica y de Origen - Reg ASO-GT0508-C,89.00,2026-03-15
+GT0509,Cultivo de Maíz en San José,Certificación Orgánica y de Origen - Reg COOP-GT0509-A,66.00,2026-03-15
+GT0509,Cultivo de Frijol en San José,Certificación Orgánica y de Origen - Reg COOP-GT0509-B,85.00,2026-03-15
+GT0509,Cultivo de Caña de Azúcar en San José,Certificación Orgánica y de Origen - Reg ASO-GT0509-C,71.00,2026-03-15
+GT0509,Cultivo de Banano en San José,Certificación Orgánica y de Origen - Reg ASO-GT0509-C,86.00,2026-03-15
+GT0509,Producción Ganadera en San José,Certificación Orgánica y de Origen - Reg ASO-GT0509-C,73.00,2026-03-15
+GT0510,Cultivo de Maíz en Iztapa,Certificación Orgánica y de Origen - Reg COOP-GT0510-A,70.00,2026-03-15
+GT0510,Cultivo de Frijol en Iztapa,Certificación Orgánica y de Origen - Reg COOP-GT0510-B,90.00,2026-03-15
+GT0510,Cultivo de Caña de Azúcar en Iztapa,Certificación Orgánica y de Origen - Reg ASO-GT0510-C,73.00,2026-03-15
+GT0510,Cultivo de Banano en Iztapa,Certificación Orgánica y de Origen - Reg ASO-GT0510-C,97.00,2026-03-15
+GT0510,Producción Ganadera en Iztapa,Certificación Orgánica y de Origen - Reg ASO-GT0510-C,76.00,2026-03-15
+GT0511,Cultivo de Maíz en Palín,Certificación Orgánica y de Origen - Reg COOP-GT0511-A,83.00,2026-03-15
+GT0511,Cultivo de Frijol en Palín,Certificación Orgánica y de Origen - Reg COOP-GT0511-B,60.00,2026-03-15
+GT0511,Cultivo de Caña de Azúcar en Palín,Certificación Orgánica y de Origen - Reg ASO-GT0511-C,93.00,2026-03-15
+GT0511,Cultivo de Banano en Palín,Certificación Orgánica y de Origen - Reg ASO-GT0511-C,79.00,2026-03-15
+GT0511,Producción Ganadera en Palín,Certificación Orgánica y de Origen - Reg ASO-GT0511-C,92.00,2026-03-15
+GT0512,Cultivo de Maíz en San Vicente Pacaya,Certificación Orgánica y de Origen - Reg COOP-GT0512-A,88.00,2026-03-15
+GT0512,Cultivo de Frijol en San Vicente Pacaya,Certificación Orgánica y de Origen - Reg COOP-GT0512-B,82.00,2026-03-15
+GT0512,Cultivo de Caña de Azúcar en San Vicente Pacaya,Certificación Orgánica y de Origen - Reg ASO-GT0512-C,85.00,2026-03-15
+GT0512,Cultivo de Banano en San Vicente Pacaya,Certificación Orgánica y de Origen - Reg ASO-GT0512-C,93.00,2026-03-15
+GT0512,Producción Ganadera en San Vicente Pacaya,Certificación Orgánica y de Origen - Reg ASO-GT0512-C,97.00,2026-03-15
+GT0513,Cultivo de Maíz en Nueva Concepción,Certificación Orgánica y de Origen - Reg COOP-GT0513-A,66.00,2026-03-15
+GT0513,Cultivo de Frijol en Nueva Concepción,Certificación Orgánica y de Origen - Reg COOP-GT0513-B,59.00,2026-03-15
+GT0513,Cultivo de Caña de Azúcar en Nueva Concepción,Certificación Orgánica y de Origen - Reg ASO-GT0513-C,90.00,2026-03-15
+GT0513,Cultivo de Banano en Nueva Concepción,Certificación Orgánica y de Origen - Reg ASO-GT0513-C,81.00,2026-03-15
+GT0513,Producción Ganadera en Nueva Concepción,Certificación Orgánica y de Origen - Reg ASO-GT0513-C,80.00,2026-03-15
+GT0514,Cultivo de Maíz en Sipacate,Certificación Orgánica y de Origen - Reg COOP-GT0514-A,68.00,2026-03-15
+GT0514,Cultivo de Frijol en Sipacate,Certificación Orgánica y de Origen - Reg COOP-GT0514-B,57.00,2026-03-15
+GT0514,Cultivo de Caña de Azúcar en Sipacate,Certificación Orgánica y de Origen - Reg ASO-GT0514-C,97.00,2026-03-15
+GT0514,Cultivo de Banano en Sipacate,Certificación Orgánica y de Origen - Reg ASO-GT0514-C,76.00,2026-03-15
+GT0514,Producción Ganadera en Sipacate,Certificación Orgánica y de Origen - Reg ASO-GT0514-C,84.00,2026-03-15
+GT0601,Cultivo de Maíz en Cuilapa,Certificación Orgánica y de Origen - Reg COOP-GT0601-A,86.00,2026-03-15
+GT0601,Cultivo de Frijol en Cuilapa,Certificación Orgánica y de Origen - Reg COOP-GT0601-B,50.00,2026-03-15
+GT0601,Cultivo de Caña de Azúcar en Cuilapa,Certificación Orgánica y de Origen - Reg ASO-GT0601-C,77.00,2026-03-15
+GT0601,Cultivo de Banano en Cuilapa,Certificación Orgánica y de Origen - Reg ASO-GT0601-C,96.00,2026-03-15
+GT0601,Producción Ganadera en Cuilapa,Certificación Orgánica y de Origen - Reg ASO-GT0601-C,95.00,2026-03-15
+GT0602,Cultivo de Maíz en Barberena,Certificación Orgánica y de Origen - Reg COOP-GT0602-A,90.00,2026-03-15
+GT0602,Cultivo de Frijol en Barberena,Certificación Orgánica y de Origen - Reg COOP-GT0602-B,71.00,2026-03-15
+GT0602,Cultivo de Caña de Azúcar en Barberena,Certificación Orgánica y de Origen - Reg ASO-GT0602-C,79.00,2026-03-15
+GT0602,Cultivo de Banano en Barberena,Certificación Orgánica y de Origen - Reg ASO-GT0602-C,86.00,2026-03-15
+GT0602,Producción Ganadera en Barberena,Certificación Orgánica y de Origen - Reg ASO-GT0602-C,75.00,2026-03-15
+GT0603,Cultivo de Maíz en Santa Rosa de Lima,Certificación Orgánica y de Origen - Reg COOP-GT0603-A,65.00,2026-03-15
+GT0603,Cultivo de Frijol en Santa Rosa de Lima,Certificación Orgánica y de Origen - Reg COOP-GT0603-B,67.00,2026-03-15
+GT0603,Cultivo de Caña de Azúcar en Santa Rosa de Lima,Certificación Orgánica y de Origen - Reg ASO-GT0603-C,81.00,2026-03-15
+GT0603,Cultivo de Banano en Santa Rosa de Lima,Certificación Orgánica y de Origen - Reg ASO-GT0603-C,92.00,2026-03-15
+GT0603,Producción Ganadera en Santa Rosa de Lima,Certificación Orgánica y de Origen - Reg ASO-GT0603-C,94.00,2026-03-15
+GT0604,Cultivo de Maíz en Casillas,Certificación Orgánica y de Origen - Reg COOP-GT0604-A,86.00,2026-03-15
+GT0604,Cultivo de Frijol en Casillas,Certificación Orgánica y de Origen - Reg COOP-GT0604-B,73.00,2026-03-15
+GT0604,Cultivo de Caña de Azúcar en Casillas,Certificación Orgánica y de Origen - Reg ASO-GT0604-C,90.00,2026-03-15
+GT0604,Cultivo de Banano en Casillas,Certificación Orgánica y de Origen - Reg ASO-GT0604-C,91.00,2026-03-15
+GT0604,Producción Ganadera en Casillas,Certificación Orgánica y de Origen - Reg ASO-GT0604-C,77.00,2026-03-15
+GT0605,Cultivo de Maíz en San Rafael Las Flores,Certificación Orgánica y de Origen - Reg COOP-GT0605-A,69.00,2026-03-15
+GT0605,Cultivo de Frijol en San Rafael Las Flores,Certificación Orgánica y de Origen - Reg COOP-GT0605-B,83.00,2026-03-15
+GT0605,Cultivo de Caña de Azúcar en San Rafael Las Flores,Certificación Orgánica y de Origen - Reg ASO-GT0605-C,83.00,2026-03-15
+GT0605,Cultivo de Banano en San Rafael Las Flores,Certificación Orgánica y de Origen - Reg ASO-GT0605-C,95.00,2026-03-15
+GT0605,Producción Ganadera en San Rafael Las Flores,Certificación Orgánica y de Origen - Reg ASO-GT0605-C,77.00,2026-03-15
+GT0606,Cultivo de Maíz en Oratorio,Certificación Orgánica y de Origen - Reg COOP-GT0606-A,68.00,2026-03-15
+GT0606,Cultivo de Frijol en Oratorio,Certificación Orgánica y de Origen - Reg COOP-GT0606-B,77.00,2026-03-15
+GT0606,Cultivo de Caña de Azúcar en Oratorio,Certificación Orgánica y de Origen - Reg ASO-GT0606-C,83.00,2026-03-15
+GT0606,Cultivo de Banano en Oratorio,Certificación Orgánica y de Origen - Reg ASO-GT0606-C,99.00,2026-03-15
+GT0606,Producción Ganadera en Oratorio,Certificación Orgánica y de Origen - Reg ASO-GT0606-C,83.00,2026-03-15
+GT0607,Cultivo de Maíz en San Juan Tecuaco,Certificación Orgánica y de Origen - Reg COOP-GT0607-A,89.00,2026-03-15
+GT0607,Cultivo de Frijol en San Juan Tecuaco,Certificación Orgánica y de Origen - Reg COOP-GT0607-B,83.00,2026-03-15
+GT0607,Cultivo de Caña de Azúcar en San Juan Tecuaco,Certificación Orgánica y de Origen - Reg ASO-GT0607-C,95.00,2026-03-15
+GT0607,Cultivo de Banano en San Juan Tecuaco,Certificación Orgánica y de Origen - Reg ASO-GT0607-C,91.00,2026-03-15
+GT0607,Producción Ganadera en San Juan Tecuaco,Certificación Orgánica y de Origen - Reg ASO-GT0607-C,81.00,2026-03-15
+GT0608,Cultivo de Maíz en Chiquimulilla,Certificación Orgánica y de Origen - Reg COOP-GT0608-A,61.00,2026-03-15
+GT0608,Cultivo de Frijol en Chiquimulilla,Certificación Orgánica y de Origen - Reg COOP-GT0608-B,78.00,2026-03-15
+GT0608,Cultivo de Caña de Azúcar en Chiquimulilla,Certificación Orgánica y de Origen - Reg ASO-GT0608-C,74.00,2026-03-15
+GT0608,Cultivo de Banano en Chiquimulilla,Certificación Orgánica y de Origen - Reg ASO-GT0608-C,94.00,2026-03-15
+GT0608,Producción Ganadera en Chiquimulilla,Certificación Orgánica y de Origen - Reg ASO-GT0608-C,70.00,2026-03-15
+GT0609,Cultivo de Maíz en Taxisco,Certificación Orgánica y de Origen - Reg COOP-GT0609-A,93.00,2026-03-15
+GT0609,Cultivo de Frijol en Taxisco,Certificación Orgánica y de Origen - Reg COOP-GT0609-B,54.00,2026-03-15
+GT0609,Cultivo de Caña de Azúcar en Taxisco,Certificación Orgánica y de Origen - Reg ASO-GT0609-C,72.00,2026-03-15
+GT0609,Cultivo de Banano en Taxisco,Certificación Orgánica y de Origen - Reg ASO-GT0609-C,80.00,2026-03-15
+GT0609,Producción Ganadera en Taxisco,Certificación Orgánica y de Origen - Reg ASO-GT0609-C,80.00,2026-03-15
+GT0610,Cultivo de Maíz en Santa María Ixhuatán,Certificación Orgánica y de Origen - Reg COOP-GT0610-A,85.00,2026-03-15
+GT0610,Cultivo de Frijol en Santa María Ixhuatán,Certificación Orgánica y de Origen - Reg COOP-GT0610-B,60.00,2026-03-15
+GT0610,Cultivo de Caña de Azúcar en Santa María Ixhuatán,Certificación Orgánica y de Origen - Reg ASO-GT0610-C,83.00,2026-03-15
+GT0610,Cultivo de Banano en Santa María Ixhuatán,Certificación Orgánica y de Origen - Reg ASO-GT0610-C,71.00,2026-03-15
+GT0610,Producción Ganadera en Santa María Ixhuatán,Certificación Orgánica y de Origen - Reg ASO-GT0610-C,82.00,2026-03-15
+GT0611,Cultivo de Maíz en Guazacapán,Certificación Orgánica y de Origen - Reg COOP-GT0611-A,62.00,2026-03-15
+GT0611,Cultivo de Frijol en Guazacapán,Certificación Orgánica y de Origen - Reg COOP-GT0611-B,92.00,2026-03-15
+GT0611,Cultivo de Caña de Azúcar en Guazacapán,Certificación Orgánica y de Origen - Reg ASO-GT0611-C,99.00,2026-03-15
+GT0611,Cultivo de Banano en Guazacapán,Certificación Orgánica y de Origen - Reg ASO-GT0611-C,90.00,2026-03-15
+GT0611,Producción Ganadera en Guazacapán,Certificación Orgánica y de Origen - Reg ASO-GT0611-C,74.00,2026-03-15
+GT0612,Cultivo de Maíz en Santa Cruz Naranjo,Certificación Orgánica y de Origen - Reg COOP-GT0612-A,96.00,2026-03-15
+GT0612,Cultivo de Frijol en Santa Cruz Naranjo,Certificación Orgánica y de Origen - Reg COOP-GT0612-B,53.00,2026-03-15
+GT0612,Cultivo de Caña de Azúcar en Santa Cruz Naranjo,Certificación Orgánica y de Origen - Reg ASO-GT0612-C,90.00,2026-03-15
+GT0612,Cultivo de Banano en Santa Cruz Naranjo,Certificación Orgánica y de Origen - Reg ASO-GT0612-C,92.00,2026-03-15
+GT0612,Producción Ganadera en Santa Cruz Naranjo,Certificación Orgánica y de Origen - Reg ASO-GT0612-C,95.00,2026-03-15
+GT0613,Cultivo de Maíz en Pueblo Nuevo Viñas,Certificación Orgánica y de Origen - Reg COOP-GT0613-A,93.00,2026-03-15
+GT0613,Cultivo de Frijol en Pueblo Nuevo Viñas,Certificación Orgánica y de Origen - Reg COOP-GT0613-B,68.00,2026-03-15
+GT0613,Cultivo de Caña de Azúcar en Pueblo Nuevo Viñas,Certificación Orgánica y de Origen - Reg ASO-GT0613-C,83.00,2026-03-15
+GT0613,Cultivo de Banano en Pueblo Nuevo Viñas,Certificación Orgánica y de Origen - Reg ASO-GT0613-C,82.00,2026-03-15
+GT0613,Producción Ganadera en Pueblo Nuevo Viñas,Certificación Orgánica y de Origen - Reg ASO-GT0613-C,98.00,2026-03-15
+GT0614,Cultivo de Maíz en Nueva Santa Rosa,Certificación Orgánica y de Origen - Reg COOP-GT0614-A,95.00,2026-03-15
+GT0614,Cultivo de Frijol en Nueva Santa Rosa,Certificación Orgánica y de Origen - Reg COOP-GT0614-B,69.00,2026-03-15
+GT0614,Cultivo de Caña de Azúcar en Nueva Santa Rosa,Certificación Orgánica y de Origen - Reg ASO-GT0614-C,93.00,2026-03-15
+GT0614,Cultivo de Banano en Nueva Santa Rosa,Certificación Orgánica y de Origen - Reg ASO-GT0614-C,93.00,2026-03-15
+GT0614,Producción Ganadera en Nueva Santa Rosa,Certificación Orgánica y de Origen - Reg ASO-GT0614-C,80.00,2026-03-15
+GT0700,Cultivo de Maíz en Lago De Atitlan,Certificación Orgánica y de Origen - Reg COOP-GT0700-A,82.00,2026-03-15
+GT0700,Cultivo de Frijol en Lago De Atitlan,Certificación Orgánica y de Origen - Reg COOP-GT0700-B,50.00,2026-03-15
+GT0700,Producción de Tejidos Mayas en Lago De Atitlan,Certificación Orgánica y de Origen - Reg ASO-GT0700-C,96.00,2026-03-15
+GT0700,Cultivo de Hortalizas en Lago De Atitlan,Certificación Orgánica y de Origen - Reg ASO-GT0700-C,78.00,2026-03-15
+GT0700,Producción de Cestería en Lago De Atitlan,Certificación Orgánica y de Origen - Reg ASO-GT0700-C,98.00,2026-03-15
+GT0701,Cultivo de Maíz en Sololá,Certificación Orgánica y de Origen - Reg COOP-GT0701-A,93.00,2026-03-15
+GT0701,Cultivo de Frijol en Sololá,Certificación Orgánica y de Origen - Reg COOP-GT0701-B,89.00,2026-03-15
+GT0701,Producción de Tejidos Mayas en Sololá,Certificación Orgánica y de Origen - Reg ASO-GT0701-C,99.00,2026-03-15
+GT0701,Cultivo de Hortalizas en Sololá,Certificación Orgánica y de Origen - Reg ASO-GT0701-C,74.00,2026-03-15
+GT0701,Producción de Cestería en Sololá,Certificación Orgánica y de Origen - Reg ASO-GT0701-C,92.00,2026-03-15
+GT0702,Cultivo de Maíz en San José Chacayá,Certificación Orgánica y de Origen - Reg COOP-GT0702-A,85.00,2026-03-15
+GT0702,Cultivo de Frijol en San José Chacayá,Certificación Orgánica y de Origen - Reg COOP-GT0702-B,78.00,2026-03-15
+GT0702,Producción de Tejidos Mayas en San José Chacayá,Certificación Orgánica y de Origen - Reg ASO-GT0702-C,90.00,2026-03-15
+GT0702,Cultivo de Hortalizas en San José Chacayá,Certificación Orgánica y de Origen - Reg ASO-GT0702-C,76.00,2026-03-15
+GT0702,Producción de Cestería en San José Chacayá,Certificación Orgánica y de Origen - Reg ASO-GT0702-C,98.00,2026-03-15
+GT0703,Cultivo de Maíz en Santa María Visitación,Certificación Orgánica y de Origen - Reg COOP-GT0703-A,94.00,2026-03-15
+GT0703,Cultivo de Frijol en Santa María Visitación,Certificación Orgánica y de Origen - Reg COOP-GT0703-B,89.00,2026-03-15
+GT0703,Producción de Tejidos Mayas en Santa María Visitación,Certificación Orgánica y de Origen - Reg ASO-GT0703-C,95.00,2026-03-15
+GT0703,Cultivo de Hortalizas en Santa María Visitación,Certificación Orgánica y de Origen - Reg ASO-GT0703-C,89.00,2026-03-15
+GT0703,Producción de Cestería en Santa María Visitación,Certificación Orgánica y de Origen - Reg ASO-GT0703-C,90.00,2026-03-15
+GT0704,Cultivo de Maíz en Santa Lucía Utatlán,Certificación Orgánica y de Origen - Reg COOP-GT0704-A,88.00,2026-03-15
+GT0704,Cultivo de Frijol en Santa Lucía Utatlán,Certificación Orgánica y de Origen - Reg COOP-GT0704-B,94.00,2026-03-15
+GT0704,Producción de Tejidos Mayas en Santa Lucía Utatlán,Certificación Orgánica y de Origen - Reg ASO-GT0704-C,81.00,2026-03-15
+GT0704,Cultivo de Hortalizas en Santa Lucía Utatlán,Certificación Orgánica y de Origen - Reg ASO-GT0704-C,98.00,2026-03-15
+GT0704,Producción de Cestería en Santa Lucía Utatlán,Certificación Orgánica y de Origen - Reg ASO-GT0704-C,95.00,2026-03-15
+GT0705,Cultivo de Maíz en Nahualá,Certificación Orgánica y de Origen - Reg COOP-GT0705-A,85.00,2026-03-15
+GT0705,Cultivo de Frijol en Nahualá,Certificación Orgánica y de Origen - Reg COOP-GT0705-B,62.00,2026-03-15
+GT0705,Producción de Tejidos Mayas en Nahualá,Certificación Orgánica y de Origen - Reg ASO-GT0705-C,98.00,2026-03-15
+GT0705,Cultivo de Hortalizas en Nahualá,Certificación Orgánica y de Origen - Reg ASO-GT0705-C,79.00,2026-03-15
+GT0705,Producción de Cestería en Nahualá,Certificación Orgánica y de Origen - Reg ASO-GT0705-C,72.00,2026-03-15
+GT0706,Cultivo de Maíz en Santa Catarina Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT0706-A,62.00,2026-03-15
+GT0706,Cultivo de Frijol en Santa Catarina Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT0706-B,84.00,2026-03-15
+GT0706,Producción de Tejidos Mayas en Santa Catarina Ixtahuacán,Certificación Orgánica y de Origen - Reg ASO-GT0706-C,80.00,2026-03-15
+GT0706,Cultivo de Hortalizas en Santa Catarina Ixtahuacán,Certificación Orgánica y de Origen - Reg ASO-GT0706-C,82.00,2026-03-15
+GT0706,Producción de Cestería en Santa Catarina Ixtahuacán,Certificación Orgánica y de Origen - Reg ASO-GT0706-C,93.00,2026-03-15
+GT0707,Cultivo de Maíz en Santa Clara La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0707-A,68.00,2026-03-15
+GT0707,Cultivo de Frijol en Santa Clara La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0707-B,83.00,2026-03-15
+GT0707,Producción de Tejidos Mayas en Santa Clara La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0707-C,87.00,2026-03-15
+GT0707,Cultivo de Hortalizas en Santa Clara La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0707-C,79.00,2026-03-15
+GT0707,Producción de Cestería en Santa Clara La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0707-C,76.00,2026-03-15
+GT0708,Cultivo de Maíz en Concepción,Certificación Orgánica y de Origen - Reg COOP-GT0708-A,65.00,2026-03-15
+GT0708,Cultivo de Frijol en Concepción,Certificación Orgánica y de Origen - Reg COOP-GT0708-B,82.00,2026-03-15
+GT0708,Producción de Tejidos Mayas en Concepción,Certificación Orgánica y de Origen - Reg ASO-GT0708-C,87.00,2026-03-15
+GT0708,Cultivo de Hortalizas en Concepción,Certificación Orgánica y de Origen - Reg ASO-GT0708-C,79.00,2026-03-15
+GT0708,Producción de Cestería en Concepción,Certificación Orgánica y de Origen - Reg ASO-GT0708-C,86.00,2026-03-15
+GT0709,Cultivo de Maíz en San Andrés Semetabaj,Certificación Orgánica y de Origen - Reg COOP-GT0709-A,81.00,2026-03-15
+GT0709,Cultivo de Frijol en San Andrés Semetabaj,Certificación Orgánica y de Origen - Reg COOP-GT0709-B,90.00,2026-03-15
+GT0709,Producción de Tejidos Mayas en San Andrés Semetabaj,Certificación Orgánica y de Origen - Reg ASO-GT0709-C,75.00,2026-03-15
+GT0709,Cultivo de Hortalizas en San Andrés Semetabaj,Certificación Orgánica y de Origen - Reg ASO-GT0709-C,70.00,2026-03-15
+GT0709,Producción de Cestería en San Andrés Semetabaj,Certificación Orgánica y de Origen - Reg ASO-GT0709-C,70.00,2026-03-15
+GT0710,Cultivo de Maíz en Panajachel,Certificación Orgánica y de Origen - Reg COOP-GT0710-A,94.00,2026-03-15
+GT0710,Cultivo de Frijol en Panajachel,Certificación Orgánica y de Origen - Reg COOP-GT0710-B,87.00,2026-03-15
+GT0710,Producción de Tejidos Mayas en Panajachel,Certificación Orgánica y de Origen - Reg ASO-GT0710-C,78.00,2026-03-15
+GT0710,Cultivo de Hortalizas en Panajachel,Certificación Orgánica y de Origen - Reg ASO-GT0710-C,77.00,2026-03-15
+GT0710,Producción de Cestería en Panajachel,Certificación Orgánica y de Origen - Reg ASO-GT0710-C,96.00,2026-03-15
+GT0711,Cultivo de Maíz en Santa Catarina Palopó,Certificación Orgánica y de Origen - Reg COOP-GT0711-A,79.00,2026-03-15
+GT0711,Cultivo de Frijol en Santa Catarina Palopó,Certificación Orgánica y de Origen - Reg COOP-GT0711-B,77.00,2026-03-15
+GT0711,Producción de Tejidos Mayas en Santa Catarina Palopó,Certificación Orgánica y de Origen - Reg ASO-GT0711-C,86.00,2026-03-15
+GT0711,Cultivo de Hortalizas en Santa Catarina Palopó,Certificación Orgánica y de Origen - Reg ASO-GT0711-C,73.00,2026-03-15
+GT0711,Producción de Cestería en Santa Catarina Palopó,Certificación Orgánica y de Origen - Reg ASO-GT0711-C,93.00,2026-03-15
+GT0712,Cultivo de Maíz en San Antonio Palopó,Certificación Orgánica y de Origen - Reg COOP-GT0712-A,63.00,2026-03-15
+GT0712,Cultivo de Frijol en San Antonio Palopó,Certificación Orgánica y de Origen - Reg COOP-GT0712-B,73.00,2026-03-15
+GT0712,Producción de Tejidos Mayas en San Antonio Palopó,Certificación Orgánica y de Origen - Reg ASO-GT0712-C,78.00,2026-03-15
+GT0712,Cultivo de Hortalizas en San Antonio Palopó,Certificación Orgánica y de Origen - Reg ASO-GT0712-C,90.00,2026-03-15
+GT0712,Producción de Cestería en San Antonio Palopó,Certificación Orgánica y de Origen - Reg ASO-GT0712-C,86.00,2026-03-15
+GT0713,Cultivo de Maíz en San Lucas Tolimán,Certificación Orgánica y de Origen - Reg COOP-GT0713-A,82.00,2026-03-15
+GT0713,Cultivo de Frijol en San Lucas Tolimán,Certificación Orgánica y de Origen - Reg COOP-GT0713-B,57.00,2026-03-15
+GT0713,Producción de Tejidos Mayas en San Lucas Tolimán,Certificación Orgánica y de Origen - Reg ASO-GT0713-C,71.00,2026-03-15
+GT0713,Cultivo de Hortalizas en San Lucas Tolimán,Certificación Orgánica y de Origen - Reg ASO-GT0713-C,94.00,2026-03-15
+GT0713,Producción de Cestería en San Lucas Tolimán,Certificación Orgánica y de Origen - Reg ASO-GT0713-C,90.00,2026-03-15
+GT0714,Cultivo de Maíz en Santa Cruz La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0714-A,67.00,2026-03-15
+GT0714,Cultivo de Frijol en Santa Cruz La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0714-B,78.00,2026-03-15
+GT0714,Producción de Tejidos Mayas en Santa Cruz La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0714-C,79.00,2026-03-15
+GT0714,Cultivo de Hortalizas en Santa Cruz La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0714-C,88.00,2026-03-15
+GT0714,Producción de Cestería en Santa Cruz La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0714-C,93.00,2026-03-15
+GT0715,Cultivo de Maíz en San Pablo La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0715-A,60.00,2026-03-15
+GT0715,Cultivo de Frijol en San Pablo La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0715-B,79.00,2026-03-15
+GT0715,Producción de Tejidos Mayas en San Pablo La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0715-C,80.00,2026-03-15
+GT0715,Cultivo de Hortalizas en San Pablo La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0715-C,77.00,2026-03-15
+GT0715,Producción de Cestería en San Pablo La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0715-C,95.00,2026-03-15
+GT0716,Cultivo de Maíz en San Marcos La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0716-A,97.00,2026-03-15
+GT0716,Cultivo de Frijol en San Marcos La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0716-B,86.00,2026-03-15
+GT0716,Producción de Tejidos Mayas en San Marcos La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0716-C,92.00,2026-03-15
+GT0716,Cultivo de Hortalizas en San Marcos La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0716-C,98.00,2026-03-15
+GT0716,Producción de Cestería en San Marcos La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0716-C,100.00,2026-03-15
+GT0717,Cultivo de Maíz en San Juan La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0717-A,100.00,2026-03-15
+GT0717,Cultivo de Frijol en San Juan La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0717-B,92.00,2026-03-15
+GT0717,Producción de Tejidos Mayas en San Juan La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0717-C,87.00,2026-03-15
+GT0717,Cultivo de Hortalizas en San Juan La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0717-C,97.00,2026-03-15
+GT0717,Producción de Cestería en San Juan La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0717-C,89.00,2026-03-15
+GT0718,Cultivo de Maíz en San Pedro La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0718-A,74.00,2026-03-15
+GT0718,Cultivo de Frijol en San Pedro La Laguna,Certificación Orgánica y de Origen - Reg COOP-GT0718-B,72.00,2026-03-15
+GT0718,Producción de Tejidos Mayas en San Pedro La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0718-C,79.00,2026-03-15
+GT0718,Cultivo de Hortalizas en San Pedro La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0718-C,79.00,2026-03-15
+GT0718,Producción de Cestería en San Pedro La Laguna,Certificación Orgánica y de Origen - Reg ASO-GT0718-C,91.00,2026-03-15
+GT0719,Cultivo de Maíz en Santiago Atitlán,Certificación Orgánica y de Origen - Reg COOP-GT0719-A,96.00,2026-03-15
+GT0719,Cultivo de Frijol en Santiago Atitlán,Certificación Orgánica y de Origen - Reg COOP-GT0719-B,93.00,2026-03-15
+GT0719,Producción de Tejidos Mayas en Santiago Atitlán,Certificación Orgánica y de Origen - Reg ASO-GT0719-C,74.00,2026-03-15
+GT0719,Cultivo de Hortalizas en Santiago Atitlán,Certificación Orgánica y de Origen - Reg ASO-GT0719-C,92.00,2026-03-15
+GT0719,Producción de Cestería en Santiago Atitlán,Certificación Orgánica y de Origen - Reg ASO-GT0719-C,82.00,2026-03-15
+GT0801,Cultivo de Maíz en Totonicapán,Certificación Orgánica y de Origen - Reg COOP-GT0801-A,93.00,2026-03-15
+GT0801,Cultivo de Frijol en Totonicapán,Certificación Orgánica y de Origen - Reg COOP-GT0801-B,65.00,2026-03-15
+GT0801,Producción de Tejidos Mayas en Totonicapán,Certificación Orgánica y de Origen - Reg ASO-GT0801-C,73.00,2026-03-15
+GT0801,Producción de Muebles en Totonicapán,Certificación Orgánica y de Origen - Reg ASO-GT0801-C,80.00,2026-03-15
+GT0802,Cultivo de Maíz en San Cristóbal Totonicapán,Certificación Orgánica y de Origen - Reg COOP-GT0802-A,93.00,2026-03-15
+GT0802,Cultivo de Frijol en San Cristóbal Totonicapán,Certificación Orgánica y de Origen - Reg COOP-GT0802-B,87.00,2026-03-15
+GT0802,Producción de Tejidos Mayas en San Cristóbal Totonicapán,Certificación Orgánica y de Origen - Reg ASO-GT0802-C,76.00,2026-03-15
+GT0802,Producción de Muebles en San Cristóbal Totonicapán,Certificación Orgánica y de Origen - Reg ASO-GT0802-C,96.00,2026-03-15
+GT0803,Cultivo de Maíz en San Francisco El Alto,Certificación Orgánica y de Origen - Reg COOP-GT0803-A,83.00,2026-03-15
+GT0803,Cultivo de Frijol en San Francisco El Alto,Certificación Orgánica y de Origen - Reg COOP-GT0803-B,79.00,2026-03-15
+GT0803,Producción de Tejidos Mayas en San Francisco El Alto,Certificación Orgánica y de Origen - Reg ASO-GT0803-C,73.00,2026-03-15
+GT0803,Producción de Muebles en San Francisco El Alto,Certificación Orgánica y de Origen - Reg ASO-GT0803-C,74.00,2026-03-15
+GT0804,Cultivo de Maíz en San Andrés Xecul,Certificación Orgánica y de Origen - Reg COOP-GT0804-A,87.00,2026-03-15
+GT0804,Cultivo de Frijol en San Andrés Xecul,Certificación Orgánica y de Origen - Reg COOP-GT0804-B,76.00,2026-03-15
+GT0804,Producción de Tejidos Mayas en San Andrés Xecul,Certificación Orgánica y de Origen - Reg ASO-GT0804-C,72.00,2026-03-15
+GT0804,Producción de Muebles en San Andrés Xecul,Certificación Orgánica y de Origen - Reg ASO-GT0804-C,72.00,2026-03-15
+GT0805,Cultivo de Maíz en Momostenango,Certificación Orgánica y de Origen - Reg COOP-GT0805-A,63.00,2026-03-15
+GT0805,Cultivo de Frijol en Momostenango,Certificación Orgánica y de Origen - Reg COOP-GT0805-B,77.00,2026-03-15
+GT0805,Producción de Tejidos Mayas en Momostenango,Certificación Orgánica y de Origen - Reg ASO-GT0805-C,98.00,2026-03-15
+GT0805,Producción de Muebles en Momostenango,Certificación Orgánica y de Origen - Reg ASO-GT0805-C,74.00,2026-03-15
+GT0806,Cultivo de Maíz en Santa María Chiquimula,Certificación Orgánica y de Origen - Reg COOP-GT0806-A,90.00,2026-03-15
+GT0806,Cultivo de Frijol en Santa María Chiquimula,Certificación Orgánica y de Origen - Reg COOP-GT0806-B,63.00,2026-03-15
+GT0806,Producción de Tejidos Mayas en Santa María Chiquimula,Certificación Orgánica y de Origen - Reg ASO-GT0806-C,84.00,2026-03-15
+GT0806,Producción de Muebles en Santa María Chiquimula,Certificación Orgánica y de Origen - Reg ASO-GT0806-C,72.00,2026-03-15
+GT0807,Cultivo de Maíz en Santa Lucía La Reforma,Certificación Orgánica y de Origen - Reg COOP-GT0807-A,83.00,2026-03-15
+GT0807,Cultivo de Frijol en Santa Lucía La Reforma,Certificación Orgánica y de Origen - Reg COOP-GT0807-B,93.00,2026-03-15
+GT0807,Producción de Tejidos Mayas en Santa Lucía La Reforma,Certificación Orgánica y de Origen - Reg ASO-GT0807-C,86.00,2026-03-15
+GT0807,Producción de Muebles en Santa Lucía La Reforma,Certificación Orgánica y de Origen - Reg ASO-GT0807-C,82.00,2026-03-15
+GT0808,Cultivo de Maíz en San Bartolo,Certificación Orgánica y de Origen - Reg COOP-GT0808-A,97.00,2026-03-15
+GT0808,Cultivo de Frijol en San Bartolo,Certificación Orgánica y de Origen - Reg COOP-GT0808-B,85.00,2026-03-15
+GT0808,Producción de Tejidos Mayas en San Bartolo,Certificación Orgánica y de Origen - Reg ASO-GT0808-C,86.00,2026-03-15
+GT0808,Producción de Muebles en San Bartolo,Certificación Orgánica y de Origen - Reg ASO-GT0808-C,94.00,2026-03-15
+GT0901,Cultivo de Maíz en Quetzaltenango,Certificación Orgánica y de Origen - Reg COOP-GT0901-A,85.00,2026-03-15
+GT0901,Cultivo de Frijol en Quetzaltenango,Certificación Orgánica y de Origen - Reg COOP-GT0901-B,66.00,2026-03-15
+GT0901,Producción de Tejidos Mayas en Quetzaltenango,Certificación Orgánica y de Origen - Reg ASO-GT0901-C,88.00,2026-03-15
+GT0901,Cultivo de Hortalizas en Quetzaltenango,Certificación Orgánica y de Origen - Reg ASO-GT0901-C,85.00,2026-03-15
+GT0902,Cultivo de Maíz en Salcajá,Certificación Orgánica y de Origen - Reg COOP-GT0902-A,100.00,2026-03-15
+GT0902,Cultivo de Frijol en Salcajá,Certificación Orgánica y de Origen - Reg COOP-GT0902-B,77.00,2026-03-15
+GT0902,Producción de Tejidos Mayas en Salcajá,Certificación Orgánica y de Origen - Reg ASO-GT0902-C,84.00,2026-03-15
+GT0902,Cultivo de Hortalizas en Salcajá,Certificación Orgánica y de Origen - Reg ASO-GT0902-C,92.00,2026-03-15
+GT0903,Cultivo de Maíz en Olintepeque,Certificación Orgánica y de Origen - Reg COOP-GT0903-A,91.00,2026-03-15
+GT0903,Cultivo de Frijol en Olintepeque,Certificación Orgánica y de Origen - Reg COOP-GT0903-B,76.00,2026-03-15
+GT0903,Producción de Tejidos Mayas en Olintepeque,Certificación Orgánica y de Origen - Reg ASO-GT0903-C,96.00,2026-03-15
+GT0903,Cultivo de Hortalizas en Olintepeque,Certificación Orgánica y de Origen - Reg ASO-GT0903-C,75.00,2026-03-15
+GT0904,Cultivo de Maíz en San Carlos Sija,Certificación Orgánica y de Origen - Reg COOP-GT0904-A,69.00,2026-03-15
+GT0904,Cultivo de Frijol en San Carlos Sija,Certificación Orgánica y de Origen - Reg COOP-GT0904-B,82.00,2026-03-15
+GT0904,Producción de Tejidos Mayas en San Carlos Sija,Certificación Orgánica y de Origen - Reg ASO-GT0904-C,74.00,2026-03-15
+GT0904,Cultivo de Hortalizas en San Carlos Sija,Certificación Orgánica y de Origen - Reg ASO-GT0904-C,85.00,2026-03-15
+GT0905,Cultivo de Maíz en Sibilia,Certificación Orgánica y de Origen - Reg COOP-GT0905-A,89.00,2026-03-15
+GT0905,Cultivo de Frijol en Sibilia,Certificación Orgánica y de Origen - Reg COOP-GT0905-B,58.00,2026-03-15
+GT0905,Producción de Tejidos Mayas en Sibilia,Certificación Orgánica y de Origen - Reg ASO-GT0905-C,100.00,2026-03-15
+GT0905,Cultivo de Hortalizas en Sibilia,Certificación Orgánica y de Origen - Reg ASO-GT0905-C,92.00,2026-03-15
+GT0906,Cultivo de Maíz en Cabricán,Certificación Orgánica y de Origen - Reg COOP-GT0906-A,92.00,2026-03-15
+GT0906,Cultivo de Frijol en Cabricán,Certificación Orgánica y de Origen - Reg COOP-GT0906-B,83.00,2026-03-15
+GT0906,Producción de Tejidos Mayas en Cabricán,Certificación Orgánica y de Origen - Reg ASO-GT0906-C,73.00,2026-03-15
+GT0906,Cultivo de Hortalizas en Cabricán,Certificación Orgánica y de Origen - Reg ASO-GT0906-C,92.00,2026-03-15
+GT0907,Cultivo de Maíz en Cajolá,Certificación Orgánica y de Origen - Reg COOP-GT0907-A,73.00,2026-03-15
+GT0907,Cultivo de Frijol en Cajolá,Certificación Orgánica y de Origen - Reg COOP-GT0907-B,79.00,2026-03-15
+GT0907,Producción de Tejidos Mayas en Cajolá,Certificación Orgánica y de Origen - Reg ASO-GT0907-C,85.00,2026-03-15
+GT0907,Cultivo de Hortalizas en Cajolá,Certificación Orgánica y de Origen - Reg ASO-GT0907-C,71.00,2026-03-15
+GT0908,Cultivo de Maíz en San Miguel Sigüila,Certificación Orgánica y de Origen - Reg COOP-GT0908-A,70.00,2026-03-15
+GT0908,Cultivo de Frijol en San Miguel Sigüila,Certificación Orgánica y de Origen - Reg COOP-GT0908-B,85.00,2026-03-15
+GT0908,Producción de Tejidos Mayas en San Miguel Sigüila,Certificación Orgánica y de Origen - Reg ASO-GT0908-C,81.00,2026-03-15
+GT0908,Cultivo de Hortalizas en San Miguel Sigüila,Certificación Orgánica y de Origen - Reg ASO-GT0908-C,99.00,2026-03-15
+GT0909,Cultivo de Maíz en Ostuncalco,Certificación Orgánica y de Origen - Reg COOP-GT0909-A,67.00,2026-03-15
+GT0909,Cultivo de Frijol en Ostuncalco,Certificación Orgánica y de Origen - Reg COOP-GT0909-B,88.00,2026-03-15
+GT0909,Producción de Tejidos Mayas en Ostuncalco,Certificación Orgánica y de Origen - Reg ASO-GT0909-C,97.00,2026-03-15
+GT0909,Cultivo de Hortalizas en Ostuncalco,Certificación Orgánica y de Origen - Reg ASO-GT0909-C,83.00,2026-03-15
+GT0910,Cultivo de Maíz en San Mateo,Certificación Orgánica y de Origen - Reg COOP-GT0910-A,67.00,2026-03-15
+GT0910,Cultivo de Frijol en San Mateo,Certificación Orgánica y de Origen - Reg COOP-GT0910-B,57.00,2026-03-15
+GT0910,Producción de Tejidos Mayas en San Mateo,Certificación Orgánica y de Origen - Reg ASO-GT0910-C,81.00,2026-03-15
+GT0910,Cultivo de Hortalizas en San Mateo,Certificación Orgánica y de Origen - Reg ASO-GT0910-C,88.00,2026-03-15
+GT0911,Cultivo de Maíz en Concepción Chiquirichapa,Certificación Orgánica y de Origen - Reg COOP-GT0911-A,78.00,2026-03-15
+GT0911,Cultivo de Frijol en Concepción Chiquirichapa,Certificación Orgánica y de Origen - Reg COOP-GT0911-B,52.00,2026-03-15
+GT0911,Producción de Tejidos Mayas en Concepción Chiquirichapa,Certificación Orgánica y de Origen - Reg ASO-GT0911-C,86.00,2026-03-15
+GT0911,Cultivo de Hortalizas en Concepción Chiquirichapa,Certificación Orgánica y de Origen - Reg ASO-GT0911-C,74.00,2026-03-15
+GT0912,Cultivo de Maíz en San Martín Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0912-A,67.00,2026-03-15
+GT0912,Cultivo de Frijol en San Martín Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT0912-B,73.00,2026-03-15
+GT0912,Producción de Tejidos Mayas en San Martín Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0912-C,79.00,2026-03-15
+GT0912,Cultivo de Hortalizas en San Martín Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT0912-C,81.00,2026-03-15
+GT0913,Cultivo de Maíz en Almolonga,Certificación Orgánica y de Origen - Reg COOP-GT0913-A,79.00,2026-03-15
+GT0913,Cultivo de Frijol en Almolonga,Certificación Orgánica y de Origen - Reg COOP-GT0913-B,68.00,2026-03-15
+GT0913,Producción de Tejidos Mayas en Almolonga,Certificación Orgánica y de Origen - Reg ASO-GT0913-C,85.00,2026-03-15
+GT0913,Cultivo de Hortalizas en Almolonga,Certificación Orgánica y de Origen - Reg ASO-GT0913-C,70.00,2026-03-15
+GT0914,Cultivo de Maíz en Cantel,Certificación Orgánica y de Origen - Reg COOP-GT0914-A,69.00,2026-03-15
+GT0914,Cultivo de Frijol en Cantel,Certificación Orgánica y de Origen - Reg COOP-GT0914-B,59.00,2026-03-15
+GT0914,Producción de Tejidos Mayas en Cantel,Certificación Orgánica y de Origen - Reg ASO-GT0914-C,95.00,2026-03-15
+GT0914,Cultivo de Hortalizas en Cantel,Certificación Orgánica y de Origen - Reg ASO-GT0914-C,88.00,2026-03-15
+GT0915,Cultivo de Maíz en Huitán,Certificación Orgánica y de Origen - Reg COOP-GT0915-A,86.00,2026-03-15
+GT0915,Cultivo de Frijol en Huitán,Certificación Orgánica y de Origen - Reg COOP-GT0915-B,53.00,2026-03-15
+GT0915,Producción de Tejidos Mayas en Huitán,Certificación Orgánica y de Origen - Reg ASO-GT0915-C,99.00,2026-03-15
+GT0915,Cultivo de Hortalizas en Huitán,Certificación Orgánica y de Origen - Reg ASO-GT0915-C,98.00,2026-03-15
+GT0916,Cultivo de Maíz en Zunil,Certificación Orgánica y de Origen - Reg COOP-GT0916-A,79.00,2026-03-15
+GT0916,Cultivo de Frijol en Zunil,Certificación Orgánica y de Origen - Reg COOP-GT0916-B,68.00,2026-03-15
+GT0916,Producción de Tejidos Mayas en Zunil,Certificación Orgánica y de Origen - Reg ASO-GT0916-C,76.00,2026-03-15
+GT0916,Cultivo de Hortalizas en Zunil,Certificación Orgánica y de Origen - Reg ASO-GT0916-C,75.00,2026-03-15
+GT0917,Cultivo de Maíz en Colomba,Certificación Orgánica y de Origen - Reg COOP-GT0917-A,91.00,2026-03-15
+GT0917,Cultivo de Frijol en Colomba,Certificación Orgánica y de Origen - Reg COOP-GT0917-B,50.00,2026-03-15
+GT0917,Producción de Tejidos Mayas en Colomba,Certificación Orgánica y de Origen - Reg ASO-GT0917-C,73.00,2026-03-15
+GT0917,Cultivo de Hortalizas en Colomba,Certificación Orgánica y de Origen - Reg ASO-GT0917-C,87.00,2026-03-15
+GT0918,Cultivo de Maíz en San Francisco La Unión,Certificación Orgánica y de Origen - Reg COOP-GT0918-A,82.00,2026-03-15
+GT0918,Cultivo de Frijol en San Francisco La Unión,Certificación Orgánica y de Origen - Reg COOP-GT0918-B,54.00,2026-03-15
+GT0918,Producción de Tejidos Mayas en San Francisco La Unión,Certificación Orgánica y de Origen - Reg ASO-GT0918-C,97.00,2026-03-15
+GT0918,Cultivo de Hortalizas en San Francisco La Unión,Certificación Orgánica y de Origen - Reg ASO-GT0918-C,71.00,2026-03-15
+GT0919,Cultivo de Maíz en El Palmar,Certificación Orgánica y de Origen - Reg COOP-GT0919-A,86.00,2026-03-15
+GT0919,Cultivo de Frijol en El Palmar,Certificación Orgánica y de Origen - Reg COOP-GT0919-B,80.00,2026-03-15
+GT0919,Producción de Tejidos Mayas en El Palmar,Certificación Orgánica y de Origen - Reg ASO-GT0919-C,88.00,2026-03-15
+GT0919,Cultivo de Hortalizas en El Palmar,Certificación Orgánica y de Origen - Reg ASO-GT0919-C,79.00,2026-03-15
+GT0920,Cultivo de Maíz en Coatepeque,Certificación Orgánica y de Origen - Reg COOP-GT0920-A,96.00,2026-03-15
+GT0920,Cultivo de Frijol en Coatepeque,Certificación Orgánica y de Origen - Reg COOP-GT0920-B,78.00,2026-03-15
+GT0920,Producción de Tejidos Mayas en Coatepeque,Certificación Orgánica y de Origen - Reg ASO-GT0920-C,98.00,2026-03-15
+GT0920,Cultivo de Hortalizas en Coatepeque,Certificación Orgánica y de Origen - Reg ASO-GT0920-C,80.00,2026-03-15
+GT0921,Cultivo de Maíz en Génova,Certificación Orgánica y de Origen - Reg COOP-GT0921-A,84.00,2026-03-15
+GT0921,Cultivo de Frijol en Génova,Certificación Orgánica y de Origen - Reg COOP-GT0921-B,80.00,2026-03-15
+GT0921,Producción de Tejidos Mayas en Génova,Certificación Orgánica y de Origen - Reg ASO-GT0921-C,96.00,2026-03-15
+GT0921,Cultivo de Hortalizas en Génova,Certificación Orgánica y de Origen - Reg ASO-GT0921-C,93.00,2026-03-15
+GT0922,Cultivo de Maíz en Flores Costa Cuca,Certificación Orgánica y de Origen - Reg COOP-GT0922-A,98.00,2026-03-15
+GT0922,Cultivo de Frijol en Flores Costa Cuca,Certificación Orgánica y de Origen - Reg COOP-GT0922-B,58.00,2026-03-15
+GT0922,Producción de Tejidos Mayas en Flores Costa Cuca,Certificación Orgánica y de Origen - Reg ASO-GT0922-C,94.00,2026-03-15
+GT0922,Cultivo de Hortalizas en Flores Costa Cuca,Certificación Orgánica y de Origen - Reg ASO-GT0922-C,74.00,2026-03-15
+GT0923,Cultivo de Maíz en La Esperanza,Certificación Orgánica y de Origen - Reg COOP-GT0923-A,92.00,2026-03-15
+GT0923,Cultivo de Frijol en La Esperanza,Certificación Orgánica y de Origen - Reg COOP-GT0923-B,90.00,2026-03-15
+GT0923,Producción de Tejidos Mayas en La Esperanza,Certificación Orgánica y de Origen - Reg ASO-GT0923-C,84.00,2026-03-15
+GT0923,Cultivo de Hortalizas en La Esperanza,Certificación Orgánica y de Origen - Reg ASO-GT0923-C,94.00,2026-03-15
+GT0924,Cultivo de Maíz en Palestina de Los Altos,Certificación Orgánica y de Origen - Reg COOP-GT0924-A,88.00,2026-03-15
+GT0924,Cultivo de Frijol en Palestina de Los Altos,Certificación Orgánica y de Origen - Reg COOP-GT0924-B,92.00,2026-03-15
+GT0924,Producción de Tejidos Mayas en Palestina de Los Altos,Certificación Orgánica y de Origen - Reg ASO-GT0924-C,84.00,2026-03-15
+GT0924,Cultivo de Hortalizas en Palestina de Los Altos,Certificación Orgánica y de Origen - Reg ASO-GT0924-C,74.00,2026-03-15
+GT1001,Cultivo de Maíz en Mazatenango,Certificación Orgánica y de Origen - Reg COOP-GT1001-A,80.00,2026-03-15
+GT1001,Cultivo de Frijol en Mazatenango,Certificación Orgánica y de Origen - Reg COOP-GT1001-B,55.00,2026-03-15
+GT1001,Cultivo de Caña de Azúcar en Mazatenango,Certificación Orgánica y de Origen - Reg ASO-GT1001-C,95.00,2026-03-15
+GT1001,Cultivo de Banano en Mazatenango,Certificación Orgánica y de Origen - Reg ASO-GT1001-C,89.00,2026-03-15
+GT1001,Producción Ganadera en Mazatenango,Certificación Orgánica y de Origen - Reg ASO-GT1001-C,91.00,2026-03-15
+GT1002,Cultivo de Maíz en Cuyotenango,Certificación Orgánica y de Origen - Reg COOP-GT1002-A,99.00,2026-03-15
+GT1002,Cultivo de Frijol en Cuyotenango,Certificación Orgánica y de Origen - Reg COOP-GT1002-B,76.00,2026-03-15
+GT1002,Cultivo de Caña de Azúcar en Cuyotenango,Certificación Orgánica y de Origen - Reg ASO-GT1002-C,82.00,2026-03-15
+GT1002,Cultivo de Banano en Cuyotenango,Certificación Orgánica y de Origen - Reg ASO-GT1002-C,77.00,2026-03-15
+GT1002,Producción Ganadera en Cuyotenango,Certificación Orgánica y de Origen - Reg ASO-GT1002-C,98.00,2026-03-15
+GT1003,Cultivo de Maíz en San Francisco Zapotitlán,Certificación Orgánica y de Origen - Reg COOP-GT1003-A,85.00,2026-03-15
+GT1003,Cultivo de Frijol en San Francisco Zapotitlán,Certificación Orgánica y de Origen - Reg COOP-GT1003-B,71.00,2026-03-15
+GT1003,Cultivo de Caña de Azúcar en San Francisco Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT1003-C,87.00,2026-03-15
+GT1003,Cultivo de Banano en San Francisco Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT1003-C,71.00,2026-03-15
+GT1003,Producción Ganadera en San Francisco Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT1003-C,100.00,2026-03-15
+GT1004,Cultivo de Maíz en San Bernardino,Certificación Orgánica y de Origen - Reg COOP-GT1004-A,88.00,2026-03-15
+GT1004,Cultivo de Frijol en San Bernardino,Certificación Orgánica y de Origen - Reg COOP-GT1004-B,67.00,2026-03-15
+GT1004,Cultivo de Caña de Azúcar en San Bernardino,Certificación Orgánica y de Origen - Reg ASO-GT1004-C,90.00,2026-03-15
+GT1004,Cultivo de Banano en San Bernardino,Certificación Orgánica y de Origen - Reg ASO-GT1004-C,72.00,2026-03-15
+GT1004,Producción Ganadera en San Bernardino,Certificación Orgánica y de Origen - Reg ASO-GT1004-C,97.00,2026-03-15
+GT1005,Cultivo de Maíz en San José El Ídolo,Certificación Orgánica y de Origen - Reg COOP-GT1005-A,70.00,2026-03-15
+GT1005,Cultivo de Frijol en San José El Ídolo,Certificación Orgánica y de Origen - Reg COOP-GT1005-B,95.00,2026-03-15
+GT1005,Cultivo de Caña de Azúcar en San José El Ídolo,Certificación Orgánica y de Origen - Reg ASO-GT1005-C,70.00,2026-03-15
+GT1005,Cultivo de Banano en San José El Ídolo,Certificación Orgánica y de Origen - Reg ASO-GT1005-C,88.00,2026-03-15
+GT1005,Producción Ganadera en San José El Ídolo,Certificación Orgánica y de Origen - Reg ASO-GT1005-C,90.00,2026-03-15
+GT1006,Cultivo de Maíz en Santo Domingo Suchitepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1006-A,79.00,2026-03-15
+GT1006,Cultivo de Frijol en Santo Domingo Suchitepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1006-B,85.00,2026-03-15
+GT1006,Cultivo de Caña de Azúcar en Santo Domingo Suchitepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1006-C,90.00,2026-03-15
+GT1006,Cultivo de Banano en Santo Domingo Suchitepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1006-C,73.00,2026-03-15
+GT1006,Producción Ganadera en Santo Domingo Suchitepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1006-C,90.00,2026-03-15
+GT1007,Cultivo de Maíz en San Lorenzo,Certificación Orgánica y de Origen - Reg COOP-GT1007-A,95.00,2026-03-15
+GT1007,Cultivo de Frijol en San Lorenzo,Certificación Orgánica y de Origen - Reg COOP-GT1007-B,55.00,2026-03-15
+GT1007,Cultivo de Caña de Azúcar en San Lorenzo,Certificación Orgánica y de Origen - Reg ASO-GT1007-C,76.00,2026-03-15
+GT1007,Cultivo de Banano en San Lorenzo,Certificación Orgánica y de Origen - Reg ASO-GT1007-C,100.00,2026-03-15
+GT1007,Producción Ganadera en San Lorenzo,Certificación Orgánica y de Origen - Reg ASO-GT1007-C,89.00,2026-03-15
+GT1008,Cultivo de Maíz en Samayac,Certificación Orgánica y de Origen - Reg COOP-GT1008-A,94.00,2026-03-15
+GT1008,Cultivo de Frijol en Samayac,Certificación Orgánica y de Origen - Reg COOP-GT1008-B,86.00,2026-03-15
+GT1008,Cultivo de Caña de Azúcar en Samayac,Certificación Orgánica y de Origen - Reg ASO-GT1008-C,94.00,2026-03-15
+GT1008,Cultivo de Banano en Samayac,Certificación Orgánica y de Origen - Reg ASO-GT1008-C,71.00,2026-03-15
+GT1008,Producción Ganadera en Samayac,Certificación Orgánica y de Origen - Reg ASO-GT1008-C,100.00,2026-03-15
+GT1009,Cultivo de Maíz en San Pablo Jocopilas,Certificación Orgánica y de Origen - Reg COOP-GT1009-A,96.00,2026-03-15
+GT1009,Cultivo de Frijol en San Pablo Jocopilas,Certificación Orgánica y de Origen - Reg COOP-GT1009-B,83.00,2026-03-15
+GT1009,Cultivo de Caña de Azúcar en San Pablo Jocopilas,Certificación Orgánica y de Origen - Reg ASO-GT1009-C,76.00,2026-03-15
+GT1009,Cultivo de Banano en San Pablo Jocopilas,Certificación Orgánica y de Origen - Reg ASO-GT1009-C,94.00,2026-03-15
+GT1009,Producción Ganadera en San Pablo Jocopilas,Certificación Orgánica y de Origen - Reg ASO-GT1009-C,85.00,2026-03-15
+GT1010,Cultivo de Maíz en San Antonio Suchitepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1010-A,92.00,2026-03-15
+GT1010,Cultivo de Frijol en San Antonio Suchitepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1010-B,51.00,2026-03-15
+GT1010,Cultivo de Caña de Azúcar en San Antonio Suchitepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1010-C,73.00,2026-03-15
+GT1010,Cultivo de Banano en San Antonio Suchitepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1010-C,91.00,2026-03-15
+GT1010,Producción Ganadera en San Antonio Suchitepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1010-C,99.00,2026-03-15
+GT1011,Cultivo de Maíz en San Miguel Panán,Certificación Orgánica y de Origen - Reg COOP-GT1011-A,94.00,2026-03-15
+GT1011,Cultivo de Frijol en San Miguel Panán,Certificación Orgánica y de Origen - Reg COOP-GT1011-B,61.00,2026-03-15
+GT1011,Cultivo de Caña de Azúcar en San Miguel Panán,Certificación Orgánica y de Origen - Reg ASO-GT1011-C,100.00,2026-03-15
+GT1011,Cultivo de Banano en San Miguel Panán,Certificación Orgánica y de Origen - Reg ASO-GT1011-C,70.00,2026-03-15
+GT1011,Producción Ganadera en San Miguel Panán,Certificación Orgánica y de Origen - Reg ASO-GT1011-C,78.00,2026-03-15
+GT1012,Cultivo de Maíz en San Gabriel,Certificación Orgánica y de Origen - Reg COOP-GT1012-A,73.00,2026-03-15
+GT1012,Cultivo de Frijol en San Gabriel,Certificación Orgánica y de Origen - Reg COOP-GT1012-B,65.00,2026-03-15
+GT1012,Cultivo de Caña de Azúcar en San Gabriel,Certificación Orgánica y de Origen - Reg ASO-GT1012-C,96.00,2026-03-15
+GT1012,Cultivo de Banano en San Gabriel,Certificación Orgánica y de Origen - Reg ASO-GT1012-C,92.00,2026-03-15
+GT1012,Producción Ganadera en San Gabriel,Certificación Orgánica y de Origen - Reg ASO-GT1012-C,96.00,2026-03-15
+GT1013,Cultivo de Maíz en Chicacao,Certificación Orgánica y de Origen - Reg COOP-GT1013-A,97.00,2026-03-15
+GT1013,Cultivo de Frijol en Chicacao,Certificación Orgánica y de Origen - Reg COOP-GT1013-B,78.00,2026-03-15
+GT1013,Cultivo de Caña de Azúcar en Chicacao,Certificación Orgánica y de Origen - Reg ASO-GT1013-C,72.00,2026-03-15
+GT1013,Cultivo de Banano en Chicacao,Certificación Orgánica y de Origen - Reg ASO-GT1013-C,95.00,2026-03-15
+GT1013,Producción Ganadera en Chicacao,Certificación Orgánica y de Origen - Reg ASO-GT1013-C,87.00,2026-03-15
+GT1014,Cultivo de Maíz en Patulul,Certificación Orgánica y de Origen - Reg COOP-GT1014-A,98.00,2026-03-15
+GT1014,Cultivo de Frijol en Patulul,Certificación Orgánica y de Origen - Reg COOP-GT1014-B,70.00,2026-03-15
+GT1014,Cultivo de Caña de Azúcar en Patulul,Certificación Orgánica y de Origen - Reg ASO-GT1014-C,82.00,2026-03-15
+GT1014,Cultivo de Banano en Patulul,Certificación Orgánica y de Origen - Reg ASO-GT1014-C,88.00,2026-03-15
+GT1014,Producción Ganadera en Patulul,Certificación Orgánica y de Origen - Reg ASO-GT1014-C,71.00,2026-03-15
+GT1015,Cultivo de Maíz en Santa Bárbara,Certificación Orgánica y de Origen - Reg COOP-GT1015-A,91.00,2026-03-15
+GT1015,Cultivo de Frijol en Santa Bárbara,Certificación Orgánica y de Origen - Reg COOP-GT1015-B,51.00,2026-03-15
+GT1015,Cultivo de Caña de Azúcar en Santa Bárbara,Certificación Orgánica y de Origen - Reg ASO-GT1015-C,80.00,2026-03-15
+GT1015,Cultivo de Banano en Santa Bárbara,Certificación Orgánica y de Origen - Reg ASO-GT1015-C,83.00,2026-03-15
+GT1015,Producción Ganadera en Santa Bárbara,Certificación Orgánica y de Origen - Reg ASO-GT1015-C,75.00,2026-03-15
+GT1016,Cultivo de Maíz en San Juan Bautista,Certificación Orgánica y de Origen - Reg COOP-GT1016-A,86.00,2026-03-15
+GT1016,Cultivo de Frijol en San Juan Bautista,Certificación Orgánica y de Origen - Reg COOP-GT1016-B,51.00,2026-03-15
+GT1016,Cultivo de Caña de Azúcar en San Juan Bautista,Certificación Orgánica y de Origen - Reg ASO-GT1016-C,97.00,2026-03-15
+GT1016,Cultivo de Banano en San Juan Bautista,Certificación Orgánica y de Origen - Reg ASO-GT1016-C,86.00,2026-03-15
+GT1016,Producción Ganadera en San Juan Bautista,Certificación Orgánica y de Origen - Reg ASO-GT1016-C,80.00,2026-03-15
+GT1017,Cultivo de Maíz en Santo Tomás La Unión,Certificación Orgánica y de Origen - Reg COOP-GT1017-A,84.00,2026-03-15
+GT1017,Cultivo de Frijol en Santo Tomás La Unión,Certificación Orgánica y de Origen - Reg COOP-GT1017-B,66.00,2026-03-15
+GT1017,Cultivo de Caña de Azúcar en Santo Tomás La Unión,Certificación Orgánica y de Origen - Reg ASO-GT1017-C,72.00,2026-03-15
+GT1017,Cultivo de Banano en Santo Tomás La Unión,Certificación Orgánica y de Origen - Reg ASO-GT1017-C,73.00,2026-03-15
+GT1017,Producción Ganadera en Santo Tomás La Unión,Certificación Orgánica y de Origen - Reg ASO-GT1017-C,73.00,2026-03-15
+GT1018,Cultivo de Maíz en Zunilito,Certificación Orgánica y de Origen - Reg COOP-GT1018-A,94.00,2026-03-15
+GT1018,Cultivo de Frijol en Zunilito,Certificación Orgánica y de Origen - Reg COOP-GT1018-B,60.00,2026-03-15
+GT1018,Cultivo de Caña de Azúcar en Zunilito,Certificación Orgánica y de Origen - Reg ASO-GT1018-C,79.00,2026-03-15
+GT1018,Cultivo de Banano en Zunilito,Certificación Orgánica y de Origen - Reg ASO-GT1018-C,74.00,2026-03-15
+GT1018,Producción Ganadera en Zunilito,Certificación Orgánica y de Origen - Reg ASO-GT1018-C,75.00,2026-03-15
+GT1019,Cultivo de Maíz en Pueblo Nuevo,Certificación Orgánica y de Origen - Reg COOP-GT1019-A,76.00,2026-03-15
+GT1019,Cultivo de Frijol en Pueblo Nuevo,Certificación Orgánica y de Origen - Reg COOP-GT1019-B,55.00,2026-03-15
+GT1019,Cultivo de Caña de Azúcar en Pueblo Nuevo,Certificación Orgánica y de Origen - Reg ASO-GT1019-C,74.00,2026-03-15
+GT1019,Cultivo de Banano en Pueblo Nuevo,Certificación Orgánica y de Origen - Reg ASO-GT1019-C,79.00,2026-03-15
+GT1019,Producción Ganadera en Pueblo Nuevo,Certificación Orgánica y de Origen - Reg ASO-GT1019-C,100.00,2026-03-15
+GT1020,Cultivo de Maíz en Río Bravo,Certificación Orgánica y de Origen - Reg COOP-GT1020-A,86.00,2026-03-15
+GT1020,Cultivo de Frijol en Río Bravo,Certificación Orgánica y de Origen - Reg COOP-GT1020-B,93.00,2026-03-15
+GT1020,Cultivo de Caña de Azúcar en Río Bravo,Certificación Orgánica y de Origen - Reg ASO-GT1020-C,75.00,2026-03-15
+GT1020,Cultivo de Banano en Río Bravo,Certificación Orgánica y de Origen - Reg ASO-GT1020-C,71.00,2026-03-15
+GT1020,Producción Ganadera en Río Bravo,Certificación Orgánica y de Origen - Reg ASO-GT1020-C,89.00,2026-03-15
+GT1021,Cultivo de Maíz en San José La Máquina,Certificación Orgánica y de Origen - Reg COOP-GT1021-A,80.00,2026-03-15
+GT1021,Cultivo de Frijol en San José La Máquina,Certificación Orgánica y de Origen - Reg COOP-GT1021-B,61.00,2026-03-15
+GT1021,Cultivo de Caña de Azúcar en San José La Máquina,Certificación Orgánica y de Origen - Reg ASO-GT1021-C,70.00,2026-03-15
+GT1021,Cultivo de Banano en San José La Máquina,Certificación Orgánica y de Origen - Reg ASO-GT1021-C,92.00,2026-03-15
+GT1021,Producción Ganadera en San José La Máquina,Certificación Orgánica y de Origen - Reg ASO-GT1021-C,71.00,2026-03-15
+GT1101,Cultivo de Maíz en Retalhuleu,Certificación Orgánica y de Origen - Reg COOP-GT1101-A,79.00,2026-03-15
+GT1101,Cultivo de Frijol en Retalhuleu,Certificación Orgánica y de Origen - Reg COOP-GT1101-B,74.00,2026-03-15
+GT1101,Cultivo de Caña de Azúcar en Retalhuleu,Certificación Orgánica y de Origen - Reg ASO-GT1101-C,73.00,2026-03-15
+GT1101,Cultivo de Banano en Retalhuleu,Certificación Orgánica y de Origen - Reg ASO-GT1101-C,80.00,2026-03-15
+GT1101,Producción Ganadera en Retalhuleu,Certificación Orgánica y de Origen - Reg ASO-GT1101-C,74.00,2026-03-15
+GT1102,Cultivo de Maíz en San Sebastián,Certificación Orgánica y de Origen - Reg COOP-GT1102-A,86.00,2026-03-15
+GT1102,Cultivo de Frijol en San Sebastián,Certificación Orgánica y de Origen - Reg COOP-GT1102-B,70.00,2026-03-15
+GT1102,Cultivo de Caña de Azúcar en San Sebastián,Certificación Orgánica y de Origen - Reg ASO-GT1102-C,78.00,2026-03-15
+GT1102,Cultivo de Banano en San Sebastián,Certificación Orgánica y de Origen - Reg ASO-GT1102-C,82.00,2026-03-15
+GT1102,Producción Ganadera en San Sebastián,Certificación Orgánica y de Origen - Reg ASO-GT1102-C,100.00,2026-03-15
+GT1103,Cultivo de Maíz en Santa Cruz Muluá,Certificación Orgánica y de Origen - Reg COOP-GT1103-A,67.00,2026-03-15
+GT1103,Cultivo de Frijol en Santa Cruz Muluá,Certificación Orgánica y de Origen - Reg COOP-GT1103-B,53.00,2026-03-15
+GT1103,Cultivo de Caña de Azúcar en Santa Cruz Muluá,Certificación Orgánica y de Origen - Reg ASO-GT1103-C,76.00,2026-03-15
+GT1103,Cultivo de Banano en Santa Cruz Muluá,Certificación Orgánica y de Origen - Reg ASO-GT1103-C,77.00,2026-03-15
+GT1103,Producción Ganadera en Santa Cruz Muluá,Certificación Orgánica y de Origen - Reg ASO-GT1103-C,94.00,2026-03-15
+GT1104,Cultivo de Maíz en San Martín Zapotitlán,Certificación Orgánica y de Origen - Reg COOP-GT1104-A,98.00,2026-03-15
+GT1104,Cultivo de Frijol en San Martín Zapotitlán,Certificación Orgánica y de Origen - Reg COOP-GT1104-B,87.00,2026-03-15
+GT1104,Cultivo de Caña de Azúcar en San Martín Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT1104-C,77.00,2026-03-15
+GT1104,Cultivo de Banano en San Martín Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT1104-C,85.00,2026-03-15
+GT1104,Producción Ganadera en San Martín Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT1104-C,86.00,2026-03-15
+GT1105,Cultivo de Maíz en San Felipe,Certificación Orgánica y de Origen - Reg COOP-GT1105-A,92.00,2026-03-15
+GT1105,Cultivo de Frijol en San Felipe,Certificación Orgánica y de Origen - Reg COOP-GT1105-B,74.00,2026-03-15
+GT1105,Cultivo de Caña de Azúcar en San Felipe,Certificación Orgánica y de Origen - Reg ASO-GT1105-C,100.00,2026-03-15
+GT1105,Cultivo de Banano en San Felipe,Certificación Orgánica y de Origen - Reg ASO-GT1105-C,73.00,2026-03-15
+GT1105,Producción Ganadera en San Felipe,Certificación Orgánica y de Origen - Reg ASO-GT1105-C,78.00,2026-03-15
+GT1106,Cultivo de Maíz en San Andrés Villa Seca,Certificación Orgánica y de Origen - Reg COOP-GT1106-A,63.00,2026-03-15
+GT1106,Cultivo de Frijol en San Andrés Villa Seca,Certificación Orgánica y de Origen - Reg COOP-GT1106-B,70.00,2026-03-15
+GT1106,Cultivo de Caña de Azúcar en San Andrés Villa Seca,Certificación Orgánica y de Origen - Reg ASO-GT1106-C,84.00,2026-03-15
+GT1106,Cultivo de Banano en San Andrés Villa Seca,Certificación Orgánica y de Origen - Reg ASO-GT1106-C,87.00,2026-03-15
+GT1106,Producción Ganadera en San Andrés Villa Seca,Certificación Orgánica y de Origen - Reg ASO-GT1106-C,83.00,2026-03-15
+GT1107,Cultivo de Maíz en Champerico,Certificación Orgánica y de Origen - Reg COOP-GT1107-A,64.00,2026-03-15
+GT1107,Cultivo de Frijol en Champerico,Certificación Orgánica y de Origen - Reg COOP-GT1107-B,80.00,2026-03-15
+GT1107,Cultivo de Caña de Azúcar en Champerico,Certificación Orgánica y de Origen - Reg ASO-GT1107-C,70.00,2026-03-15
+GT1107,Cultivo de Banano en Champerico,Certificación Orgánica y de Origen - Reg ASO-GT1107-C,83.00,2026-03-15
+GT1107,Producción Ganadera en Champerico,Certificación Orgánica y de Origen - Reg ASO-GT1107-C,90.00,2026-03-15
+GT1108,Cultivo de Maíz en Nuevo San Carlos,Certificación Orgánica y de Origen - Reg COOP-GT1108-A,74.00,2026-03-15
+GT1108,Cultivo de Frijol en Nuevo San Carlos,Certificación Orgánica y de Origen - Reg COOP-GT1108-B,51.00,2026-03-15
+GT1108,Cultivo de Caña de Azúcar en Nuevo San Carlos,Certificación Orgánica y de Origen - Reg ASO-GT1108-C,78.00,2026-03-15
+GT1108,Cultivo de Banano en Nuevo San Carlos,Certificación Orgánica y de Origen - Reg ASO-GT1108-C,87.00,2026-03-15
+GT1108,Producción Ganadera en Nuevo San Carlos,Certificación Orgánica y de Origen - Reg ASO-GT1108-C,100.00,2026-03-15
+GT1109,Cultivo de Maíz en El Asintal,Certificación Orgánica y de Origen - Reg COOP-GT1109-A,97.00,2026-03-15
+GT1109,Cultivo de Frijol en El Asintal,Certificación Orgánica y de Origen - Reg COOP-GT1109-B,93.00,2026-03-15
+GT1109,Cultivo de Caña de Azúcar en El Asintal,Certificación Orgánica y de Origen - Reg ASO-GT1109-C,73.00,2026-03-15
+GT1109,Cultivo de Banano en El Asintal,Certificación Orgánica y de Origen - Reg ASO-GT1109-C,77.00,2026-03-15
+GT1109,Producción Ganadera en El Asintal,Certificación Orgánica y de Origen - Reg ASO-GT1109-C,94.00,2026-03-15
+GT1201,Cultivo de Maíz en San Marcos,Certificación Orgánica y de Origen - Reg COOP-GT1201-A,95.00,2026-03-15
+GT1201,Cultivo de Frijol en San Marcos,Certificación Orgánica y de Origen - Reg COOP-GT1201-B,91.00,2026-03-15
+GT1201,Cultivo de Café en San Marcos,Certificación Orgánica y de Origen - Reg COOP-GT1201-A,95.00,2026-03-15
+GT1201,Apicultura en San Marcos,Certificación Orgánica y de Origen - Reg ASO-GT1201-C,74.00,2026-03-15
+GT1202,Cultivo de Maíz en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1202-A,79.00,2026-03-15
+GT1202,Cultivo de Frijol en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1202-B,86.00,2026-03-15
+GT1202,Cultivo de Café en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1202-A,83.00,2026-03-15
+GT1202,Apicultura en San Pedro Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1202-C,84.00,2026-03-15
+GT1203,Cultivo de Maíz en San Antonio Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1203-A,65.00,2026-03-15
+GT1203,Cultivo de Frijol en San Antonio Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1203-B,90.00,2026-03-15
+GT1203,Cultivo de Café en San Antonio Sacatepéquez,Certificación Orgánica y de Origen - Reg COOP-GT1203-A,86.00,2026-03-15
+GT1203,Apicultura en San Antonio Sacatepéquez,Certificación Orgánica y de Origen - Reg ASO-GT1203-C,76.00,2026-03-15
+GT1204,Cultivo de Maíz en Comitancillo,Certificación Orgánica y de Origen - Reg COOP-GT1204-A,69.00,2026-03-15
+GT1204,Cultivo de Frijol en Comitancillo,Certificación Orgánica y de Origen - Reg COOP-GT1204-B,73.00,2026-03-15
+GT1204,Cultivo de Café en Comitancillo,Certificación Orgánica y de Origen - Reg COOP-GT1204-A,87.00,2026-03-15
+GT1204,Apicultura en Comitancillo,Certificación Orgánica y de Origen - Reg ASO-GT1204-C,75.00,2026-03-15
+GT1205,Cultivo de Maíz en San Miguel Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT1205-A,75.00,2026-03-15
+GT1205,Cultivo de Frijol en San Miguel Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT1205-B,84.00,2026-03-15
+GT1205,Cultivo de Café en San Miguel Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT1205-A,100.00,2026-03-15
+GT1205,Apicultura en San Miguel Ixtahuacán,Certificación Orgánica y de Origen - Reg ASO-GT1205-C,83.00,2026-03-15
+GT1206,Cultivo de Maíz en Concepción Tutuapa,Certificación Orgánica y de Origen - Reg COOP-GT1206-A,95.00,2026-03-15
+GT1206,Cultivo de Frijol en Concepción Tutuapa,Certificación Orgánica y de Origen - Reg COOP-GT1206-B,78.00,2026-03-15
+GT1206,Cultivo de Café en Concepción Tutuapa,Certificación Orgánica y de Origen - Reg COOP-GT1206-A,71.00,2026-03-15
+GT1206,Apicultura en Concepción Tutuapa,Certificación Orgánica y de Origen - Reg ASO-GT1206-C,70.00,2026-03-15
+GT1207,Cultivo de Maíz en Tacaná,Certificación Orgánica y de Origen - Reg COOP-GT1207-A,89.00,2026-03-15
+GT1207,Cultivo de Frijol en Tacaná,Certificación Orgánica y de Origen - Reg COOP-GT1207-B,89.00,2026-03-15
+GT1207,Cultivo de Café en Tacaná,Certificación Orgánica y de Origen - Reg COOP-GT1207-A,79.00,2026-03-15
+GT1207,Apicultura en Tacaná,Certificación Orgánica y de Origen - Reg ASO-GT1207-C,90.00,2026-03-15
+GT1208,Cultivo de Maíz en Sibinal,Certificación Orgánica y de Origen - Reg COOP-GT1208-A,70.00,2026-03-15
+GT1208,Cultivo de Frijol en Sibinal,Certificación Orgánica y de Origen - Reg COOP-GT1208-B,50.00,2026-03-15
+GT1208,Cultivo de Café en Sibinal,Certificación Orgánica y de Origen - Reg COOP-GT1208-A,71.00,2026-03-15
+GT1208,Apicultura en Sibinal,Certificación Orgánica y de Origen - Reg ASO-GT1208-C,99.00,2026-03-15
+GT1209,Cultivo de Maíz en Tajumulco,Certificación Orgánica y de Origen - Reg COOP-GT1209-A,90.00,2026-03-15
+GT1209,Cultivo de Frijol en Tajumulco,Certificación Orgánica y de Origen - Reg COOP-GT1209-B,67.00,2026-03-15
+GT1209,Cultivo de Café en Tajumulco,Certificación Orgánica y de Origen - Reg COOP-GT1209-A,89.00,2026-03-15
+GT1209,Apicultura en Tajumulco,Certificación Orgánica y de Origen - Reg ASO-GT1209-C,78.00,2026-03-15
+GT1210,Cultivo de Maíz en Tejutla,Certificación Orgánica y de Origen - Reg COOP-GT1210-A,84.00,2026-03-15
+GT1210,Cultivo de Frijol en Tejutla,Certificación Orgánica y de Origen - Reg COOP-GT1210-B,72.00,2026-03-15
+GT1210,Cultivo de Café en Tejutla,Certificación Orgánica y de Origen - Reg COOP-GT1210-A,96.00,2026-03-15
+GT1210,Apicultura en Tejutla,Certificación Orgánica y de Origen - Reg ASO-GT1210-C,90.00,2026-03-15
+GT1211,Cultivo de Maíz en San Rafael Pie de la Cuesta,Certificación Orgánica y de Origen - Reg COOP-GT1211-A,73.00,2026-03-15
+GT1211,Cultivo de Frijol en San Rafael Pie de la Cuesta,Certificación Orgánica y de Origen - Reg COOP-GT1211-B,87.00,2026-03-15
+GT1211,Cultivo de Café en San Rafael Pie de la Cuesta,Certificación Orgánica y de Origen - Reg COOP-GT1211-A,96.00,2026-03-15
+GT1211,Apicultura en San Rafael Pie de la Cuesta,Certificación Orgánica y de Origen - Reg ASO-GT1211-C,86.00,2026-03-15
+GT1212,Cultivo de Maíz en Nuevo Progreso,Certificación Orgánica y de Origen - Reg COOP-GT1212-A,78.00,2026-03-15
+GT1212,Cultivo de Frijol en Nuevo Progreso,Certificación Orgánica y de Origen - Reg COOP-GT1212-B,52.00,2026-03-15
+GT1212,Cultivo de Café en Nuevo Progreso,Certificación Orgánica y de Origen - Reg COOP-GT1212-A,75.00,2026-03-15
+GT1212,Apicultura en Nuevo Progreso,Certificación Orgánica y de Origen - Reg ASO-GT1212-C,93.00,2026-03-15
+GT1213,Cultivo de Maíz en El Tumbador,Certificación Orgánica y de Origen - Reg COOP-GT1213-A,94.00,2026-03-15
+GT1213,Cultivo de Frijol en El Tumbador,Certificación Orgánica y de Origen - Reg COOP-GT1213-B,86.00,2026-03-15
+GT1213,Cultivo de Café en El Tumbador,Certificación Orgánica y de Origen - Reg COOP-GT1213-A,72.00,2026-03-15
+GT1213,Apicultura en El Tumbador,Certificación Orgánica y de Origen - Reg ASO-GT1213-C,79.00,2026-03-15
+GT1214,Cultivo de Maíz en El Rodeo,Certificación Orgánica y de Origen - Reg COOP-GT1214-A,65.00,2026-03-15
+GT1214,Cultivo de Frijol en El Rodeo,Certificación Orgánica y de Origen - Reg COOP-GT1214-B,75.00,2026-03-15
+GT1214,Cultivo de Café en El Rodeo,Certificación Orgánica y de Origen - Reg COOP-GT1214-A,92.00,2026-03-15
+GT1214,Apicultura en El Rodeo,Certificación Orgánica y de Origen - Reg ASO-GT1214-C,73.00,2026-03-15
+GT1215,Cultivo de Maíz en Malacatán,Certificación Orgánica y de Origen - Reg COOP-GT1215-A,68.00,2026-03-15
+GT1215,Cultivo de Frijol en Malacatán,Certificación Orgánica y de Origen - Reg COOP-GT1215-B,85.00,2026-03-15
+GT1215,Cultivo de Café en Malacatán,Certificación Orgánica y de Origen - Reg COOP-GT1215-A,78.00,2026-03-15
+GT1215,Apicultura en Malacatán,Certificación Orgánica y de Origen - Reg ASO-GT1215-C,98.00,2026-03-15
+GT1216,Cultivo de Maíz en Catarina,Certificación Orgánica y de Origen - Reg COOP-GT1216-A,87.00,2026-03-15
+GT1216,Cultivo de Frijol en Catarina,Certificación Orgánica y de Origen - Reg COOP-GT1216-B,63.00,2026-03-15
+GT1216,Cultivo de Café en Catarina,Certificación Orgánica y de Origen - Reg COOP-GT1216-A,89.00,2026-03-15
+GT1216,Apicultura en Catarina,Certificación Orgánica y de Origen - Reg ASO-GT1216-C,86.00,2026-03-15
+GT1217,Cultivo de Maíz en Ayutla,Certificación Orgánica y de Origen - Reg COOP-GT1217-A,80.00,2026-03-15
+GT1217,Cultivo de Frijol en Ayutla,Certificación Orgánica y de Origen - Reg COOP-GT1217-B,93.00,2026-03-15
+GT1217,Cultivo de Café en Ayutla,Certificación Orgánica y de Origen - Reg COOP-GT1217-A,100.00,2026-03-15
+GT1217,Apicultura en Ayutla,Certificación Orgánica y de Origen - Reg ASO-GT1217-C,80.00,2026-03-15
+GT1218,Cultivo de Maíz en Ocós,Certificación Orgánica y de Origen - Reg COOP-GT1218-A,100.00,2026-03-15
+GT1218,Cultivo de Frijol en Ocós,Certificación Orgánica y de Origen - Reg COOP-GT1218-B,66.00,2026-03-15
+GT1218,Cultivo de Café en Ocós,Certificación Orgánica y de Origen - Reg COOP-GT1218-A,94.00,2026-03-15
+GT1218,Apicultura en Ocós,Certificación Orgánica y de Origen - Reg ASO-GT1218-C,92.00,2026-03-15
+GT1219,Cultivo de Maíz en San Pablo,Certificación Orgánica y de Origen - Reg COOP-GT1219-A,88.00,2026-03-15
+GT1219,Cultivo de Frijol en San Pablo,Certificación Orgánica y de Origen - Reg COOP-GT1219-B,67.00,2026-03-15
+GT1219,Cultivo de Café en San Pablo,Certificación Orgánica y de Origen - Reg COOP-GT1219-A,77.00,2026-03-15
+GT1219,Apicultura en San Pablo,Certificación Orgánica y de Origen - Reg ASO-GT1219-C,91.00,2026-03-15
+GT1220,Cultivo de Maíz en El Quetzal,Certificación Orgánica y de Origen - Reg COOP-GT1220-A,80.00,2026-03-15
+GT1220,Cultivo de Frijol en El Quetzal,Certificación Orgánica y de Origen - Reg COOP-GT1220-B,71.00,2026-03-15
+GT1220,Cultivo de Café en El Quetzal,Certificación Orgánica y de Origen - Reg COOP-GT1220-A,76.00,2026-03-15
+GT1220,Apicultura en El Quetzal,Certificación Orgánica y de Origen - Reg ASO-GT1220-C,84.00,2026-03-15
+GT1221,Cultivo de Maíz en La Reforma,Certificación Orgánica y de Origen - Reg COOP-GT1221-A,98.00,2026-03-15
+GT1221,Cultivo de Frijol en La Reforma,Certificación Orgánica y de Origen - Reg COOP-GT1221-B,71.00,2026-03-15
+GT1221,Cultivo de Café en La Reforma,Certificación Orgánica y de Origen - Reg COOP-GT1221-A,70.00,2026-03-15
+GT1221,Apicultura en La Reforma,Certificación Orgánica y de Origen - Reg ASO-GT1221-C,99.00,2026-03-15
+GT1222,Cultivo de Maíz en Pajapita,Certificación Orgánica y de Origen - Reg COOP-GT1222-A,68.00,2026-03-15
+GT1222,Cultivo de Frijol en Pajapita,Certificación Orgánica y de Origen - Reg COOP-GT1222-B,91.00,2026-03-15
+GT1222,Cultivo de Café en Pajapita,Certificación Orgánica y de Origen - Reg COOP-GT1222-A,99.00,2026-03-15
+GT1222,Apicultura en Pajapita,Certificación Orgánica y de Origen - Reg ASO-GT1222-C,70.00,2026-03-15
+GT1223,Cultivo de Maíz en Ixchiguán,Certificación Orgánica y de Origen - Reg COOP-GT1223-A,98.00,2026-03-15
+GT1223,Cultivo de Frijol en Ixchiguán,Certificación Orgánica y de Origen - Reg COOP-GT1223-B,80.00,2026-03-15
+GT1223,Cultivo de Café en Ixchiguán,Certificación Orgánica y de Origen - Reg COOP-GT1223-A,70.00,2026-03-15
+GT1223,Apicultura en Ixchiguán,Certificación Orgánica y de Origen - Reg ASO-GT1223-C,98.00,2026-03-15
+GT1224,Cultivo de Maíz en San José Ojetenam,Certificación Orgánica y de Origen - Reg COOP-GT1224-A,60.00,2026-03-15
+GT1224,Cultivo de Frijol en San José Ojetenam,Certificación Orgánica y de Origen - Reg COOP-GT1224-B,93.00,2026-03-15
+GT1224,Cultivo de Café en San José Ojetenam,Certificación Orgánica y de Origen - Reg COOP-GT1224-A,75.00,2026-03-15
+GT1224,Apicultura en San José Ojetenam,Certificación Orgánica y de Origen - Reg ASO-GT1224-C,83.00,2026-03-15
+GT1225,Cultivo de Maíz en San Cristóbal Cucho,Certificación Orgánica y de Origen - Reg COOP-GT1225-A,95.00,2026-03-15
+GT1225,Cultivo de Frijol en San Cristóbal Cucho,Certificación Orgánica y de Origen - Reg COOP-GT1225-B,94.00,2026-03-15
+GT1225,Cultivo de Café en San Cristóbal Cucho,Certificación Orgánica y de Origen - Reg COOP-GT1225-A,92.00,2026-03-15
+GT1225,Apicultura en San Cristóbal Cucho,Certificación Orgánica y de Origen - Reg ASO-GT1225-C,85.00,2026-03-15
+GT1226,Cultivo de Maíz en Sipacapa,Certificación Orgánica y de Origen - Reg COOP-GT1226-A,85.00,2026-03-15
+GT1226,Cultivo de Frijol en Sipacapa,Certificación Orgánica y de Origen - Reg COOP-GT1226-B,84.00,2026-03-15
+GT1226,Cultivo de Café en Sipacapa,Certificación Orgánica y de Origen - Reg COOP-GT1226-A,72.00,2026-03-15
+GT1226,Apicultura en Sipacapa,Certificación Orgánica y de Origen - Reg ASO-GT1226-C,95.00,2026-03-15
+GT1227,Cultivo de Maíz en Esquipulas Palo Gordo,Certificación Orgánica y de Origen - Reg COOP-GT1227-A,64.00,2026-03-15
+GT1227,Cultivo de Frijol en Esquipulas Palo Gordo,Certificación Orgánica y de Origen - Reg COOP-GT1227-B,84.00,2026-03-15
+GT1227,Cultivo de Café en Esquipulas Palo Gordo,Certificación Orgánica y de Origen - Reg COOP-GT1227-A,70.00,2026-03-15
+GT1227,Apicultura en Esquipulas Palo Gordo,Certificación Orgánica y de Origen - Reg ASO-GT1227-C,98.00,2026-03-15
+GT1228,Cultivo de Maíz en Río Blanco,Certificación Orgánica y de Origen - Reg COOP-GT1228-A,88.00,2026-03-15
+GT1228,Cultivo de Frijol en Río Blanco,Certificación Orgánica y de Origen - Reg COOP-GT1228-B,93.00,2026-03-15
+GT1228,Cultivo de Café en Río Blanco,Certificación Orgánica y de Origen - Reg COOP-GT1228-A,73.00,2026-03-15
+GT1228,Apicultura en Río Blanco,Certificación Orgánica y de Origen - Reg ASO-GT1228-C,81.00,2026-03-15
+GT1229,Cultivo de Maíz en San Lorenzo,Certificación Orgánica y de Origen - Reg COOP-GT1229-A,84.00,2026-03-15
+GT1229,Cultivo de Frijol en San Lorenzo,Certificación Orgánica y de Origen - Reg COOP-GT1229-B,88.00,2026-03-15
+GT1229,Cultivo de Café en San Lorenzo,Certificación Orgánica y de Origen - Reg COOP-GT1229-A,81.00,2026-03-15
+GT1229,Apicultura en San Lorenzo,Certificación Orgánica y de Origen - Reg ASO-GT1229-C,82.00,2026-03-15
+GT1230,Cultivo de Maíz en La Blanca,Certificación Orgánica y de Origen - Reg COOP-GT1230-A,71.00,2026-03-15
+GT1230,Cultivo de Frijol en La Blanca,Certificación Orgánica y de Origen - Reg COOP-GT1230-B,94.00,2026-03-15
+GT1230,Cultivo de Café en La Blanca,Certificación Orgánica y de Origen - Reg COOP-GT1230-A,70.00,2026-03-15
+GT1230,Apicultura en La Blanca,Certificación Orgánica y de Origen - Reg ASO-GT1230-C,73.00,2026-03-15
+GT1301,Cultivo de Maíz en Huehuetenango,Certificación Orgánica y de Origen - Reg COOP-GT1301-A,89.00,2026-03-15
+GT1301,Cultivo de Frijol en Huehuetenango,Certificación Orgánica y de Origen - Reg COOP-GT1301-B,73.00,2026-03-15
+GT1301,Cultivo de Café en Huehuetenango,Certificación Orgánica y de Origen - Reg COOP-GT1301-A,99.00,2026-03-15
+GT1301,Apicultura en Huehuetenango,Certificación Orgánica y de Origen - Reg ASO-GT1301-C,76.00,2026-03-15
+GT1302,Cultivo de Maíz en Chiantla,Certificación Orgánica y de Origen - Reg COOP-GT1302-A,88.00,2026-03-15
+GT1302,Cultivo de Frijol en Chiantla,Certificación Orgánica y de Origen - Reg COOP-GT1302-B,50.00,2026-03-15
+GT1302,Cultivo de Café en Chiantla,Certificación Orgánica y de Origen - Reg COOP-GT1302-A,77.00,2026-03-15
+GT1302,Apicultura en Chiantla,Certificación Orgánica y de Origen - Reg ASO-GT1302-C,93.00,2026-03-15
+GT1303,Cultivo de Maíz en Malacatancito,Certificación Orgánica y de Origen - Reg COOP-GT1303-A,61.00,2026-03-15
+GT1303,Cultivo de Frijol en Malacatancito,Certificación Orgánica y de Origen - Reg COOP-GT1303-B,67.00,2026-03-15
+GT1303,Cultivo de Café en Malacatancito,Certificación Orgánica y de Origen - Reg COOP-GT1303-A,91.00,2026-03-15
+GT1303,Apicultura en Malacatancito,Certificación Orgánica y de Origen - Reg ASO-GT1303-C,99.00,2026-03-15
+GT1304,Cultivo de Maíz en Cuilco,Certificación Orgánica y de Origen - Reg COOP-GT1304-A,82.00,2026-03-15
+GT1304,Cultivo de Frijol en Cuilco,Certificación Orgánica y de Origen - Reg COOP-GT1304-B,62.00,2026-03-15
+GT1304,Cultivo de Café en Cuilco,Certificación Orgánica y de Origen - Reg COOP-GT1304-A,72.00,2026-03-15
+GT1304,Apicultura en Cuilco,Certificación Orgánica y de Origen - Reg ASO-GT1304-C,96.00,2026-03-15
+GT1305,Cultivo de Maíz en Nentón,Certificación Orgánica y de Origen - Reg COOP-GT1305-A,99.00,2026-03-15
+GT1305,Cultivo de Frijol en Nentón,Certificación Orgánica y de Origen - Reg COOP-GT1305-B,90.00,2026-03-15
+GT1305,Cultivo de Café en Nentón,Certificación Orgánica y de Origen - Reg COOP-GT1305-A,79.00,2026-03-15
+GT1305,Apicultura en Nentón,Certificación Orgánica y de Origen - Reg ASO-GT1305-C,95.00,2026-03-15
+GT1306,Cultivo de Maíz en San Pedro Necta,Certificación Orgánica y de Origen - Reg COOP-GT1306-A,74.00,2026-03-15
+GT1306,Cultivo de Frijol en San Pedro Necta,Certificación Orgánica y de Origen - Reg COOP-GT1306-B,64.00,2026-03-15
+GT1306,Cultivo de Café en San Pedro Necta,Certificación Orgánica y de Origen - Reg COOP-GT1306-A,85.00,2026-03-15
+GT1306,Apicultura en San Pedro Necta,Certificación Orgánica y de Origen - Reg ASO-GT1306-C,100.00,2026-03-15
+GT1307,Cultivo de Maíz en Jacaltenango,Certificación Orgánica y de Origen - Reg COOP-GT1307-A,83.00,2026-03-15
+GT1307,Cultivo de Frijol en Jacaltenango,Certificación Orgánica y de Origen - Reg COOP-GT1307-B,52.00,2026-03-15
+GT1307,Cultivo de Café en Jacaltenango,Certificación Orgánica y de Origen - Reg COOP-GT1307-A,78.00,2026-03-15
+GT1307,Apicultura en Jacaltenango,Certificación Orgánica y de Origen - Reg ASO-GT1307-C,85.00,2026-03-15
+GT1308,Cultivo de Maíz en Soloma,Certificación Orgánica y de Origen - Reg COOP-GT1308-A,98.00,2026-03-15
+GT1308,Cultivo de Frijol en Soloma,Certificación Orgánica y de Origen - Reg COOP-GT1308-B,63.00,2026-03-15
+GT1308,Cultivo de Café en Soloma,Certificación Orgánica y de Origen - Reg COOP-GT1308-A,70.00,2026-03-15
+GT1308,Apicultura en Soloma,Certificación Orgánica y de Origen - Reg ASO-GT1308-C,76.00,2026-03-15
+GT1309,Cultivo de Maíz en Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT1309-A,100.00,2026-03-15
+GT1309,Cultivo de Frijol en Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT1309-B,75.00,2026-03-15
+GT1309,Cultivo de Café en Ixtahuacán,Certificación Orgánica y de Origen - Reg COOP-GT1309-A,73.00,2026-03-15
+GT1309,Apicultura en Ixtahuacán,Certificación Orgánica y de Origen - Reg ASO-GT1309-C,97.00,2026-03-15
+GT1310,Cultivo de Maíz en Santa Bárbara,Certificación Orgánica y de Origen - Reg COOP-GT1310-A,77.00,2026-03-15
+GT1310,Cultivo de Frijol en Santa Bárbara,Certificación Orgánica y de Origen - Reg COOP-GT1310-B,86.00,2026-03-15
+GT1310,Cultivo de Café en Santa Bárbara,Certificación Orgánica y de Origen - Reg COOP-GT1310-A,86.00,2026-03-15
+GT1310,Apicultura en Santa Bárbara,Certificación Orgánica y de Origen - Reg ASO-GT1310-C,85.00,2026-03-15
+GT1311,Cultivo de Maíz en La Libertad,Certificación Orgánica y de Origen - Reg COOP-GT1311-A,70.00,2026-03-15
+GT1311,Cultivo de Frijol en La Libertad,Certificación Orgánica y de Origen - Reg COOP-GT1311-B,85.00,2026-03-15
+GT1311,Cultivo de Café en La Libertad,Certificación Orgánica y de Origen - Reg COOP-GT1311-A,76.00,2026-03-15
+GT1311,Apicultura en La Libertad,Certificación Orgánica y de Origen - Reg ASO-GT1311-C,91.00,2026-03-15
+GT1312,Cultivo de Maíz en La Democracia,Certificación Orgánica y de Origen - Reg COOP-GT1312-A,96.00,2026-03-15
+GT1312,Cultivo de Frijol en La Democracia,Certificación Orgánica y de Origen - Reg COOP-GT1312-B,93.00,2026-03-15
+GT1312,Cultivo de Café en La Democracia,Certificación Orgánica y de Origen - Reg COOP-GT1312-A,91.00,2026-03-15
+GT1312,Apicultura en La Democracia,Certificación Orgánica y de Origen - Reg ASO-GT1312-C,89.00,2026-03-15
+GT1313,Cultivo de Maíz en San Miguel Acatán,Certificación Orgánica y de Origen - Reg COOP-GT1313-A,96.00,2026-03-15
+GT1313,Cultivo de Frijol en San Miguel Acatán,Certificación Orgánica y de Origen - Reg COOP-GT1313-B,61.00,2026-03-15
+GT1313,Cultivo de Café en San Miguel Acatán,Certificación Orgánica y de Origen - Reg COOP-GT1313-A,72.00,2026-03-15
+GT1313,Apicultura en San Miguel Acatán,Certificación Orgánica y de Origen - Reg ASO-GT1313-C,88.00,2026-03-15
+GT1314,Cultivo de Maíz en San Rafael La Independencia,Certificación Orgánica y de Origen - Reg COOP-GT1314-A,68.00,2026-03-15
+GT1314,Cultivo de Frijol en San Rafael La Independencia,Certificación Orgánica y de Origen - Reg COOP-GT1314-B,54.00,2026-03-15
+GT1314,Cultivo de Café en San Rafael La Independencia,Certificación Orgánica y de Origen - Reg COOP-GT1314-A,74.00,2026-03-15
+GT1314,Apicultura en San Rafael La Independencia,Certificación Orgánica y de Origen - Reg ASO-GT1314-C,78.00,2026-03-15
+GT1315,Cultivo de Maíz en Todos Santos Cuchumatán,Certificación Orgánica y de Origen - Reg COOP-GT1315-A,96.00,2026-03-15
+GT1315,Cultivo de Frijol en Todos Santos Cuchumatán,Certificación Orgánica y de Origen - Reg COOP-GT1315-B,64.00,2026-03-15
+GT1315,Cultivo de Café en Todos Santos Cuchumatán,Certificación Orgánica y de Origen - Reg COOP-GT1315-A,98.00,2026-03-15
+GT1315,Apicultura en Todos Santos Cuchumatán,Certificación Orgánica y de Origen - Reg ASO-GT1315-C,86.00,2026-03-15
+GT1316,Cultivo de Maíz en San Juan Atitán,Certificación Orgánica y de Origen - Reg COOP-GT1316-A,77.00,2026-03-15
+GT1316,Cultivo de Frijol en San Juan Atitán,Certificación Orgánica y de Origen - Reg COOP-GT1316-B,62.00,2026-03-15
+GT1316,Cultivo de Café en San Juan Atitán,Certificación Orgánica y de Origen - Reg COOP-GT1316-A,97.00,2026-03-15
+GT1316,Apicultura en San Juan Atitán,Certificación Orgánica y de Origen - Reg ASO-GT1316-C,91.00,2026-03-15
+GT1317,Cultivo de Maíz en Santa Eulalia,Certificación Orgánica y de Origen - Reg COOP-GT1317-A,61.00,2026-03-15
+GT1317,Cultivo de Frijol en Santa Eulalia,Certificación Orgánica y de Origen - Reg COOP-GT1317-B,94.00,2026-03-15
+GT1317,Cultivo de Café en Santa Eulalia,Certificación Orgánica y de Origen - Reg COOP-GT1317-A,91.00,2026-03-15
+GT1317,Apicultura en Santa Eulalia,Certificación Orgánica y de Origen - Reg ASO-GT1317-C,87.00,2026-03-15
+GT1318,Cultivo de Maíz en San Mateo Ixtatán,Certificación Orgánica y de Origen - Reg COOP-GT1318-A,99.00,2026-03-15
+GT1318,Cultivo de Frijol en San Mateo Ixtatán,Certificación Orgánica y de Origen - Reg COOP-GT1318-B,66.00,2026-03-15
+GT1318,Cultivo de Café en San Mateo Ixtatán,Certificación Orgánica y de Origen - Reg COOP-GT1318-A,91.00,2026-03-15
+GT1318,Apicultura en San Mateo Ixtatán,Certificación Orgánica y de Origen - Reg ASO-GT1318-C,87.00,2026-03-15
+GT1319,Cultivo de Maíz en Colotenango,Certificación Orgánica y de Origen - Reg COOP-GT1319-A,89.00,2026-03-15
+GT1319,Cultivo de Frijol en Colotenango,Certificación Orgánica y de Origen - Reg COOP-GT1319-B,50.00,2026-03-15
+GT1319,Cultivo de Café en Colotenango,Certificación Orgánica y de Origen - Reg COOP-GT1319-A,100.00,2026-03-15
+GT1319,Apicultura en Colotenango,Certificación Orgánica y de Origen - Reg ASO-GT1319-C,83.00,2026-03-15
+GT1320,Cultivo de Maíz en San Sebastián Huehuetenango,Certificación Orgánica y de Origen - Reg COOP-GT1320-A,63.00,2026-03-15
+GT1320,Cultivo de Frijol en San Sebastián Huehuetenango,Certificación Orgánica y de Origen - Reg COOP-GT1320-B,70.00,2026-03-15
+GT1320,Cultivo de Café en San Sebastián Huehuetenango,Certificación Orgánica y de Origen - Reg COOP-GT1320-A,83.00,2026-03-15
+GT1320,Apicultura en San Sebastián Huehuetenango,Certificación Orgánica y de Origen - Reg ASO-GT1320-C,97.00,2026-03-15
+GT1321,Cultivo de Maíz en Tectitán,Certificación Orgánica y de Origen - Reg COOP-GT1321-A,86.00,2026-03-15
+GT1321,Cultivo de Frijol en Tectitán,Certificación Orgánica y de Origen - Reg COOP-GT1321-B,67.00,2026-03-15
+GT1321,Cultivo de Café en Tectitán,Certificación Orgánica y de Origen - Reg COOP-GT1321-A,73.00,2026-03-15
+GT1321,Apicultura en Tectitán,Certificación Orgánica y de Origen - Reg ASO-GT1321-C,91.00,2026-03-15
+GT1322,Cultivo de Maíz en Concepción Huista,Certificación Orgánica y de Origen - Reg COOP-GT1322-A,93.00,2026-03-15
+GT1322,Cultivo de Frijol en Concepción Huista,Certificación Orgánica y de Origen - Reg COOP-GT1322-B,79.00,2026-03-15
+GT1322,Cultivo de Café en Concepción Huista,Certificación Orgánica y de Origen - Reg COOP-GT1322-A,85.00,2026-03-15
+GT1322,Apicultura en Concepción Huista,Certificación Orgánica y de Origen - Reg ASO-GT1322-C,81.00,2026-03-15
+GT1323,Cultivo de Maíz en San Juan Ixcoy,Certificación Orgánica y de Origen - Reg COOP-GT1323-A,93.00,2026-03-15
+GT1323,Cultivo de Frijol en San Juan Ixcoy,Certificación Orgánica y de Origen - Reg COOP-GT1323-B,52.00,2026-03-15
+GT1323,Cultivo de Café en San Juan Ixcoy,Certificación Orgánica y de Origen - Reg COOP-GT1323-A,98.00,2026-03-15
+GT1323,Apicultura en San Juan Ixcoy,Certificación Orgánica y de Origen - Reg ASO-GT1323-C,93.00,2026-03-15
+GT1324,Cultivo de Maíz en San Antonio Huista,Certificación Orgánica y de Origen - Reg COOP-GT1324-A,74.00,2026-03-15
+GT1324,Cultivo de Frijol en San Antonio Huista,Certificación Orgánica y de Origen - Reg COOP-GT1324-B,53.00,2026-03-15
+GT1324,Cultivo de Café en San Antonio Huista,Certificación Orgánica y de Origen - Reg COOP-GT1324-A,78.00,2026-03-15
+GT1324,Apicultura en San Antonio Huista,Certificación Orgánica y de Origen - Reg ASO-GT1324-C,99.00,2026-03-15
+GT1325,Cultivo de Maíz en San Sebastián Coatán,Certificación Orgánica y de Origen - Reg COOP-GT1325-A,86.00,2026-03-15
+GT1325,Cultivo de Frijol en San Sebastián Coatán,Certificación Orgánica y de Origen - Reg COOP-GT1325-B,84.00,2026-03-15
+GT1325,Cultivo de Café en San Sebastián Coatán,Certificación Orgánica y de Origen - Reg COOP-GT1325-A,84.00,2026-03-15
+GT1325,Apicultura en San Sebastián Coatán,Certificación Orgánica y de Origen - Reg ASO-GT1325-C,80.00,2026-03-15
+GT1326,Cultivo de Maíz en Barillas,Certificación Orgánica y de Origen - Reg COOP-GT1326-A,60.00,2026-03-15
+GT1326,Cultivo de Frijol en Barillas,Certificación Orgánica y de Origen - Reg COOP-GT1326-B,75.00,2026-03-15
+GT1326,Cultivo de Café en Barillas,Certificación Orgánica y de Origen - Reg COOP-GT1326-A,76.00,2026-03-15
+GT1326,Apicultura en Barillas,Certificación Orgánica y de Origen - Reg ASO-GT1326-C,80.00,2026-03-15
+GT1327,Cultivo de Maíz en Aguacatán,Certificación Orgánica y de Origen - Reg COOP-GT1327-A,65.00,2026-03-15
+GT1327,Cultivo de Frijol en Aguacatán,Certificación Orgánica y de Origen - Reg COOP-GT1327-B,86.00,2026-03-15
+GT1327,Cultivo de Café en Aguacatán,Certificación Orgánica y de Origen - Reg COOP-GT1327-A,95.00,2026-03-15
+GT1327,Apicultura en Aguacatán,Certificación Orgánica y de Origen - Reg ASO-GT1327-C,70.00,2026-03-15
+GT1328,Cultivo de Maíz en San Rafael Petzal,Certificación Orgánica y de Origen - Reg COOP-GT1328-A,74.00,2026-03-15
+GT1328,Cultivo de Frijol en San Rafael Petzal,Certificación Orgánica y de Origen - Reg COOP-GT1328-B,94.00,2026-03-15
+GT1328,Cultivo de Café en San Rafael Petzal,Certificación Orgánica y de Origen - Reg COOP-GT1328-A,83.00,2026-03-15
+GT1328,Apicultura en San Rafael Petzal,Certificación Orgánica y de Origen - Reg ASO-GT1328-C,100.00,2026-03-15
+GT1329,Cultivo de Maíz en San Gaspar Ixchil,Certificación Orgánica y de Origen - Reg COOP-GT1329-A,64.00,2026-03-15
+GT1329,Cultivo de Frijol en San Gaspar Ixchil,Certificación Orgánica y de Origen - Reg COOP-GT1329-B,65.00,2026-03-15
+GT1329,Cultivo de Café en San Gaspar Ixchil,Certificación Orgánica y de Origen - Reg COOP-GT1329-A,76.00,2026-03-15
+GT1329,Apicultura en San Gaspar Ixchil,Certificación Orgánica y de Origen - Reg ASO-GT1329-C,75.00,2026-03-15
+GT1330,Cultivo de Maíz en Santiago Chimaltenango,Certificación Orgánica y de Origen - Reg COOP-GT1330-A,81.00,2026-03-15
+GT1330,Cultivo de Frijol en Santiago Chimaltenango,Certificación Orgánica y de Origen - Reg COOP-GT1330-B,69.00,2026-03-15
+GT1330,Cultivo de Café en Santiago Chimaltenango,Certificación Orgánica y de Origen - Reg COOP-GT1330-A,72.00,2026-03-15
+GT1330,Apicultura en Santiago Chimaltenango,Certificación Orgánica y de Origen - Reg ASO-GT1330-C,90.00,2026-03-15
+GT1331,Cultivo de Maíz en Santa Ana Huista,Certificación Orgánica y de Origen - Reg COOP-GT1331-A,100.00,2026-03-15
+GT1331,Cultivo de Frijol en Santa Ana Huista,Certificación Orgánica y de Origen - Reg COOP-GT1331-B,56.00,2026-03-15
+GT1331,Cultivo de Café en Santa Ana Huista,Certificación Orgánica y de Origen - Reg COOP-GT1331-A,70.00,2026-03-15
+GT1331,Apicultura en Santa Ana Huista,Certificación Orgánica y de Origen - Reg ASO-GT1331-C,85.00,2026-03-15
+GT1332,Cultivo de Maíz en Unión Cantinil,Certificación Orgánica y de Origen - Reg COOP-GT1332-A,87.00,2026-03-15
+GT1332,Cultivo de Frijol en Unión Cantinil,Certificación Orgánica y de Origen - Reg COOP-GT1332-B,51.00,2026-03-15
+GT1332,Cultivo de Café en Unión Cantinil,Certificación Orgánica y de Origen - Reg COOP-GT1332-A,88.00,2026-03-15
+GT1332,Apicultura en Unión Cantinil,Certificación Orgánica y de Origen - Reg ASO-GT1332-C,95.00,2026-03-15
+GT1333,Cultivo de Maíz en Petatán,Certificación Orgánica y de Origen - Reg COOP-GT1333-A,100.00,2026-03-15
+GT1333,Cultivo de Frijol en Petatán,Certificación Orgánica y de Origen - Reg COOP-GT1333-B,71.00,2026-03-15
+GT1333,Cultivo de Café en Petatán,Certificación Orgánica y de Origen - Reg COOP-GT1333-A,96.00,2026-03-15
+GT1333,Apicultura en Petatán,Certificación Orgánica y de Origen - Reg ASO-GT1333-C,78.00,2026-03-15
+GT1401,Cultivo de Maíz en Santa Cruz del Quiché,Certificación Orgánica y de Origen - Reg COOP-GT1401-A,75.00,2026-03-15
+GT1401,Cultivo de Frijol en Santa Cruz del Quiché,Certificación Orgánica y de Origen - Reg COOP-GT1401-B,56.00,2026-03-15
+GT1401,Producción de Tejidos Mayas en Santa Cruz del Quiché,Certificación Orgánica y de Origen - Reg ASO-GT1401-C,85.00,2026-03-15
+GT1401,Producción de Cestería en Santa Cruz del Quiché,Certificación Orgánica y de Origen - Reg ASO-GT1401-C,77.00,2026-03-15
+GT1402,Cultivo de Maíz en Chiché,Certificación Orgánica y de Origen - Reg COOP-GT1402-A,81.00,2026-03-15
+GT1402,Cultivo de Frijol en Chiché,Certificación Orgánica y de Origen - Reg COOP-GT1402-B,53.00,2026-03-15
+GT1402,Producción de Tejidos Mayas en Chiché,Certificación Orgánica y de Origen - Reg ASO-GT1402-C,96.00,2026-03-15
+GT1402,Producción de Cestería en Chiché,Certificación Orgánica y de Origen - Reg ASO-GT1402-C,80.00,2026-03-15
+GT1403,Cultivo de Maíz en Chinique,Certificación Orgánica y de Origen - Reg COOP-GT1403-A,93.00,2026-03-15
+GT1403,Cultivo de Frijol en Chinique,Certificación Orgánica y de Origen - Reg COOP-GT1403-B,65.00,2026-03-15
+GT1403,Producción de Tejidos Mayas en Chinique,Certificación Orgánica y de Origen - Reg ASO-GT1403-C,100.00,2026-03-15
+GT1403,Producción de Cestería en Chinique,Certificación Orgánica y de Origen - Reg ASO-GT1403-C,72.00,2026-03-15
+GT1404,Cultivo de Maíz en Zacualpa,Certificación Orgánica y de Origen - Reg COOP-GT1404-A,98.00,2026-03-15
+GT1404,Cultivo de Frijol en Zacualpa,Certificación Orgánica y de Origen - Reg COOP-GT1404-B,89.00,2026-03-15
+GT1404,Producción de Tejidos Mayas en Zacualpa,Certificación Orgánica y de Origen - Reg ASO-GT1404-C,84.00,2026-03-15
+GT1404,Producción de Cestería en Zacualpa,Certificación Orgánica y de Origen - Reg ASO-GT1404-C,94.00,2026-03-15
+GT1405,Cultivo de Maíz en Chajul,Certificación Orgánica y de Origen - Reg COOP-GT1405-A,66.00,2026-03-15
+GT1405,Cultivo de Frijol en Chajul,Certificación Orgánica y de Origen - Reg COOP-GT1405-B,90.00,2026-03-15
+GT1405,Producción de Tejidos Mayas en Chajul,Certificación Orgánica y de Origen - Reg ASO-GT1405-C,84.00,2026-03-15
+GT1405,Producción de Cestería en Chajul,Certificación Orgánica y de Origen - Reg ASO-GT1405-C,88.00,2026-03-15
+GT1406,Cultivo de Maíz en Chichicastenango,Certificación Orgánica y de Origen - Reg COOP-GT1406-A,67.00,2026-03-15
+GT1406,Cultivo de Frijol en Chichicastenango,Certificación Orgánica y de Origen - Reg COOP-GT1406-B,55.00,2026-03-15
+GT1406,Producción de Tejidos Mayas en Chichicastenango,Certificación Orgánica y de Origen - Reg ASO-GT1406-C,71.00,2026-03-15
+GT1406,Producción de Cestería en Chichicastenango,Certificación Orgánica y de Origen - Reg ASO-GT1406-C,99.00,2026-03-15
+GT1407,Cultivo de Maíz en Patzité,Certificación Orgánica y de Origen - Reg COOP-GT1407-A,62.00,2026-03-15
+GT1407,Cultivo de Frijol en Patzité,Certificación Orgánica y de Origen - Reg COOP-GT1407-B,74.00,2026-03-15
+GT1407,Producción de Tejidos Mayas en Patzité,Certificación Orgánica y de Origen - Reg ASO-GT1407-C,80.00,2026-03-15
+GT1407,Producción de Cestería en Patzité,Certificación Orgánica y de Origen - Reg ASO-GT1407-C,98.00,2026-03-15
+GT1408,Cultivo de Maíz en San Antonio Ilotenango,Certificación Orgánica y de Origen - Reg COOP-GT1408-A,64.00,2026-03-15
+GT1408,Cultivo de Frijol en San Antonio Ilotenango,Certificación Orgánica y de Origen - Reg COOP-GT1408-B,58.00,2026-03-15
+GT1408,Producción de Tejidos Mayas en San Antonio Ilotenango,Certificación Orgánica y de Origen - Reg ASO-GT1408-C,71.00,2026-03-15
+GT1408,Producción de Cestería en San Antonio Ilotenango,Certificación Orgánica y de Origen - Reg ASO-GT1408-C,99.00,2026-03-15
+GT1409,Cultivo de Maíz en San Pedro Jocopilas,Certificación Orgánica y de Origen - Reg COOP-GT1409-A,88.00,2026-03-15
+GT1409,Cultivo de Frijol en San Pedro Jocopilas,Certificación Orgánica y de Origen - Reg COOP-GT1409-B,53.00,2026-03-15
+GT1409,Producción de Tejidos Mayas en San Pedro Jocopilas,Certificación Orgánica y de Origen - Reg ASO-GT1409-C,79.00,2026-03-15
+GT1409,Producción de Cestería en San Pedro Jocopilas,Certificación Orgánica y de Origen - Reg ASO-GT1409-C,89.00,2026-03-15
+GT1410,Cultivo de Maíz en Cunén,Certificación Orgánica y de Origen - Reg COOP-GT1410-A,100.00,2026-03-15
+GT1410,Cultivo de Frijol en Cunén,Certificación Orgánica y de Origen - Reg COOP-GT1410-B,77.00,2026-03-15
+GT1410,Producción de Tejidos Mayas en Cunén,Certificación Orgánica y de Origen - Reg ASO-GT1410-C,72.00,2026-03-15
+GT1410,Producción de Cestería en Cunén,Certificación Orgánica y de Origen - Reg ASO-GT1410-C,73.00,2026-03-15
+GT1411,Cultivo de Maíz en San Juan Cotzal,Certificación Orgánica y de Origen - Reg COOP-GT1411-A,63.00,2026-03-15
+GT1411,Cultivo de Frijol en San Juan Cotzal,Certificación Orgánica y de Origen - Reg COOP-GT1411-B,85.00,2026-03-15
+GT1411,Producción de Tejidos Mayas en San Juan Cotzal,Certificación Orgánica y de Origen - Reg ASO-GT1411-C,71.00,2026-03-15
+GT1411,Producción de Cestería en San Juan Cotzal,Certificación Orgánica y de Origen - Reg ASO-GT1411-C,79.00,2026-03-15
+GT1412,Cultivo de Maíz en Joyabaj,Certificación Orgánica y de Origen - Reg COOP-GT1412-A,84.00,2026-03-15
+GT1412,Cultivo de Frijol en Joyabaj,Certificación Orgánica y de Origen - Reg COOP-GT1412-B,75.00,2026-03-15
+GT1412,Producción de Tejidos Mayas en Joyabaj,Certificación Orgánica y de Origen - Reg ASO-GT1412-C,73.00,2026-03-15
+GT1412,Producción de Cestería en Joyabaj,Certificación Orgánica y de Origen - Reg ASO-GT1412-C,89.00,2026-03-15
+GT1413,Cultivo de Maíz en Nebaj,Certificación Orgánica y de Origen - Reg COOP-GT1413-A,86.00,2026-03-15
+GT1413,Cultivo de Frijol en Nebaj,Certificación Orgánica y de Origen - Reg COOP-GT1413-B,64.00,2026-03-15
+GT1413,Producción de Tejidos Mayas en Nebaj,Certificación Orgánica y de Origen - Reg ASO-GT1413-C,97.00,2026-03-15
+GT1413,Producción de Cestería en Nebaj,Certificación Orgánica y de Origen - Reg ASO-GT1413-C,89.00,2026-03-15
+GT1414,Cultivo de Maíz en San Andrés Sajcabajá,Certificación Orgánica y de Origen - Reg COOP-GT1414-A,99.00,2026-03-15
+GT1414,Cultivo de Frijol en San Andrés Sajcabajá,Certificación Orgánica y de Origen - Reg COOP-GT1414-B,50.00,2026-03-15
+GT1414,Producción de Tejidos Mayas en San Andrés Sajcabajá,Certificación Orgánica y de Origen - Reg ASO-GT1414-C,84.00,2026-03-15
+GT1414,Producción de Cestería en San Andrés Sajcabajá,Certificación Orgánica y de Origen - Reg ASO-GT1414-C,82.00,2026-03-15
+GT1415,Cultivo de Maíz en Uspantán,Certificación Orgánica y de Origen - Reg COOP-GT1415-A,89.00,2026-03-15
+GT1415,Cultivo de Frijol en Uspantán,Certificación Orgánica y de Origen - Reg COOP-GT1415-B,77.00,2026-03-15
+GT1415,Producción de Tejidos Mayas en Uspantán,Certificación Orgánica y de Origen - Reg ASO-GT1415-C,98.00,2026-03-15
+GT1415,Producción de Cestería en Uspantán,Certificación Orgánica y de Origen - Reg ASO-GT1415-C,89.00,2026-03-15
+GT1416,Cultivo de Maíz en Sacapulas,Certificación Orgánica y de Origen - Reg COOP-GT1416-A,99.00,2026-03-15
+GT1416,Cultivo de Frijol en Sacapulas,Certificación Orgánica y de Origen - Reg COOP-GT1416-B,56.00,2026-03-15
+GT1416,Producción de Tejidos Mayas en Sacapulas,Certificación Orgánica y de Origen - Reg ASO-GT1416-C,80.00,2026-03-15
+GT1416,Producción de Cestería en Sacapulas,Certificación Orgánica y de Origen - Reg ASO-GT1416-C,90.00,2026-03-15
+GT1417,Cultivo de Maíz en San Bartolomé Jocotenango,Certificación Orgánica y de Origen - Reg COOP-GT1417-A,61.00,2026-03-15
+GT1417,Cultivo de Frijol en San Bartolomé Jocotenango,Certificación Orgánica y de Origen - Reg COOP-GT1417-B,79.00,2026-03-15
+GT1417,Producción de Tejidos Mayas en San Bartolomé Jocotenango,Certificación Orgánica y de Origen - Reg ASO-GT1417-C,86.00,2026-03-15
+GT1417,Producción de Cestería en San Bartolomé Jocotenango,Certificación Orgánica y de Origen - Reg ASO-GT1417-C,80.00,2026-03-15
+GT1418,Cultivo de Maíz en Canillá,Certificación Orgánica y de Origen - Reg COOP-GT1418-A,97.00,2026-03-15
+GT1418,Cultivo de Frijol en Canillá,Certificación Orgánica y de Origen - Reg COOP-GT1418-B,62.00,2026-03-15
+GT1418,Producción de Tejidos Mayas en Canillá,Certificación Orgánica y de Origen - Reg ASO-GT1418-C,73.00,2026-03-15
+GT1418,Producción de Cestería en Canillá,Certificación Orgánica y de Origen - Reg ASO-GT1418-C,73.00,2026-03-15
+GT1419,Cultivo de Maíz en Chicamán,Certificación Orgánica y de Origen - Reg COOP-GT1419-A,60.00,2026-03-15
+GT1419,Cultivo de Frijol en Chicamán,Certificación Orgánica y de Origen - Reg COOP-GT1419-B,88.00,2026-03-15
+GT1419,Producción de Tejidos Mayas en Chicamán,Certificación Orgánica y de Origen - Reg ASO-GT1419-C,92.00,2026-03-15
+GT1419,Producción de Cestería en Chicamán,Certificación Orgánica y de Origen - Reg ASO-GT1419-C,72.00,2026-03-15
+GT1420,Cultivo de Maíz en Ixcán,Certificación Orgánica y de Origen - Reg COOP-GT1420-A,97.00,2026-03-15
+GT1420,Cultivo de Frijol en Ixcán,Certificación Orgánica y de Origen - Reg COOP-GT1420-B,62.00,2026-03-15
+GT1420,Producción de Tejidos Mayas en Ixcán,Certificación Orgánica y de Origen - Reg ASO-GT1420-C,98.00,2026-03-15
+GT1420,Producción de Cestería en Ixcán,Certificación Orgánica y de Origen - Reg ASO-GT1420-C,88.00,2026-03-15
+GT1421,Cultivo de Maíz en Pachalum,Certificación Orgánica y de Origen - Reg COOP-GT1421-A,68.00,2026-03-15
+GT1421,Cultivo de Frijol en Pachalum,Certificación Orgánica y de Origen - Reg COOP-GT1421-B,90.00,2026-03-15
+GT1421,Producción de Tejidos Mayas en Pachalum,Certificación Orgánica y de Origen - Reg ASO-GT1421-C,86.00,2026-03-15
+GT1421,Producción de Cestería en Pachalum,Certificación Orgánica y de Origen - Reg ASO-GT1421-C,78.00,2026-03-15
+GT1501,Cultivo de Maíz en Salamá,Certificación Orgánica y de Origen - Reg COOP-GT1501-A,82.00,2026-03-15
+GT1501,Cultivo de Frijol en Salamá,Certificación Orgánica y de Origen - Reg COOP-GT1501-B,76.00,2026-03-15
+GT1501,Cultivo de Hortalizas en Salamá,Certificación Orgánica y de Origen - Reg ASO-GT1501-C,85.00,2026-03-15
+GT1502,Cultivo de Maíz en San Miguel Chicaj,Certificación Orgánica y de Origen - Reg COOP-GT1502-A,99.00,2026-03-15
+GT1502,Cultivo de Frijol en San Miguel Chicaj,Certificación Orgánica y de Origen - Reg COOP-GT1502-B,78.00,2026-03-15
+GT1502,Cultivo de Hortalizas en San Miguel Chicaj,Certificación Orgánica y de Origen - Reg ASO-GT1502-C,75.00,2026-03-15
+GT1503,Cultivo de Maíz en Rabinal,Certificación Orgánica y de Origen - Reg COOP-GT1503-A,75.00,2026-03-15
+GT1503,Cultivo de Frijol en Rabinal,Certificación Orgánica y de Origen - Reg COOP-GT1503-B,58.00,2026-03-15
+GT1503,Cultivo de Hortalizas en Rabinal,Certificación Orgánica y de Origen - Reg ASO-GT1503-C,95.00,2026-03-15
+GT1503,Producción de Alfarería en Rabinal,Certificación Orgánica y de Origen - Reg ASO-GT1503-C,71.00,2026-03-15
+GT1504,Cultivo de Maíz en Cubulco,Certificación Orgánica y de Origen - Reg COOP-GT1504-A,63.00,2026-03-15
+GT1504,Cultivo de Frijol en Cubulco,Certificación Orgánica y de Origen - Reg COOP-GT1504-B,58.00,2026-03-15
+GT1504,Cultivo de Hortalizas en Cubulco,Certificación Orgánica y de Origen - Reg ASO-GT1504-C,79.00,2026-03-15
+GT1505,Cultivo de Maíz en Granados,Certificación Orgánica y de Origen - Reg COOP-GT1505-A,97.00,2026-03-15
+GT1505,Cultivo de Frijol en Granados,Certificación Orgánica y de Origen - Reg COOP-GT1505-B,77.00,2026-03-15
+GT1505,Cultivo de Hortalizas en Granados,Certificación Orgánica y de Origen - Reg ASO-GT1505-C,86.00,2026-03-15
+GT1506,Cultivo de Maíz en El Chol,Certificación Orgánica y de Origen - Reg COOP-GT1506-A,82.00,2026-03-15
+GT1506,Cultivo de Frijol en El Chol,Certificación Orgánica y de Origen - Reg COOP-GT1506-B,69.00,2026-03-15
+GT1506,Cultivo de Hortalizas en El Chol,Certificación Orgánica y de Origen - Reg ASO-GT1506-C,88.00,2026-03-15
+GT1507,Cultivo de Maíz en San Jerónimo,Certificación Orgánica y de Origen - Reg COOP-GT1507-A,94.00,2026-03-15
+GT1507,Cultivo de Frijol en San Jerónimo,Certificación Orgánica y de Origen - Reg COOP-GT1507-B,59.00,2026-03-15
+GT1507,Cultivo de Hortalizas en San Jerónimo,Certificación Orgánica y de Origen - Reg ASO-GT1507-C,74.00,2026-03-15
+GT1508,Cultivo de Maíz en Purulhá,Certificación Orgánica y de Origen - Reg COOP-GT1508-A,90.00,2026-03-15
+GT1508,Cultivo de Frijol en Purulhá,Certificación Orgánica y de Origen - Reg COOP-GT1508-B,69.00,2026-03-15
+GT1508,Cultivo de Hortalizas en Purulhá,Certificación Orgánica y de Origen - Reg ASO-GT1508-C,89.00,2026-03-15
+GT1601,Cultivo de Maíz en Cobán,Certificación Orgánica y de Origen - Reg COOP-GT1601-A,81.00,2026-03-15
+GT1601,Cultivo de Frijol en Cobán,Certificación Orgánica y de Origen - Reg COOP-GT1601-B,68.00,2026-03-15
+GT1601,Cultivo de Cardamomo en Cobán,Certificación Orgánica y de Origen - Reg ASO-GT1601-C,81.00,2026-03-15
+GT1601,Cultivo de Café en Cobán,Certificación Orgánica y de Origen - Reg COOP-GT1601-A,70.00,2026-03-15
+GT1601,Cultivo de Cacao en Cobán,Certificación Orgánica y de Origen - Reg ASO-GT1601-C,86.00,2026-03-15
+GT1602,Cultivo de Maíz en Santa Cruz Verapaz,Certificación Orgánica y de Origen - Reg COOP-GT1602-A,97.00,2026-03-15
+GT1602,Cultivo de Frijol en Santa Cruz Verapaz,Certificación Orgánica y de Origen - Reg COOP-GT1602-B,92.00,2026-03-15
+GT1602,Cultivo de Cardamomo en Santa Cruz Verapaz,Certificación Orgánica y de Origen - Reg ASO-GT1602-C,91.00,2026-03-15
+GT1602,Cultivo de Café en Santa Cruz Verapaz,Certificación Orgánica y de Origen - Reg COOP-GT1602-A,74.00,2026-03-15
+GT1602,Cultivo de Cacao en Santa Cruz Verapaz,Certificación Orgánica y de Origen - Reg ASO-GT1602-C,71.00,2026-03-15
+GT1603,Cultivo de Maíz en San Cristóbal Verapaz,Certificación Orgánica y de Origen - Reg COOP-GT1603-A,75.00,2026-03-15
+GT1603,Cultivo de Frijol en San Cristóbal Verapaz,Certificación Orgánica y de Origen - Reg COOP-GT1603-B,82.00,2026-03-15
+GT1603,Cultivo de Cardamomo en San Cristóbal Verapaz,Certificación Orgánica y de Origen - Reg ASO-GT1603-C,96.00,2026-03-15
+GT1603,Cultivo de Café en San Cristóbal Verapaz,Certificación Orgánica y de Origen - Reg COOP-GT1603-A,96.00,2026-03-15
+GT1603,Cultivo de Cacao en San Cristóbal Verapaz,Certificación Orgánica y de Origen - Reg ASO-GT1603-C,87.00,2026-03-15
+GT1604,Cultivo de Maíz en Tactic,Certificación Orgánica y de Origen - Reg COOP-GT1604-A,63.00,2026-03-15
+GT1604,Cultivo de Frijol en Tactic,Certificación Orgánica y de Origen - Reg COOP-GT1604-B,77.00,2026-03-15
+GT1604,Cultivo de Cardamomo en Tactic,Certificación Orgánica y de Origen - Reg ASO-GT1604-C,81.00,2026-03-15
+GT1604,Cultivo de Café en Tactic,Certificación Orgánica y de Origen - Reg COOP-GT1604-A,76.00,2026-03-15
+GT1604,Cultivo de Cacao en Tactic,Certificación Orgánica y de Origen - Reg ASO-GT1604-C,76.00,2026-03-15
+GT1605,Cultivo de Maíz en Tamahú,Certificación Orgánica y de Origen - Reg COOP-GT1605-A,100.00,2026-03-15
+GT1605,Cultivo de Frijol en Tamahú,Certificación Orgánica y de Origen - Reg COOP-GT1605-B,62.00,2026-03-15
+GT1605,Cultivo de Cardamomo en Tamahú,Certificación Orgánica y de Origen - Reg ASO-GT1605-C,95.00,2026-03-15
+GT1605,Cultivo de Café en Tamahú,Certificación Orgánica y de Origen - Reg COOP-GT1605-A,72.00,2026-03-15
+GT1605,Cultivo de Cacao en Tamahú,Certificación Orgánica y de Origen - Reg ASO-GT1605-C,80.00,2026-03-15
+GT1606,Cultivo de Maíz en Tucurú,Certificación Orgánica y de Origen - Reg COOP-GT1606-A,72.00,2026-03-15
+GT1606,Cultivo de Frijol en Tucurú,Certificación Orgánica y de Origen - Reg COOP-GT1606-B,92.00,2026-03-15
+GT1606,Cultivo de Cardamomo en Tucurú,Certificación Orgánica y de Origen - Reg ASO-GT1606-C,85.00,2026-03-15
+GT1606,Cultivo de Café en Tucurú,Certificación Orgánica y de Origen - Reg COOP-GT1606-A,92.00,2026-03-15
+GT1606,Cultivo de Cacao en Tucurú,Certificación Orgánica y de Origen - Reg ASO-GT1606-C,92.00,2026-03-15
+GT1607,Cultivo de Maíz en Panzós,Certificación Orgánica y de Origen - Reg COOP-GT1607-A,89.00,2026-03-15
+GT1607,Cultivo de Frijol en Panzós,Certificación Orgánica y de Origen - Reg COOP-GT1607-B,88.00,2026-03-15
+GT1607,Cultivo de Cardamomo en Panzós,Certificación Orgánica y de Origen - Reg ASO-GT1607-C,92.00,2026-03-15
+GT1607,Cultivo de Café en Panzós,Certificación Orgánica y de Origen - Reg COOP-GT1607-A,80.00,2026-03-15
+GT1607,Cultivo de Cacao en Panzós,Certificación Orgánica y de Origen - Reg ASO-GT1607-C,97.00,2026-03-15
+GT1607,Cultivo de Palma de Aceite en Panzós,Certificación Orgánica y de Origen - Reg ASO-GT1607-C,88.00,2026-03-15
+GT1608,Cultivo de Maíz en Senahú,Certificación Orgánica y de Origen - Reg COOP-GT1608-A,96.00,2026-03-15
+GT1608,Cultivo de Frijol en Senahú,Certificación Orgánica y de Origen - Reg COOP-GT1608-B,71.00,2026-03-15
+GT1608,Cultivo de Cardamomo en Senahú,Certificación Orgánica y de Origen - Reg ASO-GT1608-C,89.00,2026-03-15
+GT1608,Cultivo de Café en Senahú,Certificación Orgánica y de Origen - Reg COOP-GT1608-A,79.00,2026-03-15
+GT1608,Cultivo de Cacao en Senahú,Certificación Orgánica y de Origen - Reg ASO-GT1608-C,83.00,2026-03-15
+GT1608,Cultivo de Palma de Aceite en Senahú,Certificación Orgánica y de Origen - Reg ASO-GT1608-C,80.00,2026-03-15
+GT1609,Cultivo de Maíz en San Pedro Carchá,Certificación Orgánica y de Origen - Reg COOP-GT1609-A,70.00,2026-03-15
+GT1609,Cultivo de Frijol en San Pedro Carchá,Certificación Orgánica y de Origen - Reg COOP-GT1609-B,56.00,2026-03-15
+GT1609,Cultivo de Cardamomo en San Pedro Carchá,Certificación Orgánica y de Origen - Reg ASO-GT1609-C,84.00,2026-03-15
+GT1609,Cultivo de Café en San Pedro Carchá,Certificación Orgánica y de Origen - Reg COOP-GT1609-A,98.00,2026-03-15
+GT1609,Cultivo de Cacao en San Pedro Carchá,Certificación Orgánica y de Origen - Reg ASO-GT1609-C,95.00,2026-03-15
+GT1609,Cultivo de Palma de Aceite en San Pedro Carchá,Certificación Orgánica y de Origen - Reg ASO-GT1609-C,99.00,2026-03-15
+GT1610,Cultivo de Maíz en San Juan Chamelco,Certificación Orgánica y de Origen - Reg COOP-GT1610-A,62.00,2026-03-15
+GT1610,Cultivo de Frijol en San Juan Chamelco,Certificación Orgánica y de Origen - Reg COOP-GT1610-B,81.00,2026-03-15
+GT1610,Cultivo de Cardamomo en San Juan Chamelco,Certificación Orgánica y de Origen - Reg ASO-GT1610-C,77.00,2026-03-15
+GT1610,Cultivo de Café en San Juan Chamelco,Certificación Orgánica y de Origen - Reg COOP-GT1610-A,99.00,2026-03-15
+GT1610,Cultivo de Cacao en San Juan Chamelco,Certificación Orgánica y de Origen - Reg ASO-GT1610-C,70.00,2026-03-15
+GT1611,Cultivo de Maíz en Lanquín,Certificación Orgánica y de Origen - Reg COOP-GT1611-A,100.00,2026-03-15
+GT1611,Cultivo de Frijol en Lanquín,Certificación Orgánica y de Origen - Reg COOP-GT1611-B,64.00,2026-03-15
+GT1611,Cultivo de Cardamomo en Lanquín,Certificación Orgánica y de Origen - Reg ASO-GT1611-C,92.00,2026-03-15
+GT1611,Cultivo de Café en Lanquín,Certificación Orgánica y de Origen - Reg COOP-GT1611-A,77.00,2026-03-15
+GT1611,Cultivo de Cacao en Lanquín,Certificación Orgánica y de Origen - Reg ASO-GT1611-C,84.00,2026-03-15
+GT1612,Cultivo de Maíz en Cahabón,Certificación Orgánica y de Origen - Reg COOP-GT1612-A,99.00,2026-03-15
+GT1612,Cultivo de Frijol en Cahabón,Certificación Orgánica y de Origen - Reg COOP-GT1612-B,63.00,2026-03-15
+GT1612,Cultivo de Cardamomo en Cahabón,Certificación Orgánica y de Origen - Reg ASO-GT1612-C,77.00,2026-03-15
+GT1612,Cultivo de Café en Cahabón,Certificación Orgánica y de Origen - Reg COOP-GT1612-A,85.00,2026-03-15
+GT1612,Cultivo de Cacao en Cahabón,Certificación Orgánica y de Origen - Reg ASO-GT1612-C,93.00,2026-03-15
+GT1613,Cultivo de Maíz en Chisec,Certificación Orgánica y de Origen - Reg COOP-GT1613-A,81.00,2026-03-15
+GT1613,Cultivo de Frijol en Chisec,Certificación Orgánica y de Origen - Reg COOP-GT1613-B,74.00,2026-03-15
+GT1613,Cultivo de Cardamomo en Chisec,Certificación Orgánica y de Origen - Reg ASO-GT1613-C,76.00,2026-03-15
+GT1613,Cultivo de Café en Chisec,Certificación Orgánica y de Origen - Reg COOP-GT1613-A,82.00,2026-03-15
+GT1613,Cultivo de Cacao en Chisec,Certificación Orgánica y de Origen - Reg ASO-GT1613-C,75.00,2026-03-15
+GT1614,Cultivo de Maíz en Chahal,Certificación Orgánica y de Origen - Reg COOP-GT1614-A,60.00,2026-03-15
+GT1614,Cultivo de Frijol en Chahal,Certificación Orgánica y de Origen - Reg COOP-GT1614-B,73.00,2026-03-15
+GT1614,Cultivo de Cardamomo en Chahal,Certificación Orgánica y de Origen - Reg ASO-GT1614-C,70.00,2026-03-15
+GT1614,Cultivo de Café en Chahal,Certificación Orgánica y de Origen - Reg COOP-GT1614-A,72.00,2026-03-15
+GT1614,Cultivo de Cacao en Chahal,Certificación Orgánica y de Origen - Reg ASO-GT1614-C,81.00,2026-03-15
+GT1615,Cultivo de Maíz en Fray Bartolomé de Las Casas,Certificación Orgánica y de Origen - Reg COOP-GT1615-A,61.00,2026-03-15
+GT1615,Cultivo de Frijol en Fray Bartolomé de Las Casas,Certificación Orgánica y de Origen - Reg COOP-GT1615-B,85.00,2026-03-15
+GT1615,Cultivo de Cardamomo en Fray Bartolomé de Las Casas,Certificación Orgánica y de Origen - Reg ASO-GT1615-C,73.00,2026-03-15
+GT1615,Cultivo de Café en Fray Bartolomé de Las Casas,Certificación Orgánica y de Origen - Reg COOP-GT1615-A,74.00,2026-03-15
+GT1615,Cultivo de Cacao en Fray Bartolomé de Las Casas,Certificación Orgánica y de Origen - Reg ASO-GT1615-C,79.00,2026-03-15
+GT1616,Cultivo de Maíz en Santa Catalina La Tinta,Certificación Orgánica y de Origen - Reg COOP-GT1616-A,88.00,2026-03-15
+GT1616,Cultivo de Frijol en Santa Catalina La Tinta,Certificación Orgánica y de Origen - Reg COOP-GT1616-B,62.00,2026-03-15
+GT1616,Cultivo de Cardamomo en Santa Catalina La Tinta,Certificación Orgánica y de Origen - Reg ASO-GT1616-C,90.00,2026-03-15
+GT1616,Cultivo de Café en Santa Catalina La Tinta,Certificación Orgánica y de Origen - Reg COOP-GT1616-A,88.00,2026-03-15
+GT1616,Cultivo de Cacao en Santa Catalina La Tinta,Certificación Orgánica y de Origen - Reg ASO-GT1616-C,99.00,2026-03-15
+GT1617,Cultivo de Maíz en Raxruhá,Certificación Orgánica y de Origen - Reg COOP-GT1617-A,83.00,2026-03-15
+GT1617,Cultivo de Frijol en Raxruhá,Certificación Orgánica y de Origen - Reg COOP-GT1617-B,52.00,2026-03-15
+GT1617,Cultivo de Cardamomo en Raxruhá,Certificación Orgánica y de Origen - Reg ASO-GT1617-C,70.00,2026-03-15
+GT1617,Cultivo de Café en Raxruhá,Certificación Orgánica y de Origen - Reg COOP-GT1617-A,76.00,2026-03-15
+GT1617,Cultivo de Cacao en Raxruhá,Certificación Orgánica y de Origen - Reg ASO-GT1617-C,76.00,2026-03-15
+GT1617,Cultivo de Palma de Aceite en Raxruhá,Certificación Orgánica y de Origen - Reg ASO-GT1617-C,79.00,2026-03-15
+GT1701,Cultivo de Maíz en Flores,Certificación Orgánica y de Origen - Reg COOP-GT1701-A,71.00,2026-03-15
+GT1701,Cultivo de Frijol en Flores,Certificación Orgánica y de Origen - Reg COOP-GT1701-B,64.00,2026-03-15
+GT1701,Producción Ganadera en Flores,Certificación Orgánica y de Origen - Reg ASO-GT1701-C,98.00,2026-03-15
+GT1701,Pesca y Acuicultura en Flores,Certificación Orgánica y de Origen - Reg ASO-GT1701-C,78.00,2026-03-15
+GT1702,Cultivo de Maíz en San José,Certificación Orgánica y de Origen - Reg COOP-GT1702-A,71.00,2026-03-15
+GT1702,Cultivo de Frijol en San José,Certificación Orgánica y de Origen - Reg COOP-GT1702-B,71.00,2026-03-15
+GT1702,Producción Ganadera en San José,Certificación Orgánica y de Origen - Reg ASO-GT1702-C,97.00,2026-03-15
+GT1702,Pesca y Acuicultura en San José,Certificación Orgánica y de Origen - Reg ASO-GT1702-C,87.00,2026-03-15
+GT1703,Cultivo de Maíz en San Benito,Certificación Orgánica y de Origen - Reg COOP-GT1703-A,75.00,2026-03-15
+GT1703,Cultivo de Frijol en San Benito,Certificación Orgánica y de Origen - Reg COOP-GT1703-B,61.00,2026-03-15
+GT1703,Producción Ganadera en San Benito,Certificación Orgánica y de Origen - Reg ASO-GT1703-C,76.00,2026-03-15
+GT1703,Pesca y Acuicultura en San Benito,Certificación Orgánica y de Origen - Reg ASO-GT1703-C,70.00,2026-03-15
+GT1704,Cultivo de Maíz en San Andrés,Certificación Orgánica y de Origen - Reg COOP-GT1704-A,71.00,2026-03-15
+GT1704,Cultivo de Frijol en San Andrés,Certificación Orgánica y de Origen - Reg COOP-GT1704-B,66.00,2026-03-15
+GT1704,Producción Ganadera en San Andrés,Certificación Orgánica y de Origen - Reg ASO-GT1704-C,99.00,2026-03-15
+GT1704,Pesca y Acuicultura en San Andrés,Certificación Orgánica y de Origen - Reg ASO-GT1704-C,73.00,2026-03-15
+GT1705,Cultivo de Maíz en La Libertad,Certificación Orgánica y de Origen - Reg COOP-GT1705-A,61.00,2026-03-15
+GT1705,Cultivo de Frijol en La Libertad,Certificación Orgánica y de Origen - Reg COOP-GT1705-B,93.00,2026-03-15
+GT1705,Producción Ganadera en La Libertad,Certificación Orgánica y de Origen - Reg ASO-GT1705-C,74.00,2026-03-15
+GT1705,Pesca y Acuicultura en La Libertad,Certificación Orgánica y de Origen - Reg ASO-GT1705-C,82.00,2026-03-15
+GT1706,Cultivo de Maíz en San Francisco,Certificación Orgánica y de Origen - Reg COOP-GT1706-A,67.00,2026-03-15
+GT1706,Cultivo de Frijol en San Francisco,Certificación Orgánica y de Origen - Reg COOP-GT1706-B,71.00,2026-03-15
+GT1706,Producción Ganadera en San Francisco,Certificación Orgánica y de Origen - Reg ASO-GT1706-C,99.00,2026-03-15
+GT1706,Pesca y Acuicultura en San Francisco,Certificación Orgánica y de Origen - Reg ASO-GT1706-C,76.00,2026-03-15
+GT1707,Cultivo de Maíz en Santa Ana,Certificación Orgánica y de Origen - Reg COOP-GT1707-A,79.00,2026-03-15
+GT1707,Cultivo de Frijol en Santa Ana,Certificación Orgánica y de Origen - Reg COOP-GT1707-B,79.00,2026-03-15
+GT1707,Producción Ganadera en Santa Ana,Certificación Orgánica y de Origen - Reg ASO-GT1707-C,77.00,2026-03-15
+GT1707,Pesca y Acuicultura en Santa Ana,Certificación Orgánica y de Origen - Reg ASO-GT1707-C,81.00,2026-03-15
+GT1708,Cultivo de Maíz en Dolores,Certificación Orgánica y de Origen - Reg COOP-GT1708-A,83.00,2026-03-15
+GT1708,Cultivo de Frijol en Dolores,Certificación Orgánica y de Origen - Reg COOP-GT1708-B,92.00,2026-03-15
+GT1708,Producción Ganadera en Dolores,Certificación Orgánica y de Origen - Reg ASO-GT1708-C,75.00,2026-03-15
+GT1708,Pesca y Acuicultura en Dolores,Certificación Orgánica y de Origen - Reg ASO-GT1708-C,100.00,2026-03-15
+GT1709,Cultivo de Maíz en San Luis,Certificación Orgánica y de Origen - Reg COOP-GT1709-A,93.00,2026-03-15
+GT1709,Cultivo de Frijol en San Luis,Certificación Orgánica y de Origen - Reg COOP-GT1709-B,89.00,2026-03-15
+GT1709,Producción Ganadera en San Luis,Certificación Orgánica y de Origen - Reg ASO-GT1709-C,98.00,2026-03-15
+GT1709,Pesca y Acuicultura en San Luis,Certificación Orgánica y de Origen - Reg ASO-GT1709-C,83.00,2026-03-15
+GT1710,Cultivo de Maíz en Sayaxché,Certificación Orgánica y de Origen - Reg COOP-GT1710-A,64.00,2026-03-15
+GT1710,Cultivo de Frijol en Sayaxché,Certificación Orgánica y de Origen - Reg COOP-GT1710-B,57.00,2026-03-15
+GT1710,Producción Ganadera en Sayaxché,Certificación Orgánica y de Origen - Reg ASO-GT1710-C,74.00,2026-03-15
+GT1710,Pesca y Acuicultura en Sayaxché,Certificación Orgánica y de Origen - Reg ASO-GT1710-C,98.00,2026-03-15
+GT1711,Cultivo de Maíz en Melchor de Mencos,Certificación Orgánica y de Origen - Reg COOP-GT1711-A,68.00,2026-03-15
+GT1711,Cultivo de Frijol en Melchor de Mencos,Certificación Orgánica y de Origen - Reg COOP-GT1711-B,62.00,2026-03-15
+GT1711,Producción Ganadera en Melchor de Mencos,Certificación Orgánica y de Origen - Reg ASO-GT1711-C,76.00,2026-03-15
+GT1711,Pesca y Acuicultura en Melchor de Mencos,Certificación Orgánica y de Origen - Reg ASO-GT1711-C,87.00,2026-03-15
+GT1712,Cultivo de Maíz en Poptún,Certificación Orgánica y de Origen - Reg COOP-GT1712-A,84.00,2026-03-15
+GT1712,Cultivo de Frijol en Poptún,Certificación Orgánica y de Origen - Reg COOP-GT1712-B,94.00,2026-03-15
+GT1712,Producción Ganadera en Poptún,Certificación Orgánica y de Origen - Reg ASO-GT1712-C,81.00,2026-03-15
+GT1712,Pesca y Acuicultura en Poptún,Certificación Orgánica y de Origen - Reg ASO-GT1712-C,80.00,2026-03-15
+GT1713,Cultivo de Maíz en Las Cruces,Certificación Orgánica y de Origen - Reg COOP-GT1713-A,98.00,2026-03-15
+GT1713,Cultivo de Frijol en Las Cruces,Certificación Orgánica y de Origen - Reg COOP-GT1713-B,77.00,2026-03-15
+GT1713,Producción Ganadera en Las Cruces,Certificación Orgánica y de Origen - Reg ASO-GT1713-C,90.00,2026-03-15
+GT1713,Pesca y Acuicultura en Las Cruces,Certificación Orgánica y de Origen - Reg ASO-GT1713-C,77.00,2026-03-15
+GT1714,Cultivo de Maíz en El Chal,Certificación Orgánica y de Origen - Reg COOP-GT1714-A,62.00,2026-03-15
+GT1714,Cultivo de Frijol en El Chal,Certificación Orgánica y de Origen - Reg COOP-GT1714-B,89.00,2026-03-15
+GT1714,Producción Ganadera en El Chal,Certificación Orgánica y de Origen - Reg ASO-GT1714-C,88.00,2026-03-15
+GT1714,Pesca y Acuicultura en El Chal,Certificación Orgánica y de Origen - Reg ASO-GT1714-C,76.00,2026-03-15
+GT1801,Cultivo de Maíz en Puerto Barrios,Certificación Orgánica y de Origen - Reg COOP-GT1801-A,94.00,2026-03-15
+GT1801,Cultivo de Frijol en Puerto Barrios,Certificación Orgánica y de Origen - Reg COOP-GT1801-B,68.00,2026-03-15
+GT1801,Cultivo de Cardamomo en Puerto Barrios,Certificación Orgánica y de Origen - Reg ASO-GT1801-C,95.00,2026-03-15
+GT1801,Cultivo de Café en Puerto Barrios,Certificación Orgánica y de Origen - Reg COOP-GT1801-A,74.00,2026-03-15
+GT1801,Cultivo de Cacao en Puerto Barrios,Certificación Orgánica y de Origen - Reg ASO-GT1801-C,80.00,2026-03-15
+GT1802,Cultivo de Maíz en Lívingston,Certificación Orgánica y de Origen - Reg COOP-GT1802-A,75.00,2026-03-15
+GT1802,Cultivo de Frijol en Lívingston,Certificación Orgánica y de Origen - Reg COOP-GT1802-B,53.00,2026-03-15
+GT1802,Cultivo de Cardamomo en Lívingston,Certificación Orgánica y de Origen - Reg ASO-GT1802-C,90.00,2026-03-15
+GT1802,Cultivo de Café en Lívingston,Certificación Orgánica y de Origen - Reg COOP-GT1802-A,95.00,2026-03-15
+GT1802,Cultivo de Cacao en Lívingston,Certificación Orgánica y de Origen - Reg ASO-GT1802-C,78.00,2026-03-15
+GT1803,Cultivo de Maíz en El Estor,Certificación Orgánica y de Origen - Reg COOP-GT1803-A,68.00,2026-03-15
+GT1803,Cultivo de Frijol en El Estor,Certificación Orgánica y de Origen - Reg COOP-GT1803-B,82.00,2026-03-15
+GT1803,Cultivo de Cardamomo en El Estor,Certificación Orgánica y de Origen - Reg ASO-GT1803-C,100.00,2026-03-15
+GT1803,Cultivo de Café en El Estor,Certificación Orgánica y de Origen - Reg COOP-GT1803-A,88.00,2026-03-15
+GT1803,Cultivo de Cacao en El Estor,Certificación Orgánica y de Origen - Reg ASO-GT1803-C,98.00,2026-03-15
+GT1804,Cultivo de Maíz en Morales,Certificación Orgánica y de Origen - Reg COOP-GT1804-A,91.00,2026-03-15
+GT1804,Cultivo de Frijol en Morales,Certificación Orgánica y de Origen - Reg COOP-GT1804-B,63.00,2026-03-15
+GT1804,Cultivo de Cardamomo en Morales,Certificación Orgánica y de Origen - Reg ASO-GT1804-C,93.00,2026-03-15
+GT1804,Cultivo de Café en Morales,Certificación Orgánica y de Origen - Reg COOP-GT1804-A,72.00,2026-03-15
+GT1804,Cultivo de Cacao en Morales,Certificación Orgánica y de Origen - Reg ASO-GT1804-C,95.00,2026-03-15
+GT1805,Cultivo de Maíz en Los Amates,Certificación Orgánica y de Origen - Reg COOP-GT1805-A,90.00,2026-03-15
+GT1805,Cultivo de Frijol en Los Amates,Certificación Orgánica y de Origen - Reg COOP-GT1805-B,92.00,2026-03-15
+GT1805,Cultivo de Cardamomo en Los Amates,Certificación Orgánica y de Origen - Reg ASO-GT1805-C,89.00,2026-03-15
+GT1805,Cultivo de Café en Los Amates,Certificación Orgánica y de Origen - Reg COOP-GT1805-A,72.00,2026-03-15
+GT1805,Cultivo de Cacao en Los Amates,Certificación Orgánica y de Origen - Reg ASO-GT1805-C,75.00,2026-03-15
+GT1901,Cultivo de Maíz en Zacapa,Certificación Orgánica y de Origen - Reg COOP-GT1901-A,92.00,2026-03-15
+GT1901,Cultivo de Frijol en Zacapa,Certificación Orgánica y de Origen - Reg COOP-GT1901-B,74.00,2026-03-15
+GT1901,Producción Ganadera en Zacapa,Certificación Orgánica y de Origen - Reg ASO-GT1901-C,94.00,2026-03-15
+GT1902,Cultivo de Maíz en Estanzuela,Certificación Orgánica y de Origen - Reg COOP-GT1902-A,92.00,2026-03-15
+GT1902,Cultivo de Frijol en Estanzuela,Certificación Orgánica y de Origen - Reg COOP-GT1902-B,73.00,2026-03-15
+GT1902,Producción Ganadera en Estanzuela,Certificación Orgánica y de Origen - Reg ASO-GT1902-C,85.00,2026-03-15
+GT1903,Cultivo de Maíz en Río Hondo,Certificación Orgánica y de Origen - Reg COOP-GT1903-A,93.00,2026-03-15
+GT1903,Cultivo de Frijol en Río Hondo,Certificación Orgánica y de Origen - Reg COOP-GT1903-B,79.00,2026-03-15
+GT1903,Producción Ganadera en Río Hondo,Certificación Orgánica y de Origen - Reg ASO-GT1903-C,75.00,2026-03-15
+GT1904,Cultivo de Maíz en Gualán,Certificación Orgánica y de Origen - Reg COOP-GT1904-A,80.00,2026-03-15
+GT1904,Cultivo de Frijol en Gualán,Certificación Orgánica y de Origen - Reg COOP-GT1904-B,95.00,2026-03-15
+GT1904,Producción Ganadera en Gualán,Certificación Orgánica y de Origen - Reg ASO-GT1904-C,81.00,2026-03-15
+GT1905,Cultivo de Maíz en Teculután,Certificación Orgánica y de Origen - Reg COOP-GT1905-A,93.00,2026-03-15
+GT1905,Cultivo de Frijol en Teculután,Certificación Orgánica y de Origen - Reg COOP-GT1905-B,94.00,2026-03-15
+GT1905,Producción Ganadera en Teculután,Certificación Orgánica y de Origen - Reg ASO-GT1905-C,85.00,2026-03-15
+GT1906,Cultivo de Maíz en Usumatlán,Certificación Orgánica y de Origen - Reg COOP-GT1906-A,91.00,2026-03-15
+GT1906,Cultivo de Frijol en Usumatlán,Certificación Orgánica y de Origen - Reg COOP-GT1906-B,80.00,2026-03-15
+GT1906,Producción Ganadera en Usumatlán,Certificación Orgánica y de Origen - Reg ASO-GT1906-C,78.00,2026-03-15
+GT1907,Cultivo de Maíz en Cabañas,Certificación Orgánica y de Origen - Reg COOP-GT1907-A,97.00,2026-03-15
+GT1907,Cultivo de Frijol en Cabañas,Certificación Orgánica y de Origen - Reg COOP-GT1907-B,75.00,2026-03-15
+GT1907,Producción Ganadera en Cabañas,Certificación Orgánica y de Origen - Reg ASO-GT1907-C,90.00,2026-03-15
+GT1908,Cultivo de Maíz en San Diego,Certificación Orgánica y de Origen - Reg COOP-GT1908-A,97.00,2026-03-15
+GT1908,Cultivo de Frijol en San Diego,Certificación Orgánica y de Origen - Reg COOP-GT1908-B,91.00,2026-03-15
+GT1908,Producción Ganadera en San Diego,Certificación Orgánica y de Origen - Reg ASO-GT1908-C,71.00,2026-03-15
+GT1909,Cultivo de Maíz en La Unión,Certificación Orgánica y de Origen - Reg COOP-GT1909-A,73.00,2026-03-15
+GT1909,Cultivo de Frijol en La Unión,Certificación Orgánica y de Origen - Reg COOP-GT1909-B,64.00,2026-03-15
+GT1909,Producción Ganadera en La Unión,Certificación Orgánica y de Origen - Reg ASO-GT1909-C,98.00,2026-03-15
+GT1910,Cultivo de Maíz en Huité,Certificación Orgánica y de Origen - Reg COOP-GT1910-A,72.00,2026-03-15
+GT1910,Cultivo de Frijol en Huité,Certificación Orgánica y de Origen - Reg COOP-GT1910-B,78.00,2026-03-15
+GT1910,Producción Ganadera en Huité,Certificación Orgánica y de Origen - Reg ASO-GT1910-C,97.00,2026-03-15
+GT1911,Cultivo de Maíz en San Jorge,Certificación Orgánica y de Origen - Reg COOP-GT1911-A,75.00,2026-03-15
+GT1911,Cultivo de Frijol en San Jorge,Certificación Orgánica y de Origen - Reg COOP-GT1911-B,75.00,2026-03-15
+GT1911,Producción Ganadera en San Jorge,Certificación Orgánica y de Origen - Reg ASO-GT1911-C,76.00,2026-03-15
+GT2001,Cultivo de Maíz en Chiquimula,Certificación Orgánica y de Origen - Reg COOP-GT2001-A,79.00,2026-03-15
+GT2001,Cultivo de Frijol en Chiquimula,Certificación Orgánica y de Origen - Reg COOP-GT2001-B,77.00,2026-03-15
+GT2001,Producción Ganadera en Chiquimula,Certificación Orgánica y de Origen - Reg ASO-GT2001-C,98.00,2026-03-15
+GT2002,Cultivo de Maíz en San José La Arada,Certificación Orgánica y de Origen - Reg COOP-GT2002-A,84.00,2026-03-15
+GT2002,Cultivo de Frijol en San José La Arada,Certificación Orgánica y de Origen - Reg COOP-GT2002-B,86.00,2026-03-15
+GT2002,Producción Ganadera en San José La Arada,Certificación Orgánica y de Origen - Reg ASO-GT2002-C,75.00,2026-03-15
+GT2003,Cultivo de Maíz en San Juan Ermita,Certificación Orgánica y de Origen - Reg COOP-GT2003-A,83.00,2026-03-15
+GT2003,Cultivo de Frijol en San Juan Ermita,Certificación Orgánica y de Origen - Reg COOP-GT2003-B,66.00,2026-03-15
+GT2003,Producción Ganadera en San Juan Ermita,Certificación Orgánica y de Origen - Reg ASO-GT2003-C,87.00,2026-03-15
+GT2004,Cultivo de Maíz en Jocotán,Certificación Orgánica y de Origen - Reg COOP-GT2004-A,65.00,2026-03-15
+GT2004,Cultivo de Frijol en Jocotán,Certificación Orgánica y de Origen - Reg COOP-GT2004-B,58.00,2026-03-15
+GT2004,Producción Ganadera en Jocotán,Certificación Orgánica y de Origen - Reg ASO-GT2004-C,94.00,2026-03-15
+GT2005,Cultivo de Maíz en Camotán,Certificación Orgánica y de Origen - Reg COOP-GT2005-A,65.00,2026-03-15
+GT2005,Cultivo de Frijol en Camotán,Certificación Orgánica y de Origen - Reg COOP-GT2005-B,68.00,2026-03-15
+GT2005,Producción Ganadera en Camotán,Certificación Orgánica y de Origen - Reg ASO-GT2005-C,84.00,2026-03-15
+GT2006,Cultivo de Maíz en Olopa,Certificación Orgánica y de Origen - Reg COOP-GT2006-A,93.00,2026-03-15
+GT2006,Cultivo de Frijol en Olopa,Certificación Orgánica y de Origen - Reg COOP-GT2006-B,72.00,2026-03-15
+GT2006,Producción Ganadera en Olopa,Certificación Orgánica y de Origen - Reg ASO-GT2006-C,77.00,2026-03-15
+GT2007,Cultivo de Maíz en Esquipulas,Certificación Orgánica y de Origen - Reg COOP-GT2007-A,97.00,2026-03-15
+GT2007,Cultivo de Frijol en Esquipulas,Certificación Orgánica y de Origen - Reg COOP-GT2007-B,52.00,2026-03-15
+GT2007,Producción Ganadera en Esquipulas,Certificación Orgánica y de Origen - Reg ASO-GT2007-C,84.00,2026-03-15
+GT2008,Cultivo de Maíz en Concepción Las Minas,Certificación Orgánica y de Origen - Reg COOP-GT2008-A,92.00,2026-03-15
+GT2008,Cultivo de Frijol en Concepción Las Minas,Certificación Orgánica y de Origen - Reg COOP-GT2008-B,89.00,2026-03-15
+GT2008,Producción Ganadera en Concepción Las Minas,Certificación Orgánica y de Origen - Reg ASO-GT2008-C,80.00,2026-03-15
+GT2009,Cultivo de Maíz en Quezaltepeque,Certificación Orgánica y de Origen - Reg COOP-GT2009-A,87.00,2026-03-15
+GT2009,Cultivo de Frijol en Quezaltepeque,Certificación Orgánica y de Origen - Reg COOP-GT2009-B,78.00,2026-03-15
+GT2009,Producción Ganadera en Quezaltepeque,Certificación Orgánica y de Origen - Reg ASO-GT2009-C,84.00,2026-03-15
+GT2010,Cultivo de Maíz en San Jacinto,Certificación Orgánica y de Origen - Reg COOP-GT2010-A,87.00,2026-03-15
+GT2010,Cultivo de Frijol en San Jacinto,Certificación Orgánica y de Origen - Reg COOP-GT2010-B,76.00,2026-03-15
+GT2010,Producción Ganadera en San Jacinto,Certificación Orgánica y de Origen - Reg ASO-GT2010-C,81.00,2026-03-15
+GT2011,Cultivo de Maíz en Ipala,Certificación Orgánica y de Origen - Reg COOP-GT2011-A,91.00,2026-03-15
+GT2011,Cultivo de Frijol en Ipala,Certificación Orgánica y de Origen - Reg COOP-GT2011-B,70.00,2026-03-15
+GT2011,Producción Ganadera en Ipala,Certificación Orgánica y de Origen - Reg ASO-GT2011-C,78.00,2026-03-15
+GT2101,Cultivo de Maíz en Jalapa,Certificación Orgánica y de Origen - Reg COOP-GT2101-A,84.00,2026-03-15
+GT2101,Cultivo de Frijol en Jalapa,Certificación Orgánica y de Origen - Reg COOP-GT2101-B,51.00,2026-03-15
+GT2101,Producción Ganadera en Jalapa,Certificación Orgánica y de Origen - Reg ASO-GT2101-C,75.00,2026-03-15
+GT2102,Cultivo de Maíz en San Pedro Pinula,Certificación Orgánica y de Origen - Reg COOP-GT2102-A,88.00,2026-03-15
+GT2102,Cultivo de Frijol en San Pedro Pinula,Certificación Orgánica y de Origen - Reg COOP-GT2102-B,64.00,2026-03-15
+GT2102,Producción Ganadera en San Pedro Pinula,Certificación Orgánica y de Origen - Reg ASO-GT2102-C,78.00,2026-03-15
+GT2103,Cultivo de Maíz en San Luis Jilotepeque,Certificación Orgánica y de Origen - Reg COOP-GT2103-A,64.00,2026-03-15
+GT2103,Cultivo de Frijol en San Luis Jilotepeque,Certificación Orgánica y de Origen - Reg COOP-GT2103-B,72.00,2026-03-15
+GT2103,Producción Ganadera en San Luis Jilotepeque,Certificación Orgánica y de Origen - Reg ASO-GT2103-C,98.00,2026-03-15
+GT2104,Cultivo de Maíz en San Manuel Chaparrón,Certificación Orgánica y de Origen - Reg COOP-GT2104-A,65.00,2026-03-15
+GT2104,Cultivo de Frijol en San Manuel Chaparrón,Certificación Orgánica y de Origen - Reg COOP-GT2104-B,68.00,2026-03-15
+GT2104,Producción Ganadera en San Manuel Chaparrón,Certificación Orgánica y de Origen - Reg ASO-GT2104-C,96.00,2026-03-15
+GT2105,Cultivo de Maíz en San Carlos Alzatate,Certificación Orgánica y de Origen - Reg COOP-GT2105-A,92.00,2026-03-15
+GT2105,Cultivo de Frijol en San Carlos Alzatate,Certificación Orgánica y de Origen - Reg COOP-GT2105-B,82.00,2026-03-15
+GT2105,Producción Ganadera en San Carlos Alzatate,Certificación Orgánica y de Origen - Reg ASO-GT2105-C,87.00,2026-03-15
+GT2106,Cultivo de Maíz en Monjas,Certificación Orgánica y de Origen - Reg COOP-GT2106-A,65.00,2026-03-15
+GT2106,Cultivo de Frijol en Monjas,Certificación Orgánica y de Origen - Reg COOP-GT2106-B,67.00,2026-03-15
+GT2106,Producción Ganadera en Monjas,Certificación Orgánica y de Origen - Reg ASO-GT2106-C,99.00,2026-03-15
+GT2107,Cultivo de Maíz en Mataquescuintla,Certificación Orgánica y de Origen - Reg COOP-GT2107-A,74.00,2026-03-15
+GT2107,Cultivo de Frijol en Mataquescuintla,Certificación Orgánica y de Origen - Reg COOP-GT2107-B,56.00,2026-03-15
+GT2107,Producción Ganadera en Mataquescuintla,Certificación Orgánica y de Origen - Reg ASO-GT2107-C,73.00,2026-03-15
+GT2201,Cultivo de Maíz en Jutiapa,Certificación Orgánica y de Origen - Reg COOP-GT2201-A,64.00,2026-03-15
+GT2201,Cultivo de Frijol en Jutiapa,Certificación Orgánica y de Origen - Reg COOP-GT2201-B,73.00,2026-03-15
+GT2201,Producción Ganadera en Jutiapa,Certificación Orgánica y de Origen - Reg ASO-GT2201-C,71.00,2026-03-15
+GT2202,Cultivo de Maíz en El Progreso,Certificación Orgánica y de Origen - Reg COOP-GT2202-A,94.00,2026-03-15
+GT2202,Cultivo de Frijol en El Progreso,Certificación Orgánica y de Origen - Reg COOP-GT2202-B,62.00,2026-03-15
+GT2202,Producción Ganadera en El Progreso,Certificación Orgánica y de Origen - Reg ASO-GT2202-C,80.00,2026-03-15
+GT2203,Cultivo de Maíz en Santa Catarina Mita,Certificación Orgánica y de Origen - Reg COOP-GT2203-A,72.00,2026-03-15
+GT2203,Cultivo de Frijol en Santa Catarina Mita,Certificación Orgánica y de Origen - Reg COOP-GT2203-B,93.00,2026-03-15
+GT2203,Producción Ganadera en Santa Catarina Mita,Certificación Orgánica y de Origen - Reg ASO-GT2203-C,80.00,2026-03-15
+GT2204,Cultivo de Maíz en Agua Blanca,Certificación Orgánica y de Origen - Reg COOP-GT2204-A,76.00,2026-03-15
+GT2204,Cultivo de Frijol en Agua Blanca,Certificación Orgánica y de Origen - Reg COOP-GT2204-B,69.00,2026-03-15
+GT2204,Producción Ganadera en Agua Blanca,Certificación Orgánica y de Origen - Reg ASO-GT2204-C,93.00,2026-03-15
+GT2205,Cultivo de Maíz en Asunción Mita,Certificación Orgánica y de Origen - Reg COOP-GT2205-A,77.00,2026-03-15
+GT2205,Cultivo de Frijol en Asunción Mita,Certificación Orgánica y de Origen - Reg COOP-GT2205-B,62.00,2026-03-15
+GT2205,Producción Ganadera en Asunción Mita,Certificación Orgánica y de Origen - Reg ASO-GT2205-C,92.00,2026-03-15
+GT2206,Cultivo de Maíz en Yupiltepeque,Certificación Orgánica y de Origen - Reg COOP-GT2206-A,98.00,2026-03-15
+GT2206,Cultivo de Frijol en Yupiltepeque,Certificación Orgánica y de Origen - Reg COOP-GT2206-B,58.00,2026-03-15
+GT2206,Producción Ganadera en Yupiltepeque,Certificación Orgánica y de Origen - Reg ASO-GT2206-C,97.00,2026-03-15
+GT2207,Cultivo de Maíz en Atescatempa,Certificación Orgánica y de Origen - Reg COOP-GT2207-A,94.00,2026-03-15
+GT2207,Cultivo de Frijol en Atescatempa,Certificación Orgánica y de Origen - Reg COOP-GT2207-B,66.00,2026-03-15
+GT2207,Producción Ganadera en Atescatempa,Certificación Orgánica y de Origen - Reg ASO-GT2207-C,70.00,2026-03-15
+GT2208,Cultivo de Maíz en Jerez,Certificación Orgánica y de Origen - Reg COOP-GT2208-A,79.00,2026-03-15
+GT2208,Cultivo de Frijol en Jerez,Certificación Orgánica y de Origen - Reg COOP-GT2208-B,68.00,2026-03-15
+GT2208,Producción Ganadera en Jerez,Certificación Orgánica y de Origen - Reg ASO-GT2208-C,96.00,2026-03-15
+GT2209,Cultivo de Maíz en El Adelanto,Certificación Orgánica y de Origen - Reg COOP-GT2209-A,82.00,2026-03-15
+GT2209,Cultivo de Frijol en El Adelanto,Certificación Orgánica y de Origen - Reg COOP-GT2209-B,75.00,2026-03-15
+GT2209,Producción Ganadera en El Adelanto,Certificación Orgánica y de Origen - Reg ASO-GT2209-C,100.00,2026-03-15
+GT2210,Cultivo de Maíz en Zapotitlán,Certificación Orgánica y de Origen - Reg COOP-GT2210-A,85.00,2026-03-15
+GT2210,Cultivo de Frijol en Zapotitlán,Certificación Orgánica y de Origen - Reg COOP-GT2210-B,87.00,2026-03-15
+GT2210,Producción Ganadera en Zapotitlán,Certificación Orgánica y de Origen - Reg ASO-GT2210-C,94.00,2026-03-15
+GT2211,Cultivo de Maíz en Comapa,Certificación Orgánica y de Origen - Reg COOP-GT2211-A,60.00,2026-03-15
+GT2211,Cultivo de Frijol en Comapa,Certificación Orgánica y de Origen - Reg COOP-GT2211-B,80.00,2026-03-15
+GT2211,Producción Ganadera en Comapa,Certificación Orgánica y de Origen - Reg ASO-GT2211-C,90.00,2026-03-15
+GT2212,Cultivo de Maíz en Jalpatagua,Certificación Orgánica y de Origen - Reg COOP-GT2212-A,92.00,2026-03-15
+GT2212,Cultivo de Frijol en Jalpatagua,Certificación Orgánica y de Origen - Reg COOP-GT2212-B,59.00,2026-03-15
+GT2212,Producción Ganadera en Jalpatagua,Certificación Orgánica y de Origen - Reg ASO-GT2212-C,97.00,2026-03-15
+GT2213,Cultivo de Maíz en Conguaco,Certificación Orgánica y de Origen - Reg COOP-GT2213-A,85.00,2026-03-15
+GT2213,Cultivo de Frijol en Conguaco,Certificación Orgánica y de Origen - Reg COOP-GT2213-B,64.00,2026-03-15
+GT2213,Producción Ganadera en Conguaco,Certificación Orgánica y de Origen - Reg ASO-GT2213-C,77.00,2026-03-15
+GT2214,Cultivo de Maíz en Moyuta,Certificación Orgánica y de Origen - Reg COOP-GT2214-A,73.00,2026-03-15
+GT2214,Cultivo de Frijol en Moyuta,Certificación Orgánica y de Origen - Reg COOP-GT2214-B,80.00,2026-03-15
+GT2214,Producción Ganadera en Moyuta,Certificación Orgánica y de Origen - Reg ASO-GT2214-C,77.00,2026-03-15
+GT2215,Cultivo de Maíz en Pasaco,Certificación Orgánica y de Origen - Reg COOP-GT2215-A,93.00,2026-03-15
+GT2215,Cultivo de Frijol en Pasaco,Certificación Orgánica y de Origen - Reg COOP-GT2215-B,87.00,2026-03-15
+GT2215,Producción Ganadera en Pasaco,Certificación Orgánica y de Origen - Reg ASO-GT2215-C,95.00,2026-03-15
+GT2216,Cultivo de Maíz en San José Acatempa,Certificación Orgánica y de Origen - Reg COOP-GT2216-A,95.00,2026-03-15
+GT2216,Cultivo de Frijol en San José Acatempa,Certificación Orgánica y de Origen - Reg COOP-GT2216-B,79.00,2026-03-15
+GT2216,Producción Ganadera en San José Acatempa,Certificación Orgánica y de Origen - Reg ASO-GT2216-C,93.00,2026-03-15
+GT2217,Cultivo de Maíz en Quesada,Certificación Orgánica y de Origen - Reg COOP-GT2217-A,89.00,2026-03-15
+GT2217,Cultivo de Frijol en Quesada,Certificación Orgánica y de Origen - Reg COOP-GT2217-B,71.00,2026-03-15
+GT2217,Producción Ganadera en Quesada,Certificación Orgánica y de Origen - Reg ASO-GT2217-C,95.00,2026-03-15

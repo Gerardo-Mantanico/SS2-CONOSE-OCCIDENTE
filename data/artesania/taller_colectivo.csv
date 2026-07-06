@@ -1,0 +1,1021 @@
+id_taller,codigo,nombre,representante,departamento_pcode,municipio_pcode,direccion,anio_fundacion,cantidad_miembros,contacto
+1,TAL_GT0401_0000,Taller Familiar de Arte Tradicional Ixchel en Chimaltenango,Maestro Rosa Tax,GT04,GT0401,"Cantón Centro, Lote 56",2001,32,+502 4492-1382
+2,TAL_GT0402_0001,Cooperativa de Producción Artesanal Kiche de R.L. (San José Poaquil),Maestro Santiago Ixcol,GT04,GT0402,"Cantón El Carmen, Lote 59",2000,36,+502 5573-2310
+3,TAL_GT0403_0002,Asociación de Artesanos Atitlan Mam de San Martín Jilotepeque,Maestro María Chox,GT04,GT0403,"Cantón Tzanjuyup, Lote 9",2021,16,+502 4653-1545
+4,TAL_GT0404_0003,Taller Familiar de Arte Tradicional Iximche en Comalapa,Maestro Manuel Mazariegos,GT04,GT0404,"Cantón El Carmen, Lote 21",1988,31,+502 5208-8577
+5,TAL_GT0405_0004,Cooperativa de Producción Artesanal Qeqchi de R.L. (Santa Apolonia),Maestro Pedro  Fuentes,GT04,GT0405,"Cantón Tzanjuyup, Lote 93",1996,27,+502 5769-6371
+6,TAL_GT0406_0005,Asociación de Artesanos Jaspe Popol de Tecpán Guatemala,Maestro Juan Tax,GT04,GT0406,"Cantón Tzanjuyup, Lote 93",1990,9,+502 4456-4679
+7,TAL_GT0407_0006,Taller Familiar de Arte Tradicional Hunapu en Patzún,Maestro Juan Mazariegos,GT04,GT0407,"Cantón Centro, Lote 99",2016,26,+502 5537-3406
+8,TAL_GT0408_0007,Cooperativa de Producción Artesanal Xelaju de R.L. (Pochuta),Maestro Manuel Tupul,GT04,GT0408,"Cantón Centro, Lote 38",1995,33,+502 5176-5769
+9,TAL_GT0409_0008,Asociación de Artesanos Kiche Utatlan de Patzicía,Maestro Juana Mazariegos,GT04,GT0409,"Cantón Tzanjuyup, Lote 22",1982,39,+502 4476-4617
+10,TAL_GT0410_0009,Taller Familiar de Arte Tradicional Mam en Santa Cruz Balanyá,Maestro María Tax,GT04,GT0410,"Cantón Centro, Lote 85",2006,41,+502 5407-2288
+11,TAL_GT0411_0010,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Acatenango),Maestro Juana Ixcol,GT04,GT0411,"Cantón Pachoc, Lote 11",1997,22,+502 4782-6716
+12,TAL_GT0412_0011,Asociación de Artesanos Qeqchi Pacaya de Yepocapa,Maestro Rosa Mazariegos,GT04,GT0412,"Cantón Pachoc, Lote 7",1989,39,+502 4952-9779
+13,TAL_GT0413_0012,Taller Familiar de Arte Tradicional Popol en San Andrés Itzapa,Maestro Juan  Fuentes,GT04,GT0413,"Cantón Xabajal, Lote 94",2005,25,+502 4149-6517
+14,TAL_GT0414_0013,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Parramos),Maestro Juan Tupul,GT04,GT0414,"Cantón Centro, Lote 46",1972,19,+502 5277-8172
+15,TAL_GT0415_0014,Asociación de Artesanos Xelaju Sop de Zaragoza,Maestro Pedro Chox,GT04,GT0415,"Cantón Tzanjuyup, Lote 47",2020,32,+502 4791-9192
+16,TAL_GT0416_0015,Taller Familiar de Arte Tradicional Utatlan en El Tejar,Maestro Rosa Chox,GT04,GT0416,"Cantón Xabajal, Lote 61",1980,36,+502 4086-1512
+17,TAL_GT0700_0016,Cooperativa de Producción Artesanal Chup de R.L. (Lago De Atitlan),Maestro María Chox,GT07,GT0700,"Cantón El Carmen, Lote 4",1973,16,+502 4110-6279
+18,TAL_GT0701_0017,Asociación de Artesanos Cuchumatanes Patzun de Sololá,Maestro Juan Chox,GT07,GT0701,"Cantón Centro, Lote 6",1993,42,+502 5339-5598
+19,TAL_GT0702_0018,Taller Familiar de Arte Tradicional Pacaya en San José Chacayá,Maestro Juana Chox,GT07,GT0702,"Cantón El Carmen, Lote 75",1986,6,+502 4022-1079
+20,TAL_GT0703_0019,Cooperativa de Producción Artesanal Almolonga de R.L. (Santa María Visitación),Maestro Tomasa Tzoc,GT07,GT0703,"Cantón Tzanjuyup, Lote 96",1982,31,+502 5725-8845
+21,TAL_GT0704_0020,Asociación de Artesanos Cholsamaj Ixchel de Santa Lucía Utatlán,Maestro Manuel Tax,GT07,GT0704,"Cantón Pachoc, Lote 89",2017,5,+502 4235-6670
+22,TAL_GT0705_0021,Taller Familiar de Arte Tradicional Sop en Nahualá,Maestro Juan Tax,GT07,GT0705,"Cantón Xabajal, Lote 2",2006,9,+502 5943-3746
+23,TAL_GT0706_0022,Cooperativa de Producción Artesanal Atitlan de R.L. (Santa Catarina Ixtahuacán),Maestro Manuel Tupul,GT07,GT0706,"Cantón Centro, Lote 91",1972,34,+502 4606-6120
+24,TAL_GT0707_0023,Asociación de Artesanos Chup Iximche de Santa Clara La Laguna,Maestro Juana Tax,GT07,GT0707,"Cantón Xabajal, Lote 10",1996,9,+502 5182-1554
+25,TAL_GT0708_0024,Taller Familiar de Arte Tradicional Patzun en Concepción,Maestro Santiago  Fuentes,GT07,GT0708,"Cantón Xabajal, Lote 98",1997,7,+502 4759-7187
+26,TAL_GT0709_0025,Cooperativa de Producción Artesanal Jaspe de R.L. (San Andrés Semetabaj),Maestro Tomasa  Fuentes,GT07,GT0709,"Cantón Xabajal, Lote 80",1993,43,+502 4833-7210
+27,TAL_GT0710_0026,Asociación de Artesanos Almolonga Hunapu de Panajachel,Maestro Tomasa Chox,GT07,GT0710,"Cantón El Carmen, Lote 55",1992,39,+502 4959-6285
+28,TAL_GT0711_0027,Taller Familiar de Arte Tradicional Ixchel en Santa Catarina Palopó,Maestro Manuel Mazariegos,GT07,GT0711,"Cantón Tzanjuyup, Lote 93",2016,32,+502 5984-2446
+29,TAL_GT0712_0028,Cooperativa de Producción Artesanal Kiche de R.L. (San Antonio Palopó),Maestro María Tax,GT07,GT0712,"Cantón Xabajal, Lote 40",1978,15,+502 4829-7188
+30,TAL_GT0713_0029,Asociación de Artesanos Atitlan Mam de San Lucas Tolimán,Maestro María Tax,GT07,GT0713,"Cantón El Carmen, Lote 41",1976,13,+502 4974-6045
+31,TAL_GT0714_0030,Taller Familiar de Arte Tradicional Iximche en Santa Cruz La Laguna,Maestro Pedro Tax,GT07,GT0714,"Cantón Pachoc, Lote 35",2018,6,+502 4824-7281
+32,TAL_GT0715_0031,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Pablo La Laguna),Maestro Rosa Chox,GT07,GT0715,"Cantón El Carmen, Lote 28",1999,15,+502 4086-8746
+33,TAL_GT0716_0032,Asociación de Artesanos Jaspe Popol de San Marcos La Laguna,Maestro Tomasa Mazariegos,GT07,GT0716,"Cantón Pachoc, Lote 74",1979,40,+502 5406-2446
+34,TAL_GT0717_0033,Taller Familiar de Arte Tradicional Hunapu en San Juan La Laguna,Maestro Pedro Chox,GT07,GT0717,"Cantón El Carmen, Lote 67",1983,41,+502 5038-4350
+35,TAL_GT0718_0034,Cooperativa de Producción Artesanal Xelaju de R.L. (San Pedro La Laguna),Maestro Santiago Ixcol,GT07,GT0718,"Cantón Centro, Lote 66",2004,34,+502 4259-4605
+36,TAL_GT0719_0035,Asociación de Artesanos Kiche Utatlan de Santiago Atitlán,Maestro Juan Mazariegos,GT07,GT0719,"Cantón Xabajal, Lote 47",1976,12,+502 5283-9312
+37,TAL_GT0801_0036,Taller Familiar de Arte Tradicional Mam en Totonicapán,Maestro Rosa Ixcol,GT08,GT0801,"Cantón Pachoc, Lote 80",2022,30,+502 4384-5247
+38,TAL_GT0802_0037,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Cristóbal Totonicapán),Maestro Tomasa Tax,GT08,GT0802,"Cantón Pachoc, Lote 44",2010,39,+502 5045-8215
+39,TAL_GT0803_0038,Asociación de Artesanos Qeqchi Pacaya de San Francisco El Alto,Maestro María Tupul,GT08,GT0803,"Cantón Xabajal, Lote 20",1986,12,+502 4629-1547
+40,TAL_GT0804_0039,Taller Familiar de Arte Tradicional Popol en San Andrés Xecul,Maestro Juana Chox,GT08,GT0804,"Cantón Pachoc, Lote 38",1998,21,+502 4194-3689
+41,TAL_GT0805_0040,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Momostenango),Maestro Juan Chox,GT08,GT0805,"Cantón Pachoc, Lote 50",1994,12,+502 4740-2626
+42,TAL_GT0806_0041,Asociación de Artesanos Xelaju Sop de Santa María Chiquimula,Maestro Rosa Tax,GT08,GT0806,"Cantón El Carmen, Lote 7",2021,36,+502 5797-1805
+43,TAL_GT0807_0042,Taller Familiar de Arte Tradicional Utatlan en Santa Lucía La Reforma,Maestro Juana Ixcol,GT08,GT0807,"Cantón Tzanjuyup, Lote 89",2008,26,+502 4449-5867
+44,TAL_GT0808_0043,Cooperativa de Producción Artesanal Chup de R.L. (San Bartolo),Maestro Tomasa Tupul,GT08,GT0808,"Cantón El Carmen, Lote 61",2013,22,+502 4087-4639
+45,TAL_GT0901_0044,Asociación de Artesanos Cuchumatanes Patzun de Quetzaltenango,Maestro Manuel Ixcol,GT09,GT0901,"Cantón Xabajal, Lote 81",2004,12,+502 4188-2772
+46,TAL_GT0902_0045,Taller Familiar de Arte Tradicional Pacaya en Salcajá,Maestro Santiago Coché,GT09,GT0902,"Cantón Tzanjuyup, Lote 7",1980,14,+502 4207-5178
+47,TAL_GT0903_0046,Cooperativa de Producción Artesanal Almolonga de R.L. (Olintepeque),Maestro María Ixcol,GT09,GT0903,"Cantón Centro, Lote 70",2013,24,+502 5830-4568
+48,TAL_GT0904_0047,Asociación de Artesanos Cholsamaj Ixchel de San Carlos Sija,Maestro Juan Mazariegos,GT09,GT0904,"Cantón Centro, Lote 70",1990,9,+502 5148-5537
+49,TAL_GT0905_0048,Taller Familiar de Arte Tradicional Sop en Sibilia,Maestro Tomasa Tupul,GT09,GT0905,"Cantón Centro, Lote 67",2020,22,+502 4219-6342
+50,TAL_GT0906_0049,Cooperativa de Producción Artesanal Atitlan de R.L. (Cabricán),Maestro Juana Coché,GT09,GT0906,"Cantón Xabajal, Lote 82",1988,26,+502 5616-8155
+51,TAL_GT0907_0050,Asociación de Artesanos Chup Iximche de Cajolá,Maestro Tomasa Mazariegos,GT09,GT0907,"Cantón Pachoc, Lote 46",2022,35,+502 4632-9377
+52,TAL_GT0908_0051,Taller Familiar de Arte Tradicional Patzun en San Miguel Sigüila,Maestro Pedro Tupul,GT09,GT0908,"Cantón Centro, Lote 95",1984,32,+502 4119-9225
+53,TAL_GT0909_0052,Cooperativa de Producción Artesanal Jaspe de R.L. (Ostuncalco),Maestro Manuel Mazariegos,GT09,GT0909,"Cantón Xabajal, Lote 37",2011,13,+502 4772-8556
+54,TAL_GT0910_0053,Asociación de Artesanos Almolonga Hunapu de San Mateo,Maestro Rosa Mazariegos,GT09,GT0910,"Cantón Centro, Lote 43",2016,15,+502 5702-7990
+55,TAL_GT0911_0054,Taller Familiar de Arte Tradicional Ixchel en Concepción Chiquirichapa,Maestro Rosa Tupul,GT09,GT0911,"Cantón El Carmen, Lote 14",1988,13,+502 4915-2649
+56,TAL_GT0912_0055,Cooperativa de Producción Artesanal Kiche de R.L. (San Martín Sacatepéquez),Maestro Santiago Mazariegos,GT09,GT0912,"Cantón Xabajal, Lote 17",1987,31,+502 5272-8823
+57,TAL_GT0913_0056,Asociación de Artesanos Atitlan Mam de Almolonga,Maestro Juana Mazariegos,GT09,GT0913,"Cantón Tzanjuyup, Lote 82",2002,30,+502 4397-3774
+58,TAL_GT0914_0057,Taller Familiar de Arte Tradicional Iximche en Cantel,Maestro Santiago Tax,GT09,GT0914,"Cantón Centro, Lote 65",2015,37,+502 4939-9348
+59,TAL_GT0915_0058,Cooperativa de Producción Artesanal Qeqchi de R.L. (Huitán),Maestro Juan Ixcol,GT09,GT0915,"Cantón Xabajal, Lote 81",1985,17,+502 5111-5107
+60,TAL_GT0916_0059,Asociación de Artesanos Jaspe Popol de Zunil,Maestro Pedro Tupul,GT09,GT0916,"Cantón Xabajal, Lote 93",2008,12,+502 4524-2767
+61,TAL_GT0917_0060,Taller Familiar de Arte Tradicional Hunapu en Colomba,Maestro Rosa Tax,GT09,GT0917,"Cantón Xabajal, Lote 87",2011,25,+502 5776-1234
+62,TAL_GT0918_0061,Cooperativa de Producción Artesanal Xelaju de R.L. (San Francisco La Unión),Maestro Manuel Mazariegos,GT09,GT0918,"Cantón Xabajal, Lote 87",1999,18,+502 5661-3962
+63,TAL_GT0919_0062,Asociación de Artesanos Kiche Utatlan de El Palmar,Maestro Juan Tupul,GT09,GT0919,"Cantón Tzanjuyup, Lote 26",2001,13,+502 5509-7419
+64,TAL_GT0920_0063,Taller Familiar de Arte Tradicional Mam en Coatepeque,Maestro Juan Ixcol,GT09,GT0920,"Cantón El Carmen, Lote 90",1983,5,+502 5452-7411
+65,TAL_GT0921_0064,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Génova),Maestro María Tupul,GT09,GT0921,"Cantón Xabajal, Lote 100",2012,13,+502 5250-1487
+66,TAL_GT0922_0065,Asociación de Artesanos Qeqchi Pacaya de Flores Costa Cuca,Maestro Manuel Tzoc,GT09,GT0922,"Cantón Pachoc, Lote 34",1970,42,+502 4610-9805
+67,TAL_GT0923_0066,Taller Familiar de Arte Tradicional Popol en La Esperanza,Maestro Juana Ixcol,GT09,GT0923,"Cantón Xabajal, Lote 7",1974,37,+502 5927-2808
+68,TAL_GT0924_0067,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Palestina de Los Altos),Maestro Juan Ixcol,GT09,GT0924,"Cantón Pachoc, Lote 58",2005,22,+502 4472-6052
+69,TAL_GT1201_0068,Asociación de Artesanos Xelaju Sop de San Marcos,Maestro Juana Tupul,GT12,GT1201,"Cantón Centro, Lote 28",1977,11,+502 5722-3450
+70,TAL_GT1202_0069,Taller Familiar de Arte Tradicional Utatlan en San Pedro Sacatepéquez,Maestro Juan  Fuentes,GT12,GT1202,"Cantón Centro, Lote 32",1976,11,+502 4975-2972
+71,TAL_GT1203_0070,Cooperativa de Producción Artesanal Chup de R.L. (San Antonio Sacatepéquez),Maestro Juana Tupul,GT12,GT1203,"Cantón El Carmen, Lote 7",1981,8,+502 4612-8305
+72,TAL_GT1204_0071,Asociación de Artesanos Cuchumatanes Patzun de Comitancillo,Maestro Pedro Mazariegos,GT12,GT1204,"Cantón Pachoc, Lote 58",1979,20,+502 5537-1947
+73,TAL_GT1205_0072,Taller Familiar de Arte Tradicional Pacaya en San Miguel Ixtahuacán,Maestro Rosa Ixcol,GT12,GT1205,"Cantón Centro, Lote 21",2009,42,+502 4628-1148
+74,TAL_GT1206_0073,Cooperativa de Producción Artesanal Almolonga de R.L. (Concepción Tutuapa),Maestro Juana Coché,GT12,GT1206,"Cantón El Carmen, Lote 64",1992,43,+502 5369-8090
+75,TAL_GT1207_0074,Asociación de Artesanos Cholsamaj Ixchel de Tacaná,Maestro Pedro Tupul,GT12,GT1207,"Cantón El Carmen, Lote 21",1999,34,+502 5695-8720
+76,TAL_GT1208_0075,Taller Familiar de Arte Tradicional Sop en Sibinal,Maestro Juana Mazariegos,GT12,GT1208,"Cantón Centro, Lote 58",1973,42,+502 4704-7319
+77,TAL_GT1209_0076,Cooperativa de Producción Artesanal Atitlan de R.L. (Tajumulco),Maestro Tomasa Coché,GT12,GT1209,"Cantón El Carmen, Lote 6",2010,33,+502 5830-5428
+78,TAL_GT1210_0077,Asociación de Artesanos Chup Iximche de Tejutla,Maestro Juana  Fuentes,GT12,GT1210,"Cantón Pachoc, Lote 55",2008,18,+502 4088-8173
+79,TAL_GT1211_0078,Taller Familiar de Arte Tradicional Patzun en San Rafael Pie de la Cuesta,Maestro Manuel Chox,GT12,GT1211,"Cantón Pachoc, Lote 24",2007,22,+502 5149-3424
+80,TAL_GT1212_0079,Cooperativa de Producción Artesanal Jaspe de R.L. (Nuevo Progreso),Maestro Tomasa Mazariegos,GT12,GT1212,"Cantón Tzanjuyup, Lote 52",1996,12,+502 5572-8925
+81,TAL_GT1213_0080,Asociación de Artesanos Almolonga Hunapu de El Tumbador,Maestro Manuel Ixcol,GT12,GT1213,"Cantón El Carmen, Lote 49",2009,34,+502 4953-5976
+82,TAL_GT1214_0081,Taller Familiar de Arte Tradicional Ixchel en El Rodeo,Maestro Juana Coché,GT12,GT1214,"Cantón Tzanjuyup, Lote 40",2012,41,+502 4549-9080
+83,TAL_GT1215_0082,Cooperativa de Producción Artesanal Kiche de R.L. (Malacatán),Maestro María Tzoc,GT12,GT1215,"Cantón Centro, Lote 90",2002,37,+502 5454-9408
+84,TAL_GT1216_0083,Asociación de Artesanos Atitlan Mam de Catarina,Maestro Rosa Ixcol,GT12,GT1216,"Cantón Centro, Lote 26",2013,23,+502 4952-5706
+85,TAL_GT1217_0084,Taller Familiar de Arte Tradicional Iximche en Ayutla,Maestro Juana Tax,GT12,GT1217,"Cantón Centro, Lote 29",2008,33,+502 4093-5360
+86,TAL_GT1218_0085,Cooperativa de Producción Artesanal Qeqchi de R.L. (Ocós),Maestro Santiago Coché,GT12,GT1218,"Cantón El Carmen, Lote 29",1986,28,+502 5044-8662
+87,TAL_GT1219_0086,Asociación de Artesanos Jaspe Popol de San Pablo,Maestro Juana Tax,GT12,GT1219,"Cantón Xabajal, Lote 58",1995,28,+502 5865-6857
+88,TAL_GT1220_0087,Taller Familiar de Arte Tradicional Hunapu en El Quetzal,Maestro Manuel  Fuentes,GT12,GT1220,"Cantón El Carmen, Lote 58",1988,13,+502 5807-8288
+89,TAL_GT1221_0088,Cooperativa de Producción Artesanal Xelaju de R.L. (La Reforma),Maestro Rosa Ixcol,GT12,GT1221,"Cantón Xabajal, Lote 49",1973,42,+502 4456-8429
+90,TAL_GT1222_0089,Asociación de Artesanos Kiche Utatlan de Pajapita,Maestro Pedro Coché,GT12,GT1222,"Cantón Pachoc, Lote 86",1980,34,+502 4705-8777
+91,TAL_GT1223_0090,Taller Familiar de Arte Tradicional Mam en Ixchiguán,Maestro Manuel Tupul,GT12,GT1223,"Cantón Xabajal, Lote 59",2010,24,+502 4467-2706
+92,TAL_GT1224_0091,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San José Ojetenam),Maestro Santiago Mazariegos,GT12,GT1224,"Cantón Pachoc, Lote 90",1973,39,+502 5627-9419
+93,TAL_GT1225_0092,Asociación de Artesanos Qeqchi Pacaya de San Cristóbal Cucho,Maestro María Tupul,GT12,GT1225,"Cantón El Carmen, Lote 97",2012,41,+502 5333-1080
+94,TAL_GT1226_0093,Taller Familiar de Arte Tradicional Popol en Sipacapa,Maestro Juan Mazariegos,GT12,GT1226,"Cantón Centro, Lote 20",1984,38,+502 5344-1631
+95,TAL_GT1227_0094,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Esquipulas Palo Gordo),Maestro María Tzoc,GT12,GT1227,"Cantón Tzanjuyup, Lote 25",2000,27,+502 5997-5823
+96,TAL_GT1228_0095,Asociación de Artesanos Xelaju Sop de Río Blanco,Maestro Manuel Ixcol,GT12,GT1228,"Cantón Xabajal, Lote 41",2007,26,+502 5906-2395
+97,TAL_GT1229_0096,Taller Familiar de Arte Tradicional Utatlan en San Lorenzo,Maestro Juana Ixcol,GT12,GT1229,"Cantón Tzanjuyup, Lote 48",1971,33,+502 5080-3206
+98,TAL_GT1230_0097,Cooperativa de Producción Artesanal Chup de R.L. (La Blanca),Maestro Juan Coché,GT12,GT1230,"Cantón Xabajal, Lote 2",1979,28,+502 4601-7229
+99,TAL_GT1301_0098,Asociación de Artesanos Cuchumatanes Patzun de Huehuetenango,Maestro Rosa Coché,GT13,GT1301,"Cantón Centro, Lote 14",1989,28,+502 4632-7541
+100,TAL_GT1302_0099,Taller Familiar de Arte Tradicional Pacaya en Chiantla,Maestro Juan Tax,GT13,GT1302,"Cantón Pachoc, Lote 37",1983,29,+502 4036-6541
+101,TAL_GT1303_0100,Cooperativa de Producción Artesanal Almolonga de R.L. (Malacatancito),Maestro Tomasa Tupul,GT13,GT1303,"Cantón Xabajal, Lote 6",1980,13,+502 5561-6951
+102,TAL_GT1304_0101,Asociación de Artesanos Cholsamaj Ixchel de Cuilco,Maestro Juan  Fuentes,GT13,GT1304,"Cantón Xabajal, Lote 64",2009,35,+502 4486-2596
+103,TAL_GT1305_0102,Taller Familiar de Arte Tradicional Sop en Nentón,Maestro Santiago Tax,GT13,GT1305,"Cantón Xabajal, Lote 74",1998,15,+502 4762-1825
+104,TAL_GT1306_0103,Cooperativa de Producción Artesanal Atitlan de R.L. (San Pedro Necta),Maestro Juana Tax,GT13,GT1306,"Cantón El Carmen, Lote 99",1979,12,+502 5014-8035
+105,TAL_GT1307_0104,Asociación de Artesanos Chup Iximche de Jacaltenango,Maestro Juan Tupul,GT13,GT1307,"Cantón Tzanjuyup, Lote 72",2019,31,+502 5183-4743
+106,TAL_GT1308_0105,Taller Familiar de Arte Tradicional Patzun en Soloma,Maestro Rosa Mazariegos,GT13,GT1308,"Cantón Xabajal, Lote 84",2000,36,+502 4725-8879
+107,TAL_GT1309_0106,Cooperativa de Producción Artesanal Jaspe de R.L. (Ixtahuacán),Maestro Juan Mazariegos,GT13,GT1309,"Cantón Centro, Lote 18",1981,29,+502 4716-6585
+108,TAL_GT1310_0107,Asociación de Artesanos Almolonga Hunapu de Santa Bárbara,Maestro Juana  Fuentes,GT13,GT1310,"Cantón El Carmen, Lote 37",1997,27,+502 5790-7403
+109,TAL_GT1311_0108,Taller Familiar de Arte Tradicional Ixchel en La Libertad,Maestro Tomasa Coché,GT13,GT1311,"Cantón Pachoc, Lote 52",2004,18,+502 5773-4050
+110,TAL_GT1312_0109,Cooperativa de Producción Artesanal Kiche de R.L. (La Democracia),Maestro Pedro Chox,GT13,GT1312,"Cantón Xabajal, Lote 94",2008,23,+502 5992-9132
+111,TAL_GT1313_0110,Asociación de Artesanos Atitlan Mam de San Miguel Acatán,Maestro Tomasa Coché,GT13,GT1313,"Cantón Pachoc, Lote 53",2006,11,+502 5243-2474
+112,TAL_GT1314_0111,Taller Familiar de Arte Tradicional Iximche en San Rafael La Independencia,Maestro Pedro Mazariegos,GT13,GT1314,"Cantón Centro, Lote 35",1989,44,+502 4094-6735
+113,TAL_GT1315_0112,Cooperativa de Producción Artesanal Qeqchi de R.L. (Todos Santos Cuchumatán),Maestro Pedro Mazariegos,GT13,GT1315,"Cantón Pachoc, Lote 23",1992,36,+502 5781-2609
+114,TAL_GT1316_0113,Asociación de Artesanos Jaspe Popol de San Juan Atitán,Maestro María Tzoc,GT13,GT1316,"Cantón Xabajal, Lote 96",2020,9,+502 5016-7109
+115,TAL_GT1317_0114,Taller Familiar de Arte Tradicional Hunapu en Santa Eulalia,Maestro María Coché,GT13,GT1317,"Cantón Tzanjuyup, Lote 14",2011,37,+502 4752-5020
+116,TAL_GT1318_0115,Cooperativa de Producción Artesanal Xelaju de R.L. (San Mateo Ixtatán),Maestro Pedro Chox,GT13,GT1318,"Cantón Pachoc, Lote 57",1992,33,+502 4385-1958
+117,TAL_GT1319_0116,Asociación de Artesanos Kiche Utatlan de Colotenango,Maestro Santiago Coché,GT13,GT1319,"Cantón Pachoc, Lote 67",1986,5,+502 4039-1951
+118,TAL_GT1320_0117,Taller Familiar de Arte Tradicional Mam en San Sebastián Huehuetenango,Maestro Tomasa  Fuentes,GT13,GT1320,"Cantón Centro, Lote 16",2008,44,+502 5551-7474
+119,TAL_GT1321_0118,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Tectitán),Maestro Santiago Tupul,GT13,GT1321,"Cantón Pachoc, Lote 35",2008,39,+502 5782-3402
+120,TAL_GT1322_0119,Asociación de Artesanos Qeqchi Pacaya de Concepción Huista,Maestro Juan Coché,GT13,GT1322,"Cantón Xabajal, Lote 34",1975,29,+502 4275-5768
+121,TAL_GT1323_0120,Taller Familiar de Arte Tradicional Popol en San Juan Ixcoy,Maestro Juan Coché,GT13,GT1323,"Cantón Tzanjuyup, Lote 66",1988,40,+502 4783-7707
+122,TAL_GT1324_0121,Cooperativa de Producción Artesanal Cholsamaj de R.L. (San Antonio Huista),Maestro Rosa Tzoc,GT13,GT1324,"Cantón Pachoc, Lote 31",1986,44,+502 4675-9505
+123,TAL_GT1325_0122,Asociación de Artesanos Xelaju Sop de San Sebastián Coatán,Maestro Tomasa Tupul,GT13,GT1325,"Cantón Tzanjuyup, Lote 45",1991,37,+502 5722-4438
+124,TAL_GT1326_0123,Taller Familiar de Arte Tradicional Utatlan en Barillas,Maestro Santiago Ixcol,GT13,GT1326,"Cantón Pachoc, Lote 98",1977,17,+502 4034-5848
+125,TAL_GT1327_0124,Cooperativa de Producción Artesanal Chup de R.L. (Aguacatán),Maestro Pedro Coché,GT13,GT1327,"Cantón El Carmen, Lote 1",2013,35,+502 5537-6768
+126,TAL_GT1328_0125,Asociación de Artesanos Cuchumatanes Patzun de San Rafael Petzal,Maestro Manuel Ixcol,GT13,GT1328,"Cantón Xabajal, Lote 96",1982,10,+502 5296-7887
+127,TAL_GT1329_0126,Taller Familiar de Arte Tradicional Pacaya en San Gaspar Ixchil,Maestro Rosa Tzoc,GT13,GT1329,"Cantón Tzanjuyup, Lote 71",2004,28,+502 4308-6478
+128,TAL_GT1330_0127,Cooperativa de Producción Artesanal Almolonga de R.L. (Santiago Chimaltenango),Maestro Santiago Coché,GT13,GT1330,"Cantón El Carmen, Lote 77",2011,12,+502 4273-1902
+129,TAL_GT1331_0128,Asociación de Artesanos Cholsamaj Ixchel de Santa Ana Huista,Maestro María Chox,GT13,GT1331,"Cantón El Carmen, Lote 22",2003,19,+502 4878-2568
+130,TAL_GT1332_0129,Taller Familiar de Arte Tradicional Sop en Unión Cantinil,Maestro Manuel Tupul,GT13,GT1332,"Cantón Centro, Lote 14",1972,23,+502 4875-3025
+131,TAL_GT1333_0130,Cooperativa de Producción Artesanal Atitlan de R.L. (Petatán),Maestro Santiago Mazariegos,GT13,GT1333,"Cantón Tzanjuyup, Lote 13",1999,24,+502 4320-2992
+132,TAL_GT1401_0131,Asociación de Artesanos Chup Iximche de Santa Cruz del Quiché,Maestro Manuel Ixcol,GT14,GT1401,"Cantón Centro, Lote 46",2005,28,+502 5821-2076
+133,TAL_GT1402_0132,Taller Familiar de Arte Tradicional Patzun en Chiché,Maestro María Mazariegos,GT14,GT1402,"Cantón Xabajal, Lote 86",1975,40,+502 5183-3971
+134,TAL_GT1403_0133,Cooperativa de Producción Artesanal Jaspe de R.L. (Chinique),Maestro Juana Coché,GT14,GT1403,"Cantón Tzanjuyup, Lote 77",1994,19,+502 4447-2744
+135,TAL_GT1404_0134,Asociación de Artesanos Almolonga Hunapu de Zacualpa,Maestro Juan Coché,GT14,GT1404,"Cantón Xabajal, Lote 25",1974,9,+502 5028-2559
+136,TAL_GT1405_0135,Taller Familiar de Arte Tradicional Ixchel en Chajul,Maestro Juan  Fuentes,GT14,GT1405,"Cantón Centro, Lote 91",1982,9,+502 4885-5914
+137,TAL_GT1406_0136,Cooperativa de Producción Artesanal Kiche de R.L. (Chichicastenango),Maestro Tomasa Tupul,GT14,GT1406,"Cantón Xabajal, Lote 36",1987,31,+502 5014-8545
+138,TAL_GT1407_0137,Asociación de Artesanos Atitlan Mam de Patzité,Maestro Santiago Tax,GT14,GT1407,"Cantón El Carmen, Lote 14",2015,21,+502 5665-5882
+139,TAL_GT1408_0138,Taller Familiar de Arte Tradicional Iximche en San Antonio Ilotenango,Maestro Juana Tzoc,GT14,GT1408,"Cantón El Carmen, Lote 24",2016,18,+502 4285-6419
+140,TAL_GT1409_0139,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Pedro Jocopilas),Maestro Juana Tzoc,GT14,GT1409,"Cantón El Carmen, Lote 94",1985,24,+502 5789-1119
+141,TAL_GT1410_0140,Asociación de Artesanos Jaspe Popol de Cunén,Maestro Tomasa  Fuentes,GT14,GT1410,"Cantón Tzanjuyup, Lote 36",1992,33,+502 4437-3065
+142,TAL_GT1411_0141,Taller Familiar de Arte Tradicional Hunapu en San Juan Cotzal,Maestro Juan Tupul,GT14,GT1411,"Cantón Pachoc, Lote 28",2014,14,+502 5727-9141
+143,TAL_GT1412_0142,Cooperativa de Producción Artesanal Xelaju de R.L. (Joyabaj),Maestro María Tax,GT14,GT1412,"Cantón Centro, Lote 72",1995,25,+502 5197-1258
+144,TAL_GT1413_0143,Asociación de Artesanos Kiche Utatlan de Nebaj,Maestro Manuel Coché,GT14,GT1413,"Cantón Xabajal, Lote 10",1999,11,+502 5648-3576
+145,TAL_GT1414_0144,Taller Familiar de Arte Tradicional Mam en San Andrés Sajcabajá,Maestro Juan  Fuentes,GT14,GT1414,"Cantón El Carmen, Lote 19",1981,31,+502 5179-9596
+146,TAL_GT1415_0145,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Uspantán),Maestro Rosa  Fuentes,GT14,GT1415,"Cantón El Carmen, Lote 67",1985,8,+502 5389-3707
+147,TAL_GT1416_0146,Asociación de Artesanos Qeqchi Pacaya de Sacapulas,Maestro Pedro Mazariegos,GT14,GT1416,"Cantón El Carmen, Lote 39",2014,28,+502 5413-9860
+148,TAL_GT1417_0147,Taller Familiar de Arte Tradicional Popol en San Bartolomé Jocotenango,Maestro Manuel Mazariegos,GT14,GT1417,"Cantón Pachoc, Lote 63",1988,21,+502 4929-5271
+149,TAL_GT1418_0148,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Canillá),Maestro Juan Tupul,GT14,GT1418,"Cantón Xabajal, Lote 53",2018,29,+502 4868-1326
+150,TAL_GT1419_0149,Asociación de Artesanos Xelaju Sop de Chicamán,Maestro Santiago  Fuentes,GT14,GT1419,"Cantón Pachoc, Lote 70",1975,6,+502 5899-6586
+151,TAL_GT1420_0150,Taller Familiar de Arte Tradicional Utatlan en Ixcán,Maestro Juan Tax,GT14,GT1420,"Cantón Centro, Lote 92",2000,25,+502 4361-5311
+152,TAL_GT1421_0151,Cooperativa de Producción Artesanal Chup de R.L. (Pachalum),Maestro Santiago Mazariegos,GT14,GT1421,"Cantón Tzanjuyup, Lote 52",1987,25,+502 4981-4681
+153,TAL_GT1501_0152,Asociación de Artesanos Cuchumatanes Patzun de Salamá,Maestro Juana Tupul,GT15,GT1501,"Cantón Centro, Lote 22",2000,42,+502 4471-4382
+154,TAL_GT1502_0153,Taller Familiar de Arte Tradicional Pacaya en San Miguel Chicaj,Maestro Juan Tax,GT15,GT1502,"Cantón Pachoc, Lote 5",1986,43,+502 4946-5754
+155,TAL_GT1503_0154,Cooperativa de Producción Artesanal Almolonga de R.L. (Rabinal),Maestro María Coché,GT15,GT1503,"Cantón Pachoc, Lote 5",1973,8,+502 5586-7391
+156,TAL_GT1504_0155,Asociación de Artesanos Cholsamaj Ixchel de Cubulco,Maestro Manuel Tax,GT15,GT1504,"Cantón Tzanjuyup, Lote 24",1999,29,+502 4771-6816
+157,TAL_GT1505_0156,Taller Familiar de Arte Tradicional Sop en Granados,Maestro Pedro Chox,GT15,GT1505,"Cantón Pachoc, Lote 70",2016,45,+502 4066-4344
+158,TAL_GT1506_0157,Cooperativa de Producción Artesanal Atitlan de R.L. (El Chol),Maestro Tomasa Mazariegos,GT15,GT1506,"Cantón El Carmen, Lote 26",2020,40,+502 5332-6844
+159,TAL_GT1507_0158,Asociación de Artesanos Chup Iximche de San Jerónimo,Maestro Juan  Fuentes,GT15,GT1507,"Cantón Pachoc, Lote 82",1986,37,+502 5956-1557
+160,TAL_GT1508_0159,Taller Familiar de Arte Tradicional Patzun en Purulhá,Maestro María Coché,GT15,GT1508,"Cantón Tzanjuyup, Lote 22",2007,9,+502 4539-3976
+161,TAL_GT0401_0160,Cooperativa de Producción Artesanal Jaspe de R.L. (Chimaltenango),Maestro Manuel Chox,GT04,GT0401,"Cantón Tzanjuyup, Lote 68",2008,42,+502 4213-8418
+162,TAL_GT0402_0161,Asociación de Artesanos Almolonga Hunapu de San José Poaquil,Maestro Juana Chox,GT04,GT0402,"Cantón Pachoc, Lote 68",1998,34,+502 5268-5168
+163,TAL_GT0403_0162,Taller Familiar de Arte Tradicional Ixchel en San Martín Jilotepeque,Maestro Manuel Tupul,GT04,GT0403,"Cantón Pachoc, Lote 100",1972,23,+502 5557-1261
+164,TAL_GT0404_0163,Cooperativa de Producción Artesanal Kiche de R.L. (Comalapa),Maestro Santiago Tax,GT04,GT0404,"Cantón Tzanjuyup, Lote 23",1978,12,+502 5881-3695
+165,TAL_GT0405_0164,Asociación de Artesanos Atitlan Mam de Santa Apolonia,Maestro Rosa Tupul,GT04,GT0405,"Cantón Xabajal, Lote 49",2011,20,+502 5616-9959
+166,TAL_GT0406_0165,Taller Familiar de Arte Tradicional Iximche en Tecpán Guatemala,Maestro Tomasa Coché,GT04,GT0406,"Cantón El Carmen, Lote 78",1987,30,+502 4410-5047
+167,TAL_GT0407_0166,Cooperativa de Producción Artesanal Qeqchi de R.L. (Patzún),Maestro Pedro Mazariegos,GT04,GT0407,"Cantón Pachoc, Lote 24",1976,45,+502 5143-2937
+168,TAL_GT0408_0167,Asociación de Artesanos Jaspe Popol de Pochuta,Maestro Santiago Chox,GT04,GT0408,"Cantón Centro, Lote 5",1978,38,+502 4182-6366
+169,TAL_GT0409_0168,Taller Familiar de Arte Tradicional Hunapu en Patzicía,Maestro Tomasa Tupul,GT04,GT0409,"Cantón Xabajal, Lote 88",1982,12,+502 5384-5196
+170,TAL_GT0410_0169,Cooperativa de Producción Artesanal Xelaju de R.L. (Santa Cruz Balanyá),Maestro Rosa Mazariegos,GT04,GT0410,"Cantón El Carmen, Lote 11",1988,10,+502 4430-7523
+171,TAL_GT0411_0170,Asociación de Artesanos Kiche Utatlan de Acatenango,Maestro Pedro Chox,GT04,GT0411,"Cantón Centro, Lote 83",1987,13,+502 4488-6005
+172,TAL_GT0412_0171,Taller Familiar de Arte Tradicional Mam en Yepocapa,Maestro Rosa Tzoc,GT04,GT0412,"Cantón Xabajal, Lote 41",1992,13,+502 4431-9536
+173,TAL_GT0413_0172,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Andrés Itzapa),Maestro Pedro Coché,GT04,GT0413,"Cantón Xabajal, Lote 11",1983,9,+502 5938-6502
+174,TAL_GT0414_0173,Asociación de Artesanos Qeqchi Pacaya de Parramos,Maestro Tomasa Chox,GT04,GT0414,"Cantón Centro, Lote 44",1987,42,+502 4499-6699
+175,TAL_GT0415_0174,Taller Familiar de Arte Tradicional Popol en Zaragoza,Maestro Santiago Tzoc,GT04,GT0415,"Cantón El Carmen, Lote 31",2022,42,+502 5492-3066
+176,TAL_GT0416_0175,Cooperativa de Producción Artesanal Cholsamaj de R.L. (El Tejar),Maestro Tomasa Mazariegos,GT04,GT0416,"Cantón Tzanjuyup, Lote 20",2002,16,+502 5930-7200
+177,TAL_GT0700_0176,Asociación de Artesanos Xelaju Sop de Lago De Atitlan,Maestro Pedro  Fuentes,GT07,GT0700,"Cantón El Carmen, Lote 100",1981,43,+502 5306-7429
+178,TAL_GT0701_0177,Taller Familiar de Arte Tradicional Utatlan en Sololá,Maestro Tomasa Chox,GT07,GT0701,"Cantón Xabajal, Lote 27",2010,23,+502 4601-8228
+179,TAL_GT0702_0178,Cooperativa de Producción Artesanal Chup de R.L. (San José Chacayá),Maestro Santiago Chox,GT07,GT0702,"Cantón El Carmen, Lote 6",1975,19,+502 5073-8967
+180,TAL_GT0703_0179,Asociación de Artesanos Cuchumatanes Patzun de Santa María Visitación,Maestro Tomasa Tzoc,GT07,GT0703,"Cantón Xabajal, Lote 83",2011,30,+502 5930-9724
+181,TAL_GT0704_0180,Taller Familiar de Arte Tradicional Pacaya en Santa Lucía Utatlán,Maestro Rosa Ixcol,GT07,GT0704,"Cantón Centro, Lote 33",1994,28,+502 5956-8236
+182,TAL_GT0705_0181,Cooperativa de Producción Artesanal Almolonga de R.L. (Nahualá),Maestro Juana Chox,GT07,GT0705,"Cantón Xabajal, Lote 5",1986,35,+502 5395-8134
+183,TAL_GT0706_0182,Asociación de Artesanos Cholsamaj Ixchel de Santa Catarina Ixtahuacán,Maestro Tomasa Chox,GT07,GT0706,"Cantón Pachoc, Lote 10",1998,39,+502 4095-3812
+184,TAL_GT0707_0183,Taller Familiar de Arte Tradicional Sop en Santa Clara La Laguna,Maestro Rosa Coché,GT07,GT0707,"Cantón Pachoc, Lote 22",2000,34,+502 5847-9637
+185,TAL_GT0708_0184,Cooperativa de Producción Artesanal Atitlan de R.L. (Concepción),Maestro Rosa Tupul,GT07,GT0708,"Cantón El Carmen, Lote 75",1976,38,+502 4517-7741
+186,TAL_GT0709_0185,Asociación de Artesanos Chup Iximche de San Andrés Semetabaj,Maestro Manuel Tzoc,GT07,GT0709,"Cantón Tzanjuyup, Lote 55",2012,18,+502 4896-2320
+187,TAL_GT0710_0186,Taller Familiar de Arte Tradicional Patzun en Panajachel,Maestro Santiago Chox,GT07,GT0710,"Cantón Xabajal, Lote 59",1977,35,+502 5263-3597
+188,TAL_GT0711_0187,Cooperativa de Producción Artesanal Jaspe de R.L. (Santa Catarina Palopó),Maestro Pedro  Fuentes,GT07,GT0711,"Cantón Tzanjuyup, Lote 27",2003,21,+502 4576-1633
+189,TAL_GT0712_0188,Asociación de Artesanos Almolonga Hunapu de San Antonio Palopó,Maestro Manuel  Fuentes,GT07,GT0712,"Cantón Centro, Lote 22",1998,32,+502 4818-8516
+190,TAL_GT0713_0189,Taller Familiar de Arte Tradicional Ixchel en San Lucas Tolimán,Maestro Juan  Fuentes,GT07,GT0713,"Cantón El Carmen, Lote 57",2020,32,+502 5405-6262
+191,TAL_GT0714_0190,Cooperativa de Producción Artesanal Kiche de R.L. (Santa Cruz La Laguna),Maestro Manuel  Fuentes,GT07,GT0714,"Cantón Centro, Lote 65",1981,28,+502 4336-4582
+192,TAL_GT0715_0191,Asociación de Artesanos Atitlan Mam de San Pablo La Laguna,Maestro Tomasa Chox,GT07,GT0715,"Cantón Pachoc, Lote 93",1993,36,+502 4427-8257
+193,TAL_GT0716_0192,Taller Familiar de Arte Tradicional Iximche en San Marcos La Laguna,Maestro Santiago Coché,GT07,GT0716,"Cantón Centro, Lote 13",1986,33,+502 4114-3829
+194,TAL_GT0717_0193,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Juan La Laguna),Maestro Tomasa Chox,GT07,GT0717,"Cantón Tzanjuyup, Lote 9",2011,27,+502 5166-4291
+195,TAL_GT0718_0194,Asociación de Artesanos Jaspe Popol de San Pedro La Laguna,Maestro Manuel Mazariegos,GT07,GT0718,"Cantón Pachoc, Lote 69",1986,17,+502 5706-2997
+196,TAL_GT0719_0195,Taller Familiar de Arte Tradicional Hunapu en Santiago Atitlán,Maestro Pedro  Fuentes,GT07,GT0719,"Cantón Centro, Lote 18",1970,6,+502 4030-3179
+197,TAL_GT0801_0196,Cooperativa de Producción Artesanal Xelaju de R.L. (Totonicapán),Maestro Juan Tzoc,GT08,GT0801,"Cantón Tzanjuyup, Lote 35",1974,21,+502 4187-4314
+198,TAL_GT0802_0197,Asociación de Artesanos Kiche Utatlan de San Cristóbal Totonicapán,Maestro Santiago Mazariegos,GT08,GT0802,"Cantón Pachoc, Lote 98",1990,10,+502 4861-6115
+199,TAL_GT0803_0198,Taller Familiar de Arte Tradicional Mam en San Francisco El Alto,Maestro Santiago Coché,GT08,GT0803,"Cantón El Carmen, Lote 1",1995,14,+502 4676-6626
+200,TAL_GT0804_0199,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Andrés Xecul),Maestro Juan Coché,GT08,GT0804,"Cantón Centro, Lote 5",2014,39,+502 5482-9705
+201,TAL_GT0805_0200,Asociación de Artesanos Qeqchi Pacaya de Momostenango,Maestro Tomasa Mazariegos,GT08,GT0805,"Cantón Xabajal, Lote 89",1987,16,+502 4908-8642
+202,TAL_GT0806_0201,Taller Familiar de Arte Tradicional Popol en Santa María Chiquimula,Maestro Juan Tax,GT08,GT0806,"Cantón Pachoc, Lote 30",1985,42,+502 4864-3675
+203,TAL_GT0807_0202,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Santa Lucía La Reforma),Maestro Santiago Tupul,GT08,GT0807,"Cantón Tzanjuyup, Lote 7",2011,24,+502 5684-6888
+204,TAL_GT0808_0203,Asociación de Artesanos Xelaju Sop de San Bartolo,Maestro Juan  Fuentes,GT08,GT0808,"Cantón Xabajal, Lote 50",2005,45,+502 4529-3594
+205,TAL_GT0901_0204,Taller Familiar de Arte Tradicional Utatlan en Quetzaltenango,Maestro Juana Tax,GT09,GT0901,"Cantón El Carmen, Lote 39",1973,10,+502 4459-4094
+206,TAL_GT0902_0205,Cooperativa de Producción Artesanal Chup de R.L. (Salcajá),Maestro Tomasa Chox,GT09,GT0902,"Cantón Centro, Lote 16",1996,43,+502 5126-7080
+207,TAL_GT0903_0206,Asociación de Artesanos Cuchumatanes Patzun de Olintepeque,Maestro Tomasa Chox,GT09,GT0903,"Cantón Pachoc, Lote 5",2016,36,+502 4751-5705
+208,TAL_GT0904_0207,Taller Familiar de Arte Tradicional Pacaya en San Carlos Sija,Maestro Pedro Tzoc,GT09,GT0904,"Cantón Centro, Lote 84",1977,41,+502 4501-4134
+209,TAL_GT0905_0208,Cooperativa de Producción Artesanal Almolonga de R.L. (Sibilia),Maestro Manuel Chox,GT09,GT0905,"Cantón Pachoc, Lote 67",1999,12,+502 4027-9490
+210,TAL_GT0906_0209,Asociación de Artesanos Cholsamaj Ixchel de Cabricán,Maestro Juana Mazariegos,GT09,GT0906,"Cantón Xabajal, Lote 47",1992,10,+502 5932-1914
+211,TAL_GT0907_0210,Taller Familiar de Arte Tradicional Sop en Cajolá,Maestro Santiago Tzoc,GT09,GT0907,"Cantón Pachoc, Lote 93",1998,23,+502 4996-2036
+212,TAL_GT0908_0211,Cooperativa de Producción Artesanal Atitlan de R.L. (San Miguel Sigüila),Maestro Pedro Tax,GT09,GT0908,"Cantón Pachoc, Lote 39",1999,12,+502 5924-2608
+213,TAL_GT0909_0212,Asociación de Artesanos Chup Iximche de Ostuncalco,Maestro Manuel Chox,GT09,GT0909,"Cantón Tzanjuyup, Lote 46",1991,37,+502 5500-7933
+214,TAL_GT0910_0213,Taller Familiar de Arte Tradicional Patzun en San Mateo,Maestro Tomasa Mazariegos,GT09,GT0910,"Cantón Centro, Lote 82",1985,43,+502 5766-4556
+215,TAL_GT0911_0214,Cooperativa de Producción Artesanal Jaspe de R.L. (Concepción Chiquirichapa),Maestro Tomasa Tzoc,GT09,GT0911,"Cantón Pachoc, Lote 48",2010,31,+502 4551-7974
+216,TAL_GT0912_0215,Asociación de Artesanos Almolonga Hunapu de San Martín Sacatepéquez,Maestro Manuel Coché,GT09,GT0912,"Cantón El Carmen, Lote 61",2020,33,+502 4118-3271
+217,TAL_GT0913_0216,Taller Familiar de Arte Tradicional Ixchel en Almolonga,Maestro Juana Ixcol,GT09,GT0913,"Cantón Tzanjuyup, Lote 46",1977,10,+502 4601-1137
+218,TAL_GT0914_0217,Cooperativa de Producción Artesanal Kiche de R.L. (Cantel),Maestro Pedro Tax,GT09,GT0914,"Cantón Pachoc, Lote 92",1989,38,+502 4424-4028
+219,TAL_GT0915_0218,Asociación de Artesanos Atitlan Mam de Huitán,Maestro Manuel Ixcol,GT09,GT0915,"Cantón Pachoc, Lote 71",2005,45,+502 5507-7713
+220,TAL_GT0916_0219,Taller Familiar de Arte Tradicional Iximche en Zunil,Maestro Rosa Tupul,GT09,GT0916,"Cantón El Carmen, Lote 16",2020,10,+502 4197-1431
+221,TAL_GT0917_0220,Cooperativa de Producción Artesanal Qeqchi de R.L. (Colomba),Maestro Juana  Fuentes,GT09,GT0917,"Cantón Centro, Lote 13",2022,24,+502 4244-2848
+222,TAL_GT0918_0221,Asociación de Artesanos Jaspe Popol de San Francisco La Unión,Maestro Juan Mazariegos,GT09,GT0918,"Cantón Tzanjuyup, Lote 77",1992,21,+502 5760-1554
+223,TAL_GT0919_0222,Taller Familiar de Arte Tradicional Hunapu en El Palmar,Maestro Santiago Chox,GT09,GT0919,"Cantón Centro, Lote 16",1996,43,+502 5933-3993
+224,TAL_GT0920_0223,Cooperativa de Producción Artesanal Xelaju de R.L. (Coatepeque),Maestro María  Fuentes,GT09,GT0920,"Cantón Centro, Lote 63",2014,29,+502 4019-5283
+225,TAL_GT0921_0224,Asociación de Artesanos Kiche Utatlan de Génova,Maestro Juana Tupul,GT09,GT0921,"Cantón Pachoc, Lote 67",1978,6,+502 5975-8606
+226,TAL_GT0922_0225,Taller Familiar de Arte Tradicional Mam en Flores Costa Cuca,Maestro Juan Tzoc,GT09,GT0922,"Cantón Xabajal, Lote 82",2010,11,+502 4572-3667
+227,TAL_GT0923_0226,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (La Esperanza),Maestro Santiago Ixcol,GT09,GT0923,"Cantón El Carmen, Lote 60",2007,13,+502 5809-6692
+228,TAL_GT0924_0227,Asociación de Artesanos Qeqchi Pacaya de Palestina de Los Altos,Maestro Pedro Tzoc,GT09,GT0924,"Cantón Centro, Lote 18",2008,23,+502 5433-3946
+229,TAL_GT1201_0228,Taller Familiar de Arte Tradicional Popol en San Marcos,Maestro Juana Tzoc,GT12,GT1201,"Cantón Centro, Lote 33",2011,5,+502 4346-6244
+230,TAL_GT1202_0229,Cooperativa de Producción Artesanal Cholsamaj de R.L. (San Pedro Sacatepéquez),Maestro Tomasa Mazariegos,GT12,GT1202,"Cantón Centro, Lote 79",1979,8,+502 4479-2656
+231,TAL_GT1203_0230,Asociación de Artesanos Xelaju Sop de San Antonio Sacatepéquez,Maestro Juan Tax,GT12,GT1203,"Cantón Centro, Lote 66",2005,33,+502 5686-7933
+232,TAL_GT1204_0231,Taller Familiar de Arte Tradicional Utatlan en Comitancillo,Maestro Santiago Ixcol,GT12,GT1204,"Cantón Tzanjuyup, Lote 61",1998,14,+502 5169-2672
+233,TAL_GT1205_0232,Cooperativa de Producción Artesanal Chup de R.L. (San Miguel Ixtahuacán),Maestro Juan Tax,GT12,GT1205,"Cantón Centro, Lote 25",2005,21,+502 5379-1709
+234,TAL_GT1206_0233,Asociación de Artesanos Cuchumatanes Patzun de Concepción Tutuapa,Maestro María Coché,GT12,GT1206,"Cantón Pachoc, Lote 1",1986,26,+502 5163-6818
+235,TAL_GT1207_0234,Taller Familiar de Arte Tradicional Pacaya en Tacaná,Maestro Juan Chox,GT12,GT1207,"Cantón Centro, Lote 74",1999,9,+502 4251-2935
+236,TAL_GT1208_0235,Cooperativa de Producción Artesanal Almolonga de R.L. (Sibinal),Maestro Pedro Tupul,GT12,GT1208,"Cantón Tzanjuyup, Lote 61",2010,24,+502 4256-7250
+237,TAL_GT1209_0236,Asociación de Artesanos Cholsamaj Ixchel de Tajumulco,Maestro Rosa Ixcol,GT12,GT1209,"Cantón Centro, Lote 98",2022,30,+502 4054-9295
+238,TAL_GT1210_0237,Taller Familiar de Arte Tradicional Sop en Tejutla,Maestro Juan Tupul,GT12,GT1210,"Cantón Centro, Lote 21",2008,16,+502 5456-4110
+239,TAL_GT1211_0238,Cooperativa de Producción Artesanal Atitlan de R.L. (San Rafael Pie de la Cuesta),Maestro María Tupul,GT12,GT1211,"Cantón Pachoc, Lote 55",1979,19,+502 4357-1429
+240,TAL_GT1212_0239,Asociación de Artesanos Chup Iximche de Nuevo Progreso,Maestro Rosa  Fuentes,GT12,GT1212,"Cantón Pachoc, Lote 87",1971,35,+502 5780-5009
+241,TAL_GT1213_0240,Taller Familiar de Arte Tradicional Patzun en El Tumbador,Maestro Santiago Tax,GT12,GT1213,"Cantón Tzanjuyup, Lote 1",1998,45,+502 5116-1861
+242,TAL_GT1214_0241,Cooperativa de Producción Artesanal Jaspe de R.L. (El Rodeo),Maestro Rosa Mazariegos,GT12,GT1214,"Cantón El Carmen, Lote 29",2018,5,+502 5581-5483
+243,TAL_GT1215_0242,Asociación de Artesanos Almolonga Hunapu de Malacatán,Maestro Tomasa Tupul,GT12,GT1215,"Cantón Pachoc, Lote 65",1996,37,+502 4613-1157
+244,TAL_GT1216_0243,Taller Familiar de Arte Tradicional Ixchel en Catarina,Maestro María Chox,GT12,GT1216,"Cantón Tzanjuyup, Lote 58",2013,27,+502 5351-5540
+245,TAL_GT1217_0244,Cooperativa de Producción Artesanal Kiche de R.L. (Ayutla),Maestro Tomasa  Fuentes,GT12,GT1217,"Cantón El Carmen, Lote 65",1973,24,+502 5496-8075
+246,TAL_GT1218_0245,Asociación de Artesanos Atitlan Mam de Ocós,Maestro Juan Tax,GT12,GT1218,"Cantón El Carmen, Lote 1",2021,30,+502 4291-4898
+247,TAL_GT1219_0246,Taller Familiar de Arte Tradicional Iximche en San Pablo,Maestro María  Fuentes,GT12,GT1219,"Cantón Tzanjuyup, Lote 64",2013,30,+502 4255-6264
+248,TAL_GT1220_0247,Cooperativa de Producción Artesanal Qeqchi de R.L. (El Quetzal),Maestro Rosa Mazariegos,GT12,GT1220,"Cantón Xabajal, Lote 75",1993,36,+502 4363-7424
+249,TAL_GT1221_0248,Asociación de Artesanos Jaspe Popol de La Reforma,Maestro María Chox,GT12,GT1221,"Cantón Centro, Lote 31",1978,25,+502 4212-6585
+250,TAL_GT1222_0249,Taller Familiar de Arte Tradicional Hunapu en Pajapita,Maestro María Tzoc,GT12,GT1222,"Cantón Pachoc, Lote 88",1984,30,+502 5777-8739
+251,TAL_GT1223_0250,Cooperativa de Producción Artesanal Xelaju de R.L. (Ixchiguán),Maestro María Tax,GT12,GT1223,"Cantón Tzanjuyup, Lote 70",1970,18,+502 5221-4231
+252,TAL_GT1224_0251,Asociación de Artesanos Kiche Utatlan de San José Ojetenam,Maestro Manuel  Fuentes,GT12,GT1224,"Cantón Centro, Lote 98",1989,36,+502 4181-3127
+253,TAL_GT1225_0252,Taller Familiar de Arte Tradicional Mam en San Cristóbal Cucho,Maestro Juana  Fuentes,GT12,GT1225,"Cantón Tzanjuyup, Lote 61",1987,20,+502 5341-7863
+254,TAL_GT1226_0253,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Sipacapa),Maestro Juan Mazariegos,GT12,GT1226,"Cantón Xabajal, Lote 97",2009,10,+502 5968-2557
+255,TAL_GT1227_0254,Asociación de Artesanos Qeqchi Pacaya de Esquipulas Palo Gordo,Maestro Juana Tax,GT12,GT1227,"Cantón Tzanjuyup, Lote 4",1993,43,+502 4121-8631
+256,TAL_GT1228_0255,Taller Familiar de Arte Tradicional Popol en Río Blanco,Maestro Rosa Tzoc,GT12,GT1228,"Cantón Pachoc, Lote 23",2017,32,+502 4820-2162
+257,TAL_GT1229_0256,Cooperativa de Producción Artesanal Cholsamaj de R.L. (San Lorenzo),Maestro María Coché,GT12,GT1229,"Cantón Tzanjuyup, Lote 80",2013,16,+502 5058-4264
+258,TAL_GT1230_0257,Asociación de Artesanos Xelaju Sop de La Blanca,Maestro Santiago Mazariegos,GT12,GT1230,"Cantón Pachoc, Lote 31",1995,13,+502 4806-6157
+259,TAL_GT1301_0258,Taller Familiar de Arte Tradicional Utatlan en Huehuetenango,Maestro Rosa Tzoc,GT13,GT1301,"Cantón Centro, Lote 60",1987,28,+502 5279-7532
+260,TAL_GT1302_0259,Cooperativa de Producción Artesanal Chup de R.L. (Chiantla),Maestro María Tax,GT13,GT1302,"Cantón Centro, Lote 47",2002,10,+502 4590-6584
+261,TAL_GT1303_0260,Asociación de Artesanos Cuchumatanes Patzun de Malacatancito,Maestro Juan Mazariegos,GT13,GT1303,"Cantón Xabajal, Lote 61",1979,12,+502 5544-8428
+262,TAL_GT1304_0261,Taller Familiar de Arte Tradicional Pacaya en Cuilco,Maestro Juan  Fuentes,GT13,GT1304,"Cantón Pachoc, Lote 89",1975,28,+502 5685-5978
+263,TAL_GT1305_0262,Cooperativa de Producción Artesanal Almolonga de R.L. (Nentón),Maestro Juana Mazariegos,GT13,GT1305,"Cantón Xabajal, Lote 58",2007,31,+502 4027-9565
+264,TAL_GT1306_0263,Asociación de Artesanos Cholsamaj Ixchel de San Pedro Necta,Maestro María Mazariegos,GT13,GT1306,"Cantón El Carmen, Lote 46",2019,24,+502 4028-7866
+265,TAL_GT1307_0264,Taller Familiar de Arte Tradicional Sop en Jacaltenango,Maestro María Mazariegos,GT13,GT1307,"Cantón El Carmen, Lote 75",2003,43,+502 4469-2459
+266,TAL_GT1308_0265,Cooperativa de Producción Artesanal Atitlan de R.L. (Soloma),Maestro Manuel Ixcol,GT13,GT1308,"Cantón Xabajal, Lote 5",2007,12,+502 5601-4236
+267,TAL_GT1309_0266,Asociación de Artesanos Chup Iximche de Ixtahuacán,Maestro Juan Mazariegos,GT13,GT1309,"Cantón Pachoc, Lote 42",1995,15,+502 4862-1663
+268,TAL_GT1310_0267,Taller Familiar de Arte Tradicional Patzun en Santa Bárbara,Maestro Tomasa Coché,GT13,GT1310,"Cantón Tzanjuyup, Lote 44",2000,29,+502 5741-7908
+269,TAL_GT1311_0268,Cooperativa de Producción Artesanal Jaspe de R.L. (La Libertad),Maestro Rosa Tupul,GT13,GT1311,"Cantón Centro, Lote 14",2022,35,+502 5116-2093
+270,TAL_GT1312_0269,Asociación de Artesanos Almolonga Hunapu de La Democracia,Maestro Santiago Tupul,GT13,GT1312,"Cantón Xabajal, Lote 6",1995,28,+502 5967-7126
+271,TAL_GT1313_0270,Taller Familiar de Arte Tradicional Ixchel en San Miguel Acatán,Maestro Santiago Chox,GT13,GT1313,"Cantón Tzanjuyup, Lote 62",2011,6,+502 5953-1000
+272,TAL_GT1314_0271,Cooperativa de Producción Artesanal Kiche de R.L. (San Rafael La Independencia),Maestro Santiago Tax,GT13,GT1314,"Cantón Tzanjuyup, Lote 29",1989,7,+502 4837-5857
+273,TAL_GT1315_0272,Asociación de Artesanos Atitlan Mam de Todos Santos Cuchumatán,Maestro Pedro Tax,GT13,GT1315,"Cantón Pachoc, Lote 69",1976,31,+502 4086-4333
+274,TAL_GT1316_0273,Taller Familiar de Arte Tradicional Iximche en San Juan Atitán,Maestro María Tzoc,GT13,GT1316,"Cantón Pachoc, Lote 54",1999,22,+502 4521-1628
+275,TAL_GT1317_0274,Cooperativa de Producción Artesanal Qeqchi de R.L. (Santa Eulalia),Maestro Tomasa Ixcol,GT13,GT1317,"Cantón Xabajal, Lote 95",1970,14,+502 4183-8805
+276,TAL_GT1318_0275,Asociación de Artesanos Jaspe Popol de San Mateo Ixtatán,Maestro Santiago Tupul,GT13,GT1318,"Cantón El Carmen, Lote 59",1978,8,+502 5974-9153
+277,TAL_GT1319_0276,Taller Familiar de Arte Tradicional Hunapu en Colotenango,Maestro Manuel Tax,GT13,GT1319,"Cantón Centro, Lote 100",2002,17,+502 5263-3638
+278,TAL_GT1320_0277,Cooperativa de Producción Artesanal Xelaju de R.L. (San Sebastián Huehuetenango),Maestro Tomasa Tax,GT13,GT1320,"Cantón Centro, Lote 49",2005,21,+502 5283-8356
+279,TAL_GT1321_0278,Asociación de Artesanos Kiche Utatlan de Tectitán,Maestro María Tupul,GT13,GT1321,"Cantón El Carmen, Lote 19",2007,45,+502 5425-9747
+280,TAL_GT1322_0279,Taller Familiar de Arte Tradicional Mam en Concepción Huista,Maestro Pedro  Fuentes,GT13,GT1322,"Cantón Tzanjuyup, Lote 63",1995,41,+502 5193-1547
+281,TAL_GT1323_0280,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Juan Ixcoy),Maestro Juana Tzoc,GT13,GT1323,"Cantón Pachoc, Lote 83",2008,13,+502 5479-3571
+282,TAL_GT1324_0281,Asociación de Artesanos Qeqchi Pacaya de San Antonio Huista,Maestro María Ixcol,GT13,GT1324,"Cantón El Carmen, Lote 23",2011,28,+502 5227-9652
+283,TAL_GT1325_0282,Taller Familiar de Arte Tradicional Popol en San Sebastián Coatán,Maestro Juan Coché,GT13,GT1325,"Cantón Xabajal, Lote 27",2007,44,+502 5574-5173
+284,TAL_GT1326_0283,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Barillas),Maestro Manuel Mazariegos,GT13,GT1326,"Cantón Centro, Lote 66",1975,5,+502 4323-4922
+285,TAL_GT1327_0284,Asociación de Artesanos Xelaju Sop de Aguacatán,Maestro Santiago Mazariegos,GT13,GT1327,"Cantón El Carmen, Lote 6",2000,10,+502 4723-7964
+286,TAL_GT1328_0285,Taller Familiar de Arte Tradicional Utatlan en San Rafael Petzal,Maestro Santiago Mazariegos,GT13,GT1328,"Cantón El Carmen, Lote 97",1977,11,+502 5392-4229
+287,TAL_GT1329_0286,Cooperativa de Producción Artesanal Chup de R.L. (San Gaspar Ixchil),Maestro Santiago Tzoc,GT13,GT1329,"Cantón Centro, Lote 10",2022,26,+502 5360-4827
+288,TAL_GT1330_0287,Asociación de Artesanos Cuchumatanes Patzun de Santiago Chimaltenango,Maestro Santiago Tax,GT13,GT1330,"Cantón Pachoc, Lote 10",2009,29,+502 4929-6654
+289,TAL_GT1331_0288,Taller Familiar de Arte Tradicional Pacaya en Santa Ana Huista,Maestro Rosa  Fuentes,GT13,GT1331,"Cantón El Carmen, Lote 51",1982,28,+502 5483-1958
+290,TAL_GT1332_0289,Cooperativa de Producción Artesanal Almolonga de R.L. (Unión Cantinil),Maestro Tomasa  Fuentes,GT13,GT1332,"Cantón El Carmen, Lote 84",2002,5,+502 5898-7856
+291,TAL_GT1333_0290,Asociación de Artesanos Cholsamaj Ixchel de Petatán,Maestro Tomasa Coché,GT13,GT1333,"Cantón Centro, Lote 64",1992,45,+502 4464-1667
+292,TAL_GT1401_0291,Taller Familiar de Arte Tradicional Sop en Santa Cruz del Quiché,Maestro Pedro Ixcol,GT14,GT1401,"Cantón El Carmen, Lote 87",1998,39,+502 4126-1465
+293,TAL_GT1402_0292,Cooperativa de Producción Artesanal Atitlan de R.L. (Chiché),Maestro Rosa Ixcol,GT14,GT1402,"Cantón Xabajal, Lote 92",2004,18,+502 5821-1800
+294,TAL_GT1403_0293,Asociación de Artesanos Chup Iximche de Chinique,Maestro Santiago Tzoc,GT14,GT1403,"Cantón El Carmen, Lote 73",1990,22,+502 4014-6062
+295,TAL_GT1404_0294,Taller Familiar de Arte Tradicional Patzun en Zacualpa,Maestro Tomasa Tax,GT14,GT1404,"Cantón El Carmen, Lote 83",1976,34,+502 4018-3213
+296,TAL_GT1405_0295,Cooperativa de Producción Artesanal Jaspe de R.L. (Chajul),Maestro Rosa Tzoc,GT14,GT1405,"Cantón Centro, Lote 74",2015,26,+502 4660-3307
+297,TAL_GT1406_0296,Asociación de Artesanos Almolonga Hunapu de Chichicastenango,Maestro María Ixcol,GT14,GT1406,"Cantón Tzanjuyup, Lote 66",1976,5,+502 5872-3484
+298,TAL_GT1407_0297,Taller Familiar de Arte Tradicional Ixchel en Patzité,Maestro Juan Ixcol,GT14,GT1407,"Cantón Pachoc, Lote 21",1971,26,+502 5373-8848
+299,TAL_GT1408_0298,Cooperativa de Producción Artesanal Kiche de R.L. (San Antonio Ilotenango),Maestro Rosa  Fuentes,GT14,GT1408,"Cantón Centro, Lote 37",1975,37,+502 4682-2865
+300,TAL_GT1409_0299,Asociación de Artesanos Atitlan Mam de San Pedro Jocopilas,Maestro Juan Chox,GT14,GT1409,"Cantón Xabajal, Lote 49",2006,42,+502 4600-8316
+301,TAL_GT1410_0300,Taller Familiar de Arte Tradicional Iximche en Cunén,Maestro Rosa Mazariegos,GT14,GT1410,"Cantón Xabajal, Lote 68",1996,27,+502 5835-4641
+302,TAL_GT1411_0301,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Juan Cotzal),Maestro Santiago Tupul,GT14,GT1411,"Cantón Xabajal, Lote 68",1974,26,+502 4810-8660
+303,TAL_GT1412_0302,Asociación de Artesanos Jaspe Popol de Joyabaj,Maestro Juana Ixcol,GT14,GT1412,"Cantón Tzanjuyup, Lote 10",1997,38,+502 4858-5503
+304,TAL_GT1413_0303,Taller Familiar de Arte Tradicional Hunapu en Nebaj,Maestro María  Fuentes,GT14,GT1413,"Cantón El Carmen, Lote 64",1978,9,+502 5769-2757
+305,TAL_GT1414_0304,Cooperativa de Producción Artesanal Xelaju de R.L. (San Andrés Sajcabajá),Maestro Tomasa Tax,GT14,GT1414,"Cantón Tzanjuyup, Lote 42",1995,30,+502 4103-8311
+306,TAL_GT1415_0305,Asociación de Artesanos Kiche Utatlan de Uspantán,Maestro Rosa Chox,GT14,GT1415,"Cantón El Carmen, Lote 26",2020,12,+502 5951-5409
+307,TAL_GT1416_0306,Taller Familiar de Arte Tradicional Mam en Sacapulas,Maestro María Tax,GT14,GT1416,"Cantón Tzanjuyup, Lote 25",1990,36,+502 5130-3759
+308,TAL_GT1417_0307,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Bartolomé Jocotenango),Maestro Tomasa Tax,GT14,GT1417,"Cantón El Carmen, Lote 97",2021,27,+502 4461-4638
+309,TAL_GT1418_0308,Asociación de Artesanos Qeqchi Pacaya de Canillá,Maestro Pedro Tax,GT14,GT1418,"Cantón Pachoc, Lote 24",1979,23,+502 5555-1843
+310,TAL_GT1419_0309,Taller Familiar de Arte Tradicional Popol en Chicamán,Maestro Rosa Ixcol,GT14,GT1419,"Cantón Pachoc, Lote 85",2017,17,+502 4394-6069
+311,TAL_GT1420_0310,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Ixcán),Maestro Santiago Tzoc,GT14,GT1420,"Cantón Centro, Lote 69",2004,38,+502 5756-9821
+312,TAL_GT1421_0311,Asociación de Artesanos Xelaju Sop de Pachalum,Maestro Rosa Tzoc,GT14,GT1421,"Cantón Pachoc, Lote 85",2012,25,+502 4734-1980
+313,TAL_GT1501_0312,Taller Familiar de Arte Tradicional Utatlan en Salamá,Maestro Santiago Tax,GT15,GT1501,"Cantón Centro, Lote 85",1995,18,+502 5412-8410
+314,TAL_GT1502_0313,Cooperativa de Producción Artesanal Chup de R.L. (San Miguel Chicaj),Maestro Juana Tupul,GT15,GT1502,"Cantón Centro, Lote 68",1993,32,+502 5596-8439
+315,TAL_GT1503_0314,Asociación de Artesanos Cuchumatanes Patzun de Rabinal,Maestro Santiago Coché,GT15,GT1503,"Cantón Pachoc, Lote 25",2012,17,+502 4963-5570
+316,TAL_GT1504_0315,Taller Familiar de Arte Tradicional Pacaya en Cubulco,Maestro María Mazariegos,GT15,GT1504,"Cantón Centro, Lote 50",1983,17,+502 4650-4215
+317,TAL_GT1505_0316,Cooperativa de Producción Artesanal Almolonga de R.L. (Granados),Maestro Santiago Coché,GT15,GT1505,"Cantón Xabajal, Lote 54",2020,42,+502 4533-5674
+318,TAL_GT1506_0317,Asociación de Artesanos Cholsamaj Ixchel de El Chol,Maestro Juana Ixcol,GT15,GT1506,"Cantón Centro, Lote 30",1998,19,+502 5245-3573
+319,TAL_GT1507_0318,Taller Familiar de Arte Tradicional Sop en San Jerónimo,Maestro Juan Mazariegos,GT15,GT1507,"Cantón Xabajal, Lote 29",2021,23,+502 5145-8496
+320,TAL_GT1508_0319,Cooperativa de Producción Artesanal Atitlan de R.L. (Purulhá),Maestro Rosa Tupul,GT15,GT1508,"Cantón Xabajal, Lote 66",1977,39,+502 5141-7441
+321,TAL_GT0401_0320,Asociación de Artesanos Chup Iximche de Chimaltenango,Maestro Juan Mazariegos,GT04,GT0401,"Cantón El Carmen, Lote 85",1983,13,+502 4017-8361
+322,TAL_GT0402_0321,Taller Familiar de Arte Tradicional Patzun en San José Poaquil,Maestro Santiago Coché,GT04,GT0402,"Cantón Xabajal, Lote 41",1983,32,+502 4935-9651
+323,TAL_GT0403_0322,Cooperativa de Producción Artesanal Jaspe de R.L. (San Martín Jilotepeque),Maestro María  Fuentes,GT04,GT0403,"Cantón El Carmen, Lote 99",1971,6,+502 5544-5668
+324,TAL_GT0404_0323,Asociación de Artesanos Almolonga Hunapu de Comalapa,Maestro Pedro Ixcol,GT04,GT0404,"Cantón Xabajal, Lote 46",2020,36,+502 4010-5069
+325,TAL_GT0405_0324,Taller Familiar de Arte Tradicional Ixchel en Santa Apolonia,Maestro Rosa Chox,GT04,GT0405,"Cantón Tzanjuyup, Lote 82",2016,23,+502 4594-1958
+326,TAL_GT0406_0325,Cooperativa de Producción Artesanal Kiche de R.L. (Tecpán Guatemala),Maestro Santiago  Fuentes,GT04,GT0406,"Cantón Xabajal, Lote 83",2010,42,+502 4760-1451
+327,TAL_GT0407_0326,Asociación de Artesanos Atitlan Mam de Patzún,Maestro María Chox,GT04,GT0407,"Cantón Xabajal, Lote 36",1975,22,+502 5382-1108
+328,TAL_GT0408_0327,Taller Familiar de Arte Tradicional Iximche en Pochuta,Maestro María  Fuentes,GT04,GT0408,"Cantón Tzanjuyup, Lote 42",1986,25,+502 5353-7833
+329,TAL_GT0409_0328,Cooperativa de Producción Artesanal Qeqchi de R.L. (Patzicía),Maestro Tomasa  Fuentes,GT04,GT0409,"Cantón Tzanjuyup, Lote 95",1998,40,+502 4088-1702
+330,TAL_GT0410_0329,Asociación de Artesanos Jaspe Popol de Santa Cruz Balanyá,Maestro Pedro Tzoc,GT04,GT0410,"Cantón Pachoc, Lote 88",1989,23,+502 5444-6976
+331,TAL_GT0411_0330,Taller Familiar de Arte Tradicional Hunapu en Acatenango,Maestro Pedro  Fuentes,GT04,GT0411,"Cantón Centro, Lote 24",2019,34,+502 5630-1949
+332,TAL_GT0412_0331,Cooperativa de Producción Artesanal Xelaju de R.L. (Yepocapa),Maestro María Coché,GT04,GT0412,"Cantón El Carmen, Lote 100",2008,20,+502 5711-1916
+333,TAL_GT0413_0332,Asociación de Artesanos Kiche Utatlan de San Andrés Itzapa,Maestro Juan Tzoc,GT04,GT0413,"Cantón El Carmen, Lote 91",1986,11,+502 5697-2429
+334,TAL_GT0414_0333,Taller Familiar de Arte Tradicional Mam en Parramos,Maestro Pedro  Fuentes,GT04,GT0414,"Cantón El Carmen, Lote 37",1984,16,+502 4967-1040
+335,TAL_GT0415_0334,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Zaragoza),Maestro Rosa Mazariegos,GT04,GT0415,"Cantón Pachoc, Lote 42",1981,27,+502 4590-5425
+336,TAL_GT0416_0335,Asociación de Artesanos Qeqchi Pacaya de El Tejar,Maestro Rosa  Fuentes,GT04,GT0416,"Cantón El Carmen, Lote 75",2002,13,+502 4597-3480
+337,TAL_GT0700_0336,Taller Familiar de Arte Tradicional Popol en Lago De Atitlan,Maestro Tomasa  Fuentes,GT07,GT0700,"Cantón Pachoc, Lote 37",1993,6,+502 5374-9546
+338,TAL_GT0701_0337,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Sololá),Maestro Juana Coché,GT07,GT0701,"Cantón Centro, Lote 52",1980,5,+502 4901-1180
+339,TAL_GT0702_0338,Asociación de Artesanos Xelaju Sop de San José Chacayá,Maestro Tomasa Tax,GT07,GT0702,"Cantón Xabajal, Lote 99",2012,40,+502 5684-3692
+340,TAL_GT0703_0339,Taller Familiar de Arte Tradicional Utatlan en Santa María Visitación,Maestro Rosa Tupul,GT07,GT0703,"Cantón Centro, Lote 96",1970,43,+502 5306-5557
+341,TAL_GT0704_0340,Cooperativa de Producción Artesanal Chup de R.L. (Santa Lucía Utatlán),Maestro Santiago Tzoc,GT07,GT0704,"Cantón Centro, Lote 54",1984,37,+502 5401-7853
+342,TAL_GT0705_0341,Asociación de Artesanos Cuchumatanes Patzun de Nahualá,Maestro Santiago Tzoc,GT07,GT0705,"Cantón Pachoc, Lote 73",1977,20,+502 5405-5212
+343,TAL_GT0706_0342,Taller Familiar de Arte Tradicional Pacaya en Santa Catarina Ixtahuacán,Maestro Tomasa Tupul,GT07,GT0706,"Cantón Centro, Lote 86",1989,29,+502 5027-7493
+344,TAL_GT0707_0343,Cooperativa de Producción Artesanal Almolonga de R.L. (Santa Clara La Laguna),Maestro Santiago Tupul,GT07,GT0707,"Cantón Xabajal, Lote 64",2001,20,+502 5329-1148
+345,TAL_GT0708_0344,Asociación de Artesanos Cholsamaj Ixchel de Concepción,Maestro Pedro Coché,GT07,GT0708,"Cantón Xabajal, Lote 9",1985,34,+502 4225-5095
+346,TAL_GT0709_0345,Taller Familiar de Arte Tradicional Sop en San Andrés Semetabaj,Maestro María Tupul,GT07,GT0709,"Cantón Tzanjuyup, Lote 59",2022,9,+502 4808-4679
+347,TAL_GT0710_0346,Cooperativa de Producción Artesanal Atitlan de R.L. (Panajachel),Maestro María Chox,GT07,GT0710,"Cantón Pachoc, Lote 31",1970,20,+502 5042-9154
+348,TAL_GT0711_0347,Asociación de Artesanos Chup Iximche de Santa Catarina Palopó,Maestro Juana Chox,GT07,GT0711,"Cantón Xabajal, Lote 74",2009,5,+502 5086-6425
+349,TAL_GT0712_0348,Taller Familiar de Arte Tradicional Patzun en San Antonio Palopó,Maestro Juana Mazariegos,GT07,GT0712,"Cantón Tzanjuyup, Lote 11",1983,37,+502 5781-9127
+350,TAL_GT0713_0349,Cooperativa de Producción Artesanal Jaspe de R.L. (San Lucas Tolimán),Maestro Juana Ixcol,GT07,GT0713,"Cantón Centro, Lote 85",1988,17,+502 4291-6452
+351,TAL_GT0714_0350,Asociación de Artesanos Almolonga Hunapu de Santa Cruz La Laguna,Maestro Santiago Mazariegos,GT07,GT0714,"Cantón Xabajal, Lote 72",1993,28,+502 4551-9245
+352,TAL_GT0715_0351,Taller Familiar de Arte Tradicional Ixchel en San Pablo La Laguna,Maestro Juana Chox,GT07,GT0715,"Cantón Tzanjuyup, Lote 67",2011,43,+502 4375-1060
+353,TAL_GT0716_0352,Cooperativa de Producción Artesanal Kiche de R.L. (San Marcos La Laguna),Maestro Manuel Tzoc,GT07,GT0716,"Cantón Pachoc, Lote 84",1970,38,+502 5825-5673
+354,TAL_GT0717_0353,Asociación de Artesanos Atitlan Mam de San Juan La Laguna,Maestro Manuel Chox,GT07,GT0717,"Cantón Tzanjuyup, Lote 88",2009,20,+502 5990-1443
+355,TAL_GT0718_0354,Taller Familiar de Arte Tradicional Iximche en San Pedro La Laguna,Maestro Juan Tzoc,GT07,GT0718,"Cantón Tzanjuyup, Lote 38",2000,43,+502 4374-5747
+356,TAL_GT0719_0355,Cooperativa de Producción Artesanal Qeqchi de R.L. (Santiago Atitlán),Maestro Juan Tzoc,GT07,GT0719,"Cantón El Carmen, Lote 26",1972,39,+502 5595-7429
+357,TAL_GT0801_0356,Asociación de Artesanos Jaspe Popol de Totonicapán,Maestro Juana Ixcol,GT08,GT0801,"Cantón Centro, Lote 69",2009,40,+502 4578-6217
+358,TAL_GT0802_0357,Taller Familiar de Arte Tradicional Hunapu en San Cristóbal Totonicapán,Maestro Santiago Tupul,GT08,GT0802,"Cantón Centro, Lote 24",1981,28,+502 4303-5855
+359,TAL_GT0803_0358,Cooperativa de Producción Artesanal Xelaju de R.L. (San Francisco El Alto),Maestro Manuel Ixcol,GT08,GT0803,"Cantón Pachoc, Lote 92",1996,24,+502 4391-6943
+360,TAL_GT0804_0359,Asociación de Artesanos Kiche Utatlan de San Andrés Xecul,Maestro Rosa Tzoc,GT08,GT0804,"Cantón Xabajal, Lote 57",1992,41,+502 5499-1980
+361,TAL_GT0805_0360,Taller Familiar de Arte Tradicional Mam en Momostenango,Maestro Manuel  Fuentes,GT08,GT0805,"Cantón Xabajal, Lote 3",1973,33,+502 5373-8560
+362,TAL_GT0806_0361,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Santa María Chiquimula),Maestro Santiago Tupul,GT08,GT0806,"Cantón El Carmen, Lote 82",2020,37,+502 4503-7602
+363,TAL_GT0807_0362,Asociación de Artesanos Qeqchi Pacaya de Santa Lucía La Reforma,Maestro María Ixcol,GT08,GT0807,"Cantón Pachoc, Lote 78",1980,40,+502 4259-1225
+364,TAL_GT0808_0363,Taller Familiar de Arte Tradicional Popol en San Bartolo,Maestro María Coché,GT08,GT0808,"Cantón Centro, Lote 48",1993,20,+502 5951-8383
+365,TAL_GT0901_0364,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Quetzaltenango),Maestro Juan Coché,GT09,GT0901,"Cantón Centro, Lote 13",1981,26,+502 5360-6012
+366,TAL_GT0902_0365,Asociación de Artesanos Xelaju Sop de Salcajá,Maestro Pedro  Fuentes,GT09,GT0902,"Cantón Tzanjuyup, Lote 47",1997,6,+502 4590-6334
+367,TAL_GT0903_0366,Taller Familiar de Arte Tradicional Utatlan en Olintepeque,Maestro Santiago Chox,GT09,GT0903,"Cantón Pachoc, Lote 62",2013,16,+502 4035-5997
+368,TAL_GT0904_0367,Cooperativa de Producción Artesanal Chup de R.L. (San Carlos Sija),Maestro Pedro Mazariegos,GT09,GT0904,"Cantón El Carmen, Lote 64",1996,24,+502 4798-5212
+369,TAL_GT0905_0368,Asociación de Artesanos Cuchumatanes Patzun de Sibilia,Maestro Rosa Tax,GT09,GT0905,"Cantón Pachoc, Lote 56",2007,34,+502 4630-2074
+370,TAL_GT0906_0369,Taller Familiar de Arte Tradicional Pacaya en Cabricán,Maestro María Chox,GT09,GT0906,"Cantón El Carmen, Lote 37",2006,27,+502 5341-4916
+371,TAL_GT0907_0370,Cooperativa de Producción Artesanal Almolonga de R.L. (Cajolá),Maestro Juana Chox,GT09,GT0907,"Cantón Pachoc, Lote 29",1977,23,+502 4071-1253
+372,TAL_GT0908_0371,Asociación de Artesanos Cholsamaj Ixchel de San Miguel Sigüila,Maestro Manuel Tzoc,GT09,GT0908,"Cantón Pachoc, Lote 17",2018,16,+502 4828-2948
+373,TAL_GT0909_0372,Taller Familiar de Arte Tradicional Sop en Ostuncalco,Maestro Santiago Tupul,GT09,GT0909,"Cantón El Carmen, Lote 66",1998,44,+502 4126-9407
+374,TAL_GT0910_0373,Cooperativa de Producción Artesanal Atitlan de R.L. (San Mateo),Maestro Tomasa Tzoc,GT09,GT0910,"Cantón Centro, Lote 57",2012,23,+502 5803-1338
+375,TAL_GT0911_0374,Asociación de Artesanos Chup Iximche de Concepción Chiquirichapa,Maestro Rosa Ixcol,GT09,GT0911,"Cantón Xabajal, Lote 74",2000,37,+502 5971-1280
+376,TAL_GT0912_0375,Taller Familiar de Arte Tradicional Patzun en San Martín Sacatepéquez,Maestro Juan Tupul,GT09,GT0912,"Cantón El Carmen, Lote 10",1972,17,+502 5454-9716
+377,TAL_GT0913_0376,Cooperativa de Producción Artesanal Jaspe de R.L. (Almolonga),Maestro Juan Tupul,GT09,GT0913,"Cantón Pachoc, Lote 81",2009,28,+502 5637-1812
+378,TAL_GT0914_0377,Asociación de Artesanos Almolonga Hunapu de Cantel,Maestro María Mazariegos,GT09,GT0914,"Cantón Pachoc, Lote 62",2016,25,+502 4413-5436
+379,TAL_GT0915_0378,Taller Familiar de Arte Tradicional Ixchel en Huitán,Maestro Pedro  Fuentes,GT09,GT0915,"Cantón Pachoc, Lote 18",2001,27,+502 5109-6505
+380,TAL_GT0916_0379,Cooperativa de Producción Artesanal Kiche de R.L. (Zunil),Maestro Juana Tupul,GT09,GT0916,"Cantón Pachoc, Lote 36",2012,19,+502 4418-4709
+381,TAL_GT0917_0380,Asociación de Artesanos Atitlan Mam de Colomba,Maestro Rosa Mazariegos,GT09,GT0917,"Cantón Xabajal, Lote 39",1972,21,+502 5396-8618
+382,TAL_GT0918_0381,Taller Familiar de Arte Tradicional Iximche en San Francisco La Unión,Maestro Rosa Tax,GT09,GT0918,"Cantón Pachoc, Lote 13",2007,13,+502 5532-3007
+383,TAL_GT0919_0382,Cooperativa de Producción Artesanal Qeqchi de R.L. (El Palmar),Maestro Rosa Tupul,GT09,GT0919,"Cantón Tzanjuyup, Lote 74",1982,27,+502 5550-8125
+384,TAL_GT0920_0383,Asociación de Artesanos Jaspe Popol de Coatepeque,Maestro Tomasa Coché,GT09,GT0920,"Cantón El Carmen, Lote 30",1985,33,+502 4702-9028
+385,TAL_GT0921_0384,Taller Familiar de Arte Tradicional Hunapu en Génova,Maestro María Coché,GT09,GT0921,"Cantón Centro, Lote 95",1995,20,+502 5707-4455
+386,TAL_GT0922_0385,Cooperativa de Producción Artesanal Xelaju de R.L. (Flores Costa Cuca),Maestro Juana Ixcol,GT09,GT0922,"Cantón El Carmen, Lote 41",1973,12,+502 5028-7875
+387,TAL_GT0923_0386,Asociación de Artesanos Kiche Utatlan de La Esperanza,Maestro Rosa Tax,GT09,GT0923,"Cantón Tzanjuyup, Lote 71",1990,28,+502 5818-9375
+388,TAL_GT0924_0387,Taller Familiar de Arte Tradicional Mam en Palestina de Los Altos,Maestro Manuel  Fuentes,GT09,GT0924,"Cantón Xabajal, Lote 66",1974,33,+502 4227-9383
+389,TAL_GT1201_0388,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Marcos),Maestro Santiago Tax,GT12,GT1201,"Cantón Pachoc, Lote 19",1978,17,+502 5843-4641
+390,TAL_GT1202_0389,Asociación de Artesanos Qeqchi Pacaya de San Pedro Sacatepéquez,Maestro Pedro Tax,GT12,GT1202,"Cantón Centro, Lote 29",1972,16,+502 5035-1109
+391,TAL_GT1203_0390,Taller Familiar de Arte Tradicional Popol en San Antonio Sacatepéquez,Maestro María Coché,GT12,GT1203,"Cantón Tzanjuyup, Lote 25",2020,43,+502 5359-7407
+392,TAL_GT1204_0391,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Comitancillo),Maestro Pedro Chox,GT12,GT1204,"Cantón Xabajal, Lote 97",2014,12,+502 5640-7119
+393,TAL_GT1205_0392,Asociación de Artesanos Xelaju Sop de San Miguel Ixtahuacán,Maestro Manuel Ixcol,GT12,GT1205,"Cantón El Carmen, Lote 92",2018,42,+502 5828-4533
+394,TAL_GT1206_0393,Taller Familiar de Arte Tradicional Utatlan en Concepción Tutuapa,Maestro Juan Chox,GT12,GT1206,"Cantón Xabajal, Lote 20",1993,22,+502 4275-1923
+395,TAL_GT1207_0394,Cooperativa de Producción Artesanal Chup de R.L. (Tacaná),Maestro Manuel Ixcol,GT12,GT1207,"Cantón Centro, Lote 19",1985,30,+502 5109-9133
+396,TAL_GT1208_0395,Asociación de Artesanos Cuchumatanes Patzun de Sibinal,Maestro Santiago Tzoc,GT12,GT1208,"Cantón Xabajal, Lote 25",1995,43,+502 5214-1722
+397,TAL_GT1209_0396,Taller Familiar de Arte Tradicional Pacaya en Tajumulco,Maestro Juan Chox,GT12,GT1209,"Cantón Tzanjuyup, Lote 32",2020,19,+502 4611-2429
+398,TAL_GT1210_0397,Cooperativa de Producción Artesanal Almolonga de R.L. (Tejutla),Maestro María Tupul,GT12,GT1210,"Cantón Xabajal, Lote 69",2017,44,+502 5185-6872
+399,TAL_GT1211_0398,Asociación de Artesanos Cholsamaj Ixchel de San Rafael Pie de la Cuesta,Maestro Pedro Mazariegos,GT12,GT1211,"Cantón Xabajal, Lote 67",1996,39,+502 5054-7105
+400,TAL_GT1212_0399,Taller Familiar de Arte Tradicional Sop en Nuevo Progreso,Maestro Rosa Tupul,GT12,GT1212,"Cantón Xabajal, Lote 5",1982,40,+502 4256-2856
+401,TAL_GT1213_0400,Cooperativa de Producción Artesanal Atitlan de R.L. (El Tumbador),Maestro Juan Tupul,GT12,GT1213,"Cantón Tzanjuyup, Lote 55",2003,29,+502 4528-2821
+402,TAL_GT1214_0401,Asociación de Artesanos Chup Iximche de El Rodeo,Maestro Juana Ixcol,GT12,GT1214,"Cantón Xabajal, Lote 34",2022,18,+502 5577-8873
+403,TAL_GT1215_0402,Taller Familiar de Arte Tradicional Patzun en Malacatán,Maestro Juan Chox,GT12,GT1215,"Cantón Tzanjuyup, Lote 2",1999,5,+502 4966-9071
+404,TAL_GT1216_0403,Cooperativa de Producción Artesanal Jaspe de R.L. (Catarina),Maestro Pedro  Fuentes,GT12,GT1216,"Cantón Tzanjuyup, Lote 71",2004,32,+502 4797-1399
+405,TAL_GT1217_0404,Asociación de Artesanos Almolonga Hunapu de Ayutla,Maestro Santiago Chox,GT12,GT1217,"Cantón Xabajal, Lote 44",2018,10,+502 4407-4355
+406,TAL_GT1218_0405,Taller Familiar de Arte Tradicional Ixchel en Ocós,Maestro Pedro Chox,GT12,GT1218,"Cantón Pachoc, Lote 65",2006,33,+502 5755-9041
+407,TAL_GT1219_0406,Cooperativa de Producción Artesanal Kiche de R.L. (San Pablo),Maestro Pedro Ixcol,GT12,GT1219,"Cantón El Carmen, Lote 78",1979,22,+502 5351-3459
+408,TAL_GT1220_0407,Asociación de Artesanos Atitlan Mam de El Quetzal,Maestro Juana Tax,GT12,GT1220,"Cantón Centro, Lote 9",1996,19,+502 5973-1144
+409,TAL_GT1221_0408,Taller Familiar de Arte Tradicional Iximche en La Reforma,Maestro Rosa Mazariegos,GT12,GT1221,"Cantón Pachoc, Lote 78",1997,12,+502 5678-7491
+410,TAL_GT1222_0409,Cooperativa de Producción Artesanal Qeqchi de R.L. (Pajapita),Maestro Pedro Tax,GT12,GT1222,"Cantón Tzanjuyup, Lote 68",1984,9,+502 4069-9666
+411,TAL_GT1223_0410,Asociación de Artesanos Jaspe Popol de Ixchiguán,Maestro Juana Tupul,GT12,GT1223,"Cantón Centro, Lote 97",2015,25,+502 4019-5355
+412,TAL_GT1224_0411,Taller Familiar de Arte Tradicional Hunapu en San José Ojetenam,Maestro María Coché,GT12,GT1224,"Cantón Pachoc, Lote 73",1997,33,+502 5232-5978
+413,TAL_GT1225_0412,Cooperativa de Producción Artesanal Xelaju de R.L. (San Cristóbal Cucho),Maestro María Ixcol,GT12,GT1225,"Cantón Tzanjuyup, Lote 75",1985,24,+502 5331-2387
+414,TAL_GT1226_0413,Asociación de Artesanos Kiche Utatlan de Sipacapa,Maestro Pedro Coché,GT12,GT1226,"Cantón Pachoc, Lote 83",1979,41,+502 5821-5349
+415,TAL_GT1227_0414,Taller Familiar de Arte Tradicional Mam en Esquipulas Palo Gordo,Maestro Manuel Coché,GT12,GT1227,"Cantón Centro, Lote 46",1987,44,+502 4684-9169
+416,TAL_GT1228_0415,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Río Blanco),Maestro Pedro Tzoc,GT12,GT1228,"Cantón Centro, Lote 58",2003,10,+502 4837-5436
+417,TAL_GT1229_0416,Asociación de Artesanos Qeqchi Pacaya de San Lorenzo,Maestro Manuel Tupul,GT12,GT1229,"Cantón El Carmen, Lote 45",1992,30,+502 4978-7251
+418,TAL_GT1230_0417,Taller Familiar de Arte Tradicional Popol en La Blanca,Maestro Juana  Fuentes,GT12,GT1230,"Cantón Centro, Lote 11",2017,23,+502 4029-1740
+419,TAL_GT1301_0418,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Huehuetenango),Maestro Pedro Tupul,GT13,GT1301,"Cantón Pachoc, Lote 25",2001,6,+502 4239-4088
+420,TAL_GT1302_0419,Asociación de Artesanos Xelaju Sop de Chiantla,Maestro Rosa Coché,GT13,GT1302,"Cantón Pachoc, Lote 64",1970,43,+502 4463-9651
+421,TAL_GT1303_0420,Taller Familiar de Arte Tradicional Utatlan en Malacatancito,Maestro Rosa Tupul,GT13,GT1303,"Cantón Centro, Lote 76",2019,8,+502 4407-3310
+422,TAL_GT1304_0421,Cooperativa de Producción Artesanal Chup de R.L. (Cuilco),Maestro Rosa Coché,GT13,GT1304,"Cantón El Carmen, Lote 14",2013,29,+502 5599-9628
+423,TAL_GT1305_0422,Asociación de Artesanos Cuchumatanes Patzun de Nentón,Maestro Pedro Coché,GT13,GT1305,"Cantón Tzanjuyup, Lote 38",2017,13,+502 5741-5935
+424,TAL_GT1306_0423,Taller Familiar de Arte Tradicional Pacaya en San Pedro Necta,Maestro Juan Coché,GT13,GT1306,"Cantón Pachoc, Lote 79",1985,34,+502 4801-5787
+425,TAL_GT1307_0424,Cooperativa de Producción Artesanal Almolonga de R.L. (Jacaltenango),Maestro Juan Mazariegos,GT13,GT1307,"Cantón El Carmen, Lote 94",1992,10,+502 4080-5677
+426,TAL_GT1308_0425,Asociación de Artesanos Cholsamaj Ixchel de Soloma,Maestro Rosa  Fuentes,GT13,GT1308,"Cantón El Carmen, Lote 31",1983,37,+502 5271-1889
+427,TAL_GT1309_0426,Taller Familiar de Arte Tradicional Sop en Ixtahuacán,Maestro María Tzoc,GT13,GT1309,"Cantón Centro, Lote 58",1972,27,+502 4552-8144
+428,TAL_GT1310_0427,Cooperativa de Producción Artesanal Atitlan de R.L. (Santa Bárbara),Maestro Santiago  Fuentes,GT13,GT1310,"Cantón Tzanjuyup, Lote 93",1984,18,+502 5279-6515
+429,TAL_GT1311_0428,Asociación de Artesanos Chup Iximche de La Libertad,Maestro Santiago Tax,GT13,GT1311,"Cantón Pachoc, Lote 28",1992,21,+502 5915-8207
+430,TAL_GT1312_0429,Taller Familiar de Arte Tradicional Patzun en La Democracia,Maestro Rosa Tzoc,GT13,GT1312,"Cantón Pachoc, Lote 75",2017,9,+502 5458-9983
+431,TAL_GT1313_0430,Cooperativa de Producción Artesanal Jaspe de R.L. (San Miguel Acatán),Maestro Santiago Mazariegos,GT13,GT1313,"Cantón Tzanjuyup, Lote 42",2018,25,+502 5431-7756
+432,TAL_GT1314_0431,Asociación de Artesanos Almolonga Hunapu de San Rafael La Independencia,Maestro Santiago Tzoc,GT13,GT1314,"Cantón Tzanjuyup, Lote 36",1978,33,+502 5206-7033
+433,TAL_GT1315_0432,Taller Familiar de Arte Tradicional Ixchel en Todos Santos Cuchumatán,Maestro Rosa Ixcol,GT13,GT1315,"Cantón Xabajal, Lote 68",1991,40,+502 4302-5415
+434,TAL_GT1316_0433,Cooperativa de Producción Artesanal Kiche de R.L. (San Juan Atitán),Maestro Rosa Tax,GT13,GT1316,"Cantón Xabajal, Lote 1",2007,11,+502 4703-2272
+435,TAL_GT1317_0434,Asociación de Artesanos Atitlan Mam de Santa Eulalia,Maestro Juan Tupul,GT13,GT1317,"Cantón Centro, Lote 49",2015,20,+502 5083-2406
+436,TAL_GT1318_0435,Taller Familiar de Arte Tradicional Iximche en San Mateo Ixtatán,Maestro Pedro Tax,GT13,GT1318,"Cantón El Carmen, Lote 23",2018,43,+502 4912-3371
+437,TAL_GT1319_0436,Cooperativa de Producción Artesanal Qeqchi de R.L. (Colotenango),Maestro Juana  Fuentes,GT13,GT1319,"Cantón El Carmen, Lote 75",1998,39,+502 5796-8183
+438,TAL_GT1320_0437,Asociación de Artesanos Jaspe Popol de San Sebastián Huehuetenango,Maestro Juan Tax,GT13,GT1320,"Cantón Tzanjuyup, Lote 22",2003,31,+502 5987-6765
+439,TAL_GT1321_0438,Taller Familiar de Arte Tradicional Hunapu en Tectitán,Maestro Juan Tzoc,GT13,GT1321,"Cantón Tzanjuyup, Lote 66",2020,5,+502 4799-6585
+440,TAL_GT1322_0439,Cooperativa de Producción Artesanal Xelaju de R.L. (Concepción Huista),Maestro Juana Mazariegos,GT13,GT1322,"Cantón Centro, Lote 11",1972,41,+502 4790-3877
+441,TAL_GT1323_0440,Asociación de Artesanos Kiche Utatlan de San Juan Ixcoy,Maestro Tomasa Tzoc,GT13,GT1323,"Cantón El Carmen, Lote 61",2020,8,+502 5988-4695
+442,TAL_GT1324_0441,Taller Familiar de Arte Tradicional Mam en San Antonio Huista,Maestro Pedro Mazariegos,GT13,GT1324,"Cantón Centro, Lote 1",2001,42,+502 4040-5777
+443,TAL_GT1325_0442,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Sebastián Coatán),Maestro Juana Coché,GT13,GT1325,"Cantón El Carmen, Lote 67",1998,13,+502 5119-2355
+444,TAL_GT1326_0443,Asociación de Artesanos Qeqchi Pacaya de Barillas,Maestro Manuel Ixcol,GT13,GT1326,"Cantón Xabajal, Lote 85",2016,25,+502 5133-1539
+445,TAL_GT1327_0444,Taller Familiar de Arte Tradicional Popol en Aguacatán,Maestro Rosa Chox,GT13,GT1327,"Cantón Xabajal, Lote 96",1973,26,+502 4555-1496
+446,TAL_GT1328_0445,Cooperativa de Producción Artesanal Cholsamaj de R.L. (San Rafael Petzal),Maestro Rosa  Fuentes,GT13,GT1328,"Cantón Xabajal, Lote 83",2022,30,+502 4952-6559
+447,TAL_GT1329_0446,Asociación de Artesanos Xelaju Sop de San Gaspar Ixchil,Maestro Manuel Tupul,GT13,GT1329,"Cantón El Carmen, Lote 26",1990,10,+502 4232-8523
+448,TAL_GT1330_0447,Taller Familiar de Arte Tradicional Utatlan en Santiago Chimaltenango,Maestro Manuel Coché,GT13,GT1330,"Cantón Xabajal, Lote 81",2002,38,+502 5373-9501
+449,TAL_GT1331_0448,Cooperativa de Producción Artesanal Chup de R.L. (Santa Ana Huista),Maestro María Tax,GT13,GT1331,"Cantón Centro, Lote 77",1997,34,+502 5133-9446
+450,TAL_GT1332_0449,Asociación de Artesanos Cuchumatanes Patzun de Unión Cantinil,Maestro Juan Ixcol,GT13,GT1332,"Cantón Pachoc, Lote 19",1975,29,+502 5594-1250
+451,TAL_GT1333_0450,Taller Familiar de Arte Tradicional Pacaya en Petatán,Maestro Santiago Mazariegos,GT13,GT1333,"Cantón El Carmen, Lote 25",1984,30,+502 4340-4206
+452,TAL_GT1401_0451,Cooperativa de Producción Artesanal Almolonga de R.L. (Santa Cruz del Quiché),Maestro Manuel Tupul,GT14,GT1401,"Cantón Centro, Lote 77",2002,35,+502 5916-9253
+453,TAL_GT1402_0452,Asociación de Artesanos Cholsamaj Ixchel de Chiché,Maestro Juana Ixcol,GT14,GT1402,"Cantón Centro, Lote 62",2009,28,+502 4485-3930
+454,TAL_GT1403_0453,Taller Familiar de Arte Tradicional Sop en Chinique,Maestro Juana Ixcol,GT14,GT1403,"Cantón Tzanjuyup, Lote 26",1989,11,+502 5243-1155
+455,TAL_GT1404_0454,Cooperativa de Producción Artesanal Atitlan de R.L. (Zacualpa),Maestro María Tax,GT14,GT1404,"Cantón Centro, Lote 22",2019,16,+502 5607-1978
+456,TAL_GT1405_0455,Asociación de Artesanos Chup Iximche de Chajul,Maestro Pedro Mazariegos,GT14,GT1405,"Cantón Tzanjuyup, Lote 23",1976,30,+502 5041-3595
+457,TAL_GT1406_0456,Taller Familiar de Arte Tradicional Patzun en Chichicastenango,Maestro Juana Ixcol,GT14,GT1406,"Cantón Centro, Lote 4",1983,45,+502 4763-7688
+458,TAL_GT1407_0457,Cooperativa de Producción Artesanal Jaspe de R.L. (Patzité),Maestro Juana  Fuentes,GT14,GT1407,"Cantón El Carmen, Lote 13",1982,41,+502 4829-8195
+459,TAL_GT1408_0458,Asociación de Artesanos Almolonga Hunapu de San Antonio Ilotenango,Maestro Pedro Chox,GT14,GT1408,"Cantón Xabajal, Lote 18",1972,29,+502 5676-4605
+460,TAL_GT1409_0459,Taller Familiar de Arte Tradicional Ixchel en San Pedro Jocopilas,Maestro María Tax,GT14,GT1409,"Cantón Centro, Lote 66",2006,45,+502 5145-1525
+461,TAL_GT1410_0460,Cooperativa de Producción Artesanal Kiche de R.L. (Cunén),Maestro Juan Mazariegos,GT14,GT1410,"Cantón Pachoc, Lote 96",1995,24,+502 4974-2348
+462,TAL_GT1411_0461,Asociación de Artesanos Atitlan Mam de San Juan Cotzal,Maestro Juana Ixcol,GT14,GT1411,"Cantón El Carmen, Lote 61",2010,18,+502 5918-5429
+463,TAL_GT1412_0462,Taller Familiar de Arte Tradicional Iximche en Joyabaj,Maestro Juan Chox,GT14,GT1412,"Cantón Tzanjuyup, Lote 89",2022,23,+502 4407-5106
+464,TAL_GT1413_0463,Cooperativa de Producción Artesanal Qeqchi de R.L. (Nebaj),Maestro Tomasa Ixcol,GT14,GT1413,"Cantón Tzanjuyup, Lote 56",2002,33,+502 4879-7942
+465,TAL_GT1414_0464,Asociación de Artesanos Jaspe Popol de San Andrés Sajcabajá,Maestro María Chox,GT14,GT1414,"Cantón Centro, Lote 23",1972,27,+502 4239-7776
+466,TAL_GT1415_0465,Taller Familiar de Arte Tradicional Hunapu en Uspantán,Maestro María Tupul,GT14,GT1415,"Cantón Pachoc, Lote 35",2013,11,+502 4972-9599
+467,TAL_GT1416_0466,Cooperativa de Producción Artesanal Xelaju de R.L. (Sacapulas),Maestro Pedro Tax,GT14,GT1416,"Cantón Pachoc, Lote 69",1982,12,+502 4755-6603
+468,TAL_GT1417_0467,Asociación de Artesanos Kiche Utatlan de San Bartolomé Jocotenango,Maestro Juana Mazariegos,GT14,GT1417,"Cantón Pachoc, Lote 22",1995,16,+502 5239-6231
+469,TAL_GT1418_0468,Taller Familiar de Arte Tradicional Mam en Canillá,Maestro Pedro Mazariegos,GT14,GT1418,"Cantón El Carmen, Lote 13",1993,38,+502 5958-1689
+470,TAL_GT1419_0469,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Chicamán),Maestro Santiago Tzoc,GT14,GT1419,"Cantón Xabajal, Lote 83",2008,32,+502 5034-2812
+471,TAL_GT1420_0470,Asociación de Artesanos Qeqchi Pacaya de Ixcán,Maestro Rosa Tzoc,GT14,GT1420,"Cantón Tzanjuyup, Lote 40",1987,38,+502 5401-1460
+472,TAL_GT1421_0471,Taller Familiar de Arte Tradicional Popol en Pachalum,Maestro Santiago Mazariegos,GT14,GT1421,"Cantón Centro, Lote 18",2000,22,+502 5451-1379
+473,TAL_GT1501_0472,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Salamá),Maestro Tomasa Tax,GT15,GT1501,"Cantón Centro, Lote 87",2009,18,+502 4027-3224
+474,TAL_GT1502_0473,Asociación de Artesanos Xelaju Sop de San Miguel Chicaj,Maestro Tomasa Tzoc,GT15,GT1502,"Cantón Tzanjuyup, Lote 72",1974,15,+502 5960-6533
+475,TAL_GT1503_0474,Taller Familiar de Arte Tradicional Utatlan en Rabinal,Maestro Juana Tupul,GT15,GT1503,"Cantón El Carmen, Lote 8",2015,26,+502 4494-4231
+476,TAL_GT1504_0475,Cooperativa de Producción Artesanal Chup de R.L. (Cubulco),Maestro Pedro Mazariegos,GT15,GT1504,"Cantón Pachoc, Lote 73",1982,11,+502 4429-1432
+477,TAL_GT1505_0476,Asociación de Artesanos Cuchumatanes Patzun de Granados,Maestro Juan Chox,GT15,GT1505,"Cantón Xabajal, Lote 3",2006,29,+502 4337-3680
+478,TAL_GT1506_0477,Taller Familiar de Arte Tradicional Pacaya en El Chol,Maestro Pedro Ixcol,GT15,GT1506,"Cantón Pachoc, Lote 85",1970,39,+502 5251-7010
+479,TAL_GT1507_0478,Cooperativa de Producción Artesanal Almolonga de R.L. (San Jerónimo),Maestro Santiago  Fuentes,GT15,GT1507,"Cantón Xabajal, Lote 64",2010,32,+502 4926-8500
+480,TAL_GT1508_0479,Asociación de Artesanos Cholsamaj Ixchel de Purulhá,Maestro María Coché,GT15,GT1508,"Cantón Tzanjuyup, Lote 87",1990,43,+502 4467-8225
+481,TAL_GT0401_0480,Taller Familiar de Arte Tradicional Sop en Chimaltenango,Maestro Juana Tzoc,GT04,GT0401,"Cantón Centro, Lote 42",2019,26,+502 4818-2755
+482,TAL_GT0402_0481,Cooperativa de Producción Artesanal Atitlan de R.L. (San José Poaquil),Maestro Juana  Fuentes,GT04,GT0402,"Cantón Pachoc, Lote 7",2012,8,+502 4243-5781
+483,TAL_GT0403_0482,Asociación de Artesanos Chup Iximche de San Martín Jilotepeque,Maestro Juan Chox,GT04,GT0403,"Cantón Centro, Lote 54",2004,44,+502 4970-1426
+484,TAL_GT0404_0483,Taller Familiar de Arte Tradicional Patzun en Comalapa,Maestro Juana  Fuentes,GT04,GT0404,"Cantón Tzanjuyup, Lote 25",1979,34,+502 5515-4364
+485,TAL_GT0405_0484,Cooperativa de Producción Artesanal Jaspe de R.L. (Santa Apolonia),Maestro Santiago Coché,GT04,GT0405,"Cantón Xabajal, Lote 47",1976,18,+502 5353-6625
+486,TAL_GT0406_0485,Asociación de Artesanos Almolonga Hunapu de Tecpán Guatemala,Maestro Tomasa Mazariegos,GT04,GT0406,"Cantón El Carmen, Lote 42",2000,27,+502 5772-5191
+487,TAL_GT0407_0486,Taller Familiar de Arte Tradicional Ixchel en Patzún,Maestro Juan Tzoc,GT04,GT0407,"Cantón El Carmen, Lote 27",2015,42,+502 4695-6527
+488,TAL_GT0408_0487,Cooperativa de Producción Artesanal Kiche de R.L. (Pochuta),Maestro Rosa Chox,GT04,GT0408,"Cantón Xabajal, Lote 34",1996,43,+502 5704-3614
+489,TAL_GT0409_0488,Asociación de Artesanos Atitlan Mam de Patzicía,Maestro Santiago Tupul,GT04,GT0409,"Cantón El Carmen, Lote 18",1997,28,+502 5386-8944
+490,TAL_GT0410_0489,Taller Familiar de Arte Tradicional Iximche en Santa Cruz Balanyá,Maestro Manuel Chox,GT04,GT0410,"Cantón Pachoc, Lote 12",1977,12,+502 5667-6689
+491,TAL_GT0411_0490,Cooperativa de Producción Artesanal Qeqchi de R.L. (Acatenango),Maestro Juana Tax,GT04,GT0411,"Cantón Centro, Lote 2",2022,5,+502 4341-8943
+492,TAL_GT0412_0491,Asociación de Artesanos Jaspe Popol de Yepocapa,Maestro Pedro Tzoc,GT04,GT0412,"Cantón Xabajal, Lote 24",1992,30,+502 4410-2123
+493,TAL_GT0413_0492,Taller Familiar de Arte Tradicional Hunapu en San Andrés Itzapa,Maestro Manuel Ixcol,GT04,GT0413,"Cantón Centro, Lote 31",1975,10,+502 4425-7213
+494,TAL_GT0414_0493,Cooperativa de Producción Artesanal Xelaju de R.L. (Parramos),Maestro Juan Chox,GT04,GT0414,"Cantón Pachoc, Lote 44",2009,8,+502 4361-9037
+495,TAL_GT0415_0494,Asociación de Artesanos Kiche Utatlan de Zaragoza,Maestro Rosa Tzoc,GT04,GT0415,"Cantón Tzanjuyup, Lote 21",1980,31,+502 4487-4700
+496,TAL_GT0416_0495,Taller Familiar de Arte Tradicional Mam en El Tejar,Maestro María Ixcol,GT04,GT0416,"Cantón Xabajal, Lote 32",2000,26,+502 5549-8451
+497,TAL_GT0700_0496,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Lago De Atitlan),Maestro Rosa Tupul,GT07,GT0700,"Cantón Centro, Lote 86",1979,36,+502 4979-5243
+498,TAL_GT0701_0497,Asociación de Artesanos Qeqchi Pacaya de Sololá,Maestro Juana Ixcol,GT07,GT0701,"Cantón El Carmen, Lote 93",1971,8,+502 4912-4447
+499,TAL_GT0702_0498,Taller Familiar de Arte Tradicional Popol en San José Chacayá,Maestro Rosa Tupul,GT07,GT0702,"Cantón Pachoc, Lote 3",1972,43,+502 5559-3361
+500,TAL_GT0703_0499,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Santa María Visitación),Maestro Pedro Tzoc,GT07,GT0703,"Cantón El Carmen, Lote 69",1982,18,+502 4120-8338
+501,TAL_GT0704_0500,Asociación de Artesanos Xelaju Sop de Santa Lucía Utatlán,Maestro María Chox,GT07,GT0704,"Cantón Xabajal, Lote 33",2009,24,+502 5658-7454
+502,TAL_GT0705_0501,Taller Familiar de Arte Tradicional Utatlan en Nahualá,Maestro Pedro Coché,GT07,GT0705,"Cantón Tzanjuyup, Lote 92",2019,31,+502 5620-3947
+503,TAL_GT0706_0502,Cooperativa de Producción Artesanal Chup de R.L. (Santa Catarina Ixtahuacán),Maestro Rosa Tax,GT07,GT0706,"Cantón Pachoc, Lote 11",2014,12,+502 5399-8149
+504,TAL_GT0707_0503,Asociación de Artesanos Cuchumatanes Patzun de Santa Clara La Laguna,Maestro Tomasa Chox,GT07,GT0707,"Cantón Tzanjuyup, Lote 73",2014,36,+502 5529-5470
+505,TAL_GT0708_0504,Taller Familiar de Arte Tradicional Pacaya en Concepción,Maestro María Tzoc,GT07,GT0708,"Cantón Pachoc, Lote 3",2015,44,+502 4981-8130
+506,TAL_GT0709_0505,Cooperativa de Producción Artesanal Almolonga de R.L. (San Andrés Semetabaj),Maestro Tomasa Tzoc,GT07,GT0709,"Cantón Tzanjuyup, Lote 61",2000,44,+502 4862-3361
+507,TAL_GT0710_0506,Asociación de Artesanos Cholsamaj Ixchel de Panajachel,Maestro Rosa Coché,GT07,GT0710,"Cantón Tzanjuyup, Lote 51",2016,15,+502 4659-8245
+508,TAL_GT0711_0507,Taller Familiar de Arte Tradicional Sop en Santa Catarina Palopó,Maestro Rosa Tax,GT07,GT0711,"Cantón Xabajal, Lote 17",2022,38,+502 4041-1331
+509,TAL_GT0712_0508,Cooperativa de Producción Artesanal Atitlan de R.L. (San Antonio Palopó),Maestro Rosa Tupul,GT07,GT0712,"Cantón Xabajal, Lote 30",1979,11,+502 5130-1835
+510,TAL_GT0713_0509,Asociación de Artesanos Chup Iximche de San Lucas Tolimán,Maestro Juan Mazariegos,GT07,GT0713,"Cantón Centro, Lote 6",1981,12,+502 5033-6615
+511,TAL_GT0714_0510,Taller Familiar de Arte Tradicional Patzun en Santa Cruz La Laguna,Maestro Pedro  Fuentes,GT07,GT0714,"Cantón El Carmen, Lote 80",2011,12,+502 4512-5241
+512,TAL_GT0715_0511,Cooperativa de Producción Artesanal Jaspe de R.L. (San Pablo La Laguna),Maestro Pedro Mazariegos,GT07,GT0715,"Cantón Pachoc, Lote 98",2013,9,+502 4648-2614
+513,TAL_GT0716_0512,Asociación de Artesanos Almolonga Hunapu de San Marcos La Laguna,Maestro Santiago  Fuentes,GT07,GT0716,"Cantón Xabajal, Lote 44",1975,16,+502 5779-3639
+514,TAL_GT0717_0513,Taller Familiar de Arte Tradicional Ixchel en San Juan La Laguna,Maestro Manuel Coché,GT07,GT0717,"Cantón Xabajal, Lote 4",1975,31,+502 5693-3946
+515,TAL_GT0718_0514,Cooperativa de Producción Artesanal Kiche de R.L. (San Pedro La Laguna),Maestro Santiago  Fuentes,GT07,GT0718,"Cantón Xabajal, Lote 99",2017,14,+502 5118-9357
+516,TAL_GT0719_0515,Asociación de Artesanos Atitlan Mam de Santiago Atitlán,Maestro María Tzoc,GT07,GT0719,"Cantón Centro, Lote 35",2020,11,+502 4528-8672
+517,TAL_GT0801_0516,Taller Familiar de Arte Tradicional Iximche en Totonicapán,Maestro Juana Mazariegos,GT08,GT0801,"Cantón Pachoc, Lote 23",1971,7,+502 4460-3438
+518,TAL_GT0802_0517,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Cristóbal Totonicapán),Maestro Juan  Fuentes,GT08,GT0802,"Cantón Pachoc, Lote 17",2022,22,+502 4390-2523
+519,TAL_GT0803_0518,Asociación de Artesanos Jaspe Popol de San Francisco El Alto,Maestro Rosa Tax,GT08,GT0803,"Cantón Pachoc, Lote 36",2022,35,+502 4796-7169
+520,TAL_GT0804_0519,Taller Familiar de Arte Tradicional Hunapu en San Andrés Xecul,Maestro Manuel Tax,GT08,GT0804,"Cantón Xabajal, Lote 26",1987,37,+502 5295-4823
+521,TAL_GT0805_0520,Cooperativa de Producción Artesanal Xelaju de R.L. (Momostenango),Maestro Santiago Tax,GT08,GT0805,"Cantón Xabajal, Lote 53",1972,28,+502 4821-1387
+522,TAL_GT0806_0521,Asociación de Artesanos Kiche Utatlan de Santa María Chiquimula,Maestro María Tupul,GT08,GT0806,"Cantón El Carmen, Lote 84",1998,14,+502 5924-1815
+523,TAL_GT0807_0522,Taller Familiar de Arte Tradicional Mam en Santa Lucía La Reforma,Maestro María Tzoc,GT08,GT0807,"Cantón Tzanjuyup, Lote 8",2021,35,+502 4807-5616
+524,TAL_GT0808_0523,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Bartolo),Maestro Tomasa Tax,GT08,GT0808,"Cantón Centro, Lote 65",1970,28,+502 4542-2879
+525,TAL_GT0901_0524,Asociación de Artesanos Qeqchi Pacaya de Quetzaltenango,Maestro Pedro Mazariegos,GT09,GT0901,"Cantón Xabajal, Lote 88",1974,17,+502 5134-7371
+526,TAL_GT0902_0525,Taller Familiar de Arte Tradicional Popol en Salcajá,Maestro Pedro Mazariegos,GT09,GT0902,"Cantón El Carmen, Lote 47",1972,16,+502 4205-2981
+527,TAL_GT0903_0526,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Olintepeque),Maestro Juana Tupul,GT09,GT0903,"Cantón Centro, Lote 73",1983,23,+502 4590-7342
+528,TAL_GT0904_0527,Asociación de Artesanos Xelaju Sop de San Carlos Sija,Maestro Rosa Tzoc,GT09,GT0904,"Cantón Xabajal, Lote 79",1971,34,+502 5300-7927
+529,TAL_GT0905_0528,Taller Familiar de Arte Tradicional Utatlan en Sibilia,Maestro María Mazariegos,GT09,GT0905,"Cantón Xabajal, Lote 77",1970,11,+502 5451-8896
+530,TAL_GT0906_0529,Cooperativa de Producción Artesanal Chup de R.L. (Cabricán),Maestro Rosa Tax,GT09,GT0906,"Cantón Centro, Lote 82",1999,33,+502 4880-9217
+531,TAL_GT0907_0530,Asociación de Artesanos Cuchumatanes Patzun de Cajolá,Maestro María Tupul,GT09,GT0907,"Cantón Tzanjuyup, Lote 39",1989,41,+502 5638-3754
+532,TAL_GT0908_0531,Taller Familiar de Arte Tradicional Pacaya en San Miguel Sigüila,Maestro Juan Chox,GT09,GT0908,"Cantón Centro, Lote 57",2019,45,+502 5577-4281
+533,TAL_GT0909_0532,Cooperativa de Producción Artesanal Almolonga de R.L. (Ostuncalco),Maestro Santiago Tupul,GT09,GT0909,"Cantón Tzanjuyup, Lote 1",1999,17,+502 4769-3594
+534,TAL_GT0910_0533,Asociación de Artesanos Cholsamaj Ixchel de San Mateo,Maestro María Chox,GT09,GT0910,"Cantón El Carmen, Lote 91",2005,5,+502 4203-4736
+535,TAL_GT0911_0534,Taller Familiar de Arte Tradicional Sop en Concepción Chiquirichapa,Maestro Manuel Ixcol,GT09,GT0911,"Cantón Centro, Lote 52",2016,17,+502 4475-7144
+536,TAL_GT0912_0535,Cooperativa de Producción Artesanal Atitlan de R.L. (San Martín Sacatepéquez),Maestro Tomasa  Fuentes,GT09,GT0912,"Cantón Tzanjuyup, Lote 8",1971,22,+502 4698-3593
+537,TAL_GT0913_0536,Asociación de Artesanos Chup Iximche de Almolonga,Maestro Santiago Tax,GT09,GT0913,"Cantón Xabajal, Lote 57",1981,8,+502 4918-6624
+538,TAL_GT0914_0537,Taller Familiar de Arte Tradicional Patzun en Cantel,Maestro Rosa Mazariegos,GT09,GT0914,"Cantón Tzanjuyup, Lote 10",1983,12,+502 4196-9165
+539,TAL_GT0915_0538,Cooperativa de Producción Artesanal Jaspe de R.L. (Huitán),Maestro Tomasa Tax,GT09,GT0915,"Cantón Xabajal, Lote 5",1998,45,+502 5678-6087
+540,TAL_GT0916_0539,Asociación de Artesanos Almolonga Hunapu de Zunil,Maestro Manuel Tupul,GT09,GT0916,"Cantón Pachoc, Lote 71",2022,7,+502 5341-1541
+541,TAL_GT0917_0540,Taller Familiar de Arte Tradicional Ixchel en Colomba,Maestro María Tzoc,GT09,GT0917,"Cantón Tzanjuyup, Lote 69",1975,23,+502 5518-6213
+542,TAL_GT0918_0541,Cooperativa de Producción Artesanal Kiche de R.L. (San Francisco La Unión),Maestro Tomasa Coché,GT09,GT0918,"Cantón Pachoc, Lote 73",2015,11,+502 5303-7148
+543,TAL_GT0919_0542,Asociación de Artesanos Atitlan Mam de El Palmar,Maestro María Ixcol,GT09,GT0919,"Cantón El Carmen, Lote 39",1994,10,+502 5024-9893
+544,TAL_GT0920_0543,Taller Familiar de Arte Tradicional Iximche en Coatepeque,Maestro Manuel Chox,GT09,GT0920,"Cantón Tzanjuyup, Lote 92",2002,25,+502 5638-9169
+545,TAL_GT0921_0544,Cooperativa de Producción Artesanal Qeqchi de R.L. (Génova),Maestro Manuel Tupul,GT09,GT0921,"Cantón El Carmen, Lote 44",1977,26,+502 4646-9571
+546,TAL_GT0922_0545,Asociación de Artesanos Jaspe Popol de Flores Costa Cuca,Maestro Santiago Tax,GT09,GT0922,"Cantón Tzanjuyup, Lote 46",1971,12,+502 5967-3117
+547,TAL_GT0923_0546,Taller Familiar de Arte Tradicional Hunapu en La Esperanza,Maestro Tomasa Tzoc,GT09,GT0923,"Cantón Centro, Lote 24",1980,12,+502 5562-8550
+548,TAL_GT0924_0547,Cooperativa de Producción Artesanal Xelaju de R.L. (Palestina de Los Altos),Maestro Juan Tupul,GT09,GT0924,"Cantón Pachoc, Lote 8",1977,10,+502 5410-4333
+549,TAL_GT1201_0548,Asociación de Artesanos Kiche Utatlan de San Marcos,Maestro Santiago Chox,GT12,GT1201,"Cantón Xabajal, Lote 6",2011,31,+502 4296-8984
+550,TAL_GT1202_0549,Taller Familiar de Arte Tradicional Mam en San Pedro Sacatepéquez,Maestro Manuel Tax,GT12,GT1202,"Cantón Pachoc, Lote 88",1971,18,+502 4662-2391
+551,TAL_GT1203_0550,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Antonio Sacatepéquez),Maestro Manuel Mazariegos,GT12,GT1203,"Cantón Tzanjuyup, Lote 92",1974,13,+502 4086-4969
+552,TAL_GT1204_0551,Asociación de Artesanos Qeqchi Pacaya de Comitancillo,Maestro Juana  Fuentes,GT12,GT1204,"Cantón Centro, Lote 89",2003,30,+502 4988-7678
+553,TAL_GT1205_0552,Taller Familiar de Arte Tradicional Popol en San Miguel Ixtahuacán,Maestro Juan Mazariegos,GT12,GT1205,"Cantón Tzanjuyup, Lote 87",2018,12,+502 5401-4304
+554,TAL_GT1206_0553,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Concepción Tutuapa),Maestro Tomasa Coché,GT12,GT1206,"Cantón Tzanjuyup, Lote 39",1973,25,+502 4007-6333
+555,TAL_GT1207_0554,Asociación de Artesanos Xelaju Sop de Tacaná,Maestro Santiago Chox,GT12,GT1207,"Cantón Centro, Lote 96",1977,7,+502 4863-5000
+556,TAL_GT1208_0555,Taller Familiar de Arte Tradicional Utatlan en Sibinal,Maestro María  Fuentes,GT12,GT1208,"Cantón El Carmen, Lote 63",2003,44,+502 4256-4899
+557,TAL_GT1209_0556,Cooperativa de Producción Artesanal Chup de R.L. (Tajumulco),Maestro Rosa Ixcol,GT12,GT1209,"Cantón Pachoc, Lote 82",1994,18,+502 4510-8090
+558,TAL_GT1210_0557,Asociación de Artesanos Cuchumatanes Patzun de Tejutla,Maestro Santiago Tzoc,GT12,GT1210,"Cantón El Carmen, Lote 61",1984,40,+502 5139-3039
+559,TAL_GT1211_0558,Taller Familiar de Arte Tradicional Pacaya en San Rafael Pie de la Cuesta,Maestro Pedro  Fuentes,GT12,GT1211,"Cantón Tzanjuyup, Lote 82",2009,35,+502 5008-3698
+560,TAL_GT1212_0559,Cooperativa de Producción Artesanal Almolonga de R.L. (Nuevo Progreso),Maestro María Tzoc,GT12,GT1212,"Cantón Pachoc, Lote 45",2013,25,+502 4942-7981
+561,TAL_GT1213_0560,Asociación de Artesanos Cholsamaj Ixchel de El Tumbador,Maestro María Mazariegos,GT12,GT1213,"Cantón Centro, Lote 20",1997,9,+502 5489-6826
+562,TAL_GT1214_0561,Taller Familiar de Arte Tradicional Sop en El Rodeo,Maestro María Tupul,GT12,GT1214,"Cantón Xabajal, Lote 1",2017,33,+502 5719-7806
+563,TAL_GT1215_0562,Cooperativa de Producción Artesanal Atitlan de R.L. (Malacatán),Maestro María Mazariegos,GT12,GT1215,"Cantón Pachoc, Lote 9",1996,20,+502 5252-4849
+564,TAL_GT1216_0563,Asociación de Artesanos Chup Iximche de Catarina,Maestro Juan Coché,GT12,GT1216,"Cantón Tzanjuyup, Lote 12",2010,41,+502 4278-5539
+565,TAL_GT1217_0564,Taller Familiar de Arte Tradicional Patzun en Ayutla,Maestro Juan Ixcol,GT12,GT1217,"Cantón El Carmen, Lote 80",2011,33,+502 4734-2544
+566,TAL_GT1218_0565,Cooperativa de Producción Artesanal Jaspe de R.L. (Ocós),Maestro Juan  Fuentes,GT12,GT1218,"Cantón El Carmen, Lote 41",1986,33,+502 4530-8402
+567,TAL_GT1219_0566,Asociación de Artesanos Almolonga Hunapu de San Pablo,Maestro María Chox,GT12,GT1219,"Cantón Pachoc, Lote 39",1994,37,+502 5858-7122
+568,TAL_GT1220_0567,Taller Familiar de Arte Tradicional Ixchel en El Quetzal,Maestro Juana Chox,GT12,GT1220,"Cantón El Carmen, Lote 22",2018,21,+502 5685-6620
+569,TAL_GT1221_0568,Cooperativa de Producción Artesanal Kiche de R.L. (La Reforma),Maestro María Chox,GT12,GT1221,"Cantón Tzanjuyup, Lote 95",2022,14,+502 4928-9223
+570,TAL_GT1222_0569,Asociación de Artesanos Atitlan Mam de Pajapita,Maestro Santiago Tupul,GT12,GT1222,"Cantón Xabajal, Lote 90",1995,36,+502 5652-2566
+571,TAL_GT1223_0570,Taller Familiar de Arte Tradicional Iximche en Ixchiguán,Maestro Juana Coché,GT12,GT1223,"Cantón Pachoc, Lote 15",2018,28,+502 5085-1251
+572,TAL_GT1224_0571,Cooperativa de Producción Artesanal Qeqchi de R.L. (San José Ojetenam),Maestro Rosa Tax,GT12,GT1224,"Cantón Xabajal, Lote 12",1984,33,+502 5786-8413
+573,TAL_GT1225_0572,Asociación de Artesanos Jaspe Popol de San Cristóbal Cucho,Maestro María Ixcol,GT12,GT1225,"Cantón Xabajal, Lote 25",2022,15,+502 5361-2296
+574,TAL_GT1226_0573,Taller Familiar de Arte Tradicional Hunapu en Sipacapa,Maestro Juan Mazariegos,GT12,GT1226,"Cantón Xabajal, Lote 53",1976,39,+502 5460-3491
+575,TAL_GT1227_0574,Cooperativa de Producción Artesanal Xelaju de R.L. (Esquipulas Palo Gordo),Maestro Santiago Coché,GT12,GT1227,"Cantón Centro, Lote 87",1996,18,+502 5595-1008
+576,TAL_GT1228_0575,Asociación de Artesanos Kiche Utatlan de Río Blanco,Maestro Rosa Chox,GT12,GT1228,"Cantón Xabajal, Lote 3",2021,19,+502 5073-5976
+577,TAL_GT1229_0576,Taller Familiar de Arte Tradicional Mam en San Lorenzo,Maestro María Ixcol,GT12,GT1229,"Cantón El Carmen, Lote 9",2017,25,+502 5047-7890
+578,TAL_GT1230_0577,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (La Blanca),Maestro Juan Coché,GT12,GT1230,"Cantón Centro, Lote 15",2017,32,+502 5999-9808
+579,TAL_GT1301_0578,Asociación de Artesanos Qeqchi Pacaya de Huehuetenango,Maestro Santiago Tzoc,GT13,GT1301,"Cantón Centro, Lote 83",1987,42,+502 5344-5238
+580,TAL_GT1302_0579,Taller Familiar de Arte Tradicional Popol en Chiantla,Maestro Juan Mazariegos,GT13,GT1302,"Cantón El Carmen, Lote 23",2012,20,+502 5273-5321
+581,TAL_GT1303_0580,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Malacatancito),Maestro Tomasa Ixcol,GT13,GT1303,"Cantón Tzanjuyup, Lote 46",1997,23,+502 4181-8896
+582,TAL_GT1304_0581,Asociación de Artesanos Xelaju Sop de Cuilco,Maestro Rosa Tzoc,GT13,GT1304,"Cantón Pachoc, Lote 85",1984,13,+502 4720-6088
+583,TAL_GT1305_0582,Taller Familiar de Arte Tradicional Utatlan en Nentón,Maestro Pedro Tax,GT13,GT1305,"Cantón Tzanjuyup, Lote 26",2022,7,+502 4206-5637
+584,TAL_GT1306_0583,Cooperativa de Producción Artesanal Chup de R.L. (San Pedro Necta),Maestro Tomasa  Fuentes,GT13,GT1306,"Cantón Pachoc, Lote 77",1995,19,+502 5818-7505
+585,TAL_GT1307_0584,Asociación de Artesanos Cuchumatanes Patzun de Jacaltenango,Maestro Tomasa Coché,GT13,GT1307,"Cantón Tzanjuyup, Lote 40",1993,36,+502 4682-2141
+586,TAL_GT1308_0585,Taller Familiar de Arte Tradicional Pacaya en Soloma,Maestro María Mazariegos,GT13,GT1308,"Cantón Xabajal, Lote 100",2001,34,+502 4069-7012
+587,TAL_GT1309_0586,Cooperativa de Producción Artesanal Almolonga de R.L. (Ixtahuacán),Maestro Rosa Ixcol,GT13,GT1309,"Cantón Xabajal, Lote 47",2010,21,+502 4691-8523
+588,TAL_GT1310_0587,Asociación de Artesanos Cholsamaj Ixchel de Santa Bárbara,Maestro Pedro Tzoc,GT13,GT1310,"Cantón Centro, Lote 83",1989,17,+502 4572-3778
+589,TAL_GT1311_0588,Taller Familiar de Arte Tradicional Sop en La Libertad,Maestro Rosa Tax,GT13,GT1311,"Cantón Pachoc, Lote 50",1980,17,+502 4824-9276
+590,TAL_GT1312_0589,Cooperativa de Producción Artesanal Atitlan de R.L. (La Democracia),Maestro Santiago Tupul,GT13,GT1312,"Cantón El Carmen, Lote 43",1991,12,+502 5806-1568
+591,TAL_GT1313_0590,Asociación de Artesanos Chup Iximche de San Miguel Acatán,Maestro Juan Tax,GT13,GT1313,"Cantón Xabajal, Lote 17",2002,19,+502 5140-4548
+592,TAL_GT1314_0591,Taller Familiar de Arte Tradicional Patzun en San Rafael La Independencia,Maestro María Tzoc,GT13,GT1314,"Cantón Pachoc, Lote 97",1970,20,+502 5086-4075
+593,TAL_GT1315_0592,Cooperativa de Producción Artesanal Jaspe de R.L. (Todos Santos Cuchumatán),Maestro Rosa Ixcol,GT13,GT1315,"Cantón Tzanjuyup, Lote 97",1990,43,+502 5913-3308
+594,TAL_GT1316_0593,Asociación de Artesanos Almolonga Hunapu de San Juan Atitán,Maestro Pedro Tupul,GT13,GT1316,"Cantón Tzanjuyup, Lote 80",2012,45,+502 4064-1896
+595,TAL_GT1317_0594,Taller Familiar de Arte Tradicional Ixchel en Santa Eulalia,Maestro María Ixcol,GT13,GT1317,"Cantón Tzanjuyup, Lote 3",2013,35,+502 5587-7790
+596,TAL_GT1318_0595,Cooperativa de Producción Artesanal Kiche de R.L. (San Mateo Ixtatán),Maestro Tomasa Coché,GT13,GT1318,"Cantón Pachoc, Lote 1",1970,13,+502 4454-8379
+597,TAL_GT1319_0596,Asociación de Artesanos Atitlan Mam de Colotenango,Maestro Juan Ixcol,GT13,GT1319,"Cantón Tzanjuyup, Lote 64",1970,28,+502 4845-2906
+598,TAL_GT1320_0597,Taller Familiar de Arte Tradicional Iximche en San Sebastián Huehuetenango,Maestro Pedro Chox,GT13,GT1320,"Cantón Centro, Lote 39",2009,37,+502 4057-1527
+599,TAL_GT1321_0598,Cooperativa de Producción Artesanal Qeqchi de R.L. (Tectitán),Maestro Juana Tzoc,GT13,GT1321,"Cantón Tzanjuyup, Lote 16",1977,9,+502 5271-6891
+600,TAL_GT1322_0599,Asociación de Artesanos Jaspe Popol de Concepción Huista,Maestro Juan Coché,GT13,GT1322,"Cantón Xabajal, Lote 86",2000,16,+502 5013-7924
+601,TAL_GT1323_0600,Taller Familiar de Arte Tradicional Hunapu en San Juan Ixcoy,Maestro Tomasa  Fuentes,GT13,GT1323,"Cantón Xabajal, Lote 61",2001,22,+502 5906-8068
+602,TAL_GT1324_0601,Cooperativa de Producción Artesanal Xelaju de R.L. (San Antonio Huista),Maestro Juana Chox,GT13,GT1324,"Cantón Tzanjuyup, Lote 42",1993,45,+502 4625-7870
+603,TAL_GT1325_0602,Asociación de Artesanos Kiche Utatlan de San Sebastián Coatán,Maestro Juana Tupul,GT13,GT1325,"Cantón El Carmen, Lote 40",1986,41,+502 5110-8567
+604,TAL_GT1326_0603,Taller Familiar de Arte Tradicional Mam en Barillas,Maestro María  Fuentes,GT13,GT1326,"Cantón Xabajal, Lote 91",1981,21,+502 4743-2842
+605,TAL_GT1327_0604,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Aguacatán),Maestro María Tzoc,GT13,GT1327,"Cantón Xabajal, Lote 55",1987,26,+502 4728-3907
+606,TAL_GT1328_0605,Asociación de Artesanos Qeqchi Pacaya de San Rafael Petzal,Maestro Rosa Tax,GT13,GT1328,"Cantón Xabajal, Lote 64",1983,16,+502 4804-2573
+607,TAL_GT1329_0606,Taller Familiar de Arte Tradicional Popol en San Gaspar Ixchil,Maestro Rosa Tupul,GT13,GT1329,"Cantón El Carmen, Lote 48",1982,43,+502 4368-5196
+608,TAL_GT1330_0607,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Santiago Chimaltenango),Maestro Tomasa Tax,GT13,GT1330,"Cantón Xabajal, Lote 26",1978,39,+502 4520-5349
+609,TAL_GT1331_0608,Asociación de Artesanos Xelaju Sop de Santa Ana Huista,Maestro Pedro  Fuentes,GT13,GT1331,"Cantón Tzanjuyup, Lote 34",1992,36,+502 5715-7373
+610,TAL_GT1332_0609,Taller Familiar de Arte Tradicional Utatlan en Unión Cantinil,Maestro Manuel Tax,GT13,GT1332,"Cantón Centro, Lote 56",2003,40,+502 5763-4497
+611,TAL_GT1333_0610,Cooperativa de Producción Artesanal Chup de R.L. (Petatán),Maestro Juana Chox,GT13,GT1333,"Cantón Tzanjuyup, Lote 18",1988,29,+502 5335-2922
+612,TAL_GT1401_0611,Asociación de Artesanos Cuchumatanes Patzun de Santa Cruz del Quiché,Maestro Manuel Ixcol,GT14,GT1401,"Cantón El Carmen, Lote 84",1979,13,+502 4015-2643
+613,TAL_GT1402_0612,Taller Familiar de Arte Tradicional Pacaya en Chiché,Maestro Santiago Tupul,GT14,GT1402,"Cantón Pachoc, Lote 51",1977,22,+502 4586-8313
+614,TAL_GT1403_0613,Cooperativa de Producción Artesanal Almolonga de R.L. (Chinique),Maestro Tomasa Tax,GT14,GT1403,"Cantón Pachoc, Lote 76",1995,10,+502 4508-4762
+615,TAL_GT1404_0614,Asociación de Artesanos Cholsamaj Ixchel de Zacualpa,Maestro María  Fuentes,GT14,GT1404,"Cantón Xabajal, Lote 29",1974,32,+502 5233-9174
+616,TAL_GT1405_0615,Taller Familiar de Arte Tradicional Sop en Chajul,Maestro Juan Chox,GT14,GT1405,"Cantón Pachoc, Lote 32",1975,20,+502 5682-2773
+617,TAL_GT1406_0616,Cooperativa de Producción Artesanal Atitlan de R.L. (Chichicastenango),Maestro Juan Ixcol,GT14,GT1406,"Cantón Centro, Lote 13",1972,22,+502 5240-3056
+618,TAL_GT1407_0617,Asociación de Artesanos Chup Iximche de Patzité,Maestro Juan Tax,GT14,GT1407,"Cantón Tzanjuyup, Lote 6",1979,29,+502 5583-9259
+619,TAL_GT1408_0618,Taller Familiar de Arte Tradicional Patzun en San Antonio Ilotenango,Maestro Pedro Tzoc,GT14,GT1408,"Cantón Xabajal, Lote 96",2018,19,+502 4041-1051
+620,TAL_GT1409_0619,Cooperativa de Producción Artesanal Jaspe de R.L. (San Pedro Jocopilas),Maestro Juan Tax,GT14,GT1409,"Cantón Xabajal, Lote 94",1996,25,+502 5376-1434
+621,TAL_GT1410_0620,Asociación de Artesanos Almolonga Hunapu de Cunén,Maestro Pedro Tax,GT14,GT1410,"Cantón Tzanjuyup, Lote 71",2011,12,+502 5223-4286
+622,TAL_GT1411_0621,Taller Familiar de Arte Tradicional Ixchel en San Juan Cotzal,Maestro Juana Tupul,GT14,GT1411,"Cantón Pachoc, Lote 63",2008,42,+502 4293-1658
+623,TAL_GT1412_0622,Cooperativa de Producción Artesanal Kiche de R.L. (Joyabaj),Maestro Manuel Coché,GT14,GT1412,"Cantón Tzanjuyup, Lote 9",2015,12,+502 5784-3619
+624,TAL_GT1413_0623,Asociación de Artesanos Atitlan Mam de Nebaj,Maestro Tomasa Tzoc,GT14,GT1413,"Cantón Tzanjuyup, Lote 68",2003,11,+502 5753-1478
+625,TAL_GT1414_0624,Taller Familiar de Arte Tradicional Iximche en San Andrés Sajcabajá,Maestro Tomasa Coché,GT14,GT1414,"Cantón Pachoc, Lote 5",2018,17,+502 4485-9339
+626,TAL_GT1415_0625,Cooperativa de Producción Artesanal Qeqchi de R.L. (Uspantán),Maestro Juana Tzoc,GT14,GT1415,"Cantón Pachoc, Lote 24",2014,42,+502 5082-3370
+627,TAL_GT1416_0626,Asociación de Artesanos Jaspe Popol de Sacapulas,Maestro Manuel  Fuentes,GT14,GT1416,"Cantón Pachoc, Lote 5",1985,30,+502 4809-5840
+628,TAL_GT1417_0627,Taller Familiar de Arte Tradicional Hunapu en San Bartolomé Jocotenango,Maestro María Tzoc,GT14,GT1417,"Cantón Tzanjuyup, Lote 77",2012,18,+502 5258-3925
+629,TAL_GT1418_0628,Cooperativa de Producción Artesanal Xelaju de R.L. (Canillá),Maestro Rosa Coché,GT14,GT1418,"Cantón Pachoc, Lote 16",2008,6,+502 4577-9328
+630,TAL_GT1419_0629,Asociación de Artesanos Kiche Utatlan de Chicamán,Maestro Juana Mazariegos,GT14,GT1419,"Cantón Centro, Lote 72",1983,37,+502 5910-3574
+631,TAL_GT1420_0630,Taller Familiar de Arte Tradicional Mam en Ixcán,Maestro Santiago Tax,GT14,GT1420,"Cantón Centro, Lote 96",1985,29,+502 4550-2836
+632,TAL_GT1421_0631,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Pachalum),Maestro Juana  Fuentes,GT14,GT1421,"Cantón El Carmen, Lote 3",2011,34,+502 5753-6758
+633,TAL_GT1501_0632,Asociación de Artesanos Qeqchi Pacaya de Salamá,Maestro Manuel Coché,GT15,GT1501,"Cantón El Carmen, Lote 71",1981,35,+502 5966-6706
+634,TAL_GT1502_0633,Taller Familiar de Arte Tradicional Popol en San Miguel Chicaj,Maestro Juana Tupul,GT15,GT1502,"Cantón Centro, Lote 4",2011,15,+502 4209-2711
+635,TAL_GT1503_0634,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Rabinal),Maestro Pedro Ixcol,GT15,GT1503,"Cantón Pachoc, Lote 95",2008,7,+502 4645-3132
+636,TAL_GT1504_0635,Asociación de Artesanos Xelaju Sop de Cubulco,Maestro Tomasa Chox,GT15,GT1504,"Cantón Pachoc, Lote 72",1978,28,+502 4356-8244
+637,TAL_GT1505_0636,Taller Familiar de Arte Tradicional Utatlan en Granados,Maestro Juan Mazariegos,GT15,GT1505,"Cantón Tzanjuyup, Lote 57",1999,29,+502 5376-1692
+638,TAL_GT1506_0637,Cooperativa de Producción Artesanal Chup de R.L. (El Chol),Maestro Rosa Ixcol,GT15,GT1506,"Cantón El Carmen, Lote 35",2002,20,+502 4544-4780
+639,TAL_GT1507_0638,Asociación de Artesanos Cuchumatanes Patzun de San Jerónimo,Maestro Tomasa Tupul,GT15,GT1507,"Cantón El Carmen, Lote 12",1980,38,+502 4526-8131
+640,TAL_GT1508_0639,Taller Familiar de Arte Tradicional Pacaya en Purulhá,Maestro Juana Tax,GT15,GT1508,"Cantón Xabajal, Lote 77",2015,12,+502 5678-3396
+641,TAL_GT0401_0640,Cooperativa de Producción Artesanal Almolonga de R.L. (Chimaltenango),Maestro Juana Tax,GT04,GT0401,"Cantón Xabajal, Lote 37",2005,42,+502 4346-8213
+642,TAL_GT0402_0641,Asociación de Artesanos Cholsamaj Ixchel de San José Poaquil,Maestro Juana Tax,GT04,GT0402,"Cantón El Carmen, Lote 26",2006,13,+502 5720-8222
+643,TAL_GT0403_0642,Taller Familiar de Arte Tradicional Sop en San Martín Jilotepeque,Maestro María  Fuentes,GT04,GT0403,"Cantón Pachoc, Lote 21",2015,13,+502 5359-6613
+644,TAL_GT0404_0643,Cooperativa de Producción Artesanal Atitlan de R.L. (Comalapa),Maestro Juan Ixcol,GT04,GT0404,"Cantón Xabajal, Lote 53",1971,37,+502 5020-6257
+645,TAL_GT0405_0644,Asociación de Artesanos Chup Iximche de Santa Apolonia,Maestro María Chox,GT04,GT0405,"Cantón Centro, Lote 76",1999,30,+502 5462-9416
+646,TAL_GT0406_0645,Taller Familiar de Arte Tradicional Patzun en Tecpán Guatemala,Maestro Pedro Coché,GT04,GT0406,"Cantón Tzanjuyup, Lote 18",1988,18,+502 5547-6590
+647,TAL_GT0407_0646,Cooperativa de Producción Artesanal Jaspe de R.L. (Patzún),Maestro Rosa Coché,GT04,GT0407,"Cantón Tzanjuyup, Lote 80",1982,16,+502 5229-7465
+648,TAL_GT0408_0647,Asociación de Artesanos Almolonga Hunapu de Pochuta,Maestro Manuel Tzoc,GT04,GT0408,"Cantón Tzanjuyup, Lote 64",1994,31,+502 4766-2814
+649,TAL_GT0409_0648,Taller Familiar de Arte Tradicional Ixchel en Patzicía,Maestro Pedro Tupul,GT04,GT0409,"Cantón Tzanjuyup, Lote 39",1995,24,+502 5194-1684
+650,TAL_GT0410_0649,Cooperativa de Producción Artesanal Kiche de R.L. (Santa Cruz Balanyá),Maestro Santiago Tzoc,GT04,GT0410,"Cantón Tzanjuyup, Lote 28",2019,26,+502 4991-9660
+651,TAL_GT0411_0650,Asociación de Artesanos Atitlan Mam de Acatenango,Maestro Pedro Mazariegos,GT04,GT0411,"Cantón El Carmen, Lote 22",1998,18,+502 5589-1870
+652,TAL_GT0412_0651,Taller Familiar de Arte Tradicional Iximche en Yepocapa,Maestro Juan Ixcol,GT04,GT0412,"Cantón Tzanjuyup, Lote 96",1970,8,+502 5687-8495
+653,TAL_GT0413_0652,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Andrés Itzapa),Maestro María Mazariegos,GT04,GT0413,"Cantón Pachoc, Lote 8",1980,36,+502 5421-6429
+654,TAL_GT0414_0653,Asociación de Artesanos Jaspe Popol de Parramos,Maestro Rosa Tzoc,GT04,GT0414,"Cantón Tzanjuyup, Lote 20",2020,41,+502 4644-8717
+655,TAL_GT0415_0654,Taller Familiar de Arte Tradicional Hunapu en Zaragoza,Maestro Santiago Mazariegos,GT04,GT0415,"Cantón Centro, Lote 41",2002,19,+502 5335-2829
+656,TAL_GT0416_0655,Cooperativa de Producción Artesanal Xelaju de R.L. (El Tejar),Maestro María Mazariegos,GT04,GT0416,"Cantón Centro, Lote 49",2006,7,+502 5753-2533
+657,TAL_GT0700_0656,Asociación de Artesanos Kiche Utatlan de Lago De Atitlan,Maestro Santiago Tax,GT07,GT0700,"Cantón Pachoc, Lote 92",2000,10,+502 5917-9502
+658,TAL_GT0701_0657,Taller Familiar de Arte Tradicional Mam en Sololá,Maestro Santiago  Fuentes,GT07,GT0701,"Cantón Pachoc, Lote 5",1979,12,+502 5273-8707
+659,TAL_GT0702_0658,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San José Chacayá),Maestro Rosa Ixcol,GT07,GT0702,"Cantón El Carmen, Lote 8",2022,14,+502 4330-6338
+660,TAL_GT0703_0659,Asociación de Artesanos Qeqchi Pacaya de Santa María Visitación,Maestro Rosa Tupul,GT07,GT0703,"Cantón Tzanjuyup, Lote 69",1992,32,+502 5339-4984
+661,TAL_GT0704_0660,Taller Familiar de Arte Tradicional Popol en Santa Lucía Utatlán,Maestro María Mazariegos,GT07,GT0704,"Cantón El Carmen, Lote 42",1999,21,+502 5263-2157
+662,TAL_GT0705_0661,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Nahualá),Maestro Juana Ixcol,GT07,GT0705,"Cantón Xabajal, Lote 4",1976,27,+502 4554-2102
+663,TAL_GT0706_0662,Asociación de Artesanos Xelaju Sop de Santa Catarina Ixtahuacán,Maestro María  Fuentes,GT07,GT0706,"Cantón Pachoc, Lote 54",1987,25,+502 4500-9373
+664,TAL_GT0707_0663,Taller Familiar de Arte Tradicional Utatlan en Santa Clara La Laguna,Maestro Juana Mazariegos,GT07,GT0707,"Cantón Centro, Lote 11",2012,30,+502 5862-4269
+665,TAL_GT0708_0664,Cooperativa de Producción Artesanal Chup de R.L. (Concepción),Maestro Juan Tax,GT07,GT0708,"Cantón Xabajal, Lote 71",1983,27,+502 4797-3125
+666,TAL_GT0709_0665,Asociación de Artesanos Cuchumatanes Patzun de San Andrés Semetabaj,Maestro Rosa Tax,GT07,GT0709,"Cantón Tzanjuyup, Lote 73",1986,18,+502 5092-6947
+667,TAL_GT0710_0666,Taller Familiar de Arte Tradicional Pacaya en Panajachel,Maestro Juan Chox,GT07,GT0710,"Cantón Tzanjuyup, Lote 3",1997,25,+502 5598-6407
+668,TAL_GT0711_0667,Cooperativa de Producción Artesanal Almolonga de R.L. (Santa Catarina Palopó),Maestro Rosa Coché,GT07,GT0711,"Cantón Xabajal, Lote 63",1974,36,+502 5902-7918
+669,TAL_GT0712_0668,Asociación de Artesanos Cholsamaj Ixchel de San Antonio Palopó,Maestro Tomasa Tzoc,GT07,GT0712,"Cantón Tzanjuyup, Lote 97",2003,21,+502 4924-5301
+670,TAL_GT0713_0669,Taller Familiar de Arte Tradicional Sop en San Lucas Tolimán,Maestro Juana  Fuentes,GT07,GT0713,"Cantón El Carmen, Lote 72",1971,25,+502 5429-3127
+671,TAL_GT0714_0670,Cooperativa de Producción Artesanal Atitlan de R.L. (Santa Cruz La Laguna),Maestro Manuel Tzoc,GT07,GT0714,"Cantón Pachoc, Lote 52",2021,11,+502 5764-4470
+672,TAL_GT0715_0671,Asociación de Artesanos Chup Iximche de San Pablo La Laguna,Maestro Santiago Mazariegos,GT07,GT0715,"Cantón Xabajal, Lote 69",2019,36,+502 4021-2775
+673,TAL_GT0716_0672,Taller Familiar de Arte Tradicional Patzun en San Marcos La Laguna,Maestro Rosa Ixcol,GT07,GT0716,"Cantón Tzanjuyup, Lote 7",1995,26,+502 4799-5017
+674,TAL_GT0717_0673,Cooperativa de Producción Artesanal Jaspe de R.L. (San Juan La Laguna),Maestro Manuel Chox,GT07,GT0717,"Cantón Tzanjuyup, Lote 100",1995,41,+502 5961-9207
+675,TAL_GT0718_0674,Asociación de Artesanos Almolonga Hunapu de San Pedro La Laguna,Maestro Juana Ixcol,GT07,GT0718,"Cantón Pachoc, Lote 79",2017,35,+502 5443-6241
+676,TAL_GT0719_0675,Taller Familiar de Arte Tradicional Ixchel en Santiago Atitlán,Maestro Santiago Tzoc,GT07,GT0719,"Cantón El Carmen, Lote 37",2014,25,+502 5627-5432
+677,TAL_GT0801_0676,Cooperativa de Producción Artesanal Kiche de R.L. (Totonicapán),Maestro Juana Tzoc,GT08,GT0801,"Cantón Centro, Lote 82",2012,8,+502 5673-1926
+678,TAL_GT0802_0677,Asociación de Artesanos Atitlan Mam de San Cristóbal Totonicapán,Maestro Manuel Coché,GT08,GT0802,"Cantón Centro, Lote 32",2009,29,+502 4800-4960
+679,TAL_GT0803_0678,Taller Familiar de Arte Tradicional Iximche en San Francisco El Alto,Maestro Juan Coché,GT08,GT0803,"Cantón Tzanjuyup, Lote 22",1984,27,+502 5938-9152
+680,TAL_GT0804_0679,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Andrés Xecul),Maestro Pedro Mazariegos,GT08,GT0804,"Cantón El Carmen, Lote 2",2011,25,+502 5855-8957
+681,TAL_GT0805_0680,Asociación de Artesanos Jaspe Popol de Momostenango,Maestro Juana Coché,GT08,GT0805,"Cantón Tzanjuyup, Lote 5",1992,26,+502 4553-8689
+682,TAL_GT0806_0681,Taller Familiar de Arte Tradicional Hunapu en Santa María Chiquimula,Maestro Santiago Tupul,GT08,GT0806,"Cantón Tzanjuyup, Lote 21",2007,39,+502 4859-5823
+683,TAL_GT0807_0682,Cooperativa de Producción Artesanal Xelaju de R.L. (Santa Lucía La Reforma),Maestro Rosa Coché,GT08,GT0807,"Cantón Tzanjuyup, Lote 8",1983,5,+502 5243-4000
+684,TAL_GT0808_0683,Asociación de Artesanos Kiche Utatlan de San Bartolo,Maestro Rosa Ixcol,GT08,GT0808,"Cantón Centro, Lote 16",2021,40,+502 4229-5673
+685,TAL_GT0901_0684,Taller Familiar de Arte Tradicional Mam en Quetzaltenango,Maestro Pedro Mazariegos,GT09,GT0901,"Cantón Xabajal, Lote 12",1982,26,+502 5740-1377
+686,TAL_GT0902_0685,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Salcajá),Maestro Pedro Mazariegos,GT09,GT0902,"Cantón Tzanjuyup, Lote 49",2020,5,+502 5649-7665
+687,TAL_GT0903_0686,Asociación de Artesanos Qeqchi Pacaya de Olintepeque,Maestro María Chox,GT09,GT0903,"Cantón Tzanjuyup, Lote 86",1995,11,+502 5602-3226
+688,TAL_GT0904_0687,Taller Familiar de Arte Tradicional Popol en San Carlos Sija,Maestro Juana Tupul,GT09,GT0904,"Cantón Centro, Lote 35",2009,31,+502 5850-5380
+689,TAL_GT0905_0688,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Sibilia),Maestro María Mazariegos,GT09,GT0905,"Cantón Centro, Lote 35",1970,32,+502 4065-4795
+690,TAL_GT0906_0689,Asociación de Artesanos Xelaju Sop de Cabricán,Maestro Juana Tax,GT09,GT0906,"Cantón Xabajal, Lote 68",2001,34,+502 5501-3045
+691,TAL_GT0907_0690,Taller Familiar de Arte Tradicional Utatlan en Cajolá,Maestro Santiago Mazariegos,GT09,GT0907,"Cantón El Carmen, Lote 52",1988,40,+502 5303-7082
+692,TAL_GT0908_0691,Cooperativa de Producción Artesanal Chup de R.L. (San Miguel Sigüila),Maestro Santiago  Fuentes,GT09,GT0908,"Cantón El Carmen, Lote 24",1970,36,+502 5455-9428
+693,TAL_GT0909_0692,Asociación de Artesanos Cuchumatanes Patzun de Ostuncalco,Maestro Tomasa Tzoc,GT09,GT0909,"Cantón Xabajal, Lote 27",2003,17,+502 5063-6992
+694,TAL_GT0910_0693,Taller Familiar de Arte Tradicional Pacaya en San Mateo,Maestro Juana Tax,GT09,GT0910,"Cantón Centro, Lote 66",1979,17,+502 4577-9372
+695,TAL_GT0911_0694,Cooperativa de Producción Artesanal Almolonga de R.L. (Concepción Chiquirichapa),Maestro Juan Chox,GT09,GT0911,"Cantón Pachoc, Lote 97",2007,8,+502 5809-1876
+696,TAL_GT0912_0695,Asociación de Artesanos Cholsamaj Ixchel de San Martín Sacatepéquez,Maestro Pedro Mazariegos,GT09,GT0912,"Cantón Xabajal, Lote 48",1983,20,+502 4213-9797
+697,TAL_GT0913_0696,Taller Familiar de Arte Tradicional Sop en Almolonga,Maestro María Tzoc,GT09,GT0913,"Cantón Tzanjuyup, Lote 59",1992,25,+502 4631-8734
+698,TAL_GT0914_0697,Cooperativa de Producción Artesanal Atitlan de R.L. (Cantel),Maestro Pedro Tzoc,GT09,GT0914,"Cantón Xabajal, Lote 66",1971,39,+502 5845-8145
+699,TAL_GT0915_0698,Asociación de Artesanos Chup Iximche de Huitán,Maestro Manuel Tax,GT09,GT0915,"Cantón El Carmen, Lote 58",2003,25,+502 5299-2176
+700,TAL_GT0916_0699,Taller Familiar de Arte Tradicional Patzun en Zunil,Maestro Pedro  Fuentes,GT09,GT0916,"Cantón Centro, Lote 14",1984,43,+502 5922-6224
+701,TAL_GT0917_0700,Cooperativa de Producción Artesanal Jaspe de R.L. (Colomba),Maestro María Tzoc,GT09,GT0917,"Cantón Tzanjuyup, Lote 68",2012,20,+502 5764-2691
+702,TAL_GT0918_0701,Asociación de Artesanos Almolonga Hunapu de San Francisco La Unión,Maestro Santiago  Fuentes,GT09,GT0918,"Cantón Xabajal, Lote 59",1981,35,+502 4978-8245
+703,TAL_GT0919_0702,Taller Familiar de Arte Tradicional Ixchel en El Palmar,Maestro Tomasa Chox,GT09,GT0919,"Cantón Pachoc, Lote 37",1996,5,+502 4271-2127
+704,TAL_GT0920_0703,Cooperativa de Producción Artesanal Kiche de R.L. (Coatepeque),Maestro Rosa Chox,GT09,GT0920,"Cantón Xabajal, Lote 92",1977,23,+502 4162-3500
+705,TAL_GT0921_0704,Asociación de Artesanos Atitlan Mam de Génova,Maestro Juan Tzoc,GT09,GT0921,"Cantón Xabajal, Lote 7",2013,41,+502 4978-3577
+706,TAL_GT0922_0705,Taller Familiar de Arte Tradicional Iximche en Flores Costa Cuca,Maestro María Tax,GT09,GT0922,"Cantón Xabajal, Lote 67",2019,30,+502 4487-3604
+707,TAL_GT0923_0706,Cooperativa de Producción Artesanal Qeqchi de R.L. (La Esperanza),Maestro Tomasa Chox,GT09,GT0923,"Cantón Tzanjuyup, Lote 73",2010,23,+502 5771-3071
+708,TAL_GT0924_0707,Asociación de Artesanos Jaspe Popol de Palestina de Los Altos,Maestro Juana Coché,GT09,GT0924,"Cantón El Carmen, Lote 2",1999,35,+502 4452-5563
+709,TAL_GT1201_0708,Taller Familiar de Arte Tradicional Hunapu en San Marcos,Maestro Tomasa Ixcol,GT12,GT1201,"Cantón Tzanjuyup, Lote 96",1984,37,+502 5159-3625
+710,TAL_GT1202_0709,Cooperativa de Producción Artesanal Xelaju de R.L. (San Pedro Sacatepéquez),Maestro Santiago Coché,GT12,GT1202,"Cantón Centro, Lote 71",1970,26,+502 5930-6120
+711,TAL_GT1203_0710,Asociación de Artesanos Kiche Utatlan de San Antonio Sacatepéquez,Maestro Juana Coché,GT12,GT1203,"Cantón Pachoc, Lote 80",2009,32,+502 5241-8320
+712,TAL_GT1204_0711,Taller Familiar de Arte Tradicional Mam en Comitancillo,Maestro Manuel Coché,GT12,GT1204,"Cantón Pachoc, Lote 43",1973,14,+502 4676-6667
+713,TAL_GT1205_0712,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Miguel Ixtahuacán),Maestro Tomasa Chox,GT12,GT1205,"Cantón El Carmen, Lote 36",2007,9,+502 4705-5133
+714,TAL_GT1206_0713,Asociación de Artesanos Qeqchi Pacaya de Concepción Tutuapa,Maestro Pedro Tzoc,GT12,GT1206,"Cantón Xabajal, Lote 80",1971,41,+502 5548-3709
+715,TAL_GT1207_0714,Taller Familiar de Arte Tradicional Popol en Tacaná,Maestro Pedro Coché,GT12,GT1207,"Cantón Centro, Lote 30",1989,32,+502 4293-5618
+716,TAL_GT1208_0715,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Sibinal),Maestro Manuel Tax,GT12,GT1208,"Cantón Xabajal, Lote 67",1973,42,+502 4974-4125
+717,TAL_GT1209_0716,Asociación de Artesanos Xelaju Sop de Tajumulco,Maestro María Tax,GT12,GT1209,"Cantón Xabajal, Lote 89",2005,45,+502 4483-7495
+718,TAL_GT1210_0717,Taller Familiar de Arte Tradicional Utatlan en Tejutla,Maestro Pedro Tax,GT12,GT1210,"Cantón Pachoc, Lote 35",1976,39,+502 5929-7484
+719,TAL_GT1211_0718,Cooperativa de Producción Artesanal Chup de R.L. (San Rafael Pie de la Cuesta),Maestro Rosa Tupul,GT12,GT1211,"Cantón Pachoc, Lote 38",1996,6,+502 4953-3461
+720,TAL_GT1212_0719,Asociación de Artesanos Cuchumatanes Patzun de Nuevo Progreso,Maestro Santiago Tax,GT12,GT1212,"Cantón Xabajal, Lote 21",2003,14,+502 4332-2542
+721,TAL_GT1213_0720,Taller Familiar de Arte Tradicional Pacaya en El Tumbador,Maestro Juan Coché,GT12,GT1213,"Cantón El Carmen, Lote 34",1980,42,+502 4103-6636
+722,TAL_GT1214_0721,Cooperativa de Producción Artesanal Almolonga de R.L. (El Rodeo),Maestro Manuel Tax,GT12,GT1214,"Cantón Xabajal, Lote 75",1981,37,+502 5875-3581
+723,TAL_GT1215_0722,Asociación de Artesanos Cholsamaj Ixchel de Malacatán,Maestro Santiago Tzoc,GT12,GT1215,"Cantón Tzanjuyup, Lote 21",1985,7,+502 4190-5237
+724,TAL_GT1216_0723,Taller Familiar de Arte Tradicional Sop en Catarina,Maestro Manuel Tax,GT12,GT1216,"Cantón Centro, Lote 100",1997,32,+502 4011-4697
+725,TAL_GT1217_0724,Cooperativa de Producción Artesanal Atitlan de R.L. (Ayutla),Maestro Pedro Coché,GT12,GT1217,"Cantón Pachoc, Lote 44",2004,31,+502 5540-7813
+726,TAL_GT1218_0725,Asociación de Artesanos Chup Iximche de Ocós,Maestro Tomasa Tax,GT12,GT1218,"Cantón El Carmen, Lote 37",2015,22,+502 4224-4912
+727,TAL_GT1219_0726,Taller Familiar de Arte Tradicional Patzun en San Pablo,Maestro Tomasa Chox,GT12,GT1219,"Cantón Xabajal, Lote 88",1970,25,+502 4657-2170
+728,TAL_GT1220_0727,Cooperativa de Producción Artesanal Jaspe de R.L. (El Quetzal),Maestro Juana Chox,GT12,GT1220,"Cantón Centro, Lote 65",2001,16,+502 4242-7694
+729,TAL_GT1221_0728,Asociación de Artesanos Almolonga Hunapu de La Reforma,Maestro Pedro Tax,GT12,GT1221,"Cantón El Carmen, Lote 48",1970,8,+502 5283-4663
+730,TAL_GT1222_0729,Taller Familiar de Arte Tradicional Ixchel en Pajapita,Maestro Pedro Mazariegos,GT12,GT1222,"Cantón El Carmen, Lote 1",1990,27,+502 4004-1327
+731,TAL_GT1223_0730,Cooperativa de Producción Artesanal Kiche de R.L. (Ixchiguán),Maestro Manuel  Fuentes,GT12,GT1223,"Cantón Pachoc, Lote 46",2008,16,+502 4848-7883
+732,TAL_GT1224_0731,Asociación de Artesanos Atitlan Mam de San José Ojetenam,Maestro Juana Coché,GT12,GT1224,"Cantón El Carmen, Lote 67",1974,10,+502 5272-1013
+733,TAL_GT1225_0732,Taller Familiar de Arte Tradicional Iximche en San Cristóbal Cucho,Maestro Pedro  Fuentes,GT12,GT1225,"Cantón Pachoc, Lote 56",1980,18,+502 4591-9058
+734,TAL_GT1226_0733,Cooperativa de Producción Artesanal Qeqchi de R.L. (Sipacapa),Maestro Pedro Mazariegos,GT12,GT1226,"Cantón Tzanjuyup, Lote 22",2000,35,+502 5795-3494
+735,TAL_GT1227_0734,Asociación de Artesanos Jaspe Popol de Esquipulas Palo Gordo,Maestro María Tupul,GT12,GT1227,"Cantón El Carmen, Lote 59",1984,21,+502 4206-1804
+736,TAL_GT1228_0735,Taller Familiar de Arte Tradicional Hunapu en Río Blanco,Maestro María Tzoc,GT12,GT1228,"Cantón El Carmen, Lote 74",2003,31,+502 5084-8911
+737,TAL_GT1229_0736,Cooperativa de Producción Artesanal Xelaju de R.L. (San Lorenzo),Maestro Santiago Tupul,GT12,GT1229,"Cantón Tzanjuyup, Lote 78",2005,10,+502 5597-8779
+738,TAL_GT1230_0737,Asociación de Artesanos Kiche Utatlan de La Blanca,Maestro Juan Chox,GT12,GT1230,"Cantón Tzanjuyup, Lote 10",2017,42,+502 4405-9237
+739,TAL_GT1301_0738,Taller Familiar de Arte Tradicional Mam en Huehuetenango,Maestro Santiago  Fuentes,GT13,GT1301,"Cantón El Carmen, Lote 43",1986,13,+502 4819-3318
+740,TAL_GT1302_0739,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Chiantla),Maestro Juan Chox,GT13,GT1302,"Cantón Pachoc, Lote 26",2005,22,+502 5783-9741
+741,TAL_GT1303_0740,Asociación de Artesanos Qeqchi Pacaya de Malacatancito,Maestro Santiago Mazariegos,GT13,GT1303,"Cantón Pachoc, Lote 23",1980,24,+502 4751-8725
+742,TAL_GT1304_0741,Taller Familiar de Arte Tradicional Popol en Cuilco,Maestro Manuel Chox,GT13,GT1304,"Cantón Centro, Lote 36",2015,34,+502 4614-5443
+743,TAL_GT1305_0742,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Nentón),Maestro Pedro Mazariegos,GT13,GT1305,"Cantón Xabajal, Lote 80",2008,17,+502 5479-4796
+744,TAL_GT1306_0743,Asociación de Artesanos Xelaju Sop de San Pedro Necta,Maestro Manuel Tzoc,GT13,GT1306,"Cantón Xabajal, Lote 74",2008,7,+502 4176-5879
+745,TAL_GT1307_0744,Taller Familiar de Arte Tradicional Utatlan en Jacaltenango,Maestro Tomasa Ixcol,GT13,GT1307,"Cantón Pachoc, Lote 63",1990,21,+502 5995-1191
+746,TAL_GT1308_0745,Cooperativa de Producción Artesanal Chup de R.L. (Soloma),Maestro Pedro Chox,GT13,GT1308,"Cantón Pachoc, Lote 54",1993,42,+502 5419-1036
+747,TAL_GT1309_0746,Asociación de Artesanos Cuchumatanes Patzun de Ixtahuacán,Maestro Rosa Tzoc,GT13,GT1309,"Cantón Tzanjuyup, Lote 75",2008,33,+502 5962-4151
+748,TAL_GT1310_0747,Taller Familiar de Arte Tradicional Pacaya en Santa Bárbara,Maestro Pedro Tax,GT13,GT1310,"Cantón Pachoc, Lote 87",2001,32,+502 5537-2348
+749,TAL_GT1311_0748,Cooperativa de Producción Artesanal Almolonga de R.L. (La Libertad),Maestro Santiago  Fuentes,GT13,GT1311,"Cantón Pachoc, Lote 32",1973,23,+502 4641-1570
+750,TAL_GT1312_0749,Asociación de Artesanos Cholsamaj Ixchel de La Democracia,Maestro Tomasa Tzoc,GT13,GT1312,"Cantón Pachoc, Lote 80",1996,45,+502 5353-3671
+751,TAL_GT1313_0750,Taller Familiar de Arte Tradicional Sop en San Miguel Acatán,Maestro Manuel  Fuentes,GT13,GT1313,"Cantón El Carmen, Lote 92",1980,17,+502 5548-4246
+752,TAL_GT1314_0751,Cooperativa de Producción Artesanal Atitlan de R.L. (San Rafael La Independencia),Maestro Rosa Mazariegos,GT13,GT1314,"Cantón Tzanjuyup, Lote 72",1972,39,+502 4937-7340
+753,TAL_GT1315_0752,Asociación de Artesanos Chup Iximche de Todos Santos Cuchumatán,Maestro Tomasa Mazariegos,GT13,GT1315,"Cantón Tzanjuyup, Lote 14",1984,41,+502 4912-5841
+754,TAL_GT1316_0753,Taller Familiar de Arte Tradicional Patzun en San Juan Atitán,Maestro Santiago Coché,GT13,GT1316,"Cantón El Carmen, Lote 69",2013,40,+502 4297-5010
+755,TAL_GT1317_0754,Cooperativa de Producción Artesanal Jaspe de R.L. (Santa Eulalia),Maestro Juana  Fuentes,GT13,GT1317,"Cantón Tzanjuyup, Lote 78",2010,44,+502 4819-8038
+756,TAL_GT1318_0755,Asociación de Artesanos Almolonga Hunapu de San Mateo Ixtatán,Maestro María Mazariegos,GT13,GT1318,"Cantón Centro, Lote 81",2009,17,+502 5063-4495
+757,TAL_GT1319_0756,Taller Familiar de Arte Tradicional Ixchel en Colotenango,Maestro Juana  Fuentes,GT13,GT1319,"Cantón El Carmen, Lote 72",1982,20,+502 4212-1839
+758,TAL_GT1320_0757,Cooperativa de Producción Artesanal Kiche de R.L. (San Sebastián Huehuetenango),Maestro Rosa Mazariegos,GT13,GT1320,"Cantón Xabajal, Lote 38",1998,13,+502 5023-4466
+759,TAL_GT1321_0758,Asociación de Artesanos Atitlan Mam de Tectitán,Maestro Pedro Chox,GT13,GT1321,"Cantón Xabajal, Lote 57",2009,7,+502 4787-8214
+760,TAL_GT1322_0759,Taller Familiar de Arte Tradicional Iximche en Concepción Huista,Maestro Rosa Ixcol,GT13,GT1322,"Cantón Tzanjuyup, Lote 56",1988,10,+502 5656-5855
+761,TAL_GT1323_0760,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Juan Ixcoy),Maestro Rosa Chox,GT13,GT1323,"Cantón Tzanjuyup, Lote 65",1993,30,+502 4975-9436
+762,TAL_GT1324_0761,Asociación de Artesanos Jaspe Popol de San Antonio Huista,Maestro Santiago Mazariegos,GT13,GT1324,"Cantón El Carmen, Lote 100",1990,45,+502 4828-9023
+763,TAL_GT1325_0762,Taller Familiar de Arte Tradicional Hunapu en San Sebastián Coatán,Maestro Juana Tzoc,GT13,GT1325,"Cantón El Carmen, Lote 68",1978,10,+502 4487-3940
+764,TAL_GT1326_0763,Cooperativa de Producción Artesanal Xelaju de R.L. (Barillas),Maestro Manuel Chox,GT13,GT1326,"Cantón El Carmen, Lote 89",2019,36,+502 5496-5132
+765,TAL_GT1327_0764,Asociación de Artesanos Kiche Utatlan de Aguacatán,Maestro Juana Tupul,GT13,GT1327,"Cantón Centro, Lote 57",2012,42,+502 5884-5313
+766,TAL_GT1328_0765,Taller Familiar de Arte Tradicional Mam en San Rafael Petzal,Maestro Tomasa Tax,GT13,GT1328,"Cantón Centro, Lote 52",2004,12,+502 5091-4324
+767,TAL_GT1329_0766,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Gaspar Ixchil),Maestro Pedro Tzoc,GT13,GT1329,"Cantón Centro, Lote 55",2007,7,+502 5063-4481
+768,TAL_GT1330_0767,Asociación de Artesanos Qeqchi Pacaya de Santiago Chimaltenango,Maestro Santiago  Fuentes,GT13,GT1330,"Cantón Tzanjuyup, Lote 93",1990,22,+502 5198-5677
+769,TAL_GT1331_0768,Taller Familiar de Arte Tradicional Popol en Santa Ana Huista,Maestro Santiago  Fuentes,GT13,GT1331,"Cantón Pachoc, Lote 100",1984,9,+502 4794-7130
+770,TAL_GT1332_0769,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Unión Cantinil),Maestro Tomasa Tzoc,GT13,GT1332,"Cantón El Carmen, Lote 85",1982,41,+502 5165-3236
+771,TAL_GT1333_0770,Asociación de Artesanos Xelaju Sop de Petatán,Maestro Santiago Mazariegos,GT13,GT1333,"Cantón Centro, Lote 77",2000,13,+502 5606-9423
+772,TAL_GT1401_0771,Taller Familiar de Arte Tradicional Utatlan en Santa Cruz del Quiché,Maestro Pedro Mazariegos,GT14,GT1401,"Cantón Centro, Lote 53",2018,31,+502 4067-3458
+773,TAL_GT1402_0772,Cooperativa de Producción Artesanal Chup de R.L. (Chiché),Maestro María Tax,GT14,GT1402,"Cantón Centro, Lote 75",1998,24,+502 4654-9947
+774,TAL_GT1403_0773,Asociación de Artesanos Cuchumatanes Patzun de Chinique,Maestro Juana Ixcol,GT14,GT1403,"Cantón Tzanjuyup, Lote 17",1971,45,+502 4673-7551
+775,TAL_GT1404_0774,Taller Familiar de Arte Tradicional Pacaya en Zacualpa,Maestro Pedro Tax,GT14,GT1404,"Cantón Pachoc, Lote 72",1993,7,+502 4412-1073
+776,TAL_GT1405_0775,Cooperativa de Producción Artesanal Almolonga de R.L. (Chajul),Maestro Juana Tupul,GT14,GT1405,"Cantón Xabajal, Lote 73",2008,35,+502 4327-6485
+777,TAL_GT1406_0776,Asociación de Artesanos Cholsamaj Ixchel de Chichicastenango,Maestro Manuel Coché,GT14,GT1406,"Cantón Tzanjuyup, Lote 40",2007,29,+502 4668-4234
+778,TAL_GT1407_0777,Taller Familiar de Arte Tradicional Sop en Patzité,Maestro Rosa Chox,GT14,GT1407,"Cantón Xabajal, Lote 18",2012,42,+502 5399-5500
+779,TAL_GT1408_0778,Cooperativa de Producción Artesanal Atitlan de R.L. (San Antonio Ilotenango),Maestro Juan Tzoc,GT14,GT1408,"Cantón Tzanjuyup, Lote 78",1984,15,+502 5681-8831
+780,TAL_GT1409_0779,Asociación de Artesanos Chup Iximche de San Pedro Jocopilas,Maestro Pedro Chox,GT14,GT1409,"Cantón Xabajal, Lote 66",2017,21,+502 5868-6301
+781,TAL_GT1410_0780,Taller Familiar de Arte Tradicional Patzun en Cunén,Maestro Juana Ixcol,GT14,GT1410,"Cantón Tzanjuyup, Lote 23",2021,12,+502 4452-4879
+782,TAL_GT1411_0781,Cooperativa de Producción Artesanal Jaspe de R.L. (San Juan Cotzal),Maestro Manuel Coché,GT14,GT1411,"Cantón Tzanjuyup, Lote 76",2009,9,+502 5324-5651
+783,TAL_GT1412_0782,Asociación de Artesanos Almolonga Hunapu de Joyabaj,Maestro Tomasa Tupul,GT14,GT1412,"Cantón Tzanjuyup, Lote 87",1970,39,+502 5577-2717
+784,TAL_GT1413_0783,Taller Familiar de Arte Tradicional Ixchel en Nebaj,Maestro María Chox,GT14,GT1413,"Cantón Centro, Lote 22",1996,13,+502 4193-1470
+785,TAL_GT1414_0784,Cooperativa de Producción Artesanal Kiche de R.L. (San Andrés Sajcabajá),Maestro Rosa Mazariegos,GT14,GT1414,"Cantón Tzanjuyup, Lote 43",2013,9,+502 5494-8732
+786,TAL_GT1415_0785,Asociación de Artesanos Atitlan Mam de Uspantán,Maestro Manuel Chox,GT14,GT1415,"Cantón Xabajal, Lote 96",1981,25,+502 5592-1515
+787,TAL_GT1416_0786,Taller Familiar de Arte Tradicional Iximche en Sacapulas,Maestro Manuel Tax,GT14,GT1416,"Cantón Tzanjuyup, Lote 42",1999,34,+502 4035-4087
+788,TAL_GT1417_0787,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Bartolomé Jocotenango),Maestro Juana Chox,GT14,GT1417,"Cantón Pachoc, Lote 85",1972,20,+502 4473-3970
+789,TAL_GT1418_0788,Asociación de Artesanos Jaspe Popol de Canillá,Maestro María Ixcol,GT14,GT1418,"Cantón Xabajal, Lote 35",1986,22,+502 5338-3567
+790,TAL_GT1419_0789,Taller Familiar de Arte Tradicional Hunapu en Chicamán,Maestro Manuel Tupul,GT14,GT1419,"Cantón Tzanjuyup, Lote 22",2005,45,+502 4861-5643
+791,TAL_GT1420_0790,Cooperativa de Producción Artesanal Xelaju de R.L. (Ixcán),Maestro Juan Ixcol,GT14,GT1420,"Cantón El Carmen, Lote 59",1995,21,+502 4387-9945
+792,TAL_GT1421_0791,Asociación de Artesanos Kiche Utatlan de Pachalum,Maestro Manuel  Fuentes,GT14,GT1421,"Cantón Tzanjuyup, Lote 6",2015,22,+502 5217-8070
+793,TAL_GT1501_0792,Taller Familiar de Arte Tradicional Mam en Salamá,Maestro Rosa Ixcol,GT15,GT1501,"Cantón Centro, Lote 99",1991,42,+502 4053-2925
+794,TAL_GT1502_0793,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Miguel Chicaj),Maestro Tomasa  Fuentes,GT15,GT1502,"Cantón Centro, Lote 7",1974,24,+502 5816-1418
+795,TAL_GT1503_0794,Asociación de Artesanos Qeqchi Pacaya de Rabinal,Maestro Pedro Chox,GT15,GT1503,"Cantón Xabajal, Lote 49",1970,8,+502 5392-1135
+796,TAL_GT1504_0795,Taller Familiar de Arte Tradicional Popol en Cubulco,Maestro Rosa Tax,GT15,GT1504,"Cantón Centro, Lote 75",2021,42,+502 5922-3470
+797,TAL_GT1505_0796,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Granados),Maestro Juan Tupul,GT15,GT1505,"Cantón Tzanjuyup, Lote 91",2002,29,+502 4539-2454
+798,TAL_GT1506_0797,Asociación de Artesanos Xelaju Sop de El Chol,Maestro Pedro Mazariegos,GT15,GT1506,"Cantón Pachoc, Lote 62",1984,19,+502 4045-6965
+799,TAL_GT1507_0798,Taller Familiar de Arte Tradicional Utatlan en San Jerónimo,Maestro María Coché,GT15,GT1507,"Cantón Centro, Lote 94",2011,12,+502 4966-4173
+800,TAL_GT1508_0799,Cooperativa de Producción Artesanal Chup de R.L. (Purulhá),Maestro Rosa Ixcol,GT15,GT1508,"Cantón Xabajal, Lote 93",1976,31,+502 5635-6740
+801,TAL_GT0401_0800,Asociación de Artesanos Cuchumatanes Patzun de Chimaltenango,Maestro Manuel Tupul,GT04,GT0401,"Cantón El Carmen, Lote 64",1992,19,+502 5543-3872
+802,TAL_GT0402_0801,Taller Familiar de Arte Tradicional Pacaya en San José Poaquil,Maestro Juan Ixcol,GT04,GT0402,"Cantón Centro, Lote 62",1985,24,+502 4348-1718
+803,TAL_GT0403_0802,Cooperativa de Producción Artesanal Almolonga de R.L. (San Martín Jilotepeque),Maestro Pedro Ixcol,GT04,GT0403,"Cantón Tzanjuyup, Lote 58",2021,9,+502 5535-1162
+804,TAL_GT0404_0803,Asociación de Artesanos Cholsamaj Ixchel de Comalapa,Maestro Manuel  Fuentes,GT04,GT0404,"Cantón Tzanjuyup, Lote 65",2012,19,+502 4216-6938
+805,TAL_GT0405_0804,Taller Familiar de Arte Tradicional Sop en Santa Apolonia,Maestro Santiago Tupul,GT04,GT0405,"Cantón Tzanjuyup, Lote 21",2013,19,+502 5708-9415
+806,TAL_GT0406_0805,Cooperativa de Producción Artesanal Atitlan de R.L. (Tecpán Guatemala),Maestro Juana  Fuentes,GT04,GT0406,"Cantón Pachoc, Lote 92",2001,15,+502 5211-3897
+807,TAL_GT0407_0806,Asociación de Artesanos Chup Iximche de Patzún,Maestro Rosa  Fuentes,GT04,GT0407,"Cantón Pachoc, Lote 81",1979,45,+502 4765-7158
+808,TAL_GT0408_0807,Taller Familiar de Arte Tradicional Patzun en Pochuta,Maestro Pedro Coché,GT04,GT0408,"Cantón Xabajal, Lote 74",1971,7,+502 4472-4738
+809,TAL_GT0409_0808,Cooperativa de Producción Artesanal Jaspe de R.L. (Patzicía),Maestro Santiago Mazariegos,GT04,GT0409,"Cantón Tzanjuyup, Lote 45",2008,7,+502 4181-6255
+810,TAL_GT0410_0809,Asociación de Artesanos Almolonga Hunapu de Santa Cruz Balanyá,Maestro Pedro Tzoc,GT04,GT0410,"Cantón Pachoc, Lote 4",1983,6,+502 5380-1860
+811,TAL_GT0411_0810,Taller Familiar de Arte Tradicional Ixchel en Acatenango,Maestro Manuel Coché,GT04,GT0411,"Cantón Centro, Lote 1",2011,28,+502 4164-4648
+812,TAL_GT0412_0811,Cooperativa de Producción Artesanal Kiche de R.L. (Yepocapa),Maestro Manuel Coché,GT04,GT0412,"Cantón Centro, Lote 78",1985,18,+502 5006-1385
+813,TAL_GT0413_0812,Asociación de Artesanos Atitlan Mam de San Andrés Itzapa,Maestro Tomasa Tupul,GT04,GT0413,"Cantón Pachoc, Lote 31",2005,20,+502 4863-9726
+814,TAL_GT0414_0813,Taller Familiar de Arte Tradicional Iximche en Parramos,Maestro Tomasa Mazariegos,GT04,GT0414,"Cantón Tzanjuyup, Lote 89",1998,27,+502 4914-8100
+815,TAL_GT0415_0814,Cooperativa de Producción Artesanal Qeqchi de R.L. (Zaragoza),Maestro Manuel  Fuentes,GT04,GT0415,"Cantón Pachoc, Lote 77",2007,15,+502 4969-3840
+816,TAL_GT0416_0815,Asociación de Artesanos Jaspe Popol de El Tejar,Maestro Rosa Tax,GT04,GT0416,"Cantón Tzanjuyup, Lote 11",2014,29,+502 4530-5380
+817,TAL_GT0700_0816,Taller Familiar de Arte Tradicional Hunapu en Lago De Atitlan,Maestro Juan Chox,GT07,GT0700,"Cantón Centro, Lote 46",1977,16,+502 5772-7066
+818,TAL_GT0701_0817,Cooperativa de Producción Artesanal Xelaju de R.L. (Sololá),Maestro María Tzoc,GT07,GT0701,"Cantón El Carmen, Lote 23",1980,18,+502 4370-9768
+819,TAL_GT0702_0818,Asociación de Artesanos Kiche Utatlan de San José Chacayá,Maestro Tomasa  Fuentes,GT07,GT0702,"Cantón Xabajal, Lote 55",1987,35,+502 5646-8858
+820,TAL_GT0703_0819,Taller Familiar de Arte Tradicional Mam en Santa María Visitación,Maestro Juana Mazariegos,GT07,GT0703,"Cantón Centro, Lote 72",2022,45,+502 5791-1485
+821,TAL_GT0704_0820,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Santa Lucía Utatlán),Maestro Rosa  Fuentes,GT07,GT0704,"Cantón El Carmen, Lote 29",1991,32,+502 4362-7548
+822,TAL_GT0705_0821,Asociación de Artesanos Qeqchi Pacaya de Nahualá,Maestro Pedro Tzoc,GT07,GT0705,"Cantón Centro, Lote 94",2006,21,+502 5998-1493
+823,TAL_GT0706_0822,Taller Familiar de Arte Tradicional Popol en Santa Catarina Ixtahuacán,Maestro Rosa Tzoc,GT07,GT0706,"Cantón Xabajal, Lote 40",1979,41,+502 5769-2418
+824,TAL_GT0707_0823,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Santa Clara La Laguna),Maestro Juan Ixcol,GT07,GT0707,"Cantón El Carmen, Lote 84",2004,7,+502 5468-9821
+825,TAL_GT0708_0824,Asociación de Artesanos Xelaju Sop de Concepción,Maestro Juana Chox,GT07,GT0708,"Cantón Xabajal, Lote 4",1991,18,+502 4918-7797
+826,TAL_GT0709_0825,Taller Familiar de Arte Tradicional Utatlan en San Andrés Semetabaj,Maestro Rosa Ixcol,GT07,GT0709,"Cantón Tzanjuyup, Lote 5",2020,43,+502 4964-7817
+827,TAL_GT0710_0826,Cooperativa de Producción Artesanal Chup de R.L. (Panajachel),Maestro Tomasa Tax,GT07,GT0710,"Cantón Pachoc, Lote 97",1992,37,+502 4628-2107
+828,TAL_GT0711_0827,Asociación de Artesanos Cuchumatanes Patzun de Santa Catarina Palopó,Maestro Tomasa Mazariegos,GT07,GT0711,"Cantón Tzanjuyup, Lote 56",2006,36,+502 5796-7843
+829,TAL_GT0712_0828,Taller Familiar de Arte Tradicional Pacaya en San Antonio Palopó,Maestro Tomasa Tzoc,GT07,GT0712,"Cantón Pachoc, Lote 2",1997,32,+502 4052-3953
+830,TAL_GT0713_0829,Cooperativa de Producción Artesanal Almolonga de R.L. (San Lucas Tolimán),Maestro Rosa Ixcol,GT07,GT0713,"Cantón El Carmen, Lote 78",2012,44,+502 5509-9178
+831,TAL_GT0714_0830,Asociación de Artesanos Cholsamaj Ixchel de Santa Cruz La Laguna,Maestro Manuel Mazariegos,GT07,GT0714,"Cantón El Carmen, Lote 75",1998,23,+502 4598-4641
+832,TAL_GT0715_0831,Taller Familiar de Arte Tradicional Sop en San Pablo La Laguna,Maestro Juan  Fuentes,GT07,GT0715,"Cantón Xabajal, Lote 65",1987,37,+502 5963-7163
+833,TAL_GT0716_0832,Cooperativa de Producción Artesanal Atitlan de R.L. (San Marcos La Laguna),Maestro Manuel Mazariegos,GT07,GT0716,"Cantón El Carmen, Lote 46",1998,34,+502 5640-9013
+834,TAL_GT0717_0833,Asociación de Artesanos Chup Iximche de San Juan La Laguna,Maestro Juana Ixcol,GT07,GT0717,"Cantón Xabajal, Lote 84",1984,18,+502 4607-3324
+835,TAL_GT0718_0834,Taller Familiar de Arte Tradicional Patzun en San Pedro La Laguna,Maestro Juan Ixcol,GT07,GT0718,"Cantón Tzanjuyup, Lote 13",2014,8,+502 4219-4590
+836,TAL_GT0719_0835,Cooperativa de Producción Artesanal Jaspe de R.L. (Santiago Atitlán),Maestro Pedro Ixcol,GT07,GT0719,"Cantón El Carmen, Lote 6",1981,28,+502 4055-8493
+837,TAL_GT0801_0836,Asociación de Artesanos Almolonga Hunapu de Totonicapán,Maestro Rosa Mazariegos,GT08,GT0801,"Cantón Centro, Lote 91",2014,45,+502 5655-3779
+838,TAL_GT0802_0837,Taller Familiar de Arte Tradicional Ixchel en San Cristóbal Totonicapán,Maestro Santiago  Fuentes,GT08,GT0802,"Cantón Pachoc, Lote 11",1989,34,+502 4469-8269
+839,TAL_GT0803_0838,Cooperativa de Producción Artesanal Kiche de R.L. (San Francisco El Alto),Maestro Rosa Tzoc,GT08,GT0803,"Cantón El Carmen, Lote 83",1989,38,+502 4424-6168
+840,TAL_GT0804_0839,Asociación de Artesanos Atitlan Mam de San Andrés Xecul,Maestro Pedro Mazariegos,GT08,GT0804,"Cantón Tzanjuyup, Lote 82",2005,28,+502 4015-3777
+841,TAL_GT0805_0840,Taller Familiar de Arte Tradicional Iximche en Momostenango,Maestro Juana Tupul,GT08,GT0805,"Cantón Centro, Lote 51",1990,22,+502 5247-4382
+842,TAL_GT0806_0841,Cooperativa de Producción Artesanal Qeqchi de R.L. (Santa María Chiquimula),Maestro Juana Ixcol,GT08,GT0806,"Cantón Xabajal, Lote 17",2001,14,+502 5422-2689
+843,TAL_GT0807_0842,Asociación de Artesanos Jaspe Popol de Santa Lucía La Reforma,Maestro Santiago  Fuentes,GT08,GT0807,"Cantón Xabajal, Lote 8",2000,11,+502 5380-8123
+844,TAL_GT0808_0843,Taller Familiar de Arte Tradicional Hunapu en San Bartolo,Maestro Pedro Mazariegos,GT08,GT0808,"Cantón Pachoc, Lote 96",1986,24,+502 4328-7995
+845,TAL_GT0901_0844,Cooperativa de Producción Artesanal Xelaju de R.L. (Quetzaltenango),Maestro María Tupul,GT09,GT0901,"Cantón Pachoc, Lote 13",2008,15,+502 4241-7864
+846,TAL_GT0902_0845,Asociación de Artesanos Kiche Utatlan de Salcajá,Maestro Juana Tupul,GT09,GT0902,"Cantón Pachoc, Lote 62",2017,41,+502 5021-2433
+847,TAL_GT0903_0846,Taller Familiar de Arte Tradicional Mam en Olintepeque,Maestro Juan Tupul,GT09,GT0903,"Cantón Xabajal, Lote 75",1986,45,+502 4372-7180
+848,TAL_GT0904_0847,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (San Carlos Sija),Maestro Santiago Tzoc,GT09,GT0904,"Cantón El Carmen, Lote 87",1980,30,+502 4613-4919
+849,TAL_GT0905_0848,Asociación de Artesanos Qeqchi Pacaya de Sibilia,Maestro Tomasa Mazariegos,GT09,GT0905,"Cantón Tzanjuyup, Lote 70",2017,29,+502 4019-9703
+850,TAL_GT0906_0849,Taller Familiar de Arte Tradicional Popol en Cabricán,Maestro Juan  Fuentes,GT09,GT0906,"Cantón Tzanjuyup, Lote 45",2003,33,+502 4309-3553
+851,TAL_GT0907_0850,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Cajolá),Maestro Pedro Tax,GT09,GT0907,"Cantón El Carmen, Lote 90",1970,28,+502 5779-6522
+852,TAL_GT0908_0851,Asociación de Artesanos Xelaju Sop de San Miguel Sigüila,Maestro Pedro Tax,GT09,GT0908,"Cantón Pachoc, Lote 81",2003,32,+502 5984-4170
+853,TAL_GT0909_0852,Taller Familiar de Arte Tradicional Utatlan en Ostuncalco,Maestro Juan Tax,GT09,GT0909,"Cantón Centro, Lote 18",2018,26,+502 5655-6116
+854,TAL_GT0910_0853,Cooperativa de Producción Artesanal Chup de R.L. (San Mateo),Maestro Juan Tzoc,GT09,GT0910,"Cantón Tzanjuyup, Lote 27",2011,42,+502 4921-4500
+855,TAL_GT0911_0854,Asociación de Artesanos Cuchumatanes Patzun de Concepción Chiquirichapa,Maestro Tomasa Chox,GT09,GT0911,"Cantón Tzanjuyup, Lote 79",2018,31,+502 4514-1719
+856,TAL_GT0912_0855,Taller Familiar de Arte Tradicional Pacaya en San Martín Sacatepéquez,Maestro Tomasa Coché,GT09,GT0912,"Cantón Centro, Lote 24",1992,34,+502 4652-7319
+857,TAL_GT0913_0856,Cooperativa de Producción Artesanal Almolonga de R.L. (Almolonga),Maestro Rosa Mazariegos,GT09,GT0913,"Cantón Xabajal, Lote 13",2021,21,+502 5622-3270
+858,TAL_GT0914_0857,Asociación de Artesanos Cholsamaj Ixchel de Cantel,Maestro Juana Coché,GT09,GT0914,"Cantón Centro, Lote 32",1975,15,+502 5538-3215
+859,TAL_GT0915_0858,Taller Familiar de Arte Tradicional Sop en Huitán,Maestro Tomasa Mazariegos,GT09,GT0915,"Cantón El Carmen, Lote 41",2014,45,+502 4630-2279
+860,TAL_GT0916_0859,Cooperativa de Producción Artesanal Atitlan de R.L. (Zunil),Maestro Pedro Coché,GT09,GT0916,"Cantón Tzanjuyup, Lote 88",1997,15,+502 5037-1815
+861,TAL_GT0917_0860,Asociación de Artesanos Chup Iximche de Colomba,Maestro Juan Mazariegos,GT09,GT0917,"Cantón Tzanjuyup, Lote 29",1988,5,+502 5993-9655
+862,TAL_GT0918_0861,Taller Familiar de Arte Tradicional Patzun en San Francisco La Unión,Maestro Santiago Tupul,GT09,GT0918,"Cantón Pachoc, Lote 47",2017,40,+502 5953-2417
+863,TAL_GT0919_0862,Cooperativa de Producción Artesanal Jaspe de R.L. (El Palmar),Maestro Rosa Mazariegos,GT09,GT0919,"Cantón Pachoc, Lote 34",2012,23,+502 4032-3942
+864,TAL_GT0920_0863,Asociación de Artesanos Almolonga Hunapu de Coatepeque,Maestro Santiago Tzoc,GT09,GT0920,"Cantón Xabajal, Lote 11",2013,19,+502 5865-1651
+865,TAL_GT0921_0864,Taller Familiar de Arte Tradicional Ixchel en Génova,Maestro Manuel Tzoc,GT09,GT0921,"Cantón Tzanjuyup, Lote 40",2022,20,+502 5470-5407
+866,TAL_GT0922_0865,Cooperativa de Producción Artesanal Kiche de R.L. (Flores Costa Cuca),Maestro Manuel  Fuentes,GT09,GT0922,"Cantón Centro, Lote 7",1989,22,+502 4235-4376
+867,TAL_GT0923_0866,Asociación de Artesanos Atitlan Mam de La Esperanza,Maestro María Ixcol,GT09,GT0923,"Cantón Tzanjuyup, Lote 31",2008,5,+502 5334-7917
+868,TAL_GT0924_0867,Taller Familiar de Arte Tradicional Iximche en Palestina de Los Altos,Maestro Rosa Chox,GT09,GT0924,"Cantón Pachoc, Lote 25",1992,17,+502 4413-9623
+869,TAL_GT1201_0868,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Marcos),Maestro Tomasa Tzoc,GT12,GT1201,"Cantón Centro, Lote 18",1988,9,+502 5030-9487
+870,TAL_GT1202_0869,Asociación de Artesanos Jaspe Popol de San Pedro Sacatepéquez,Maestro Juana Tzoc,GT12,GT1202,"Cantón Pachoc, Lote 27",1973,22,+502 5031-8766
+871,TAL_GT1203_0870,Taller Familiar de Arte Tradicional Hunapu en San Antonio Sacatepéquez,Maestro Tomasa Tupul,GT12,GT1203,"Cantón El Carmen, Lote 17",2011,42,+502 4441-2455
+872,TAL_GT1204_0871,Cooperativa de Producción Artesanal Xelaju de R.L. (Comitancillo),Maestro Manuel Tzoc,GT12,GT1204,"Cantón Centro, Lote 20",1991,33,+502 4380-5450
+873,TAL_GT1205_0872,Asociación de Artesanos Kiche Utatlan de San Miguel Ixtahuacán,Maestro Pedro Chox,GT12,GT1205,"Cantón Centro, Lote 81",2008,29,+502 5504-3110
+874,TAL_GT1206_0873,Taller Familiar de Arte Tradicional Mam en Concepción Tutuapa,Maestro Tomasa Ixcol,GT12,GT1206,"Cantón Centro, Lote 64",1976,30,+502 4056-2281
+875,TAL_GT1207_0874,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Tacaná),Maestro Pedro  Fuentes,GT12,GT1207,"Cantón Tzanjuyup, Lote 20",1988,21,+502 4367-3476
+876,TAL_GT1208_0875,Asociación de Artesanos Qeqchi Pacaya de Sibinal,Maestro Juana Chox,GT12,GT1208,"Cantón Pachoc, Lote 3",1998,17,+502 5628-8139
+877,TAL_GT1209_0876,Taller Familiar de Arte Tradicional Popol en Tajumulco,Maestro Juan  Fuentes,GT12,GT1209,"Cantón Pachoc, Lote 80",1970,6,+502 5591-8817
+878,TAL_GT1210_0877,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Tejutla),Maestro María Mazariegos,GT12,GT1210,"Cantón Pachoc, Lote 35",1989,7,+502 5386-2670
+879,TAL_GT1211_0878,Asociación de Artesanos Xelaju Sop de San Rafael Pie de la Cuesta,Maestro Juan Mazariegos,GT12,GT1211,"Cantón El Carmen, Lote 55",2001,40,+502 5386-3895
+880,TAL_GT1212_0879,Taller Familiar de Arte Tradicional Utatlan en Nuevo Progreso,Maestro Tomasa Ixcol,GT12,GT1212,"Cantón Centro, Lote 35",1976,12,+502 5305-9598
+881,TAL_GT1213_0880,Cooperativa de Producción Artesanal Chup de R.L. (El Tumbador),Maestro Pedro Tax,GT12,GT1213,"Cantón Tzanjuyup, Lote 24",1983,6,+502 4593-1986
+882,TAL_GT1214_0881,Asociación de Artesanos Cuchumatanes Patzun de El Rodeo,Maestro Rosa Mazariegos,GT12,GT1214,"Cantón Tzanjuyup, Lote 88",2021,29,+502 5960-7002
+883,TAL_GT1215_0882,Taller Familiar de Arte Tradicional Pacaya en Malacatán,Maestro Juan Tupul,GT12,GT1215,"Cantón Tzanjuyup, Lote 95",1981,19,+502 4726-5485
+884,TAL_GT1216_0883,Cooperativa de Producción Artesanal Almolonga de R.L. (Catarina),Maestro María Tupul,GT12,GT1216,"Cantón Tzanjuyup, Lote 60",1995,37,+502 4541-5948
+885,TAL_GT1217_0884,Asociación de Artesanos Cholsamaj Ixchel de Ayutla,Maestro Juan Ixcol,GT12,GT1217,"Cantón El Carmen, Lote 65",2013,30,+502 4412-5289
+886,TAL_GT1218_0885,Taller Familiar de Arte Tradicional Sop en Ocós,Maestro Juan Ixcol,GT12,GT1218,"Cantón Xabajal, Lote 24",2003,24,+502 4243-9350
+887,TAL_GT1219_0886,Cooperativa de Producción Artesanal Atitlan de R.L. (San Pablo),Maestro Rosa Tupul,GT12,GT1219,"Cantón El Carmen, Lote 31",1987,31,+502 5095-6773
+888,TAL_GT1220_0887,Asociación de Artesanos Chup Iximche de El Quetzal,Maestro Juana  Fuentes,GT12,GT1220,"Cantón El Carmen, Lote 59",1983,21,+502 4300-7337
+889,TAL_GT1221_0888,Taller Familiar de Arte Tradicional Patzun en La Reforma,Maestro Juana Chox,GT12,GT1221,"Cantón Tzanjuyup, Lote 71",1973,6,+502 5463-4730
+890,TAL_GT1222_0889,Cooperativa de Producción Artesanal Jaspe de R.L. (Pajapita),Maestro Pedro Chox,GT12,GT1222,"Cantón Pachoc, Lote 57",1988,40,+502 4857-4887
+891,TAL_GT1223_0890,Asociación de Artesanos Almolonga Hunapu de Ixchiguán,Maestro Pedro  Fuentes,GT12,GT1223,"Cantón Xabajal, Lote 83",1976,14,+502 5733-9495
+892,TAL_GT1224_0891,Taller Familiar de Arte Tradicional Ixchel en San José Ojetenam,Maestro Santiago Coché,GT12,GT1224,"Cantón El Carmen, Lote 58",2005,32,+502 4803-3241
+893,TAL_GT1225_0892,Cooperativa de Producción Artesanal Kiche de R.L. (San Cristóbal Cucho),Maestro Juana Tzoc,GT12,GT1225,"Cantón Centro, Lote 58",1971,5,+502 5307-9710
+894,TAL_GT1226_0893,Asociación de Artesanos Atitlan Mam de Sipacapa,Maestro Tomasa Tax,GT12,GT1226,"Cantón Centro, Lote 24",1994,36,+502 4845-1247
+895,TAL_GT1227_0894,Taller Familiar de Arte Tradicional Iximche en Esquipulas Palo Gordo,Maestro Santiago Coché,GT12,GT1227,"Cantón El Carmen, Lote 81",1999,18,+502 5906-5478
+896,TAL_GT1228_0895,Cooperativa de Producción Artesanal Qeqchi de R.L. (Río Blanco),Maestro María Tupul,GT12,GT1228,"Cantón El Carmen, Lote 11",1986,30,+502 4306-4635
+897,TAL_GT1229_0896,Asociación de Artesanos Jaspe Popol de San Lorenzo,Maestro Pedro Tupul,GT12,GT1229,"Cantón Tzanjuyup, Lote 28",1986,28,+502 5879-3929
+898,TAL_GT1230_0897,Taller Familiar de Arte Tradicional Hunapu en La Blanca,Maestro Juan Chox,GT12,GT1230,"Cantón Centro, Lote 55",2007,40,+502 5174-9794
+899,TAL_GT1301_0898,Cooperativa de Producción Artesanal Xelaju de R.L. (Huehuetenango),Maestro Manuel Coché,GT13,GT1301,"Cantón El Carmen, Lote 41",1984,9,+502 4282-7587
+900,TAL_GT1302_0899,Asociación de Artesanos Kiche Utatlan de Chiantla,Maestro Tomasa Coché,GT13,GT1302,"Cantón Pachoc, Lote 51",2006,19,+502 5039-4505
+901,TAL_GT1303_0900,Taller Familiar de Arte Tradicional Mam en Malacatancito,Maestro Manuel Tax,GT13,GT1303,"Cantón Xabajal, Lote 1",1997,41,+502 4429-9180
+902,TAL_GT1304_0901,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Cuilco),Maestro Santiago Chox,GT13,GT1304,"Cantón Pachoc, Lote 59",1999,29,+502 5831-2411
+903,TAL_GT1305_0902,Asociación de Artesanos Qeqchi Pacaya de Nentón,Maestro Rosa Ixcol,GT13,GT1305,"Cantón El Carmen, Lote 91",1989,14,+502 4386-4882
+904,TAL_GT1306_0903,Taller Familiar de Arte Tradicional Popol en San Pedro Necta,Maestro Rosa Ixcol,GT13,GT1306,"Cantón Tzanjuyup, Lote 60",1991,13,+502 4035-3783
+905,TAL_GT1307_0904,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Jacaltenango),Maestro Juana  Fuentes,GT13,GT1307,"Cantón Tzanjuyup, Lote 63",1980,18,+502 4698-3031
+906,TAL_GT1308_0905,Asociación de Artesanos Xelaju Sop de Soloma,Maestro Rosa Coché,GT13,GT1308,"Cantón Pachoc, Lote 66",2015,8,+502 5252-1880
+907,TAL_GT1309_0906,Taller Familiar de Arte Tradicional Utatlan en Ixtahuacán,Maestro Rosa Tax,GT13,GT1309,"Cantón Xabajal, Lote 26",2020,35,+502 5763-1229
+908,TAL_GT1310_0907,Cooperativa de Producción Artesanal Chup de R.L. (Santa Bárbara),Maestro Manuel Ixcol,GT13,GT1310,"Cantón Pachoc, Lote 5",2010,13,+502 5078-1562
+909,TAL_GT1311_0908,Asociación de Artesanos Cuchumatanes Patzun de La Libertad,Maestro Manuel Tzoc,GT13,GT1311,"Cantón Tzanjuyup, Lote 11",1990,33,+502 4415-2825
+910,TAL_GT1312_0909,Taller Familiar de Arte Tradicional Pacaya en La Democracia,Maestro Manuel Coché,GT13,GT1312,"Cantón Tzanjuyup, Lote 66",1976,32,+502 5679-8402
+911,TAL_GT1313_0910,Cooperativa de Producción Artesanal Almolonga de R.L. (San Miguel Acatán),Maestro María Tzoc,GT13,GT1313,"Cantón Centro, Lote 95",1999,30,+502 4554-2272
+912,TAL_GT1314_0911,Asociación de Artesanos Cholsamaj Ixchel de San Rafael La Independencia,Maestro Juana Ixcol,GT13,GT1314,"Cantón Xabajal, Lote 20",1980,28,+502 4883-2711
+913,TAL_GT1315_0912,Taller Familiar de Arte Tradicional Sop en Todos Santos Cuchumatán,Maestro María  Fuentes,GT13,GT1315,"Cantón Xabajal, Lote 35",2022,21,+502 5917-1801
+914,TAL_GT1316_0913,Cooperativa de Producción Artesanal Atitlan de R.L. (San Juan Atitán),Maestro Santiago  Fuentes,GT13,GT1316,"Cantón El Carmen, Lote 79",2020,20,+502 5240-3562
+915,TAL_GT1317_0914,Asociación de Artesanos Chup Iximche de Santa Eulalia,Maestro Rosa Mazariegos,GT13,GT1317,"Cantón Xabajal, Lote 31",1996,19,+502 4457-2340
+916,TAL_GT1318_0915,Taller Familiar de Arte Tradicional Patzun en San Mateo Ixtatán,Maestro Tomasa Ixcol,GT13,GT1318,"Cantón El Carmen, Lote 89",2006,16,+502 5866-4009
+917,TAL_GT1319_0916,Cooperativa de Producción Artesanal Jaspe de R.L. (Colotenango),Maestro Rosa Ixcol,GT13,GT1319,"Cantón Centro, Lote 37",1979,39,+502 5555-3847
+918,TAL_GT1320_0917,Asociación de Artesanos Almolonga Hunapu de San Sebastián Huehuetenango,Maestro Juana Ixcol,GT13,GT1320,"Cantón El Carmen, Lote 3",2019,42,+502 5590-1344
+919,TAL_GT1321_0918,Taller Familiar de Arte Tradicional Ixchel en Tectitán,Maestro Pedro Tax,GT13,GT1321,"Cantón Xabajal, Lote 17",2012,21,+502 5703-6706
+920,TAL_GT1322_0919,Cooperativa de Producción Artesanal Kiche de R.L. (Concepción Huista),Maestro Juan Tzoc,GT13,GT1322,"Cantón Centro, Lote 58",2017,13,+502 4936-5343
+921,TAL_GT1323_0920,Asociación de Artesanos Atitlan Mam de San Juan Ixcoy,Maestro María Coché,GT13,GT1323,"Cantón Centro, Lote 52",2001,32,+502 4372-1364
+922,TAL_GT1324_0921,Taller Familiar de Arte Tradicional Iximche en San Antonio Huista,Maestro Rosa Ixcol,GT13,GT1324,"Cantón Centro, Lote 59",1989,30,+502 4648-2467
+923,TAL_GT1325_0922,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Sebastián Coatán),Maestro Manuel Tzoc,GT13,GT1325,"Cantón Xabajal, Lote 94",2012,28,+502 4035-5991
+924,TAL_GT1326_0923,Asociación de Artesanos Jaspe Popol de Barillas,Maestro María Ixcol,GT13,GT1326,"Cantón Tzanjuyup, Lote 61",1996,29,+502 5280-3520
+925,TAL_GT1327_0924,Taller Familiar de Arte Tradicional Hunapu en Aguacatán,Maestro Santiago  Fuentes,GT13,GT1327,"Cantón El Carmen, Lote 9",1993,37,+502 4475-2678
+926,TAL_GT1328_0925,Cooperativa de Producción Artesanal Xelaju de R.L. (San Rafael Petzal),Maestro Tomasa Chox,GT13,GT1328,"Cantón Centro, Lote 15",1983,43,+502 4948-2122
+927,TAL_GT1329_0926,Asociación de Artesanos Kiche Utatlan de San Gaspar Ixchil,Maestro Santiago Tzoc,GT13,GT1329,"Cantón Pachoc, Lote 77",2017,29,+502 4840-3570
+928,TAL_GT1330_0927,Taller Familiar de Arte Tradicional Mam en Santiago Chimaltenango,Maestro Juan  Fuentes,GT13,GT1330,"Cantón Centro, Lote 95",2000,29,+502 5068-7217
+929,TAL_GT1331_0928,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Santa Ana Huista),Maestro Santiago  Fuentes,GT13,GT1331,"Cantón Xabajal, Lote 40",1986,10,+502 5436-7810
+930,TAL_GT1332_0929,Asociación de Artesanos Qeqchi Pacaya de Unión Cantinil,Maestro Manuel  Fuentes,GT13,GT1332,"Cantón El Carmen, Lote 52",1990,18,+502 5823-5412
+931,TAL_GT1333_0930,Taller Familiar de Arte Tradicional Popol en Petatán,Maestro Manuel Coché,GT13,GT1333,"Cantón El Carmen, Lote 65",1980,42,+502 4280-4171
+932,TAL_GT1401_0931,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Santa Cruz del Quiché),Maestro Tomasa Tupul,GT14,GT1401,"Cantón Centro, Lote 61",2022,20,+502 4295-1314
+933,TAL_GT1402_0932,Asociación de Artesanos Xelaju Sop de Chiché,Maestro Juan Tzoc,GT14,GT1402,"Cantón Pachoc, Lote 94",1992,29,+502 4306-2899
+934,TAL_GT1403_0933,Taller Familiar de Arte Tradicional Utatlan en Chinique,Maestro Juan Ixcol,GT14,GT1403,"Cantón Pachoc, Lote 3",1986,40,+502 4366-6416
+935,TAL_GT1404_0934,Cooperativa de Producción Artesanal Chup de R.L. (Zacualpa),Maestro Rosa Mazariegos,GT14,GT1404,"Cantón El Carmen, Lote 85",1988,25,+502 4082-1458
+936,TAL_GT1405_0935,Asociación de Artesanos Cuchumatanes Patzun de Chajul,Maestro Santiago Mazariegos,GT14,GT1405,"Cantón Pachoc, Lote 9",1974,22,+502 4418-1118
+937,TAL_GT1406_0936,Taller Familiar de Arte Tradicional Pacaya en Chichicastenango,Maestro Pedro Coché,GT14,GT1406,"Cantón Pachoc, Lote 58",1999,12,+502 4715-2116
+938,TAL_GT1407_0937,Cooperativa de Producción Artesanal Almolonga de R.L. (Patzité),Maestro Manuel Ixcol,GT14,GT1407,"Cantón Pachoc, Lote 2",1974,21,+502 4152-8414
+939,TAL_GT1408_0938,Asociación de Artesanos Cholsamaj Ixchel de San Antonio Ilotenango,Maestro Tomasa Chox,GT14,GT1408,"Cantón Centro, Lote 53",2008,13,+502 5546-1198
+940,TAL_GT1409_0939,Taller Familiar de Arte Tradicional Sop en San Pedro Jocopilas,Maestro María Mazariegos,GT14,GT1409,"Cantón Tzanjuyup, Lote 15",2021,34,+502 4121-5065
+941,TAL_GT1410_0940,Cooperativa de Producción Artesanal Atitlan de R.L. (Cunén),Maestro Juana Mazariegos,GT14,GT1410,"Cantón Tzanjuyup, Lote 47",2021,13,+502 5811-9524
+942,TAL_GT1411_0941,Asociación de Artesanos Chup Iximche de San Juan Cotzal,Maestro Manuel Tupul,GT14,GT1411,"Cantón Tzanjuyup, Lote 83",2007,28,+502 5332-1235
+943,TAL_GT1412_0942,Taller Familiar de Arte Tradicional Patzun en Joyabaj,Maestro Santiago Tzoc,GT14,GT1412,"Cantón Tzanjuyup, Lote 67",1971,36,+502 5432-3760
+944,TAL_GT1413_0943,Cooperativa de Producción Artesanal Jaspe de R.L. (Nebaj),Maestro Rosa Chox,GT14,GT1413,"Cantón El Carmen, Lote 41",1976,38,+502 4412-6389
+945,TAL_GT1414_0944,Asociación de Artesanos Almolonga Hunapu de San Andrés Sajcabajá,Maestro Santiago Tupul,GT14,GT1414,"Cantón Tzanjuyup, Lote 40",1982,25,+502 5742-1599
+946,TAL_GT1415_0945,Taller Familiar de Arte Tradicional Ixchel en Uspantán,Maestro Santiago Ixcol,GT14,GT1415,"Cantón Centro, Lote 9",1990,18,+502 5770-7794
+947,TAL_GT1416_0946,Cooperativa de Producción Artesanal Kiche de R.L. (Sacapulas),Maestro Pedro Chox,GT14,GT1416,"Cantón El Carmen, Lote 92",1972,30,+502 4075-4141
+948,TAL_GT1417_0947,Asociación de Artesanos Atitlan Mam de San Bartolomé Jocotenango,Maestro Juana Coché,GT14,GT1417,"Cantón Pachoc, Lote 96",2010,39,+502 4869-1536
+949,TAL_GT1418_0948,Taller Familiar de Arte Tradicional Iximche en Canillá,Maestro Juana Mazariegos,GT14,GT1418,"Cantón Tzanjuyup, Lote 100",2001,10,+502 5179-7505
+950,TAL_GT1419_0949,Cooperativa de Producción Artesanal Qeqchi de R.L. (Chicamán),Maestro Juana Ixcol,GT14,GT1419,"Cantón Xabajal, Lote 47",1976,18,+502 5353-7604
+951,TAL_GT1420_0950,Asociación de Artesanos Jaspe Popol de Ixcán,Maestro Juana Coché,GT14,GT1420,"Cantón Xabajal, Lote 10",2012,37,+502 4850-5234
+952,TAL_GT1421_0951,Taller Familiar de Arte Tradicional Hunapu en Pachalum,Maestro Juan Ixcol,GT14,GT1421,"Cantón Centro, Lote 73",2017,14,+502 4058-5522
+953,TAL_GT1501_0952,Cooperativa de Producción Artesanal Xelaju de R.L. (Salamá),Maestro Juan Tupul,GT15,GT1501,"Cantón Tzanjuyup, Lote 99",2015,12,+502 5579-1384
+954,TAL_GT1502_0953,Asociación de Artesanos Kiche Utatlan de San Miguel Chicaj,Maestro Juana Ixcol,GT15,GT1502,"Cantón Tzanjuyup, Lote 63",1987,12,+502 5638-5438
+955,TAL_GT1503_0954,Taller Familiar de Arte Tradicional Mam en Rabinal,Maestro Tomasa Coché,GT15,GT1503,"Cantón Pachoc, Lote 41",1983,28,+502 5542-5348
+956,TAL_GT1504_0955,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Cubulco),Maestro Tomasa Tupul,GT15,GT1504,"Cantón El Carmen, Lote 42",2000,45,+502 5896-1686
+957,TAL_GT1505_0956,Asociación de Artesanos Qeqchi Pacaya de Granados,Maestro Manuel Tzoc,GT15,GT1505,"Cantón Tzanjuyup, Lote 22",1976,42,+502 4803-6333
+958,TAL_GT1506_0957,Taller Familiar de Arte Tradicional Popol en El Chol,Maestro María Tupul,GT15,GT1506,"Cantón Centro, Lote 77",1993,36,+502 4322-9403
+959,TAL_GT1507_0958,Cooperativa de Producción Artesanal Cholsamaj de R.L. (San Jerónimo),Maestro Manuel Mazariegos,GT15,GT1507,"Cantón Pachoc, Lote 66",2019,22,+502 4274-9474
+960,TAL_GT1508_0959,Asociación de Artesanos Xelaju Sop de Purulhá,Maestro Juan Mazariegos,GT15,GT1508,"Cantón Pachoc, Lote 83",1974,33,+502 5104-3294
+961,TAL_GT0401_0960,Taller Familiar de Arte Tradicional Utatlan en Chimaltenango,Maestro Juan Coché,GT04,GT0401,"Cantón Tzanjuyup, Lote 61",2018,13,+502 4108-6140
+962,TAL_GT0402_0961,Cooperativa de Producción Artesanal Chup de R.L. (San José Poaquil),Maestro Santiago  Fuentes,GT04,GT0402,"Cantón Pachoc, Lote 55",1976,12,+502 4919-5219
+963,TAL_GT0403_0962,Asociación de Artesanos Cuchumatanes Patzun de San Martín Jilotepeque,Maestro Santiago Tzoc,GT04,GT0403,"Cantón Tzanjuyup, Lote 24",1995,15,+502 4130-6200
+964,TAL_GT0404_0963,Taller Familiar de Arte Tradicional Pacaya en Comalapa,Maestro Santiago Coché,GT04,GT0404,"Cantón Centro, Lote 86",1987,11,+502 4334-8290
+965,TAL_GT0405_0964,Cooperativa de Producción Artesanal Almolonga de R.L. (Santa Apolonia),Maestro Juana Tupul,GT04,GT0405,"Cantón El Carmen, Lote 11",1977,12,+502 5345-8247
+966,TAL_GT0406_0965,Asociación de Artesanos Cholsamaj Ixchel de Tecpán Guatemala,Maestro Santiago Tax,GT04,GT0406,"Cantón Xabajal, Lote 15",2014,15,+502 5600-8531
+967,TAL_GT0407_0966,Taller Familiar de Arte Tradicional Sop en Patzún,Maestro Manuel Ixcol,GT04,GT0407,"Cantón El Carmen, Lote 15",1999,21,+502 4491-8705
+968,TAL_GT0408_0967,Cooperativa de Producción Artesanal Atitlan de R.L. (Pochuta),Maestro María Tupul,GT04,GT0408,"Cantón Tzanjuyup, Lote 81",2022,5,+502 5133-8410
+969,TAL_GT0409_0968,Asociación de Artesanos Chup Iximche de Patzicía,Maestro Santiago Chox,GT04,GT0409,"Cantón Tzanjuyup, Lote 37",2017,23,+502 4073-8003
+970,TAL_GT0410_0969,Taller Familiar de Arte Tradicional Patzun en Santa Cruz Balanyá,Maestro Juan Ixcol,GT04,GT0410,"Cantón Pachoc, Lote 79",1999,17,+502 4092-4245
+971,TAL_GT0411_0970,Cooperativa de Producción Artesanal Jaspe de R.L. (Acatenango),Maestro María Tupul,GT04,GT0411,"Cantón Xabajal, Lote 31",1971,37,+502 5837-8117
+972,TAL_GT0412_0971,Asociación de Artesanos Almolonga Hunapu de Yepocapa,Maestro Juana Ixcol,GT04,GT0412,"Cantón Tzanjuyup, Lote 61",2006,42,+502 5403-8853
+973,TAL_GT0413_0972,Taller Familiar de Arte Tradicional Ixchel en San Andrés Itzapa,Maestro María Tax,GT04,GT0413,"Cantón Pachoc, Lote 3",1993,33,+502 4758-5228
+974,TAL_GT0414_0973,Cooperativa de Producción Artesanal Kiche de R.L. (Parramos),Maestro Pedro Ixcol,GT04,GT0414,"Cantón Pachoc, Lote 85",2018,42,+502 5461-8375
+975,TAL_GT0415_0974,Asociación de Artesanos Atitlan Mam de Zaragoza,Maestro Pedro Tupul,GT04,GT0415,"Cantón El Carmen, Lote 96",1989,35,+502 4207-2037
+976,TAL_GT0416_0975,Taller Familiar de Arte Tradicional Iximche en El Tejar,Maestro Juan Coché,GT04,GT0416,"Cantón El Carmen, Lote 38",1982,9,+502 4702-2247
+977,TAL_GT0700_0976,Cooperativa de Producción Artesanal Qeqchi de R.L. (Lago De Atitlan),Maestro Juana Tax,GT07,GT0700,"Cantón El Carmen, Lote 95",2016,17,+502 4657-1730
+978,TAL_GT0701_0977,Asociación de Artesanos Jaspe Popol de Sololá,Maestro Santiago  Fuentes,GT07,GT0701,"Cantón Pachoc, Lote 14",2007,23,+502 5786-6012
+979,TAL_GT0702_0978,Taller Familiar de Arte Tradicional Hunapu en San José Chacayá,Maestro Manuel Coché,GT07,GT0702,"Cantón El Carmen, Lote 51",2013,38,+502 4302-7612
+980,TAL_GT0703_0979,Cooperativa de Producción Artesanal Xelaju de R.L. (Santa María Visitación),Maestro Rosa Coché,GT07,GT0703,"Cantón Tzanjuyup, Lote 54",2004,36,+502 5088-6477
+981,TAL_GT0704_0980,Asociación de Artesanos Kiche Utatlan de Santa Lucía Utatlán,Maestro María Tax,GT07,GT0704,"Cantón Centro, Lote 39",2011,34,+502 5353-4029
+982,TAL_GT0705_0981,Taller Familiar de Arte Tradicional Mam en Nahualá,Maestro Santiago Tax,GT07,GT0705,"Cantón El Carmen, Lote 49",1981,33,+502 4078-8301
+983,TAL_GT0706_0982,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Santa Catarina Ixtahuacán),Maestro María Ixcol,GT07,GT0706,"Cantón Xabajal, Lote 82",1988,16,+502 4816-3464
+984,TAL_GT0707_0983,Asociación de Artesanos Qeqchi Pacaya de Santa Clara La Laguna,Maestro Juana Tupul,GT07,GT0707,"Cantón El Carmen, Lote 21",2005,23,+502 4210-5524
+985,TAL_GT0708_0984,Taller Familiar de Arte Tradicional Popol en Concepción,Maestro Manuel  Fuentes,GT07,GT0708,"Cantón Tzanjuyup, Lote 46",2011,33,+502 5732-2961
+986,TAL_GT0709_0985,Cooperativa de Producción Artesanal Cholsamaj de R.L. (San Andrés Semetabaj),Maestro Juan Tax,GT07,GT0709,"Cantón Tzanjuyup, Lote 61",1992,12,+502 4729-5957
+987,TAL_GT0710_0986,Asociación de Artesanos Xelaju Sop de Panajachel,Maestro Pedro Coché,GT07,GT0710,"Cantón El Carmen, Lote 51",1984,10,+502 5801-8218
+988,TAL_GT0711_0987,Taller Familiar de Arte Tradicional Utatlan en Santa Catarina Palopó,Maestro Pedro Mazariegos,GT07,GT0711,"Cantón El Carmen, Lote 62",2020,19,+502 5851-5391
+989,TAL_GT0712_0988,Cooperativa de Producción Artesanal Chup de R.L. (San Antonio Palopó),Maestro Juana Coché,GT07,GT0712,"Cantón Tzanjuyup, Lote 75",1996,43,+502 5306-4621
+990,TAL_GT0713_0989,Asociación de Artesanos Cuchumatanes Patzun de San Lucas Tolimán,Maestro María Tupul,GT07,GT0713,"Cantón El Carmen, Lote 50",1977,15,+502 5492-4398
+991,TAL_GT0714_0990,Taller Familiar de Arte Tradicional Pacaya en Santa Cruz La Laguna,Maestro Tomasa Tzoc,GT07,GT0714,"Cantón Xabajal, Lote 51",2018,42,+502 4663-6850
+992,TAL_GT0715_0991,Cooperativa de Producción Artesanal Almolonga de R.L. (San Pablo La Laguna),Maestro Santiago Tupul,GT07,GT0715,"Cantón El Carmen, Lote 6",1997,14,+502 4878-8525
+993,TAL_GT0716_0992,Asociación de Artesanos Cholsamaj Ixchel de San Marcos La Laguna,Maestro Pedro Ixcol,GT07,GT0716,"Cantón Centro, Lote 81",2017,18,+502 4069-1710
+994,TAL_GT0717_0993,Taller Familiar de Arte Tradicional Sop en San Juan La Laguna,Maestro Manuel Tupul,GT07,GT0717,"Cantón El Carmen, Lote 8",1982,24,+502 5893-9034
+995,TAL_GT0718_0994,Cooperativa de Producción Artesanal Atitlan de R.L. (San Pedro La Laguna),Maestro Juana Mazariegos,GT07,GT0718,"Cantón Xabajal, Lote 47",1996,26,+502 4674-8736
+996,TAL_GT0719_0995,Asociación de Artesanos Chup Iximche de Santiago Atitlán,Maestro Rosa  Fuentes,GT07,GT0719,"Cantón El Carmen, Lote 22",1990,17,+502 4695-9313
+997,TAL_GT0801_0996,Taller Familiar de Arte Tradicional Patzun en Totonicapán,Maestro Manuel Chox,GT08,GT0801,"Cantón Xabajal, Lote 23",1987,24,+502 5896-3575
+998,TAL_GT0802_0997,Cooperativa de Producción Artesanal Jaspe de R.L. (San Cristóbal Totonicapán),Maestro María Tupul,GT08,GT0802,"Cantón Pachoc, Lote 20",1971,19,+502 5491-3366
+999,TAL_GT0803_0998,Asociación de Artesanos Almolonga Hunapu de San Francisco El Alto,Maestro María Ixcol,GT08,GT0803,"Cantón Pachoc, Lote 66",2015,19,+502 5025-8978
+1000,TAL_GT0804_0999,Taller Familiar de Arte Tradicional Ixchel en San Andrés Xecul,Maestro Manuel  Fuentes,GT08,GT0804,"Cantón Tzanjuyup, Lote 44",2013,45,+502 4977-3939
+1001,TAL_GT0805_1000,Cooperativa de Producción Artesanal Kiche de R.L. (Momostenango),Maestro Tomasa  Fuentes,GT08,GT0805,"Cantón Xabajal, Lote 76",1979,29,+502 5152-6786
+1002,TAL_GT0806_1001,Asociación de Artesanos Atitlan Mam de Santa María Chiquimula,Maestro Juana Tzoc,GT08,GT0806,"Cantón Pachoc, Lote 23",2017,38,+502 5549-6384
+1003,TAL_GT0807_1002,Taller Familiar de Arte Tradicional Iximche en Santa Lucía La Reforma,Maestro Juan Ixcol,GT08,GT0807,"Cantón Centro, Lote 8",1975,16,+502 5156-9864
+1004,TAL_GT0808_1003,Cooperativa de Producción Artesanal Qeqchi de R.L. (San Bartolo),Maestro Tomasa Tzoc,GT08,GT0808,"Cantón Centro, Lote 47",2005,12,+502 4297-1954
+1005,TAL_GT0901_1004,Asociación de Artesanos Jaspe Popol de Quetzaltenango,Maestro Rosa Tupul,GT09,GT0901,"Cantón Centro, Lote 19",1971,15,+502 4314-2257
+1006,TAL_GT0902_1005,Taller Familiar de Arte Tradicional Hunapu en Salcajá,Maestro María Tax,GT09,GT0902,"Cantón El Carmen, Lote 14",1978,31,+502 4013-3277
+1007,TAL_GT0903_1006,Cooperativa de Producción Artesanal Xelaju de R.L. (Olintepeque),Maestro Manuel Chox,GT09,GT0903,"Cantón Pachoc, Lote 89",1970,37,+502 5914-1532
+1008,TAL_GT0904_1007,Asociación de Artesanos Kiche Utatlan de San Carlos Sija,Maestro Manuel Mazariegos,GT09,GT0904,"Cantón Centro, Lote 21",1970,22,+502 4422-2471
+1009,TAL_GT0905_1008,Taller Familiar de Arte Tradicional Mam en Sibilia,Maestro Pedro Tupul,GT09,GT0905,"Cantón Pachoc, Lote 54",1984,35,+502 5147-8256
+1010,TAL_GT0906_1009,Cooperativa de Producción Artesanal Cuchumatanes de R.L. (Cabricán),Maestro Juan Tzoc,GT09,GT0906,"Cantón Xabajal, Lote 93",1971,17,+502 5727-7851
+1011,TAL_GT0907_1010,Asociación de Artesanos Qeqchi Pacaya de Cajolá,Maestro Pedro Chox,GT09,GT0907,"Cantón Centro, Lote 55",2018,35,+502 5346-6507
+1012,TAL_GT0908_1011,Taller Familiar de Arte Tradicional Popol en San Miguel Sigüila,Maestro Pedro Tzoc,GT09,GT0908,"Cantón Pachoc, Lote 10",2011,40,+502 4220-4228
+1013,TAL_GT0909_1012,Cooperativa de Producción Artesanal Cholsamaj de R.L. (Ostuncalco),Maestro María Chox,GT09,GT0909,"Cantón Pachoc, Lote 23",1991,17,+502 5236-2781
+1014,TAL_GT0910_1013,Asociación de Artesanos Xelaju Sop de San Mateo,Maestro Manuel Mazariegos,GT09,GT0910,"Cantón Centro, Lote 8",2007,17,+502 4073-2540
+1015,TAL_GT0911_1014,Taller Familiar de Arte Tradicional Utatlan en Concepción Chiquirichapa,Maestro Rosa Tzoc,GT09,GT0911,"Cantón Centro, Lote 38",2002,44,+502 4756-6218
+1016,TAL_GT0912_1015,Cooperativa de Producción Artesanal Chup de R.L. (San Martín Sacatepéquez),Maestro Santiago Mazariegos,GT09,GT0912,"Cantón Centro, Lote 79",2012,32,+502 4481-9749
+1017,TAL_GT0913_1016,Asociación de Artesanos Cuchumatanes Patzun de Almolonga,Maestro Juana Ixcol,GT09,GT0913,"Cantón Centro, Lote 17",2002,37,+502 4270-7302
+1018,TAL_GT0914_1017,Taller Familiar de Arte Tradicional Pacaya en Cantel,Maestro Juan Ixcol,GT09,GT0914,"Cantón Tzanjuyup, Lote 84",1985,28,+502 4175-4782
+1019,TAL_GT0915_1018,Cooperativa de Producción Artesanal Almolonga de R.L. (Huitán),Maestro Santiago Tupul,GT09,GT0915,"Cantón Xabajal, Lote 52",1993,30,+502 4293-4063
+1020,TAL_GT0916_1019,Asociación de Artesanos Cholsamaj Ixchel de Zunil,Maestro Tomasa Tzoc,GT09,GT0916,"Cantón El Carmen, Lote 72",1980,37,+502 5211-1309

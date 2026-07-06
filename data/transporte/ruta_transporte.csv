@@ -1,0 +1,1021 @@
+codigo,origen_municipio_nombre,destino_municipio_nombre,tipo_transporte_codigo
+RUT_1_48_0000,Lago De Amatitlan,Tecpán Guatemala,TAXI
+RUT_2_49_0001,Guatemala,Patzún,FLETERO
+RUT_3_50_0002,Santa Catarina Pinula,Pochuta,SHUTTLE
+RUT_4_51_0003,San José Pinula,Patzicía,TAXI
+RUT_5_52_0004,San José del Golfo,Santa Cruz Balanyá,TAXI
+RUT_6_53_0005,Palencia,Acatenango,SHUTTLE
+RUT_7_54_0006,Chinautla,Yepocapa,EXTRAURBANO
+RUT_8_55_0007,San Pedro Ayampuc,San Andrés Itzapa,SHUTTLE
+RUT_9_56_0008,Mixco,Parramos,EXTRAURBANO
+RUT_10_57_0009,San Pedro Sacatepéquez,Zaragoza,SHUTTLE
+RUT_11_58_0010,San Juan Sacatepéquez,El Tejar,EXTRAURBANO
+RUT_12_59_0011,San Raimundo,Escuintla,FLETERO
+RUT_13_60_0012,Chuarrancho,Santa Lucía Cotzumalguapa,TAXI
+RUT_14_61_0013,Fraijanes,La Democracia,EXTRAURBANO
+RUT_15_62_0014,Amatitlán,Siquinalá,TAXI
+RUT_16_63_0015,Villa Nueva,Masagua,EXTRAURBANO
+RUT_17_64_0016,Villa Canales,Tiquisate,FLETERO
+RUT_18_65_0017,Petapa,La Gomera,SHUTTLE
+RUT_19_66_0018,Guastatoya,Guanagazapa,EXTRAURBANO
+RUT_20_67_0019,Morazán,San José,EXTRAURBANO
+RUT_21_68_0020,San Agustín Acasaguastlán,Iztapa,SHUTTLE
+RUT_22_69_0021,San Cristóbal Acasaguastlán,Palín,EXTRAURBANO
+RUT_23_70_0022,El Jícaro,San Vicente Pacaya,SHUTTLE
+RUT_24_71_0023,Sanarate,Nueva Concepción,SHUTTLE
+RUT_25_72_0024,Sansare,Sipacate,FLETERO
+RUT_26_73_0025,San Antonio La Paz,Cuilapa,SHUTTLE
+RUT_27_74_0026,Antigua Guatemala,Barberena,TAXI
+RUT_28_75_0027,Jocotenango,Santa Rosa de Lima,TAXI
+RUT_29_76_0028,Pastores,Casillas,SHUTTLE
+RUT_30_77_0029,Sumpango,San Rafael Las Flores,EXTRAURBANO
+RUT_31_78_0030,Santo Domingo Xenacoj,Oratorio,TAXI
+RUT_32_79_0031,Santiago Sacatepéquez,San Juan Tecuaco,SHUTTLE
+RUT_33_80_0032,San Bartolomé Milpas Altas,Chiquimulilla,FLETERO
+RUT_34_81_0033,San Lucas Sacatepéquez,Taxisco,TAXI
+RUT_35_82_0034,Santa Lucía Milpas Altas,Santa María Ixhuatán,EXTRAURBANO
+RUT_36_83_0035,Magdalena Milpas Altas,Guazacapán,TAXI
+RUT_37_84_0036,Santa María de Jesús,Santa Cruz Naranjo,FLETERO
+RUT_38_85_0037,Ciudad Vieja,Pueblo Nuevo Viñas,FLETERO
+RUT_39_86_0038,San Miguel Dueñas,Nueva Santa Rosa,EXTRAURBANO
+RUT_40_87_0039,Alotenango,Lago De Atitlan,SHUTTLE
+RUT_41_88_0040,San Antonio Aguas Calientes,Sololá,SHUTTLE
+RUT_42_89_0041,Santa Catarina Barahona,San José Chacayá,TAXI
+RUT_43_90_0042,Chimaltenango,Santa María Visitación,SHUTTLE
+RUT_44_91_0043,San José Poaquil,Santa Lucía Utatlán,TAXI
+RUT_45_92_0044,San Martín Jilotepeque,Nahualá,SHUTTLE
+RUT_46_93_0045,Comalapa,Santa Catarina Ixtahuacán,TAXI
+RUT_47_94_0046,Santa Apolonia,Santa Clara La Laguna,SHUTTLE
+RUT_48_95_0047,Tecpán Guatemala,Concepción,SHUTTLE
+RUT_49_96_0048,Patzún,San Andrés Semetabaj,TAXI
+RUT_50_97_0049,Pochuta,Panajachel,FLETERO
+RUT_51_98_0050,Patzicía,Santa Catarina Palopó,SHUTTLE
+RUT_52_99_0051,Santa Cruz Balanyá,San Antonio Palopó,LANCHA
+RUT_53_100_0052,Acatenango,San Lucas Tolimán,LANCHA
+RUT_54_101_0053,Yepocapa,Santa Cruz La Laguna,TAXI
+RUT_55_102_0054,San Andrés Itzapa,San Pablo La Laguna,FLETERO
+RUT_56_103_0055,Parramos,San Marcos La Laguna,LANCHA
+RUT_57_104_0056,Zaragoza,San Juan La Laguna,TAXI
+RUT_58_105_0057,El Tejar,San Pedro La Laguna,LANCHA
+RUT_59_106_0058,Escuintla,Santiago Atitlán,LANCHA
+RUT_60_107_0059,Santa Lucía Cotzumalguapa,Totonicapán,SHUTTLE
+RUT_61_108_0060,La Democracia,San Cristóbal Totonicapán,EXTRAURBANO
+RUT_62_109_0061,Siquinalá,San Francisco El Alto,SHUTTLE
+RUT_63_110_0062,Masagua,San Andrés Xecul,EXTRAURBANO
+RUT_64_111_0063,Tiquisate,Momostenango,TAXI
+RUT_65_112_0064,La Gomera,Santa María Chiquimula,EXTRAURBANO
+RUT_66_113_0065,Guanagazapa,Santa Lucía La Reforma,EXTRAURBANO
+RUT_67_114_0066,San José,San Bartolo,FLETERO
+RUT_68_115_0067,Iztapa,Quetzaltenango,FLETERO
+RUT_69_116_0068,Palín,Salcajá,EXTRAURBANO
+RUT_70_117_0069,San Vicente Pacaya,Olintepeque,TAXI
+RUT_71_118_0070,Nueva Concepción,San Carlos Sija,TAXI
+RUT_72_119_0071,Sipacate,Sibilia,EXTRAURBANO
+RUT_73_120_0072,Cuilapa,Cabricán,TAXI
+RUT_74_121_0073,Barberena,Cajolá,TAXI
+RUT_75_122_0074,Santa Rosa de Lima,San Miguel Sigüila,SHUTTLE
+RUT_76_123_0075,Casillas,Ostuncalco,FLETERO
+RUT_77_124_0076,San Rafael Las Flores,San Mateo,TAXI
+RUT_78_125_0077,Oratorio,Concepción Chiquirichapa,EXTRAURBANO
+RUT_79_126_0078,San Juan Tecuaco,San Martín Sacatepéquez,FLETERO
+RUT_80_127_0079,Chiquimulilla,Almolonga,FLETERO
+RUT_81_128_0080,Taxisco,Cantel,TAXI
+RUT_82_129_0081,Santa María Ixhuatán,Huitán,SHUTTLE
+RUT_83_130_0082,Guazacapán,Zunil,FLETERO
+RUT_84_131_0083,Santa Cruz Naranjo,Colomba,TAXI
+RUT_85_132_0084,Pueblo Nuevo Viñas,San Francisco La Unión,FLETERO
+RUT_86_133_0085,Nueva Santa Rosa,El Palmar,FLETERO
+RUT_87_134_0086,Lago De Atitlan,Coatepeque,FLETERO
+RUT_88_135_0087,Sololá,Génova,FLETERO
+RUT_89_136_0088,San José Chacayá,Flores Costa Cuca,EXTRAURBANO
+RUT_90_137_0089,Santa María Visitación,La Esperanza,FLETERO
+RUT_91_138_0090,Santa Lucía Utatlán,Palestina de Los Altos,SHUTTLE
+RUT_92_139_0091,Nahualá,Mazatenango,SHUTTLE
+RUT_93_140_0092,Santa Catarina Ixtahuacán,Cuyotenango,EXTRAURBANO
+RUT_94_141_0093,Santa Clara La Laguna,San Francisco Zapotitlán,SHUTTLE
+RUT_95_142_0094,Concepción,San Bernardino,EXTRAURBANO
+RUT_96_143_0095,San Andrés Semetabaj,San José El Ídolo,FLETERO
+RUT_97_144_0096,Panajachel,Santo Domingo Suchitepéquez,LANCHA
+RUT_98_145_0097,Santa Catarina Palopó,San Lorenzo,SHUTTLE
+RUT_99_146_0098,San Antonio Palopó,Samayac,SHUTTLE
+RUT_100_147_0099,San Lucas Tolimán,San Pablo Jocopilas,LANCHA
+RUT_101_148_0100,Santa Cruz La Laguna,San Antonio Suchitepéquez,LANCHA
+RUT_102_149_0101,San Pablo La Laguna,San Miguel Panán,EXTRAURBANO
+RUT_103_150_0102,San Marcos La Laguna,San Gabriel,LANCHA
+RUT_104_151_0103,San Juan La Laguna,Chicacao,SHUTTLE
+RUT_105_152_0104,San Pedro La Laguna,Patulul,LANCHA
+RUT_106_153_0105,Santiago Atitlán,Santa Bárbara,EXTRAURBANO
+RUT_107_154_0106,Totonicapán,San Juan Bautista,FLETERO
+RUT_108_155_0107,San Cristóbal Totonicapán,Santo Tomás La Unión,TAXI
+RUT_109_156_0108,San Francisco El Alto,Zunilito,TAXI
+RUT_110_157_0109,San Andrés Xecul,Pueblo Nuevo,SHUTTLE
+RUT_111_158_0110,Momostenango,Río Bravo,SHUTTLE
+RUT_112_159_0111,Santa María Chiquimula,San José La Máquina,TAXI
+RUT_113_160_0112,Santa Lucía La Reforma,Retalhuleu,SHUTTLE
+RUT_114_161_0113,San Bartolo,San Sebastián,EXTRAURBANO
+RUT_115_162_0114,Quetzaltenango,Santa Cruz Muluá,EXTRAURBANO
+RUT_116_163_0115,Salcajá,San Martín Zapotitlán,EXTRAURBANO
+RUT_117_164_0116,Olintepeque,San Felipe,TAXI
+RUT_118_165_0117,San Carlos Sija,San Andrés Villa Seca,EXTRAURBANO
+RUT_119_166_0118,Sibilia,Champerico,TAXI
+RUT_120_167_0119,Cabricán,Nuevo San Carlos,FLETERO
+RUT_121_168_0120,Cajolá,El Asintal,SHUTTLE
+RUT_122_169_0121,San Miguel Sigüila,San Marcos,FLETERO
+RUT_123_170_0122,Ostuncalco,San Pedro Sacatepéquez,EXTRAURBANO
+RUT_124_171_0123,San Mateo,San Antonio Sacatepéquez,EXTRAURBANO
+RUT_125_172_0124,Concepción Chiquirichapa,Comitancillo,TAXI
+RUT_126_173_0125,San Martín Sacatepéquez,San Miguel Ixtahuacán,TAXI
+RUT_127_174_0126,Almolonga,Concepción Tutuapa,SHUTTLE
+RUT_128_175_0127,Cantel,Tacaná,FLETERO
+RUT_129_176_0128,Huitán,Sibinal,FLETERO
+RUT_130_177_0129,Zunil,Tajumulco,SHUTTLE
+RUT_131_178_0130,Colomba,Tejutla,TAXI
+RUT_132_179_0131,San Francisco La Unión,San Rafael Pie de la Cuesta,FLETERO
+RUT_133_180_0132,El Palmar,Nuevo Progreso,EXTRAURBANO
+RUT_134_181_0133,Coatepeque,El Tumbador,EXTRAURBANO
+RUT_135_182_0134,Génova,El Rodeo,TAXI
+RUT_136_183_0135,Flores Costa Cuca,Malacatán,SHUTTLE
+RUT_137_184_0136,La Esperanza,Catarina,EXTRAURBANO
+RUT_138_185_0137,Palestina de Los Altos,Ayutla,TAXI
+RUT_139_186_0138,Mazatenango,Ocós,FLETERO
+RUT_140_187_0139,Cuyotenango,San Pablo,SHUTTLE
+RUT_141_188_0140,San Francisco Zapotitlán,El Quetzal,FLETERO
+RUT_142_189_0141,San Bernardino,La Reforma,SHUTTLE
+RUT_143_190_0142,San José El Ídolo,Pajapita,SHUTTLE
+RUT_144_191_0143,Santo Domingo Suchitepéquez,Ixchiguán,SHUTTLE
+RUT_145_192_0144,San Lorenzo,San José Ojetenam,FLETERO
+RUT_146_193_0145,Samayac,San Cristóbal Cucho,EXTRAURBANO
+RUT_147_194_0146,San Pablo Jocopilas,Sipacapa,SHUTTLE
+RUT_148_195_0147,San Antonio Suchitepéquez,Esquipulas Palo Gordo,EXTRAURBANO
+RUT_149_196_0148,San Miguel Panán,Río Blanco,FLETERO
+RUT_150_197_0149,San Gabriel,San Lorenzo,TAXI
+RUT_151_198_0150,Chicacao,La Blanca,FLETERO
+RUT_152_199_0151,Patulul,Huehuetenango,TAXI
+RUT_153_200_0152,Santa Bárbara,Chiantla,TAXI
+RUT_154_201_0153,San Juan Bautista,Malacatancito,TAXI
+RUT_155_202_0154,Santo Tomás La Unión,Cuilco,EXTRAURBANO
+RUT_156_203_0155,Zunilito,Nentón,EXTRAURBANO
+RUT_157_204_0156,Pueblo Nuevo,San Pedro Necta,TAXI
+RUT_158_205_0157,Río Bravo,Jacaltenango,TAXI
+RUT_159_206_0158,San José La Máquina,Soloma,FLETERO
+RUT_160_207_0159,Retalhuleu,Ixtahuacán,FLETERO
+RUT_161_208_0160,San Sebastián,Santa Bárbara,EXTRAURBANO
+RUT_162_209_0161,Santa Cruz Muluá,La Libertad,FLETERO
+RUT_163_210_0162,San Martín Zapotitlán,La Democracia,TAXI
+RUT_164_211_0163,San Felipe,San Miguel Acatán,TAXI
+RUT_165_212_0164,San Andrés Villa Seca,San Rafael La Independencia,EXTRAURBANO
+RUT_166_213_0165,Champerico,Todos Santos Cuchumatán,EXTRAURBANO
+RUT_167_214_0166,Nuevo San Carlos,San Juan Atitán,FLETERO
+RUT_168_215_0167,El Asintal,Santa Eulalia,FLETERO
+RUT_169_216_0168,San Marcos,San Mateo Ixtatán,EXTRAURBANO
+RUT_170_217_0169,San Pedro Sacatepéquez,Colotenango,EXTRAURBANO
+RUT_171_218_0170,San Antonio Sacatepéquez,San Sebastián Huehuetenango,SHUTTLE
+RUT_172_219_0171,Comitancillo,Tectitán,FLETERO
+RUT_173_220_0172,San Miguel Ixtahuacán,Concepción Huista,TAXI
+RUT_174_221_0173,Concepción Tutuapa,San Juan Ixcoy,TAXI
+RUT_175_222_0174,Tacaná,San Antonio Huista,SHUTTLE
+RUT_176_223_0175,Sibinal,San Sebastián Coatán,EXTRAURBANO
+RUT_177_224_0176,Tajumulco,Barillas,SHUTTLE
+RUT_178_225_0177,Tejutla,Aguacatán,FLETERO
+RUT_179_226_0178,San Rafael Pie de la Cuesta,San Rafael Petzal,TAXI
+RUT_180_227_0179,Nuevo Progreso,San Gaspar Ixchil,SHUTTLE
+RUT_181_228_0180,El Tumbador,Santiago Chimaltenango,EXTRAURBANO
+RUT_182_229_0181,El Rodeo,Santa Ana Huista,FLETERO
+RUT_183_230_0182,Malacatán,Unión Cantinil,FLETERO
+RUT_184_231_0183,Catarina,Petatán,EXTRAURBANO
+RUT_185_232_0184,Ayutla,Santa Cruz del Quiché,SHUTTLE
+RUT_186_233_0185,Ocós,Chiché,TAXI
+RUT_187_234_0186,San Pablo,Chinique,FLETERO
+RUT_188_235_0187,El Quetzal,Zacualpa,TAXI
+RUT_189_236_0188,La Reforma,Chajul,TAXI
+RUT_190_237_0189,Pajapita,Chichicastenango,SHUTTLE
+RUT_191_238_0190,Ixchiguán,Patzité,TAXI
+RUT_192_239_0191,San José Ojetenam,San Antonio Ilotenango,SHUTTLE
+RUT_193_240_0192,San Cristóbal Cucho,San Pedro Jocopilas,SHUTTLE
+RUT_194_241_0193,Sipacapa,Cunén,SHUTTLE
+RUT_195_242_0194,Esquipulas Palo Gordo,San Juan Cotzal,FLETERO
+RUT_196_243_0195,Río Blanco,Joyabaj,TAXI
+RUT_197_244_0196,San Lorenzo,Nebaj,TAXI
+RUT_198_245_0197,La Blanca,San Andrés Sajcabajá,SHUTTLE
+RUT_199_246_0198,Huehuetenango,Uspantán,FLETERO
+RUT_200_247_0199,Chiantla,Sacapulas,TAXI
+RUT_201_248_0200,Malacatancito,San Bartolomé Jocotenango,SHUTTLE
+RUT_202_249_0201,Cuilco,Canillá,SHUTTLE
+RUT_203_250_0202,Nentón,Chicamán,FLETERO
+RUT_204_251_0203,San Pedro Necta,Ixcán,FLETERO
+RUT_205_252_0204,Jacaltenango,Pachalum,EXTRAURBANO
+RUT_206_253_0205,Soloma,Salamá,FLETERO
+RUT_207_254_0206,Ixtahuacán,San Miguel Chicaj,TAXI
+RUT_208_255_0207,Santa Bárbara,Rabinal,EXTRAURBANO
+RUT_209_256_0208,La Libertad,Cubulco,SHUTTLE
+RUT_210_257_0209,La Democracia,Granados,SHUTTLE
+RUT_211_258_0210,San Miguel Acatán,El Chol,SHUTTLE
+RUT_212_259_0211,San Rafael La Independencia,San Jerónimo,SHUTTLE
+RUT_213_260_0212,Todos Santos Cuchumatán,Purulhá,TAXI
+RUT_214_261_0213,San Juan Atitán,Cobán,FLETERO
+RUT_215_262_0214,Santa Eulalia,Santa Cruz Verapaz,EXTRAURBANO
+RUT_216_263_0215,San Mateo Ixtatán,San Cristóbal Verapaz,FLETERO
+RUT_217_264_0216,Colotenango,Tactic,SHUTTLE
+RUT_218_265_0217,San Sebastián Huehuetenango,Tamahú,EXTRAURBANO
+RUT_219_266_0218,Tectitán,Tucurú,TAXI
+RUT_220_267_0219,Concepción Huista,Panzós,EXTRAURBANO
+RUT_221_268_0220,San Juan Ixcoy,Senahú,EXTRAURBANO
+RUT_222_269_0221,San Antonio Huista,San Pedro Carchá,SHUTTLE
+RUT_223_270_0222,San Sebastián Coatán,San Juan Chamelco,FLETERO
+RUT_224_271_0223,Barillas,Lanquín,EXTRAURBANO
+RUT_225_272_0224,Aguacatán,Cahabón,EXTRAURBANO
+RUT_226_273_0225,San Rafael Petzal,Chisec,EXTRAURBANO
+RUT_227_274_0226,San Gaspar Ixchil,Chahal,FLETERO
+RUT_228_275_0227,Santiago Chimaltenango,Fray Bartolomé de Las Casas,SHUTTLE
+RUT_229_276_0228,Santa Ana Huista,Santa Catalina La Tinta,EXTRAURBANO
+RUT_230_277_0229,Unión Cantinil,Raxruhá,SHUTTLE
+RUT_231_278_0230,Petatán,Flores,TAXI
+RUT_232_279_0231,Santa Cruz del Quiché,San José,FLETERO
+RUT_233_280_0232,Chiché,San Benito,FLETERO
+RUT_234_281_0233,Chinique,San Andrés,EXTRAURBANO
+RUT_235_282_0234,Zacualpa,La Libertad,EXTRAURBANO
+RUT_236_283_0235,Chajul,San Francisco,FLETERO
+RUT_237_284_0236,Chichicastenango,Santa Ana,TAXI
+RUT_238_285_0237,Patzité,Dolores,FLETERO
+RUT_239_286_0238,San Antonio Ilotenango,San Luis,EXTRAURBANO
+RUT_240_287_0239,San Pedro Jocopilas,Sayaxché,EXTRAURBANO
+RUT_241_288_0240,Cunén,Melchor de Mencos,TAXI
+RUT_242_289_0241,San Juan Cotzal,Poptún,TAXI
+RUT_243_290_0242,Joyabaj,Las Cruces,FLETERO
+RUT_244_291_0243,Nebaj,El Chal,FLETERO
+RUT_245_292_0244,San Andrés Sajcabajá,Puerto Barrios,TAXI
+RUT_246_293_0245,Uspantán,Lívingston,EXTRAURBANO
+RUT_247_294_0246,Sacapulas,El Estor,SHUTTLE
+RUT_248_295_0247,San Bartolomé Jocotenango,Morales,TAXI
+RUT_249_296_0248,Canillá,Los Amates,TAXI
+RUT_250_297_0249,Chicamán,Zacapa,FLETERO
+RUT_251_298_0250,Ixcán,Estanzuela,TAXI
+RUT_252_299_0251,Pachalum,Río Hondo,SHUTTLE
+RUT_253_300_0252,Salamá,Gualán,TAXI
+RUT_254_301_0253,San Miguel Chicaj,Teculután,SHUTTLE
+RUT_255_302_0254,Rabinal,Usumatlán,EXTRAURBANO
+RUT_256_303_0255,Cubulco,Cabañas,TAXI
+RUT_257_304_0256,Granados,San Diego,TAXI
+RUT_258_305_0257,El Chol,La Unión,EXTRAURBANO
+RUT_259_306_0258,San Jerónimo,Huité,SHUTTLE
+RUT_260_307_0259,Purulhá,San Jorge,SHUTTLE
+RUT_261_308_0260,Cobán,Chiquimula,SHUTTLE
+RUT_262_309_0261,Santa Cruz Verapaz,San José La Arada,EXTRAURBANO
+RUT_263_310_0262,San Cristóbal Verapaz,San Juan Ermita,EXTRAURBANO
+RUT_264_311_0263,Tactic,Jocotán,FLETERO
+RUT_265_312_0264,Tamahú,Camotán,TAXI
+RUT_266_313_0265,Tucurú,Olopa,EXTRAURBANO
+RUT_267_314_0266,Panzós,Esquipulas,FLETERO
+RUT_268_315_0267,Senahú,Concepción Las Minas,EXTRAURBANO
+RUT_269_316_0268,San Pedro Carchá,Quezaltepeque,FLETERO
+RUT_270_317_0269,San Juan Chamelco,San Jacinto,SHUTTLE
+RUT_271_318_0270,Lanquín,Ipala,FLETERO
+RUT_272_319_0271,Cahabón,Jalapa,FLETERO
+RUT_273_320_0272,Chisec,San Pedro Pinula,TAXI
+RUT_274_321_0273,Chahal,San Luis Jilotepeque,SHUTTLE
+RUT_275_322_0274,Fray Bartolomé de Las Casas,San Manuel Chaparrón,EXTRAURBANO
+RUT_276_323_0275,Santa Catalina La Tinta,San Carlos Alzatate,FLETERO
+RUT_277_324_0276,Raxruhá,Monjas,FLETERO
+RUT_278_325_0277,Flores,Mataquescuintla,FLETERO
+RUT_279_326_0278,San José,Jutiapa,EXTRAURBANO
+RUT_280_327_0279,San Benito,El Progreso,SHUTTLE
+RUT_281_328_0280,San Andrés,Santa Catarina Mita,FLETERO
+RUT_282_329_0281,La Libertad,Agua Blanca,FLETERO
+RUT_283_330_0282,San Francisco,Asunción Mita,SHUTTLE
+RUT_284_331_0283,Santa Ana,Yupiltepeque,EXTRAURBANO
+RUT_285_332_0284,Dolores,Atescatempa,EXTRAURBANO
+RUT_286_333_0285,San Luis,Jerez,EXTRAURBANO
+RUT_287_334_0286,Sayaxché,El Adelanto,TAXI
+RUT_288_335_0287,Melchor de Mencos,Zapotitlán,EXTRAURBANO
+RUT_289_336_0288,Poptún,Comapa,FLETERO
+RUT_290_337_0289,Las Cruces,Jalpatagua,FLETERO
+RUT_291_338_0290,El Chal,Conguaco,EXTRAURBANO
+RUT_292_339_0291,Puerto Barrios,Moyuta,SHUTTLE
+RUT_293_340_0292,Lívingston,Pasaco,TAXI
+RUT_294_341_0293,El Estor,San José Acatempa,FLETERO
+RUT_295_342_0294,Morales,Quesada,TAXI
+RUT_296_1_0295,Los Amates,Lago De Amatitlan,EXTRAURBANO
+RUT_297_2_0296,Zacapa,Guatemala,SHUTTLE
+RUT_298_3_0297,Estanzuela,Santa Catarina Pinula,FLETERO
+RUT_299_4_0298,Río Hondo,San José Pinula,TAXI
+RUT_300_5_0299,Gualán,San José del Golfo,SHUTTLE
+RUT_301_6_0300,Teculután,Palencia,TAXI
+RUT_302_7_0301,Usumatlán,Chinautla,EXTRAURBANO
+RUT_303_8_0302,Cabañas,San Pedro Ayampuc,EXTRAURBANO
+RUT_304_9_0303,San Diego,Mixco,TAXI
+RUT_305_10_0304,La Unión,San Pedro Sacatepéquez,TAXI
+RUT_306_11_0305,Huité,San Juan Sacatepéquez,SHUTTLE
+RUT_307_12_0306,San Jorge,San Raimundo,FLETERO
+RUT_308_13_0307,Chiquimula,Chuarrancho,TAXI
+RUT_309_14_0308,San José La Arada,Fraijanes,TAXI
+RUT_310_15_0309,San Juan Ermita,Amatitlán,TAXI
+RUT_311_16_0310,Jocotán,Villa Nueva,FLETERO
+RUT_312_17_0311,Camotán,Villa Canales,SHUTTLE
+RUT_313_18_0312,Olopa,Petapa,TAXI
+RUT_314_19_0313,Esquipulas,Guastatoya,SHUTTLE
+RUT_315_20_0314,Concepción Las Minas,Morazán,SHUTTLE
+RUT_316_21_0315,Quezaltepeque,San Agustín Acasaguastlán,FLETERO
+RUT_317_22_0316,San Jacinto,San Cristóbal Acasaguastlán,TAXI
+RUT_318_23_0317,Ipala,El Jícaro,FLETERO
+RUT_319_24_0318,Jalapa,Sanarate,SHUTTLE
+RUT_320_25_0319,San Pedro Pinula,Sansare,TAXI
+RUT_321_26_0320,San Luis Jilotepeque,San Antonio La Paz,TAXI
+RUT_322_27_0321,San Manuel Chaparrón,Antigua Guatemala,EXTRAURBANO
+RUT_323_28_0322,San Carlos Alzatate,Jocotenango,FLETERO
+RUT_324_29_0323,Monjas,Pastores,SHUTTLE
+RUT_325_30_0324,Mataquescuintla,Sumpango,SHUTTLE
+RUT_326_31_0325,Jutiapa,Santo Domingo Xenacoj,EXTRAURBANO
+RUT_327_32_0326,El Progreso,Santiago Sacatepéquez,FLETERO
+RUT_328_33_0327,Santa Catarina Mita,San Bartolomé Milpas Altas,TAXI
+RUT_329_34_0328,Agua Blanca,San Lucas Sacatepéquez,SHUTTLE
+RUT_330_35_0329,Asunción Mita,Santa Lucía Milpas Altas,TAXI
+RUT_331_36_0330,Yupiltepeque,Magdalena Milpas Altas,EXTRAURBANO
+RUT_332_37_0331,Atescatempa,Santa María de Jesús,TAXI
+RUT_333_38_0332,Jerez,Ciudad Vieja,EXTRAURBANO
+RUT_334_39_0333,El Adelanto,San Miguel Dueñas,SHUTTLE
+RUT_335_40_0334,Zapotitlán,Alotenango,EXTRAURBANO
+RUT_336_41_0335,Comapa,San Antonio Aguas Calientes,SHUTTLE
+RUT_337_42_0336,Jalpatagua,Santa Catarina Barahona,TAXI
+RUT_338_43_0337,Conguaco,Chimaltenango,SHUTTLE
+RUT_339_44_0338,Moyuta,San José Poaquil,FLETERO
+RUT_340_45_0339,Pasaco,San Martín Jilotepeque,EXTRAURBANO
+RUT_341_46_0340,San José Acatempa,Comalapa,TAXI
+RUT_342_47_0341,Quesada,Santa Apolonia,SHUTTLE
+RUT_1_48_0342,Lago De Amatitlan,Tecpán Guatemala,FLETERO
+RUT_2_49_0343,Guatemala,Patzún,SHUTTLE
+RUT_3_50_0344,Santa Catarina Pinula,Pochuta,SHUTTLE
+RUT_4_51_0345,San José Pinula,Patzicía,EXTRAURBANO
+RUT_5_52_0346,San José del Golfo,Santa Cruz Balanyá,FLETERO
+RUT_6_53_0347,Palencia,Acatenango,FLETERO
+RUT_7_54_0348,Chinautla,Yepocapa,SHUTTLE
+RUT_8_55_0349,San Pedro Ayampuc,San Andrés Itzapa,SHUTTLE
+RUT_9_56_0350,Mixco,Parramos,TAXI
+RUT_10_57_0351,San Pedro Sacatepéquez,Zaragoza,TAXI
+RUT_11_58_0352,San Juan Sacatepéquez,El Tejar,EXTRAURBANO
+RUT_12_59_0353,San Raimundo,Escuintla,EXTRAURBANO
+RUT_13_60_0354,Chuarrancho,Santa Lucía Cotzumalguapa,EXTRAURBANO
+RUT_14_61_0355,Fraijanes,La Democracia,TAXI
+RUT_15_62_0356,Amatitlán,Siquinalá,SHUTTLE
+RUT_16_63_0357,Villa Nueva,Masagua,EXTRAURBANO
+RUT_17_64_0358,Villa Canales,Tiquisate,FLETERO
+RUT_18_65_0359,Petapa,La Gomera,FLETERO
+RUT_19_66_0360,Guastatoya,Guanagazapa,SHUTTLE
+RUT_20_67_0361,Morazán,San José,EXTRAURBANO
+RUT_21_68_0362,San Agustín Acasaguastlán,Iztapa,TAXI
+RUT_22_69_0363,San Cristóbal Acasaguastlán,Palín,EXTRAURBANO
+RUT_23_70_0364,El Jícaro,San Vicente Pacaya,SHUTTLE
+RUT_24_71_0365,Sanarate,Nueva Concepción,FLETERO
+RUT_25_72_0366,Sansare,Sipacate,TAXI
+RUT_26_73_0367,San Antonio La Paz,Cuilapa,FLETERO
+RUT_27_74_0368,Antigua Guatemala,Barberena,FLETERO
+RUT_28_75_0369,Jocotenango,Santa Rosa de Lima,TAXI
+RUT_29_76_0370,Pastores,Casillas,FLETERO
+RUT_30_77_0371,Sumpango,San Rafael Las Flores,TAXI
+RUT_31_78_0372,Santo Domingo Xenacoj,Oratorio,EXTRAURBANO
+RUT_32_79_0373,Santiago Sacatepéquez,San Juan Tecuaco,TAXI
+RUT_33_80_0374,San Bartolomé Milpas Altas,Chiquimulilla,TAXI
+RUT_34_81_0375,San Lucas Sacatepéquez,Taxisco,TAXI
+RUT_35_82_0376,Santa Lucía Milpas Altas,Santa María Ixhuatán,TAXI
+RUT_36_83_0377,Magdalena Milpas Altas,Guazacapán,EXTRAURBANO
+RUT_37_84_0378,Santa María de Jesús,Santa Cruz Naranjo,SHUTTLE
+RUT_38_85_0379,Ciudad Vieja,Pueblo Nuevo Viñas,SHUTTLE
+RUT_39_86_0380,San Miguel Dueñas,Nueva Santa Rosa,EXTRAURBANO
+RUT_40_87_0381,Alotenango,Lago De Atitlan,SHUTTLE
+RUT_41_88_0382,San Antonio Aguas Calientes,Sololá,FLETERO
+RUT_42_89_0383,Santa Catarina Barahona,San José Chacayá,SHUTTLE
+RUT_43_90_0384,Chimaltenango,Santa María Visitación,SHUTTLE
+RUT_44_91_0385,San José Poaquil,Santa Lucía Utatlán,SHUTTLE
+RUT_45_92_0386,San Martín Jilotepeque,Nahualá,TAXI
+RUT_46_93_0387,Comalapa,Santa Catarina Ixtahuacán,SHUTTLE
+RUT_47_94_0388,Santa Apolonia,Santa Clara La Laguna,EXTRAURBANO
+RUT_48_95_0389,Tecpán Guatemala,Concepción,TAXI
+RUT_49_96_0390,Patzún,San Andrés Semetabaj,FLETERO
+RUT_50_97_0391,Pochuta,Panajachel,LANCHA
+RUT_51_98_0392,Patzicía,Santa Catarina Palopó,EXTRAURBANO
+RUT_52_99_0393,Santa Cruz Balanyá,San Antonio Palopó,EXTRAURBANO
+RUT_53_100_0394,Acatenango,San Lucas Tolimán,LANCHA
+RUT_54_101_0395,Yepocapa,Santa Cruz La Laguna,EXTRAURBANO
+RUT_55_102_0396,San Andrés Itzapa,San Pablo La Laguna,EXTRAURBANO
+RUT_56_103_0397,Parramos,San Marcos La Laguna,LANCHA
+RUT_57_104_0398,Zaragoza,San Juan La Laguna,FLETERO
+RUT_58_105_0399,El Tejar,San Pedro La Laguna,LANCHA
+RUT_59_106_0400,Escuintla,Santiago Atitlán,SHUTTLE
+RUT_60_107_0401,Santa Lucía Cotzumalguapa,Totonicapán,TAXI
+RUT_61_108_0402,La Democracia,San Cristóbal Totonicapán,EXTRAURBANO
+RUT_62_109_0403,Siquinalá,San Francisco El Alto,SHUTTLE
+RUT_63_110_0404,Masagua,San Andrés Xecul,EXTRAURBANO
+RUT_64_111_0405,Tiquisate,Momostenango,EXTRAURBANO
+RUT_65_112_0406,La Gomera,Santa María Chiquimula,TAXI
+RUT_66_113_0407,Guanagazapa,Santa Lucía La Reforma,TAXI
+RUT_67_114_0408,San José,San Bartolo,EXTRAURBANO
+RUT_68_115_0409,Iztapa,Quetzaltenango,FLETERO
+RUT_69_116_0410,Palín,Salcajá,SHUTTLE
+RUT_70_117_0411,San Vicente Pacaya,Olintepeque,EXTRAURBANO
+RUT_71_118_0412,Nueva Concepción,San Carlos Sija,TAXI
+RUT_72_119_0413,Sipacate,Sibilia,SHUTTLE
+RUT_73_120_0414,Cuilapa,Cabricán,FLETERO
+RUT_74_121_0415,Barberena,Cajolá,EXTRAURBANO
+RUT_75_122_0416,Santa Rosa de Lima,San Miguel Sigüila,TAXI
+RUT_76_123_0417,Casillas,Ostuncalco,TAXI
+RUT_77_124_0418,San Rafael Las Flores,San Mateo,SHUTTLE
+RUT_78_125_0419,Oratorio,Concepción Chiquirichapa,TAXI
+RUT_79_126_0420,San Juan Tecuaco,San Martín Sacatepéquez,FLETERO
+RUT_80_127_0421,Chiquimulilla,Almolonga,FLETERO
+RUT_81_128_0422,Taxisco,Cantel,EXTRAURBANO
+RUT_82_129_0423,Santa María Ixhuatán,Huitán,SHUTTLE
+RUT_83_130_0424,Guazacapán,Zunil,EXTRAURBANO
+RUT_84_131_0425,Santa Cruz Naranjo,Colomba,SHUTTLE
+RUT_85_132_0426,Pueblo Nuevo Viñas,San Francisco La Unión,EXTRAURBANO
+RUT_86_133_0427,Nueva Santa Rosa,El Palmar,SHUTTLE
+RUT_87_134_0428,Lago De Atitlan,Coatepeque,SHUTTLE
+RUT_88_135_0429,Sololá,Génova,FLETERO
+RUT_89_136_0430,San José Chacayá,Flores Costa Cuca,SHUTTLE
+RUT_90_137_0431,Santa María Visitación,La Esperanza,SHUTTLE
+RUT_91_138_0432,Santa Lucía Utatlán,Palestina de Los Altos,SHUTTLE
+RUT_92_139_0433,Nahualá,Mazatenango,TAXI
+RUT_93_140_0434,Santa Catarina Ixtahuacán,Cuyotenango,FLETERO
+RUT_94_141_0435,Santa Clara La Laguna,San Francisco Zapotitlán,TAXI
+RUT_95_142_0436,Concepción,San Bernardino,SHUTTLE
+RUT_96_143_0437,San Andrés Semetabaj,San José El Ídolo,EXTRAURBANO
+RUT_97_144_0438,Panajachel,Santo Domingo Suchitepéquez,LANCHA
+RUT_98_145_0439,Santa Catarina Palopó,San Lorenzo,TAXI
+RUT_99_146_0440,San Antonio Palopó,Samayac,SHUTTLE
+RUT_100_147_0441,San Lucas Tolimán,San Pablo Jocopilas,LANCHA
+RUT_101_148_0442,Santa Cruz La Laguna,San Antonio Suchitepéquez,LANCHA
+RUT_102_149_0443,San Pablo La Laguna,San Miguel Panán,EXTRAURBANO
+RUT_103_150_0444,San Marcos La Laguna,San Gabriel,LANCHA
+RUT_104_151_0445,San Juan La Laguna,Chicacao,TAXI
+RUT_105_152_0446,San Pedro La Laguna,Patulul,LANCHA
+RUT_106_153_0447,Santiago Atitlán,Santa Bárbara,LANCHA
+RUT_107_154_0448,Totonicapán,San Juan Bautista,EXTRAURBANO
+RUT_108_155_0449,San Cristóbal Totonicapán,Santo Tomás La Unión,SHUTTLE
+RUT_109_156_0450,San Francisco El Alto,Zunilito,EXTRAURBANO
+RUT_110_157_0451,San Andrés Xecul,Pueblo Nuevo,FLETERO
+RUT_111_158_0452,Momostenango,Río Bravo,SHUTTLE
+RUT_112_159_0453,Santa María Chiquimula,San José La Máquina,TAXI
+RUT_113_160_0454,Santa Lucía La Reforma,Retalhuleu,SHUTTLE
+RUT_114_161_0455,San Bartolo,San Sebastián,FLETERO
+RUT_115_162_0456,Quetzaltenango,Santa Cruz Muluá,FLETERO
+RUT_116_163_0457,Salcajá,San Martín Zapotitlán,TAXI
+RUT_117_164_0458,Olintepeque,San Felipe,TAXI
+RUT_118_165_0459,San Carlos Sija,San Andrés Villa Seca,SHUTTLE
+RUT_119_166_0460,Sibilia,Champerico,SHUTTLE
+RUT_120_167_0461,Cabricán,Nuevo San Carlos,TAXI
+RUT_121_168_0462,Cajolá,El Asintal,TAXI
+RUT_122_169_0463,San Miguel Sigüila,San Marcos,FLETERO
+RUT_123_170_0464,Ostuncalco,San Pedro Sacatepéquez,FLETERO
+RUT_124_171_0465,San Mateo,San Antonio Sacatepéquez,FLETERO
+RUT_125_172_0466,Concepción Chiquirichapa,Comitancillo,FLETERO
+RUT_126_173_0467,San Martín Sacatepéquez,San Miguel Ixtahuacán,FLETERO
+RUT_127_174_0468,Almolonga,Concepción Tutuapa,TAXI
+RUT_128_175_0469,Cantel,Tacaná,FLETERO
+RUT_129_176_0470,Huitán,Sibinal,TAXI
+RUT_130_177_0471,Zunil,Tajumulco,FLETERO
+RUT_131_178_0472,Colomba,Tejutla,SHUTTLE
+RUT_132_179_0473,San Francisco La Unión,San Rafael Pie de la Cuesta,TAXI
+RUT_133_180_0474,El Palmar,Nuevo Progreso,TAXI
+RUT_134_181_0475,Coatepeque,El Tumbador,TAXI
+RUT_135_182_0476,Génova,El Rodeo,FLETERO
+RUT_136_183_0477,Flores Costa Cuca,Malacatán,SHUTTLE
+RUT_137_184_0478,La Esperanza,Catarina,SHUTTLE
+RUT_138_185_0479,Palestina de Los Altos,Ayutla,EXTRAURBANO
+RUT_139_186_0480,Mazatenango,Ocós,EXTRAURBANO
+RUT_140_187_0481,Cuyotenango,San Pablo,SHUTTLE
+RUT_141_188_0482,San Francisco Zapotitlán,El Quetzal,TAXI
+RUT_142_189_0483,San Bernardino,La Reforma,SHUTTLE
+RUT_143_190_0484,San José El Ídolo,Pajapita,EXTRAURBANO
+RUT_144_191_0485,Santo Domingo Suchitepéquez,Ixchiguán,TAXI
+RUT_145_192_0486,San Lorenzo,San José Ojetenam,SHUTTLE
+RUT_146_193_0487,Samayac,San Cristóbal Cucho,SHUTTLE
+RUT_147_194_0488,San Pablo Jocopilas,Sipacapa,EXTRAURBANO
+RUT_148_195_0489,San Antonio Suchitepéquez,Esquipulas Palo Gordo,FLETERO
+RUT_149_196_0490,San Miguel Panán,Río Blanco,SHUTTLE
+RUT_150_197_0491,San Gabriel,San Lorenzo,SHUTTLE
+RUT_151_198_0492,Chicacao,La Blanca,SHUTTLE
+RUT_152_199_0493,Patulul,Huehuetenango,FLETERO
+RUT_153_200_0494,Santa Bárbara,Chiantla,TAXI
+RUT_154_201_0495,San Juan Bautista,Malacatancito,TAXI
+RUT_155_202_0496,Santo Tomás La Unión,Cuilco,EXTRAURBANO
+RUT_156_203_0497,Zunilito,Nentón,TAXI
+RUT_157_204_0498,Pueblo Nuevo,San Pedro Necta,SHUTTLE
+RUT_158_205_0499,Río Bravo,Jacaltenango,FLETERO
+RUT_159_206_0500,San José La Máquina,Soloma,TAXI
+RUT_160_207_0501,Retalhuleu,Ixtahuacán,FLETERO
+RUT_161_208_0502,San Sebastián,Santa Bárbara,SHUTTLE
+RUT_162_209_0503,Santa Cruz Muluá,La Libertad,EXTRAURBANO
+RUT_163_210_0504,San Martín Zapotitlán,La Democracia,SHUTTLE
+RUT_164_211_0505,San Felipe,San Miguel Acatán,SHUTTLE
+RUT_165_212_0506,San Andrés Villa Seca,San Rafael La Independencia,EXTRAURBANO
+RUT_166_213_0507,Champerico,Todos Santos Cuchumatán,SHUTTLE
+RUT_167_214_0508,Nuevo San Carlos,San Juan Atitán,TAXI
+RUT_168_215_0509,El Asintal,Santa Eulalia,TAXI
+RUT_169_216_0510,San Marcos,San Mateo Ixtatán,EXTRAURBANO
+RUT_170_217_0511,San Pedro Sacatepéquez,Colotenango,FLETERO
+RUT_171_218_0512,San Antonio Sacatepéquez,San Sebastián Huehuetenango,FLETERO
+RUT_172_219_0513,Comitancillo,Tectitán,TAXI
+RUT_173_220_0514,San Miguel Ixtahuacán,Concepción Huista,TAXI
+RUT_174_221_0515,Concepción Tutuapa,San Juan Ixcoy,EXTRAURBANO
+RUT_175_222_0516,Tacaná,San Antonio Huista,FLETERO
+RUT_176_223_0517,Sibinal,San Sebastián Coatán,TAXI
+RUT_177_224_0518,Tajumulco,Barillas,SHUTTLE
+RUT_178_225_0519,Tejutla,Aguacatán,TAXI
+RUT_179_226_0520,San Rafael Pie de la Cuesta,San Rafael Petzal,FLETERO
+RUT_180_227_0521,Nuevo Progreso,San Gaspar Ixchil,TAXI
+RUT_181_228_0522,El Tumbador,Santiago Chimaltenango,TAXI
+RUT_182_229_0523,El Rodeo,Santa Ana Huista,FLETERO
+RUT_183_230_0524,Malacatán,Unión Cantinil,TAXI
+RUT_184_231_0525,Catarina,Petatán,SHUTTLE
+RUT_185_232_0526,Ayutla,Santa Cruz del Quiché,TAXI
+RUT_186_233_0527,Ocós,Chiché,FLETERO
+RUT_187_234_0528,San Pablo,Chinique,SHUTTLE
+RUT_188_235_0529,El Quetzal,Zacualpa,SHUTTLE
+RUT_189_236_0530,La Reforma,Chajul,SHUTTLE
+RUT_190_237_0531,Pajapita,Chichicastenango,EXTRAURBANO
+RUT_191_238_0532,Ixchiguán,Patzité,FLETERO
+RUT_192_239_0533,San José Ojetenam,San Antonio Ilotenango,EXTRAURBANO
+RUT_193_240_0534,San Cristóbal Cucho,San Pedro Jocopilas,FLETERO
+RUT_194_241_0535,Sipacapa,Cunén,SHUTTLE
+RUT_195_242_0536,Esquipulas Palo Gordo,San Juan Cotzal,EXTRAURBANO
+RUT_196_243_0537,Río Blanco,Joyabaj,TAXI
+RUT_197_244_0538,San Lorenzo,Nebaj,EXTRAURBANO
+RUT_198_245_0539,La Blanca,San Andrés Sajcabajá,FLETERO
+RUT_199_246_0540,Huehuetenango,Uspantán,FLETERO
+RUT_200_247_0541,Chiantla,Sacapulas,TAXI
+RUT_201_248_0542,Malacatancito,San Bartolomé Jocotenango,FLETERO
+RUT_202_249_0543,Cuilco,Canillá,FLETERO
+RUT_203_250_0544,Nentón,Chicamán,SHUTTLE
+RUT_204_251_0545,San Pedro Necta,Ixcán,SHUTTLE
+RUT_205_252_0546,Jacaltenango,Pachalum,EXTRAURBANO
+RUT_206_253_0547,Soloma,Salamá,TAXI
+RUT_207_254_0548,Ixtahuacán,San Miguel Chicaj,EXTRAURBANO
+RUT_208_255_0549,Santa Bárbara,Rabinal,FLETERO
+RUT_209_256_0550,La Libertad,Cubulco,EXTRAURBANO
+RUT_210_257_0551,La Democracia,Granados,EXTRAURBANO
+RUT_211_258_0552,San Miguel Acatán,El Chol,EXTRAURBANO
+RUT_212_259_0553,San Rafael La Independencia,San Jerónimo,EXTRAURBANO
+RUT_213_260_0554,Todos Santos Cuchumatán,Purulhá,EXTRAURBANO
+RUT_214_261_0555,San Juan Atitán,Cobán,EXTRAURBANO
+RUT_215_262_0556,Santa Eulalia,Santa Cruz Verapaz,TAXI
+RUT_216_263_0557,San Mateo Ixtatán,San Cristóbal Verapaz,SHUTTLE
+RUT_217_264_0558,Colotenango,Tactic,FLETERO
+RUT_218_265_0559,San Sebastián Huehuetenango,Tamahú,SHUTTLE
+RUT_219_266_0560,Tectitán,Tucurú,FLETERO
+RUT_220_267_0561,Concepción Huista,Panzós,SHUTTLE
+RUT_221_268_0562,San Juan Ixcoy,Senahú,EXTRAURBANO
+RUT_222_269_0563,San Antonio Huista,San Pedro Carchá,EXTRAURBANO
+RUT_223_270_0564,San Sebastián Coatán,San Juan Chamelco,SHUTTLE
+RUT_224_271_0565,Barillas,Lanquín,TAXI
+RUT_225_272_0566,Aguacatán,Cahabón,EXTRAURBANO
+RUT_226_273_0567,San Rafael Petzal,Chisec,SHUTTLE
+RUT_227_274_0568,San Gaspar Ixchil,Chahal,TAXI
+RUT_228_275_0569,Santiago Chimaltenango,Fray Bartolomé de Las Casas,FLETERO
+RUT_229_276_0570,Santa Ana Huista,Santa Catalina La Tinta,TAXI
+RUT_230_277_0571,Unión Cantinil,Raxruhá,EXTRAURBANO
+RUT_231_278_0572,Petatán,Flores,SHUTTLE
+RUT_232_279_0573,Santa Cruz del Quiché,San José,FLETERO
+RUT_233_280_0574,Chiché,San Benito,EXTRAURBANO
+RUT_234_281_0575,Chinique,San Andrés,FLETERO
+RUT_235_282_0576,Zacualpa,La Libertad,TAXI
+RUT_236_283_0577,Chajul,San Francisco,EXTRAURBANO
+RUT_237_284_0578,Chichicastenango,Santa Ana,SHUTTLE
+RUT_238_285_0579,Patzité,Dolores,SHUTTLE
+RUT_239_286_0580,San Antonio Ilotenango,San Luis,FLETERO
+RUT_240_287_0581,San Pedro Jocopilas,Sayaxché,SHUTTLE
+RUT_241_288_0582,Cunén,Melchor de Mencos,SHUTTLE
+RUT_242_289_0583,San Juan Cotzal,Poptún,FLETERO
+RUT_243_290_0584,Joyabaj,Las Cruces,SHUTTLE
+RUT_244_291_0585,Nebaj,El Chal,FLETERO
+RUT_245_292_0586,San Andrés Sajcabajá,Puerto Barrios,SHUTTLE
+RUT_246_293_0587,Uspantán,Lívingston,FLETERO
+RUT_247_294_0588,Sacapulas,El Estor,SHUTTLE
+RUT_248_295_0589,San Bartolomé Jocotenango,Morales,EXTRAURBANO
+RUT_249_296_0590,Canillá,Los Amates,TAXI
+RUT_250_297_0591,Chicamán,Zacapa,EXTRAURBANO
+RUT_251_298_0592,Ixcán,Estanzuela,EXTRAURBANO
+RUT_252_299_0593,Pachalum,Río Hondo,EXTRAURBANO
+RUT_253_300_0594,Salamá,Gualán,FLETERO
+RUT_254_301_0595,San Miguel Chicaj,Teculután,SHUTTLE
+RUT_255_302_0596,Rabinal,Usumatlán,FLETERO
+RUT_256_303_0597,Cubulco,Cabañas,TAXI
+RUT_257_304_0598,Granados,San Diego,EXTRAURBANO
+RUT_258_305_0599,El Chol,La Unión,EXTRAURBANO
+RUT_259_306_0600,San Jerónimo,Huité,FLETERO
+RUT_260_307_0601,Purulhá,San Jorge,TAXI
+RUT_261_308_0602,Cobán,Chiquimula,FLETERO
+RUT_262_309_0603,Santa Cruz Verapaz,San José La Arada,TAXI
+RUT_263_310_0604,San Cristóbal Verapaz,San Juan Ermita,FLETERO
+RUT_264_311_0605,Tactic,Jocotán,SHUTTLE
+RUT_265_312_0606,Tamahú,Camotán,FLETERO
+RUT_266_313_0607,Tucurú,Olopa,EXTRAURBANO
+RUT_267_314_0608,Panzós,Esquipulas,SHUTTLE
+RUT_268_315_0609,Senahú,Concepción Las Minas,EXTRAURBANO
+RUT_269_316_0610,San Pedro Carchá,Quezaltepeque,TAXI
+RUT_270_317_0611,San Juan Chamelco,San Jacinto,FLETERO
+RUT_271_318_0612,Lanquín,Ipala,EXTRAURBANO
+RUT_272_319_0613,Cahabón,Jalapa,SHUTTLE
+RUT_273_320_0614,Chisec,San Pedro Pinula,EXTRAURBANO
+RUT_274_321_0615,Chahal,San Luis Jilotepeque,TAXI
+RUT_275_322_0616,Fray Bartolomé de Las Casas,San Manuel Chaparrón,FLETERO
+RUT_276_323_0617,Santa Catalina La Tinta,San Carlos Alzatate,EXTRAURBANO
+RUT_277_324_0618,Raxruhá,Monjas,EXTRAURBANO
+RUT_278_325_0619,Flores,Mataquescuintla,EXTRAURBANO
+RUT_279_326_0620,San José,Jutiapa,TAXI
+RUT_280_327_0621,San Benito,El Progreso,SHUTTLE
+RUT_281_328_0622,San Andrés,Santa Catarina Mita,TAXI
+RUT_282_329_0623,La Libertad,Agua Blanca,FLETERO
+RUT_283_330_0624,San Francisco,Asunción Mita,SHUTTLE
+RUT_284_331_0625,Santa Ana,Yupiltepeque,FLETERO
+RUT_285_332_0626,Dolores,Atescatempa,FLETERO
+RUT_286_333_0627,San Luis,Jerez,TAXI
+RUT_287_334_0628,Sayaxché,El Adelanto,TAXI
+RUT_288_335_0629,Melchor de Mencos,Zapotitlán,EXTRAURBANO
+RUT_289_336_0630,Poptún,Comapa,SHUTTLE
+RUT_290_337_0631,Las Cruces,Jalpatagua,SHUTTLE
+RUT_291_338_0632,El Chal,Conguaco,SHUTTLE
+RUT_292_339_0633,Puerto Barrios,Moyuta,SHUTTLE
+RUT_293_340_0634,Lívingston,Pasaco,EXTRAURBANO
+RUT_294_341_0635,El Estor,San José Acatempa,EXTRAURBANO
+RUT_295_342_0636,Morales,Quesada,EXTRAURBANO
+RUT_296_1_0637,Los Amates,Lago De Amatitlan,SHUTTLE
+RUT_297_2_0638,Zacapa,Guatemala,TAXI
+RUT_298_3_0639,Estanzuela,Santa Catarina Pinula,FLETERO
+RUT_299_4_0640,Río Hondo,San José Pinula,TAXI
+RUT_300_5_0641,Gualán,San José del Golfo,TAXI
+RUT_301_6_0642,Teculután,Palencia,FLETERO
+RUT_302_7_0643,Usumatlán,Chinautla,TAXI
+RUT_303_8_0644,Cabañas,San Pedro Ayampuc,SHUTTLE
+RUT_304_9_0645,San Diego,Mixco,TAXI
+RUT_305_10_0646,La Unión,San Pedro Sacatepéquez,EXTRAURBANO
+RUT_306_11_0647,Huité,San Juan Sacatepéquez,SHUTTLE
+RUT_307_12_0648,San Jorge,San Raimundo,FLETERO
+RUT_308_13_0649,Chiquimula,Chuarrancho,EXTRAURBANO
+RUT_309_14_0650,San José La Arada,Fraijanes,EXTRAURBANO
+RUT_310_15_0651,San Juan Ermita,Amatitlán,FLETERO
+RUT_311_16_0652,Jocotán,Villa Nueva,FLETERO
+RUT_312_17_0653,Camotán,Villa Canales,FLETERO
+RUT_313_18_0654,Olopa,Petapa,SHUTTLE
+RUT_314_19_0655,Esquipulas,Guastatoya,FLETERO
+RUT_315_20_0656,Concepción Las Minas,Morazán,FLETERO
+RUT_316_21_0657,Quezaltepeque,San Agustín Acasaguastlán,FLETERO
+RUT_317_22_0658,San Jacinto,San Cristóbal Acasaguastlán,SHUTTLE
+RUT_318_23_0659,Ipala,El Jícaro,EXTRAURBANO
+RUT_319_24_0660,Jalapa,Sanarate,TAXI
+RUT_320_25_0661,San Pedro Pinula,Sansare,SHUTTLE
+RUT_321_26_0662,San Luis Jilotepeque,San Antonio La Paz,SHUTTLE
+RUT_322_27_0663,San Manuel Chaparrón,Antigua Guatemala,TAXI
+RUT_323_28_0664,San Carlos Alzatate,Jocotenango,TAXI
+RUT_324_29_0665,Monjas,Pastores,TAXI
+RUT_325_30_0666,Mataquescuintla,Sumpango,FLETERO
+RUT_326_31_0667,Jutiapa,Santo Domingo Xenacoj,SHUTTLE
+RUT_327_32_0668,El Progreso,Santiago Sacatepéquez,EXTRAURBANO
+RUT_328_33_0669,Santa Catarina Mita,San Bartolomé Milpas Altas,SHUTTLE
+RUT_329_34_0670,Agua Blanca,San Lucas Sacatepéquez,SHUTTLE
+RUT_330_35_0671,Asunción Mita,Santa Lucía Milpas Altas,FLETERO
+RUT_331_36_0672,Yupiltepeque,Magdalena Milpas Altas,SHUTTLE
+RUT_332_37_0673,Atescatempa,Santa María de Jesús,EXTRAURBANO
+RUT_333_38_0674,Jerez,Ciudad Vieja,SHUTTLE
+RUT_334_39_0675,El Adelanto,San Miguel Dueñas,TAXI
+RUT_335_40_0676,Zapotitlán,Alotenango,FLETERO
+RUT_336_41_0677,Comapa,San Antonio Aguas Calientes,TAXI
+RUT_337_42_0678,Jalpatagua,Santa Catarina Barahona,TAXI
+RUT_338_43_0679,Conguaco,Chimaltenango,EXTRAURBANO
+RUT_339_44_0680,Moyuta,San José Poaquil,EXTRAURBANO
+RUT_340_45_0681,Pasaco,San Martín Jilotepeque,SHUTTLE
+RUT_341_46_0682,San José Acatempa,Comalapa,TAXI
+RUT_342_47_0683,Quesada,Santa Apolonia,EXTRAURBANO
+RUT_1_48_0684,Lago De Amatitlan,Tecpán Guatemala,EXTRAURBANO
+RUT_2_49_0685,Guatemala,Patzún,TAXI
+RUT_3_50_0686,Santa Catarina Pinula,Pochuta,EXTRAURBANO
+RUT_4_51_0687,San José Pinula,Patzicía,TAXI
+RUT_5_52_0688,San José del Golfo,Santa Cruz Balanyá,EXTRAURBANO
+RUT_6_53_0689,Palencia,Acatenango,TAXI
+RUT_7_54_0690,Chinautla,Yepocapa,TAXI
+RUT_8_55_0691,San Pedro Ayampuc,San Andrés Itzapa,SHUTTLE
+RUT_9_56_0692,Mixco,Parramos,FLETERO
+RUT_10_57_0693,San Pedro Sacatepéquez,Zaragoza,EXTRAURBANO
+RUT_11_58_0694,San Juan Sacatepéquez,El Tejar,EXTRAURBANO
+RUT_12_59_0695,San Raimundo,Escuintla,FLETERO
+RUT_13_60_0696,Chuarrancho,Santa Lucía Cotzumalguapa,SHUTTLE
+RUT_14_61_0697,Fraijanes,La Democracia,EXTRAURBANO
+RUT_15_62_0698,Amatitlán,Siquinalá,FLETERO
+RUT_16_63_0699,Villa Nueva,Masagua,SHUTTLE
+RUT_17_64_0700,Villa Canales,Tiquisate,FLETERO
+RUT_18_65_0701,Petapa,La Gomera,EXTRAURBANO
+RUT_19_66_0702,Guastatoya,Guanagazapa,SHUTTLE
+RUT_20_67_0703,Morazán,San José,SHUTTLE
+RUT_21_68_0704,San Agustín Acasaguastlán,Iztapa,SHUTTLE
+RUT_22_69_0705,San Cristóbal Acasaguastlán,Palín,EXTRAURBANO
+RUT_23_70_0706,El Jícaro,San Vicente Pacaya,TAXI
+RUT_24_71_0707,Sanarate,Nueva Concepción,FLETERO
+RUT_25_72_0708,Sansare,Sipacate,EXTRAURBANO
+RUT_26_73_0709,San Antonio La Paz,Cuilapa,FLETERO
+RUT_27_74_0710,Antigua Guatemala,Barberena,EXTRAURBANO
+RUT_28_75_0711,Jocotenango,Santa Rosa de Lima,SHUTTLE
+RUT_29_76_0712,Pastores,Casillas,FLETERO
+RUT_30_77_0713,Sumpango,San Rafael Las Flores,TAXI
+RUT_31_78_0714,Santo Domingo Xenacoj,Oratorio,FLETERO
+RUT_32_79_0715,Santiago Sacatepéquez,San Juan Tecuaco,EXTRAURBANO
+RUT_33_80_0716,San Bartolomé Milpas Altas,Chiquimulilla,SHUTTLE
+RUT_34_81_0717,San Lucas Sacatepéquez,Taxisco,TAXI
+RUT_35_82_0718,Santa Lucía Milpas Altas,Santa María Ixhuatán,EXTRAURBANO
+RUT_36_83_0719,Magdalena Milpas Altas,Guazacapán,SHUTTLE
+RUT_37_84_0720,Santa María de Jesús,Santa Cruz Naranjo,FLETERO
+RUT_38_85_0721,Ciudad Vieja,Pueblo Nuevo Viñas,SHUTTLE
+RUT_39_86_0722,San Miguel Dueñas,Nueva Santa Rosa,FLETERO
+RUT_40_87_0723,Alotenango,Lago De Atitlan,SHUTTLE
+RUT_41_88_0724,San Antonio Aguas Calientes,Sololá,FLETERO
+RUT_42_89_0725,Santa Catarina Barahona,San José Chacayá,EXTRAURBANO
+RUT_43_90_0726,Chimaltenango,Santa María Visitación,SHUTTLE
+RUT_44_91_0727,San José Poaquil,Santa Lucía Utatlán,EXTRAURBANO
+RUT_45_92_0728,San Martín Jilotepeque,Nahualá,SHUTTLE
+RUT_46_93_0729,Comalapa,Santa Catarina Ixtahuacán,FLETERO
+RUT_47_94_0730,Santa Apolonia,Santa Clara La Laguna,EXTRAURBANO
+RUT_48_95_0731,Tecpán Guatemala,Concepción,TAXI
+RUT_49_96_0732,Patzún,San Andrés Semetabaj,SHUTTLE
+RUT_50_97_0733,Pochuta,Panajachel,LANCHA
+RUT_51_98_0734,Patzicía,Santa Catarina Palopó,EXTRAURBANO
+RUT_52_99_0735,Santa Cruz Balanyá,San Antonio Palopó,LANCHA
+RUT_53_100_0736,Acatenango,San Lucas Tolimán,SHUTTLE
+RUT_54_101_0737,Yepocapa,Santa Cruz La Laguna,TAXI
+RUT_55_102_0738,San Andrés Itzapa,San Pablo La Laguna,SHUTTLE
+RUT_56_103_0739,Parramos,San Marcos La Laguna,LANCHA
+RUT_57_104_0740,Zaragoza,San Juan La Laguna,SHUTTLE
+RUT_58_105_0741,El Tejar,San Pedro La Laguna,LANCHA
+RUT_59_106_0742,Escuintla,Santiago Atitlán,LANCHA
+RUT_60_107_0743,Santa Lucía Cotzumalguapa,Totonicapán,SHUTTLE
+RUT_61_108_0744,La Democracia,San Cristóbal Totonicapán,EXTRAURBANO
+RUT_62_109_0745,Siquinalá,San Francisco El Alto,SHUTTLE
+RUT_63_110_0746,Masagua,San Andrés Xecul,TAXI
+RUT_64_111_0747,Tiquisate,Momostenango,SHUTTLE
+RUT_65_112_0748,La Gomera,Santa María Chiquimula,TAXI
+RUT_66_113_0749,Guanagazapa,Santa Lucía La Reforma,TAXI
+RUT_67_114_0750,San José,San Bartolo,TAXI
+RUT_68_115_0751,Iztapa,Quetzaltenango,FLETERO
+RUT_69_116_0752,Palín,Salcajá,FLETERO
+RUT_70_117_0753,San Vicente Pacaya,Olintepeque,SHUTTLE
+RUT_71_118_0754,Nueva Concepción,San Carlos Sija,SHUTTLE
+RUT_72_119_0755,Sipacate,Sibilia,FLETERO
+RUT_73_120_0756,Cuilapa,Cabricán,EXTRAURBANO
+RUT_74_121_0757,Barberena,Cajolá,SHUTTLE
+RUT_75_122_0758,Santa Rosa de Lima,San Miguel Sigüila,FLETERO
+RUT_76_123_0759,Casillas,Ostuncalco,EXTRAURBANO
+RUT_77_124_0760,San Rafael Las Flores,San Mateo,TAXI
+RUT_78_125_0761,Oratorio,Concepción Chiquirichapa,FLETERO
+RUT_79_126_0762,San Juan Tecuaco,San Martín Sacatepéquez,SHUTTLE
+RUT_80_127_0763,Chiquimulilla,Almolonga,TAXI
+RUT_81_128_0764,Taxisco,Cantel,FLETERO
+RUT_82_129_0765,Santa María Ixhuatán,Huitán,FLETERO
+RUT_83_130_0766,Guazacapán,Zunil,FLETERO
+RUT_84_131_0767,Santa Cruz Naranjo,Colomba,TAXI
+RUT_85_132_0768,Pueblo Nuevo Viñas,San Francisco La Unión,FLETERO
+RUT_86_133_0769,Nueva Santa Rosa,El Palmar,FLETERO
+RUT_87_134_0770,Lago De Atitlan,Coatepeque,SHUTTLE
+RUT_88_135_0771,Sololá,Génova,SHUTTLE
+RUT_89_136_0772,San José Chacayá,Flores Costa Cuca,EXTRAURBANO
+RUT_90_137_0773,Santa María Visitación,La Esperanza,FLETERO
+RUT_91_138_0774,Santa Lucía Utatlán,Palestina de Los Altos,SHUTTLE
+RUT_92_139_0775,Nahualá,Mazatenango,TAXI
+RUT_93_140_0776,Santa Catarina Ixtahuacán,Cuyotenango,TAXI
+RUT_94_141_0777,Santa Clara La Laguna,San Francisco Zapotitlán,EXTRAURBANO
+RUT_95_142_0778,Concepción,San Bernardino,TAXI
+RUT_96_143_0779,San Andrés Semetabaj,San José El Ídolo,SHUTTLE
+RUT_97_144_0780,Panajachel,Santo Domingo Suchitepéquez,LANCHA
+RUT_98_145_0781,Santa Catarina Palopó,San Lorenzo,SHUTTLE
+RUT_99_146_0782,San Antonio Palopó,Samayac,SHUTTLE
+RUT_100_147_0783,San Lucas Tolimán,San Pablo Jocopilas,LANCHA
+RUT_101_148_0784,Santa Cruz La Laguna,San Antonio Suchitepéquez,LANCHA
+RUT_102_149_0785,San Pablo La Laguna,San Miguel Panán,FLETERO
+RUT_103_150_0786,San Marcos La Laguna,San Gabriel,LANCHA
+RUT_104_151_0787,San Juan La Laguna,Chicacao,TAXI
+RUT_105_152_0788,San Pedro La Laguna,Patulul,FLETERO
+RUT_106_153_0789,Santiago Atitlán,Santa Bárbara,LANCHA
+RUT_107_154_0790,Totonicapán,San Juan Bautista,TAXI
+RUT_108_155_0791,San Cristóbal Totonicapán,Santo Tomás La Unión,FLETERO
+RUT_109_156_0792,San Francisco El Alto,Zunilito,TAXI
+RUT_110_157_0793,San Andrés Xecul,Pueblo Nuevo,FLETERO
+RUT_111_158_0794,Momostenango,Río Bravo,EXTRAURBANO
+RUT_112_159_0795,Santa María Chiquimula,San José La Máquina,TAXI
+RUT_113_160_0796,Santa Lucía La Reforma,Retalhuleu,FLETERO
+RUT_114_161_0797,San Bartolo,San Sebastián,FLETERO
+RUT_115_162_0798,Quetzaltenango,Santa Cruz Muluá,TAXI
+RUT_116_163_0799,Salcajá,San Martín Zapotitlán,FLETERO
+RUT_117_164_0800,Olintepeque,San Felipe,TAXI
+RUT_118_165_0801,San Carlos Sija,San Andrés Villa Seca,TAXI
+RUT_119_166_0802,Sibilia,Champerico,FLETERO
+RUT_120_167_0803,Cabricán,Nuevo San Carlos,TAXI
+RUT_121_168_0804,Cajolá,El Asintal,TAXI
+RUT_122_169_0805,San Miguel Sigüila,San Marcos,EXTRAURBANO
+RUT_123_170_0806,Ostuncalco,San Pedro Sacatepéquez,FLETERO
+RUT_124_171_0807,San Mateo,San Antonio Sacatepéquez,SHUTTLE
+RUT_125_172_0808,Concepción Chiquirichapa,Comitancillo,TAXI
+RUT_126_173_0809,San Martín Sacatepéquez,San Miguel Ixtahuacán,EXTRAURBANO
+RUT_127_174_0810,Almolonga,Concepción Tutuapa,FLETERO
+RUT_128_175_0811,Cantel,Tacaná,EXTRAURBANO
+RUT_129_176_0812,Huitán,Sibinal,TAXI
+RUT_130_177_0813,Zunil,Tajumulco,EXTRAURBANO
+RUT_131_178_0814,Colomba,Tejutla,SHUTTLE
+RUT_132_179_0815,San Francisco La Unión,San Rafael Pie de la Cuesta,SHUTTLE
+RUT_133_180_0816,El Palmar,Nuevo Progreso,TAXI
+RUT_134_181_0817,Coatepeque,El Tumbador,FLETERO
+RUT_135_182_0818,Génova,El Rodeo,SHUTTLE
+RUT_136_183_0819,Flores Costa Cuca,Malacatán,SHUTTLE
+RUT_137_184_0820,La Esperanza,Catarina,EXTRAURBANO
+RUT_138_185_0821,Palestina de Los Altos,Ayutla,SHUTTLE
+RUT_139_186_0822,Mazatenango,Ocós,FLETERO
+RUT_140_187_0823,Cuyotenango,San Pablo,EXTRAURBANO
+RUT_141_188_0824,San Francisco Zapotitlán,El Quetzal,SHUTTLE
+RUT_142_189_0825,San Bernardino,La Reforma,FLETERO
+RUT_143_190_0826,San José El Ídolo,Pajapita,FLETERO
+RUT_144_191_0827,Santo Domingo Suchitepéquez,Ixchiguán,TAXI
+RUT_145_192_0828,San Lorenzo,San José Ojetenam,EXTRAURBANO
+RUT_146_193_0829,Samayac,San Cristóbal Cucho,TAXI
+RUT_147_194_0830,San Pablo Jocopilas,Sipacapa,FLETERO
+RUT_148_195_0831,San Antonio Suchitepéquez,Esquipulas Palo Gordo,TAXI
+RUT_149_196_0832,San Miguel Panán,Río Blanco,TAXI
+RUT_150_197_0833,San Gabriel,San Lorenzo,SHUTTLE
+RUT_151_198_0834,Chicacao,La Blanca,EXTRAURBANO
+RUT_152_199_0835,Patulul,Huehuetenango,TAXI
+RUT_153_200_0836,Santa Bárbara,Chiantla,EXTRAURBANO
+RUT_154_201_0837,San Juan Bautista,Malacatancito,EXTRAURBANO
+RUT_155_202_0838,Santo Tomás La Unión,Cuilco,TAXI
+RUT_156_203_0839,Zunilito,Nentón,EXTRAURBANO
+RUT_157_204_0840,Pueblo Nuevo,San Pedro Necta,FLETERO
+RUT_158_205_0841,Río Bravo,Jacaltenango,EXTRAURBANO
+RUT_159_206_0842,San José La Máquina,Soloma,SHUTTLE
+RUT_160_207_0843,Retalhuleu,Ixtahuacán,SHUTTLE
+RUT_161_208_0844,San Sebastián,Santa Bárbara,TAXI
+RUT_162_209_0845,Santa Cruz Muluá,La Libertad,EXTRAURBANO
+RUT_163_210_0846,San Martín Zapotitlán,La Democracia,FLETERO
+RUT_164_211_0847,San Felipe,San Miguel Acatán,EXTRAURBANO
+RUT_165_212_0848,San Andrés Villa Seca,San Rafael La Independencia,EXTRAURBANO
+RUT_166_213_0849,Champerico,Todos Santos Cuchumatán,TAXI
+RUT_167_214_0850,Nuevo San Carlos,San Juan Atitán,TAXI
+RUT_168_215_0851,El Asintal,Santa Eulalia,TAXI
+RUT_169_216_0852,San Marcos,San Mateo Ixtatán,FLETERO
+RUT_170_217_0853,San Pedro Sacatepéquez,Colotenango,SHUTTLE
+RUT_171_218_0854,San Antonio Sacatepéquez,San Sebastián Huehuetenango,TAXI
+RUT_172_219_0855,Comitancillo,Tectitán,TAXI
+RUT_173_220_0856,San Miguel Ixtahuacán,Concepción Huista,EXTRAURBANO
+RUT_174_221_0857,Concepción Tutuapa,San Juan Ixcoy,EXTRAURBANO
+RUT_175_222_0858,Tacaná,San Antonio Huista,SHUTTLE
+RUT_176_223_0859,Sibinal,San Sebastián Coatán,TAXI
+RUT_177_224_0860,Tajumulco,Barillas,EXTRAURBANO
+RUT_178_225_0861,Tejutla,Aguacatán,FLETERO
+RUT_179_226_0862,San Rafael Pie de la Cuesta,San Rafael Petzal,EXTRAURBANO
+RUT_180_227_0863,Nuevo Progreso,San Gaspar Ixchil,FLETERO
+RUT_181_228_0864,El Tumbador,Santiago Chimaltenango,TAXI
+RUT_182_229_0865,El Rodeo,Santa Ana Huista,EXTRAURBANO
+RUT_183_230_0866,Malacatán,Unión Cantinil,EXTRAURBANO
+RUT_184_231_0867,Catarina,Petatán,FLETERO
+RUT_185_232_0868,Ayutla,Santa Cruz del Quiché,TAXI
+RUT_186_233_0869,Ocós,Chiché,EXTRAURBANO
+RUT_187_234_0870,San Pablo,Chinique,FLETERO
+RUT_188_235_0871,El Quetzal,Zacualpa,TAXI
+RUT_189_236_0872,La Reforma,Chajul,EXTRAURBANO
+RUT_190_237_0873,Pajapita,Chichicastenango,FLETERO
+RUT_191_238_0874,Ixchiguán,Patzité,SHUTTLE
+RUT_192_239_0875,San José Ojetenam,San Antonio Ilotenango,EXTRAURBANO
+RUT_193_240_0876,San Cristóbal Cucho,San Pedro Jocopilas,TAXI
+RUT_194_241_0877,Sipacapa,Cunén,SHUTTLE
+RUT_195_242_0878,Esquipulas Palo Gordo,San Juan Cotzal,EXTRAURBANO
+RUT_196_243_0879,Río Blanco,Joyabaj,FLETERO
+RUT_197_244_0880,San Lorenzo,Nebaj,FLETERO
+RUT_198_245_0881,La Blanca,San Andrés Sajcabajá,EXTRAURBANO
+RUT_199_246_0882,Huehuetenango,Uspantán,FLETERO
+RUT_200_247_0883,Chiantla,Sacapulas,EXTRAURBANO
+RUT_201_248_0884,Malacatancito,San Bartolomé Jocotenango,EXTRAURBANO
+RUT_202_249_0885,Cuilco,Canillá,SHUTTLE
+RUT_203_250_0886,Nentón,Chicamán,TAXI
+RUT_204_251_0887,San Pedro Necta,Ixcán,SHUTTLE
+RUT_205_252_0888,Jacaltenango,Pachalum,FLETERO
+RUT_206_253_0889,Soloma,Salamá,EXTRAURBANO
+RUT_207_254_0890,Ixtahuacán,San Miguel Chicaj,FLETERO
+RUT_208_255_0891,Santa Bárbara,Rabinal,FLETERO
+RUT_209_256_0892,La Libertad,Cubulco,FLETERO
+RUT_210_257_0893,La Democracia,Granados,SHUTTLE
+RUT_211_258_0894,San Miguel Acatán,El Chol,SHUTTLE
+RUT_212_259_0895,San Rafael La Independencia,San Jerónimo,SHUTTLE
+RUT_213_260_0896,Todos Santos Cuchumatán,Purulhá,FLETERO
+RUT_214_261_0897,San Juan Atitán,Cobán,TAXI
+RUT_215_262_0898,Santa Eulalia,Santa Cruz Verapaz,EXTRAURBANO
+RUT_216_263_0899,San Mateo Ixtatán,San Cristóbal Verapaz,FLETERO
+RUT_217_264_0900,Colotenango,Tactic,FLETERO
+RUT_218_265_0901,San Sebastián Huehuetenango,Tamahú,EXTRAURBANO
+RUT_219_266_0902,Tectitán,Tucurú,FLETERO
+RUT_220_267_0903,Concepción Huista,Panzós,FLETERO
+RUT_221_268_0904,San Juan Ixcoy,Senahú,SHUTTLE
+RUT_222_269_0905,San Antonio Huista,San Pedro Carchá,TAXI
+RUT_223_270_0906,San Sebastián Coatán,San Juan Chamelco,FLETERO
+RUT_224_271_0907,Barillas,Lanquín,EXTRAURBANO
+RUT_225_272_0908,Aguacatán,Cahabón,FLETERO
+RUT_226_273_0909,San Rafael Petzal,Chisec,TAXI
+RUT_227_274_0910,San Gaspar Ixchil,Chahal,FLETERO
+RUT_228_275_0911,Santiago Chimaltenango,Fray Bartolomé de Las Casas,SHUTTLE
+RUT_229_276_0912,Santa Ana Huista,Santa Catalina La Tinta,EXTRAURBANO
+RUT_230_277_0913,Unión Cantinil,Raxruhá,EXTRAURBANO
+RUT_231_278_0914,Petatán,Flores,FLETERO
+RUT_232_279_0915,Santa Cruz del Quiché,San José,TAXI
+RUT_233_280_0916,Chiché,San Benito,EXTRAURBANO
+RUT_234_281_0917,Chinique,San Andrés,FLETERO
+RUT_235_282_0918,Zacualpa,La Libertad,TAXI
+RUT_236_283_0919,Chajul,San Francisco,EXTRAURBANO
+RUT_237_284_0920,Chichicastenango,Santa Ana,EXTRAURBANO
+RUT_238_285_0921,Patzité,Dolores,SHUTTLE
+RUT_239_286_0922,San Antonio Ilotenango,San Luis,TAXI
+RUT_240_287_0923,San Pedro Jocopilas,Sayaxché,SHUTTLE
+RUT_241_288_0924,Cunén,Melchor de Mencos,SHUTTLE
+RUT_242_289_0925,San Juan Cotzal,Poptún,SHUTTLE
+RUT_243_290_0926,Joyabaj,Las Cruces,EXTRAURBANO
+RUT_244_291_0927,Nebaj,El Chal,FLETERO
+RUT_245_292_0928,San Andrés Sajcabajá,Puerto Barrios,FLETERO
+RUT_246_293_0929,Uspantán,Lívingston,SHUTTLE
+RUT_247_294_0930,Sacapulas,El Estor,SHUTTLE
+RUT_248_295_0931,San Bartolomé Jocotenango,Morales,EXTRAURBANO
+RUT_249_296_0932,Canillá,Los Amates,SHUTTLE
+RUT_250_297_0933,Chicamán,Zacapa,EXTRAURBANO
+RUT_251_298_0934,Ixcán,Estanzuela,TAXI
+RUT_252_299_0935,Pachalum,Río Hondo,TAXI
+RUT_253_300_0936,Salamá,Gualán,TAXI
+RUT_254_301_0937,San Miguel Chicaj,Teculután,FLETERO
+RUT_255_302_0938,Rabinal,Usumatlán,FLETERO
+RUT_256_303_0939,Cubulco,Cabañas,EXTRAURBANO
+RUT_257_304_0940,Granados,San Diego,FLETERO
+RUT_258_305_0941,El Chol,La Unión,TAXI
+RUT_259_306_0942,San Jerónimo,Huité,FLETERO
+RUT_260_307_0943,Purulhá,San Jorge,FLETERO
+RUT_261_308_0944,Cobán,Chiquimula,EXTRAURBANO
+RUT_262_309_0945,Santa Cruz Verapaz,San José La Arada,EXTRAURBANO
+RUT_263_310_0946,San Cristóbal Verapaz,San Juan Ermita,EXTRAURBANO
+RUT_264_311_0947,Tactic,Jocotán,EXTRAURBANO
+RUT_265_312_0948,Tamahú,Camotán,EXTRAURBANO
+RUT_266_313_0949,Tucurú,Olopa,TAXI
+RUT_267_314_0950,Panzós,Esquipulas,SHUTTLE
+RUT_268_315_0951,Senahú,Concepción Las Minas,TAXI
+RUT_269_316_0952,San Pedro Carchá,Quezaltepeque,FLETERO
+RUT_270_317_0953,San Juan Chamelco,San Jacinto,SHUTTLE
+RUT_271_318_0954,Lanquín,Ipala,SHUTTLE
+RUT_272_319_0955,Cahabón,Jalapa,TAXI
+RUT_273_320_0956,Chisec,San Pedro Pinula,TAXI
+RUT_274_321_0957,Chahal,San Luis Jilotepeque,TAXI
+RUT_275_322_0958,Fray Bartolomé de Las Casas,San Manuel Chaparrón,SHUTTLE
+RUT_276_323_0959,Santa Catalina La Tinta,San Carlos Alzatate,EXTRAURBANO
+RUT_277_324_0960,Raxruhá,Monjas,TAXI
+RUT_278_325_0961,Flores,Mataquescuintla,EXTRAURBANO
+RUT_279_326_0962,San José,Jutiapa,TAXI
+RUT_280_327_0963,San Benito,El Progreso,TAXI
+RUT_281_328_0964,San Andrés,Santa Catarina Mita,SHUTTLE
+RUT_282_329_0965,La Libertad,Agua Blanca,EXTRAURBANO
+RUT_283_330_0966,San Francisco,Asunción Mita,EXTRAURBANO
+RUT_284_331_0967,Santa Ana,Yupiltepeque,TAXI
+RUT_285_332_0968,Dolores,Atescatempa,FLETERO
+RUT_286_333_0969,San Luis,Jerez,FLETERO
+RUT_287_334_0970,Sayaxché,El Adelanto,TAXI
+RUT_288_335_0971,Melchor de Mencos,Zapotitlán,EXTRAURBANO
+RUT_289_336_0972,Poptún,Comapa,EXTRAURBANO
+RUT_290_337_0973,Las Cruces,Jalpatagua,EXTRAURBANO
+RUT_291_338_0974,El Chal,Conguaco,EXTRAURBANO
+RUT_292_339_0975,Puerto Barrios,Moyuta,EXTRAURBANO
+RUT_293_340_0976,Lívingston,Pasaco,EXTRAURBANO
+RUT_294_341_0977,El Estor,San José Acatempa,SHUTTLE
+RUT_295_342_0978,Morales,Quesada,EXTRAURBANO
+RUT_296_1_0979,Los Amates,Lago De Amatitlan,TAXI
+RUT_297_2_0980,Zacapa,Guatemala,FLETERO
+RUT_298_3_0981,Estanzuela,Santa Catarina Pinula,SHUTTLE
+RUT_299_4_0982,Río Hondo,San José Pinula,EXTRAURBANO
+RUT_300_5_0983,Gualán,San José del Golfo,EXTRAURBANO
+RUT_301_6_0984,Teculután,Palencia,FLETERO
+RUT_302_7_0985,Usumatlán,Chinautla,EXTRAURBANO
+RUT_303_8_0986,Cabañas,San Pedro Ayampuc,EXTRAURBANO
+RUT_304_9_0987,San Diego,Mixco,EXTRAURBANO
+RUT_305_10_0988,La Unión,San Pedro Sacatepéquez,FLETERO
+RUT_306_11_0989,Huité,San Juan Sacatepéquez,EXTRAURBANO
+RUT_307_12_0990,San Jorge,San Raimundo,SHUTTLE
+RUT_308_13_0991,Chiquimula,Chuarrancho,TAXI
+RUT_309_14_0992,San José La Arada,Fraijanes,EXTRAURBANO
+RUT_310_15_0993,San Juan Ermita,Amatitlán,EXTRAURBANO
+RUT_311_16_0994,Jocotán,Villa Nueva,EXTRAURBANO
+RUT_312_17_0995,Camotán,Villa Canales,EXTRAURBANO
+RUT_313_18_0996,Olopa,Petapa,EXTRAURBANO
+RUT_314_19_0997,Esquipulas,Guastatoya,TAXI
+RUT_315_20_0998,Concepción Las Minas,Morazán,SHUTTLE
+RUT_316_21_0999,Quezaltepeque,San Agustín Acasaguastlán,EXTRAURBANO
+RUT_317_22_1000,San Jacinto,San Cristóbal Acasaguastlán,EXTRAURBANO
+RUT_318_23_1001,Ipala,El Jícaro,EXTRAURBANO
+RUT_319_24_1002,Jalapa,Sanarate,FLETERO
+RUT_320_25_1003,San Pedro Pinula,Sansare,EXTRAURBANO
+RUT_321_26_1004,San Luis Jilotepeque,San Antonio La Paz,EXTRAURBANO
+RUT_322_27_1005,San Manuel Chaparrón,Antigua Guatemala,FLETERO
+RUT_323_28_1006,San Carlos Alzatate,Jocotenango,FLETERO
+RUT_324_29_1007,Monjas,Pastores,TAXI
+RUT_325_30_1008,Mataquescuintla,Sumpango,EXTRAURBANO
+RUT_326_31_1009,Jutiapa,Santo Domingo Xenacoj,SHUTTLE
+RUT_327_32_1010,El Progreso,Santiago Sacatepéquez,FLETERO
+RUT_328_33_1011,Santa Catarina Mita,San Bartolomé Milpas Altas,EXTRAURBANO
+RUT_329_34_1012,Agua Blanca,San Lucas Sacatepéquez,SHUTTLE
+RUT_330_35_1013,Asunción Mita,Santa Lucía Milpas Altas,EXTRAURBANO
+RUT_331_36_1014,Yupiltepeque,Magdalena Milpas Altas,SHUTTLE
+RUT_332_37_1015,Atescatempa,Santa María de Jesús,EXTRAURBANO
+RUT_333_38_1016,Jerez,Ciudad Vieja,TAXI
+RUT_334_39_1017,El Adelanto,San Miguel Dueñas,TAXI
+RUT_335_40_1018,Zapotitlán,Alotenango,TAXI
+RUT_336_41_1019,Comapa,San Antonio Aguas Calientes,TAXI

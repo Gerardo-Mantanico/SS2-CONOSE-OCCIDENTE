@@ -4,9 +4,7 @@
 -- Migracion: crear esquema y modelo OLTP/ODS del area turismo
 -- Motor: PostgreSQL
 -- Convenciones aplicadas:
---   - No se usa search_path.
 --   - Todos los objetos se califican con esquema.objeto.
---   - No se duplican departamentos ni municipios; se referencian desde geografia.
 --   - Tablas de dominio incluyen carga_id INT REFERENCES meta.carga(id).
 --   - Tablas y columnas se documentan con COMMENT ON.
 -- ============================================================
