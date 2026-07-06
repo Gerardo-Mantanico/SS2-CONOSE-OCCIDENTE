@@ -1,0 +1,1381 @@
+municipio_pcode,actividad_nombre,cooperativa_nombre,es_principal,volumen_estimado,cantidad_productores_est,empleo_generado_est,ciclo_cosecha_meses,destino_principal
+GT0100,Cultivo de Maíz en Lago De Amatitlan,Cooperativa Integral de Producción Agrícola de Lago De Amatitlan R.L.,false,Medio,628,162,Mayo-Noviembre,Autoconsumo
+GT0100,Cultivo de Frijol en Lago De Amatitlan,,false,Bajo,481,142,Mayo-Septiembre,Autoconsumo
+GT0100,Crianza de Aves en Lago De Amatitlan,Asociación de Productores y Comercializadores de Lago De Amatitlan,true,Alto,757,1571,Diario,Exportación
+GT0101,Cultivo de Maíz en Guatemala,Cooperativa Integral de Producción Agrícola de Guatemala R.L.,false,Medio,609,496,Mayo-Noviembre,Autoconsumo
+GT0101,Cultivo de Frijol en Guatemala,,false,Bajo,758,102,Mayo-Septiembre,Autoconsumo
+GT0101,Crianza de Aves en Guatemala,Asociación de Productores y Comercializadores de Guatemala,true,Medio,1164,1130,Diario,Mercado Nacional
+GT0102,Cultivo de Maíz en Santa Catarina Pinula,Cooperativa Integral de Producción Agrícola de Santa Catarina Pinula R.L.,false,Medio,461,197,Mayo-Noviembre,Autoconsumo
+GT0102,Cultivo de Frijol en Santa Catarina Pinula,,false,Bajo,423,139,Mayo-Septiembre,Autoconsumo
+GT0102,Crianza de Aves en Santa Catarina Pinula,Asociación de Productores y Comercializadores de Santa Catarina Pinula,true,Alto,1334,3465,Diario,Autoconsumo
+GT0103,Cultivo de Maíz en San José Pinula,Cooperativa Integral de Producción Agrícola de San José Pinula R.L.,false,Medio,454,437,Mayo-Noviembre,Autoconsumo
+GT0103,Cultivo de Frijol en San José Pinula,,false,Bajo,403,263,Mayo-Septiembre,Autoconsumo
+GT0103,Crianza de Aves en San José Pinula,Asociación de Productores y Comercializadores de San José Pinula,true,Medio,1416,2718,Diario,Mixto
+GT0104,Cultivo de Maíz en San José del Golfo,Cooperativa Integral de Producción Agrícola de San José del Golfo R.L.,false,Medio,851,379,Mayo-Noviembre,Autoconsumo
+GT0104,Cultivo de Frijol en San José del Golfo,,false,Bajo,484,287,Mayo-Septiembre,Autoconsumo
+GT0104,Crianza de Aves en San José del Golfo,Asociación de Productores y Comercializadores de San José del Golfo,true,Alto,313,4108,Diario,Exportación
+GT0105,Cultivo de Maíz en Palencia,Cooperativa Integral de Producción Agrícola de Palencia R.L.,false,Medio,726,507,Mayo-Noviembre,Autoconsumo
+GT0105,Cultivo de Frijol en Palencia,,false,Bajo,632,167,Mayo-Septiembre,Autoconsumo
+GT0105,Crianza de Aves en Palencia,Asociación de Productores y Comercializadores de Palencia,true,Medio,869,1636,Diario,Mercado Nacional
+GT0106,Cultivo de Maíz en Chinautla,Cooperativa Integral de Producción Agrícola de Chinautla R.L.,false,Medio,840,540,Mayo-Noviembre,Autoconsumo
+GT0106,Cultivo de Frijol en Chinautla,,false,Bajo,544,106,Mayo-Septiembre,Autoconsumo
+GT0106,Crianza de Aves en Chinautla,Asociación de Productores y Comercializadores de Chinautla,true,Alto,489,2556,Diario,Autoconsumo
+GT0107,Cultivo de Maíz en San Pedro Ayampuc,Cooperativa Integral de Producción Agrícola de San Pedro Ayampuc R.L.,false,Medio,598,333,Mayo-Noviembre,Autoconsumo
+GT0107,Cultivo de Frijol en San Pedro Ayampuc,,false,Bajo,552,234,Mayo-Septiembre,Autoconsumo
+GT0107,Crianza de Aves en San Pedro Ayampuc,Asociación de Productores y Comercializadores de San Pedro Ayampuc,true,Medio,841,4305,Diario,Mixto
+GT0108,Cultivo de Maíz en Mixco,Cooperativa Integral de Producción Agrícola de Mixco R.L.,false,Medio,488,523,Mayo-Noviembre,Autoconsumo
+GT0108,Cultivo de Frijol en Mixco,,false,Bajo,670,217,Mayo-Septiembre,Autoconsumo
+GT0108,Crianza de Aves en Mixco,Asociación de Productores y Comercializadores de Mixco,true,Alto,555,4985,Diario,Exportación
+GT0109,Cultivo de Maíz en San Pedro Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Pedro Sacatepéquez R.L.,false,Medio,1175,190,Mayo-Noviembre,Autoconsumo
+GT0109,Cultivo de Frijol en San Pedro Sacatepéquez,,false,Bajo,765,155,Mayo-Septiembre,Autoconsumo
+GT0109,Cultivo de Flores en San Pedro Sacatepéquez,Asociación de Productores y Comercializadores de San Pedro Sacatepéquez,true,Medio,1040,3364,Diario,Mercado Nacional
+GT0109,Producción de Muebles en San Pedro Sacatepéquez,Asociación de Productores y Comercializadores de San Pedro Sacatepéquez,true,Medio,693,3885,Diario,Mercado Nacional
+GT0110,Cultivo de Maíz en San Juan Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Juan Sacatepéquez R.L.,false,Medio,542,173,Mayo-Noviembre,Autoconsumo
+GT0110,Cultivo de Frijol en San Juan Sacatepéquez,,false,Bajo,433,277,Mayo-Septiembre,Autoconsumo
+GT0110,Cultivo de Flores en San Juan Sacatepéquez,Asociación de Productores y Comercializadores de San Juan Sacatepéquez,true,Alto,892,1326,Diario,Autoconsumo
+GT0110,Producción de Muebles en San Juan Sacatepéquez,Asociación de Productores y Comercializadores de San Juan Sacatepéquez,true,Alto,776,4549,Diario,Autoconsumo
+GT0111,Cultivo de Maíz en San Raimundo,Cooperativa Integral de Producción Agrícola de San Raimundo R.L.,false,Medio,606,344,Mayo-Noviembre,Autoconsumo
+GT0111,Cultivo de Frijol en San Raimundo,,false,Bajo,484,196,Mayo-Septiembre,Autoconsumo
+GT0111,Crianza de Aves en San Raimundo,Asociación de Productores y Comercializadores de San Raimundo,true,Medio,1047,1666,Diario,Mixto
+GT0112,Cultivo de Maíz en Chuarrancho,Cooperativa Integral de Producción Agrícola de Chuarrancho R.L.,false,Medio,1158,331,Mayo-Noviembre,Autoconsumo
+GT0112,Cultivo de Frijol en Chuarrancho,,false,Bajo,414,251,Mayo-Septiembre,Autoconsumo
+GT0112,Crianza de Aves en Chuarrancho,Asociación de Productores y Comercializadores de Chuarrancho,true,Alto,846,3874,Diario,Exportación
+GT0113,Cultivo de Maíz en Fraijanes,Cooperativa Integral de Producción Agrícola de Fraijanes R.L.,false,Medio,546,461,Mayo-Noviembre,Autoconsumo
+GT0113,Cultivo de Frijol en Fraijanes,,false,Bajo,375,216,Mayo-Septiembre,Autoconsumo
+GT0113,Crianza de Aves en Fraijanes,Asociación de Productores y Comercializadores de Fraijanes,true,Medio,801,1669,Diario,Mercado Nacional
+GT0114,Cultivo de Maíz en Amatitlán,Cooperativa Integral de Producción Agrícola de Amatitlán R.L.,false,Medio,1346,344,Mayo-Noviembre,Autoconsumo
+GT0114,Cultivo de Frijol en Amatitlán,,false,Bajo,476,243,Mayo-Septiembre,Autoconsumo
+GT0114,Crianza de Aves en Amatitlán,Asociación de Productores y Comercializadores de Amatitlán,true,Alto,1440,1899,Diario,Autoconsumo
+GT0115,Cultivo de Maíz en Villa Nueva,Cooperativa Integral de Producción Agrícola de Villa Nueva R.L.,false,Medio,1064,581,Mayo-Noviembre,Autoconsumo
+GT0115,Cultivo de Frijol en Villa Nueva,,false,Bajo,257,138,Mayo-Septiembre,Autoconsumo
+GT0115,Crianza de Aves en Villa Nueva,Asociación de Productores y Comercializadores de Villa Nueva,true,Medio,365,4297,Diario,Mixto
+GT0116,Cultivo de Maíz en Villa Canales,Cooperativa Integral de Producción Agrícola de Villa Canales R.L.,false,Medio,1046,355,Mayo-Noviembre,Autoconsumo
+GT0116,Cultivo de Frijol en Villa Canales,,false,Bajo,474,96,Mayo-Septiembre,Autoconsumo
+GT0116,Crianza de Aves en Villa Canales,Asociación de Productores y Comercializadores de Villa Canales,true,Alto,732,4740,Diario,Exportación
+GT0117,Cultivo de Maíz en Petapa,Cooperativa Integral de Producción Agrícola de Petapa R.L.,false,Medio,1044,258,Mayo-Noviembre,Autoconsumo
+GT0117,Cultivo de Frijol en Petapa,,false,Bajo,711,181,Mayo-Septiembre,Autoconsumo
+GT0117,Crianza de Aves en Petapa,Asociación de Productores y Comercializadores de Petapa,true,Medio,1239,1585,Diario,Mercado Nacional
+GT0201,Cultivo de Maíz en Guastatoya,Cooperativa Integral de Producción Agrícola de Guastatoya R.L.,false,Medio,942,221,Mayo-Noviembre,Autoconsumo
+GT0201,Cultivo de Frijol en Guastatoya,,false,Bajo,452,270,Mayo-Septiembre,Autoconsumo
+GT0201,Producción Ganadera en Guastatoya,Asociación de Productores y Comercializadores de Guastatoya,true,Alto,1449,3207,Diario,Autoconsumo
+GT0202,Cultivo de Maíz en Morazán,Cooperativa Integral de Producción Agrícola de Morazán R.L.,false,Medio,938,532,Mayo-Noviembre,Autoconsumo
+GT0202,Cultivo de Frijol en Morazán,,false,Bajo,798,189,Mayo-Septiembre,Autoconsumo
+GT0202,Producción Ganadera en Morazán,Asociación de Productores y Comercializadores de Morazán,true,Medio,1495,2635,Diario,Mixto
+GT0203,Cultivo de Maíz en San Agustín Acasaguastlán,Cooperativa Integral de Producción Agrícola de San Agustín Acasaguastlán R.L.,false,Medio,1141,262,Mayo-Noviembre,Autoconsumo
+GT0203,Cultivo de Frijol en San Agustín Acasaguastlán,,false,Bajo,341,210,Mayo-Septiembre,Autoconsumo
+GT0203,Producción Ganadera en San Agustín Acasaguastlán,Asociación de Productores y Comercializadores de San Agustín Acasaguastlán,true,Alto,1310,1372,Diario,Exportación
+GT0204,Cultivo de Maíz en San Cristóbal Acasaguastlán,Cooperativa Integral de Producción Agrícola de San Cristóbal Acasaguastlán R.L.,false,Medio,496,590,Mayo-Noviembre,Autoconsumo
+GT0204,Cultivo de Frijol en San Cristóbal Acasaguastlán,,false,Bajo,312,119,Mayo-Septiembre,Autoconsumo
+GT0204,Producción Ganadera en San Cristóbal Acasaguastlán,Asociación de Productores y Comercializadores de San Cristóbal Acasaguastlán,true,Medio,627,4244,Diario,Mercado Nacional
+GT0205,Cultivo de Maíz en El Jícaro,Cooperativa Integral de Producción Agrícola de El Jícaro R.L.,false,Medio,1264,455,Mayo-Noviembre,Autoconsumo
+GT0205,Cultivo de Frijol en El Jícaro,,false,Bajo,265,178,Mayo-Septiembre,Autoconsumo
+GT0205,Producción Ganadera en El Jícaro,Asociación de Productores y Comercializadores de El Jícaro,true,Alto,1081,3440,Diario,Autoconsumo
+GT0206,Cultivo de Maíz en Sanarate,Cooperativa Integral de Producción Agrícola de Sanarate R.L.,false,Medio,1358,420,Mayo-Noviembre,Autoconsumo
+GT0206,Cultivo de Frijol en Sanarate,,false,Bajo,457,221,Mayo-Septiembre,Autoconsumo
+GT0206,Producción Ganadera en Sanarate,Asociación de Productores y Comercializadores de Sanarate,true,Medio,323,3786,Diario,Mixto
+GT0207,Cultivo de Maíz en Sansare,Cooperativa Integral de Producción Agrícola de Sansare R.L.,false,Medio,634,499,Mayo-Noviembre,Autoconsumo
+GT0207,Cultivo de Frijol en Sansare,,false,Bajo,749,272,Mayo-Septiembre,Autoconsumo
+GT0207,Producción Ganadera en Sansare,Asociación de Productores y Comercializadores de Sansare,true,Alto,846,4148,Diario,Exportación
+GT0208,Cultivo de Maíz en San Antonio La Paz,Cooperativa Integral de Producción Agrícola de San Antonio La Paz R.L.,false,Medio,1096,207,Mayo-Noviembre,Autoconsumo
+GT0208,Cultivo de Frijol en San Antonio La Paz,,false,Bajo,500,191,Mayo-Septiembre,Autoconsumo
+GT0208,Producción Ganadera en San Antonio La Paz,Asociación de Productores y Comercializadores de San Antonio La Paz,true,Medio,623,2858,Diario,Mercado Nacional
+GT0301,Cultivo de Maíz en Antigua Guatemala,Cooperativa Integral de Producción Agrícola de Antigua Guatemala R.L.,false,Medio,406,519,Mayo-Noviembre,Autoconsumo
+GT0301,Cultivo de Frijol en Antigua Guatemala,,false,Bajo,469,208,Mayo-Septiembre,Autoconsumo
+GT0301,Cultivo de Flores en Antigua Guatemala,Asociación de Productores y Comercializadores de Antigua Guatemala,true,Alto,665,3079,Diario,Autoconsumo
+GT0301,Cultivo de Café en Antigua Guatemala,Cooperativa Integral de Producción Agrícola de Antigua Guatemala R.L.,true,Alto,517,4565,Noviembre-Marzo,Autoconsumo
+GT0302,Cultivo de Maíz en Jocotenango,Cooperativa Integral de Producción Agrícola de Jocotenango R.L.,false,Medio,1011,580,Mayo-Noviembre,Autoconsumo
+GT0302,Cultivo de Frijol en Jocotenango,,false,Bajo,719,235,Mayo-Septiembre,Autoconsumo
+GT0302,Cultivo de Flores en Jocotenango,Asociación de Productores y Comercializadores de Jocotenango,true,Medio,707,1626,Diario,Mixto
+GT0302,Cultivo de Café en Jocotenango,Cooperativa Integral de Producción Agrícola de Jocotenango R.L.,true,Medio,1065,4123,Noviembre-Marzo,Mixto
+GT0303,Cultivo de Maíz en Pastores,Cooperativa Integral de Producción Agrícola de Pastores R.L.,false,Medio,730,426,Mayo-Noviembre,Autoconsumo
+GT0303,Cultivo de Frijol en Pastores,,false,Bajo,743,80,Mayo-Septiembre,Autoconsumo
+GT0303,Cultivo de Flores en Pastores,Asociación de Productores y Comercializadores de Pastores,true,Alto,963,3001,Diario,Exportación
+GT0303,Cultivo de Café en Pastores,Cooperativa Integral de Producción Agrícola de Pastores R.L.,true,Alto,339,1458,Noviembre-Marzo,Exportación
+GT0303,Producción de Calzado en Pastores,Asociación de Productores y Comercializadores de Pastores,true,Alto,1043,4599,Diario,Exportación
+GT0304,Cultivo de Maíz en Sumpango,Cooperativa Integral de Producción Agrícola de Sumpango R.L.,false,Medio,1029,272,Mayo-Noviembre,Autoconsumo
+GT0304,Cultivo de Frijol en Sumpango,,false,Bajo,259,141,Mayo-Septiembre,Autoconsumo
+GT0304,Cultivo de Flores en Sumpango,Asociación de Productores y Comercializadores de Sumpango,true,Medio,1461,4878,Diario,Mercado Nacional
+GT0304,Cultivo de Café en Sumpango,Cooperativa Integral de Producción Agrícola de Sumpango R.L.,true,Medio,461,1350,Noviembre-Marzo,Mercado Nacional
+GT0305,Cultivo de Maíz en Santo Domingo Xenacoj,Cooperativa Integral de Producción Agrícola de Santo Domingo Xenacoj R.L.,false,Medio,1395,567,Mayo-Noviembre,Autoconsumo
+GT0305,Cultivo de Frijol en Santo Domingo Xenacoj,,false,Bajo,270,274,Mayo-Septiembre,Autoconsumo
+GT0305,Cultivo de Flores en Santo Domingo Xenacoj,Asociación de Productores y Comercializadores de Santo Domingo Xenacoj,true,Alto,1390,4136,Diario,Autoconsumo
+GT0305,Cultivo de Café en Santo Domingo Xenacoj,Cooperativa Integral de Producción Agrícola de Santo Domingo Xenacoj R.L.,true,Alto,557,1525,Noviembre-Marzo,Autoconsumo
+GT0306,Cultivo de Maíz en Santiago Sacatepéquez,Cooperativa Integral de Producción Agrícola de Santiago Sacatepéquez R.L.,false,Medio,1373,431,Mayo-Noviembre,Autoconsumo
+GT0306,Cultivo de Frijol en Santiago Sacatepéquez,,false,Bajo,369,147,Mayo-Septiembre,Autoconsumo
+GT0306,Cultivo de Flores en Santiago Sacatepéquez,Asociación de Productores y Comercializadores de Santiago Sacatepéquez,true,Medio,1380,4573,Diario,Mixto
+GT0306,Cultivo de Café en Santiago Sacatepéquez,Cooperativa Integral de Producción Agrícola de Santiago Sacatepéquez R.L.,true,Medio,1166,4950,Noviembre-Marzo,Mixto
+GT0307,Cultivo de Maíz en San Bartolomé Milpas Altas,Cooperativa Integral de Producción Agrícola de San Bartolomé Milpas Altas R.L.,false,Medio,833,426,Mayo-Noviembre,Autoconsumo
+GT0307,Cultivo de Frijol en San Bartolomé Milpas Altas,,false,Bajo,405,262,Mayo-Septiembre,Autoconsumo
+GT0307,Cultivo de Flores en San Bartolomé Milpas Altas,Asociación de Productores y Comercializadores de San Bartolomé Milpas Altas,true,Alto,938,2634,Diario,Exportación
+GT0307,Cultivo de Café en San Bartolomé Milpas Altas,Cooperativa Integral de Producción Agrícola de San Bartolomé Milpas Altas R.L.,true,Alto,1064,2794,Noviembre-Marzo,Exportación
+GT0308,Cultivo de Maíz en San Lucas Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Lucas Sacatepéquez R.L.,false,Medio,1459,381,Mayo-Noviembre,Autoconsumo
+GT0308,Cultivo de Frijol en San Lucas Sacatepéquez,,false,Bajo,323,143,Mayo-Septiembre,Autoconsumo
+GT0308,Cultivo de Flores en San Lucas Sacatepéquez,Asociación de Productores y Comercializadores de San Lucas Sacatepéquez,true,Medio,760,1262,Diario,Mercado Nacional
+GT0308,Cultivo de Café en San Lucas Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Lucas Sacatepéquez R.L.,true,Medio,992,1086,Noviembre-Marzo,Mercado Nacional
+GT0309,Cultivo de Maíz en Santa Lucía Milpas Altas,Cooperativa Integral de Producción Agrícola de Santa Lucía Milpas Altas R.L.,false,Medio,871,451,Mayo-Noviembre,Autoconsumo
+GT0309,Cultivo de Frijol en Santa Lucía Milpas Altas,,false,Bajo,425,81,Mayo-Septiembre,Autoconsumo
+GT0309,Cultivo de Flores en Santa Lucía Milpas Altas,Asociación de Productores y Comercializadores de Santa Lucía Milpas Altas,true,Alto,445,3899,Diario,Autoconsumo
+GT0309,Cultivo de Café en Santa Lucía Milpas Altas,Cooperativa Integral de Producción Agrícola de Santa Lucía Milpas Altas R.L.,true,Alto,420,1937,Noviembre-Marzo,Autoconsumo
+GT0310,Cultivo de Maíz en Magdalena Milpas Altas,Cooperativa Integral de Producción Agrícola de Magdalena Milpas Altas R.L.,false,Medio,538,166,Mayo-Noviembre,Autoconsumo
+GT0310,Cultivo de Frijol en Magdalena Milpas Altas,,false,Bajo,538,98,Mayo-Septiembre,Autoconsumo
+GT0310,Cultivo de Flores en Magdalena Milpas Altas,Asociación de Productores y Comercializadores de Magdalena Milpas Altas,true,Medio,1352,1974,Diario,Mixto
+GT0310,Cultivo de Café en Magdalena Milpas Altas,Cooperativa Integral de Producción Agrícola de Magdalena Milpas Altas R.L.,true,Medio,870,3740,Noviembre-Marzo,Mixto
+GT0311,Cultivo de Maíz en Santa María de Jesús,Cooperativa Integral de Producción Agrícola de Santa María de Jesús R.L.,false,Medio,1394,259,Mayo-Noviembre,Autoconsumo
+GT0311,Cultivo de Frijol en Santa María de Jesús,,false,Bajo,752,113,Mayo-Septiembre,Autoconsumo
+GT0311,Cultivo de Flores en Santa María de Jesús,Asociación de Productores y Comercializadores de Santa María de Jesús,true,Alto,1469,3360,Diario,Exportación
+GT0311,Cultivo de Café en Santa María de Jesús,Cooperativa Integral de Producción Agrícola de Santa María de Jesús R.L.,true,Alto,1268,1995,Noviembre-Marzo,Exportación
+GT0312,Cultivo de Maíz en Ciudad Vieja,Cooperativa Integral de Producción Agrícola de Ciudad Vieja R.L.,false,Medio,1368,563,Mayo-Noviembre,Autoconsumo
+GT0312,Cultivo de Frijol en Ciudad Vieja,,false,Bajo,616,128,Mayo-Septiembre,Autoconsumo
+GT0312,Cultivo de Flores en Ciudad Vieja,Asociación de Productores y Comercializadores de Ciudad Vieja,true,Medio,493,1397,Diario,Mercado Nacional
+GT0312,Cultivo de Café en Ciudad Vieja,Cooperativa Integral de Producción Agrícola de Ciudad Vieja R.L.,true,Medio,1182,2451,Noviembre-Marzo,Mercado Nacional
+GT0313,Cultivo de Maíz en San Miguel Dueñas,Cooperativa Integral de Producción Agrícola de San Miguel Dueñas R.L.,false,Medio,1267,360,Mayo-Noviembre,Autoconsumo
+GT0313,Cultivo de Frijol en San Miguel Dueñas,,false,Bajo,678,266,Mayo-Septiembre,Autoconsumo
+GT0313,Cultivo de Flores en San Miguel Dueñas,Asociación de Productores y Comercializadores de San Miguel Dueñas,true,Alto,410,3758,Diario,Autoconsumo
+GT0313,Cultivo de Café en San Miguel Dueñas,Cooperativa Integral de Producción Agrícola de San Miguel Dueñas R.L.,true,Alto,501,1248,Noviembre-Marzo,Autoconsumo
+GT0314,Cultivo de Maíz en Alotenango,Cooperativa Integral de Producción Agrícola de Alotenango R.L.,false,Medio,1224,522,Mayo-Noviembre,Autoconsumo
+GT0314,Cultivo de Frijol en Alotenango,,false,Bajo,547,284,Mayo-Septiembre,Autoconsumo
+GT0314,Cultivo de Flores en Alotenango,Asociación de Productores y Comercializadores de Alotenango,true,Medio,523,2018,Diario,Mixto
+GT0314,Cultivo de Café en Alotenango,Cooperativa Integral de Producción Agrícola de Alotenango R.L.,true,Medio,692,1779,Noviembre-Marzo,Mixto
+GT0315,Cultivo de Maíz en San Antonio Aguas Calientes,Cooperativa Integral de Producción Agrícola de San Antonio Aguas Calientes R.L.,false,Medio,1498,379,Mayo-Noviembre,Autoconsumo
+GT0315,Cultivo de Frijol en San Antonio Aguas Calientes,,false,Bajo,343,188,Mayo-Septiembre,Autoconsumo
+GT0315,Cultivo de Flores en San Antonio Aguas Calientes,Asociación de Productores y Comercializadores de San Antonio Aguas Calientes,true,Alto,675,2140,Diario,Exportación
+GT0315,Cultivo de Café en San Antonio Aguas Calientes,Cooperativa Integral de Producción Agrícola de San Antonio Aguas Calientes R.L.,true,Alto,1247,2023,Noviembre-Marzo,Exportación
+GT0316,Cultivo de Maíz en Santa Catarina Barahona,Cooperativa Integral de Producción Agrícola de Santa Catarina Barahona R.L.,false,Medio,554,376,Mayo-Noviembre,Autoconsumo
+GT0316,Cultivo de Frijol en Santa Catarina Barahona,,false,Bajo,763,105,Mayo-Septiembre,Autoconsumo
+GT0316,Cultivo de Flores en Santa Catarina Barahona,Asociación de Productores y Comercializadores de Santa Catarina Barahona,true,Medio,403,3671,Diario,Mercado Nacional
+GT0316,Cultivo de Café en Santa Catarina Barahona,Cooperativa Integral de Producción Agrícola de Santa Catarina Barahona R.L.,true,Medio,1407,4424,Noviembre-Marzo,Mercado Nacional
+GT0401,Cultivo de Maíz en Chimaltenango,Cooperativa Integral de Producción Agrícola de Chimaltenango R.L.,false,Medio,430,197,Mayo-Noviembre,Autoconsumo
+GT0401,Cultivo de Frijol en Chimaltenango,,false,Bajo,442,122,Mayo-Septiembre,Autoconsumo
+GT0401,Cultivo de Hortalizas en Chimaltenango,Asociación de Productores y Comercializadores de Chimaltenango,true,Alto,1132,2989,Diario,Autoconsumo
+GT0402,Cultivo de Maíz en San José Poaquil,Cooperativa Integral de Producción Agrícola de San José Poaquil R.L.,false,Medio,1385,259,Mayo-Noviembre,Autoconsumo
+GT0402,Cultivo de Frijol en San José Poaquil,,false,Bajo,610,95,Mayo-Septiembre,Autoconsumo
+GT0402,Cultivo de Hortalizas en San José Poaquil,Asociación de Productores y Comercializadores de San José Poaquil,true,Medio,637,2552,Diario,Mixto
+GT0403,Cultivo de Maíz en San Martín Jilotepeque,Cooperativa Integral de Producción Agrícola de San Martín Jilotepeque R.L.,false,Medio,404,349,Mayo-Noviembre,Autoconsumo
+GT0403,Cultivo de Frijol en San Martín Jilotepeque,,false,Bajo,471,280,Mayo-Septiembre,Autoconsumo
+GT0403,Cultivo de Hortalizas en San Martín Jilotepeque,Asociación de Productores y Comercializadores de San Martín Jilotepeque,true,Alto,1231,2168,Diario,Exportación
+GT0404,Cultivo de Maíz en Comalapa,Cooperativa Integral de Producción Agrícola de Comalapa R.L.,false,Medio,1266,506,Mayo-Noviembre,Autoconsumo
+GT0404,Cultivo de Frijol en Comalapa,,false,Bajo,769,249,Mayo-Septiembre,Autoconsumo
+GT0404,Cultivo de Hortalizas en Comalapa,Asociación de Productores y Comercializadores de Comalapa,true,Medio,1296,1634,Diario,Mercado Nacional
+GT0405,Cultivo de Maíz en Santa Apolonia,Cooperativa Integral de Producción Agrícola de Santa Apolonia R.L.,false,Medio,788,301,Mayo-Noviembre,Autoconsumo
+GT0405,Cultivo de Frijol en Santa Apolonia,,false,Bajo,422,94,Mayo-Septiembre,Autoconsumo
+GT0405,Cultivo de Hortalizas en Santa Apolonia,Asociación de Productores y Comercializadores de Santa Apolonia,true,Alto,1486,4013,Diario,Autoconsumo
+GT0406,Cultivo de Maíz en Tecpán Guatemala,Cooperativa Integral de Producción Agrícola de Tecpán Guatemala R.L.,false,Medio,524,532,Mayo-Noviembre,Autoconsumo
+GT0406,Cultivo de Frijol en Tecpán Guatemala,,false,Bajo,521,94,Mayo-Septiembre,Autoconsumo
+GT0406,Cultivo de Hortalizas en Tecpán Guatemala,Asociación de Productores y Comercializadores de Tecpán Guatemala,true,Medio,402,3392,Diario,Mixto
+GT0407,Cultivo de Maíz en Patzún,Cooperativa Integral de Producción Agrícola de Patzún R.L.,false,Medio,1376,407,Mayo-Noviembre,Autoconsumo
+GT0407,Cultivo de Frijol en Patzún,,false,Bajo,743,120,Mayo-Septiembre,Autoconsumo
+GT0407,Cultivo de Hortalizas en Patzún,Asociación de Productores y Comercializadores de Patzún,true,Alto,416,4935,Diario,Exportación
+GT0408,Cultivo de Maíz en Pochuta,Cooperativa Integral de Producción Agrícola de Pochuta R.L.,false,Medio,1440,191,Mayo-Noviembre,Autoconsumo
+GT0408,Cultivo de Frijol en Pochuta,,false,Bajo,390,97,Mayo-Septiembre,Autoconsumo
+GT0408,Cultivo de Hortalizas en Pochuta,Asociación de Productores y Comercializadores de Pochuta,true,Medio,439,3765,Diario,Mercado Nacional
+GT0409,Cultivo de Maíz en Patzicía,Cooperativa Integral de Producción Agrícola de Patzicía R.L.,false,Medio,881,356,Mayo-Noviembre,Autoconsumo
+GT0409,Cultivo de Frijol en Patzicía,,false,Bajo,322,225,Mayo-Septiembre,Autoconsumo
+GT0409,Cultivo de Hortalizas en Patzicía,Asociación de Productores y Comercializadores de Patzicía,true,Alto,804,3371,Diario,Autoconsumo
+GT0410,Cultivo de Maíz en Santa Cruz Balanyá,Cooperativa Integral de Producción Agrícola de Santa Cruz Balanyá R.L.,false,Medio,481,467,Mayo-Noviembre,Autoconsumo
+GT0410,Cultivo de Frijol en Santa Cruz Balanyá,,false,Bajo,283,187,Mayo-Septiembre,Autoconsumo
+GT0410,Cultivo de Hortalizas en Santa Cruz Balanyá,Asociación de Productores y Comercializadores de Santa Cruz Balanyá,true,Medio,1495,3315,Diario,Mixto
+GT0411,Cultivo de Maíz en Acatenango,Cooperativa Integral de Producción Agrícola de Acatenango R.L.,false,Medio,1470,311,Mayo-Noviembre,Autoconsumo
+GT0411,Cultivo de Frijol en Acatenango,,false,Bajo,467,132,Mayo-Septiembre,Autoconsumo
+GT0411,Cultivo de Hortalizas en Acatenango,Asociación de Productores y Comercializadores de Acatenango,true,Alto,943,1977,Diario,Exportación
+GT0412,Cultivo de Maíz en Yepocapa,Cooperativa Integral de Producción Agrícola de Yepocapa R.L.,false,Medio,943,352,Mayo-Noviembre,Autoconsumo
+GT0412,Cultivo de Frijol en Yepocapa,,false,Bajo,334,251,Mayo-Septiembre,Autoconsumo
+GT0412,Cultivo de Hortalizas en Yepocapa,Asociación de Productores y Comercializadores de Yepocapa,true,Medio,914,2872,Diario,Mercado Nacional
+GT0413,Cultivo de Maíz en San Andrés Itzapa,Cooperativa Integral de Producción Agrícola de San Andrés Itzapa R.L.,false,Medio,1047,534,Mayo-Noviembre,Autoconsumo
+GT0413,Cultivo de Frijol en San Andrés Itzapa,,false,Bajo,274,82,Mayo-Septiembre,Autoconsumo
+GT0413,Cultivo de Hortalizas en San Andrés Itzapa,Asociación de Productores y Comercializadores de San Andrés Itzapa,true,Alto,1238,3544,Diario,Autoconsumo
+GT0414,Cultivo de Maíz en Parramos,Cooperativa Integral de Producción Agrícola de Parramos R.L.,false,Medio,604,187,Mayo-Noviembre,Autoconsumo
+GT0414,Cultivo de Frijol en Parramos,,false,Bajo,750,134,Mayo-Septiembre,Autoconsumo
+GT0414,Cultivo de Hortalizas en Parramos,Asociación de Productores y Comercializadores de Parramos,true,Medio,1336,2086,Diario,Mixto
+GT0415,Cultivo de Maíz en Zaragoza,Cooperativa Integral de Producción Agrícola de Zaragoza R.L.,false,Medio,671,328,Mayo-Noviembre,Autoconsumo
+GT0415,Cultivo de Frijol en Zaragoza,,false,Bajo,270,142,Mayo-Septiembre,Autoconsumo
+GT0415,Cultivo de Hortalizas en Zaragoza,Asociación de Productores y Comercializadores de Zaragoza,true,Alto,1056,2167,Diario,Exportación
+GT0416,Cultivo de Maíz en El Tejar,Cooperativa Integral de Producción Agrícola de El Tejar R.L.,false,Medio,723,374,Mayo-Noviembre,Autoconsumo
+GT0416,Cultivo de Frijol en El Tejar,,false,Bajo,756,260,Mayo-Septiembre,Autoconsumo
+GT0416,Cultivo de Hortalizas en El Tejar,Asociación de Productores y Comercializadores de El Tejar,true,Medio,919,3505,Diario,Mercado Nacional
+GT0501,Cultivo de Maíz en Escuintla,Cooperativa Integral de Producción Agrícola de Escuintla R.L.,false,Medio,1483,154,Mayo-Noviembre,Autoconsumo
+GT0501,Cultivo de Frijol en Escuintla,,false,Bajo,767,156,Mayo-Septiembre,Autoconsumo
+GT0501,Cultivo de Caña de Azúcar en Escuintla,Asociación de Productores y Comercializadores de Escuintla,true,Alto,512,4845,Noviembre-Marzo,Autoconsumo
+GT0501,Cultivo de Banano en Escuintla,Asociación de Productores y Comercializadores de Escuintla,true,Alto,575,2083,Diario,Autoconsumo
+GT0501,Producción Ganadera en Escuintla,Asociación de Productores y Comercializadores de Escuintla,true,Alto,536,4644,Diario,Autoconsumo
+GT0502,Cultivo de Maíz en Santa Lucía Cotzumalguapa,Cooperativa Integral de Producción Agrícola de Santa Lucía Cotzumalguapa R.L.,false,Medio,619,530,Mayo-Noviembre,Autoconsumo
+GT0502,Cultivo de Frijol en Santa Lucía Cotzumalguapa,,false,Bajo,766,119,Mayo-Septiembre,Autoconsumo
+GT0502,Cultivo de Caña de Azúcar en Santa Lucía Cotzumalguapa,Asociación de Productores y Comercializadores de Santa Lucía Cotzumalguapa,true,Medio,857,2154,Noviembre-Marzo,Mixto
+GT0502,Cultivo de Banano en Santa Lucía Cotzumalguapa,Asociación de Productores y Comercializadores de Santa Lucía Cotzumalguapa,true,Medio,731,3939,Diario,Mixto
+GT0502,Producción Ganadera en Santa Lucía Cotzumalguapa,Asociación de Productores y Comercializadores de Santa Lucía Cotzumalguapa,true,Medio,1002,1833,Diario,Mixto
+GT0503,Cultivo de Maíz en La Democracia,Cooperativa Integral de Producción Agrícola de La Democracia R.L.,false,Medio,940,408,Mayo-Noviembre,Autoconsumo
+GT0503,Cultivo de Frijol en La Democracia,,false,Bajo,700,144,Mayo-Septiembre,Autoconsumo
+GT0503,Cultivo de Caña de Azúcar en La Democracia,Asociación de Productores y Comercializadores de La Democracia,true,Alto,404,1378,Noviembre-Marzo,Exportación
+GT0503,Cultivo de Banano en La Democracia,Asociación de Productores y Comercializadores de La Democracia,true,Alto,1167,4397,Diario,Exportación
+GT0503,Producción Ganadera en La Democracia,Asociación de Productores y Comercializadores de La Democracia,true,Alto,866,1180,Diario,Exportación
+GT0504,Cultivo de Maíz en Siquinalá,Cooperativa Integral de Producción Agrícola de Siquinalá R.L.,false,Medio,407,320,Mayo-Noviembre,Autoconsumo
+GT0504,Cultivo de Frijol en Siquinalá,,false,Bajo,333,243,Mayo-Septiembre,Autoconsumo
+GT0504,Cultivo de Caña de Azúcar en Siquinalá,Asociación de Productores y Comercializadores de Siquinalá,true,Medio,836,1661,Noviembre-Marzo,Mercado Nacional
+GT0504,Cultivo de Banano en Siquinalá,Asociación de Productores y Comercializadores de Siquinalá,true,Medio,1204,3259,Diario,Mercado Nacional
+GT0504,Producción Ganadera en Siquinalá,Asociación de Productores y Comercializadores de Siquinalá,true,Medio,1175,3297,Diario,Mercado Nacional
+GT0505,Cultivo de Maíz en Masagua,Cooperativa Integral de Producción Agrícola de Masagua R.L.,false,Medio,419,207,Mayo-Noviembre,Autoconsumo
+GT0505,Cultivo de Frijol en Masagua,,false,Bajo,277,256,Mayo-Septiembre,Autoconsumo
+GT0505,Cultivo de Caña de Azúcar en Masagua,Asociación de Productores y Comercializadores de Masagua,true,Alto,605,3234,Noviembre-Marzo,Autoconsumo
+GT0505,Cultivo de Banano en Masagua,Asociación de Productores y Comercializadores de Masagua,true,Alto,373,4418,Diario,Autoconsumo
+GT0505,Producción Ganadera en Masagua,Asociación de Productores y Comercializadores de Masagua,true,Alto,1056,3385,Diario,Autoconsumo
+GT0506,Cultivo de Maíz en Tiquisate,Cooperativa Integral de Producción Agrícola de Tiquisate R.L.,false,Medio,703,370,Mayo-Noviembre,Autoconsumo
+GT0506,Cultivo de Frijol en Tiquisate,,false,Bajo,330,90,Mayo-Septiembre,Autoconsumo
+GT0506,Cultivo de Caña de Azúcar en Tiquisate,Asociación de Productores y Comercializadores de Tiquisate,true,Medio,931,2493,Noviembre-Marzo,Mixto
+GT0506,Cultivo de Banano en Tiquisate,Asociación de Productores y Comercializadores de Tiquisate,true,Medio,381,4681,Diario,Mixto
+GT0506,Producción Ganadera en Tiquisate,Asociación de Productores y Comercializadores de Tiquisate,true,Medio,1032,1860,Diario,Mixto
+GT0507,Cultivo de Maíz en La Gomera,Cooperativa Integral de Producción Agrícola de La Gomera R.L.,false,Medio,911,491,Mayo-Noviembre,Autoconsumo
+GT0507,Cultivo de Frijol en La Gomera,,false,Bajo,305,170,Mayo-Septiembre,Autoconsumo
+GT0507,Cultivo de Caña de Azúcar en La Gomera,Asociación de Productores y Comercializadores de La Gomera,true,Alto,1446,4621,Noviembre-Marzo,Exportación
+GT0507,Cultivo de Banano en La Gomera,Asociación de Productores y Comercializadores de La Gomera,true,Alto,1132,4988,Diario,Exportación
+GT0507,Producción Ganadera en La Gomera,Asociación de Productores y Comercializadores de La Gomera,true,Alto,616,4791,Diario,Exportación
+GT0508,Cultivo de Maíz en Guanagazapa,Cooperativa Integral de Producción Agrícola de Guanagazapa R.L.,false,Medio,884,592,Mayo-Noviembre,Autoconsumo
+GT0508,Cultivo de Frijol en Guanagazapa,,false,Bajo,366,284,Mayo-Septiembre,Autoconsumo
+GT0508,Cultivo de Caña de Azúcar en Guanagazapa,Asociación de Productores y Comercializadores de Guanagazapa,true,Medio,662,4610,Noviembre-Marzo,Mercado Nacional
+GT0508,Cultivo de Banano en Guanagazapa,Asociación de Productores y Comercializadores de Guanagazapa,true,Medio,1144,1101,Diario,Mercado Nacional
+GT0508,Producción Ganadera en Guanagazapa,Asociación de Productores y Comercializadores de Guanagazapa,true,Medio,667,4016,Diario,Mercado Nacional
+GT0509,Cultivo de Maíz en San José,Cooperativa Integral de Producción Agrícola de San José R.L.,false,Medio,1080,550,Mayo-Noviembre,Autoconsumo
+GT0509,Cultivo de Frijol en San José,,false,Bajo,621,285,Mayo-Septiembre,Autoconsumo
+GT0509,Cultivo de Caña de Azúcar en San José,Asociación de Productores y Comercializadores de San José,true,Alto,808,2092,Noviembre-Marzo,Autoconsumo
+GT0509,Cultivo de Banano en San José,Asociación de Productores y Comercializadores de San José,true,Alto,626,4225,Diario,Autoconsumo
+GT0509,Producción Ganadera en San José,Asociación de Productores y Comercializadores de San José,true,Alto,521,2566,Diario,Autoconsumo
+GT0510,Cultivo de Maíz en Iztapa,Cooperativa Integral de Producción Agrícola de Iztapa R.L.,false,Medio,479,589,Mayo-Noviembre,Autoconsumo
+GT0510,Cultivo de Frijol en Iztapa,,false,Bajo,681,136,Mayo-Septiembre,Autoconsumo
+GT0510,Cultivo de Caña de Azúcar en Iztapa,Asociación de Productores y Comercializadores de Iztapa,true,Medio,708,4344,Noviembre-Marzo,Mixto
+GT0510,Cultivo de Banano en Iztapa,Asociación de Productores y Comercializadores de Iztapa,true,Medio,1242,2432,Diario,Mixto
+GT0510,Producción Ganadera en Iztapa,Asociación de Productores y Comercializadores de Iztapa,true,Medio,925,4360,Diario,Mixto
+GT0511,Cultivo de Maíz en Palín,Cooperativa Integral de Producción Agrícola de Palín R.L.,false,Medio,866,264,Mayo-Noviembre,Autoconsumo
+GT0511,Cultivo de Frijol en Palín,,false,Bajo,224,248,Mayo-Septiembre,Autoconsumo
+GT0511,Cultivo de Caña de Azúcar en Palín,Asociación de Productores y Comercializadores de Palín,true,Alto,695,2632,Noviembre-Marzo,Exportación
+GT0511,Cultivo de Banano en Palín,Asociación de Productores y Comercializadores de Palín,true,Alto,972,2141,Diario,Exportación
+GT0511,Producción Ganadera en Palín,Asociación de Productores y Comercializadores de Palín,true,Alto,442,4960,Diario,Exportación
+GT0512,Cultivo de Maíz en San Vicente Pacaya,Cooperativa Integral de Producción Agrícola de San Vicente Pacaya R.L.,false,Medio,971,329,Mayo-Noviembre,Autoconsumo
+GT0512,Cultivo de Frijol en San Vicente Pacaya,,false,Bajo,721,182,Mayo-Septiembre,Autoconsumo
+GT0512,Cultivo de Caña de Azúcar en San Vicente Pacaya,Asociación de Productores y Comercializadores de San Vicente Pacaya,true,Medio,1398,2356,Noviembre-Marzo,Mercado Nacional
+GT0512,Cultivo de Banano en San Vicente Pacaya,Asociación de Productores y Comercializadores de San Vicente Pacaya,true,Medio,356,1472,Diario,Mercado Nacional
+GT0512,Producción Ganadera en San Vicente Pacaya,Asociación de Productores y Comercializadores de San Vicente Pacaya,true,Medio,834,1731,Diario,Mercado Nacional
+GT0513,Cultivo de Maíz en Nueva Concepción,Cooperativa Integral de Producción Agrícola de Nueva Concepción R.L.,false,Medio,943,169,Mayo-Noviembre,Autoconsumo
+GT0513,Cultivo de Frijol en Nueva Concepción,,false,Bajo,311,232,Mayo-Septiembre,Autoconsumo
+GT0513,Cultivo de Caña de Azúcar en Nueva Concepción,Asociación de Productores y Comercializadores de Nueva Concepción,true,Alto,1189,2415,Noviembre-Marzo,Autoconsumo
+GT0513,Cultivo de Banano en Nueva Concepción,Asociación de Productores y Comercializadores de Nueva Concepción,true,Alto,942,2787,Diario,Autoconsumo
+GT0513,Producción Ganadera en Nueva Concepción,Asociación de Productores y Comercializadores de Nueva Concepción,true,Alto,1347,1473,Diario,Autoconsumo
+GT0514,Cultivo de Maíz en Sipacate,Cooperativa Integral de Producción Agrícola de Sipacate R.L.,false,Medio,1188,445,Mayo-Noviembre,Autoconsumo
+GT0514,Cultivo de Frijol en Sipacate,,false,Bajo,394,145,Mayo-Septiembre,Autoconsumo
+GT0514,Cultivo de Caña de Azúcar en Sipacate,Asociación de Productores y Comercializadores de Sipacate,true,Medio,390,3903,Noviembre-Marzo,Mixto
+GT0514,Cultivo de Banano en Sipacate,Asociación de Productores y Comercializadores de Sipacate,true,Medio,1193,1006,Diario,Mixto
+GT0514,Producción Ganadera en Sipacate,Asociación de Productores y Comercializadores de Sipacate,true,Medio,1364,4791,Diario,Mixto
+GT0601,Cultivo de Maíz en Cuilapa,Cooperativa Integral de Producción Agrícola de Cuilapa R.L.,false,Medio,803,336,Mayo-Noviembre,Autoconsumo
+GT0601,Cultivo de Frijol en Cuilapa,,false,Bajo,641,97,Mayo-Septiembre,Autoconsumo
+GT0601,Cultivo de Caña de Azúcar en Cuilapa,Asociación de Productores y Comercializadores de Cuilapa,true,Alto,976,3552,Noviembre-Marzo,Exportación
+GT0601,Cultivo de Banano en Cuilapa,Asociación de Productores y Comercializadores de Cuilapa,true,Alto,942,3717,Diario,Exportación
+GT0601,Producción Ganadera en Cuilapa,Asociación de Productores y Comercializadores de Cuilapa,true,Alto,555,3948,Diario,Exportación
+GT0602,Cultivo de Maíz en Barberena,Cooperativa Integral de Producción Agrícola de Barberena R.L.,false,Medio,1015,409,Mayo-Noviembre,Autoconsumo
+GT0602,Cultivo de Frijol en Barberena,,false,Bajo,516,250,Mayo-Septiembre,Autoconsumo
+GT0602,Cultivo de Caña de Azúcar en Barberena,Asociación de Productores y Comercializadores de Barberena,true,Medio,1136,2336,Noviembre-Marzo,Mercado Nacional
+GT0602,Cultivo de Banano en Barberena,Asociación de Productores y Comercializadores de Barberena,true,Medio,1124,3855,Diario,Mercado Nacional
+GT0602,Producción Ganadera en Barberena,Asociación de Productores y Comercializadores de Barberena,true,Medio,905,3270,Diario,Mercado Nacional
+GT0603,Cultivo de Maíz en Santa Rosa de Lima,Cooperativa Integral de Producción Agrícola de Santa Rosa de Lima R.L.,false,Medio,660,248,Mayo-Noviembre,Autoconsumo
+GT0603,Cultivo de Frijol en Santa Rosa de Lima,,false,Bajo,630,250,Mayo-Septiembre,Autoconsumo
+GT0603,Cultivo de Caña de Azúcar en Santa Rosa de Lima,Asociación de Productores y Comercializadores de Santa Rosa de Lima,true,Alto,1076,3774,Noviembre-Marzo,Autoconsumo
+GT0603,Cultivo de Banano en Santa Rosa de Lima,Asociación de Productores y Comercializadores de Santa Rosa de Lima,true,Alto,656,3521,Diario,Autoconsumo
+GT0603,Producción Ganadera en Santa Rosa de Lima,Asociación de Productores y Comercializadores de Santa Rosa de Lima,true,Alto,1465,2232,Diario,Autoconsumo
+GT0604,Cultivo de Maíz en Casillas,Cooperativa Integral de Producción Agrícola de Casillas R.L.,false,Medio,1231,430,Mayo-Noviembre,Autoconsumo
+GT0604,Cultivo de Frijol en Casillas,,false,Bajo,200,157,Mayo-Septiembre,Autoconsumo
+GT0604,Cultivo de Caña de Azúcar en Casillas,Asociación de Productores y Comercializadores de Casillas,true,Medio,887,1860,Noviembre-Marzo,Mixto
+GT0604,Cultivo de Banano en Casillas,Asociación de Productores y Comercializadores de Casillas,true,Medio,1180,4218,Diario,Mixto
+GT0604,Producción Ganadera en Casillas,Asociación de Productores y Comercializadores de Casillas,true,Medio,1487,3484,Diario,Mixto
+GT0605,Cultivo de Maíz en San Rafael Las Flores,Cooperativa Integral de Producción Agrícola de San Rafael Las Flores R.L.,false,Medio,1059,388,Mayo-Noviembre,Autoconsumo
+GT0605,Cultivo de Frijol en San Rafael Las Flores,,false,Bajo,652,193,Mayo-Septiembre,Autoconsumo
+GT0605,Cultivo de Caña de Azúcar en San Rafael Las Flores,Asociación de Productores y Comercializadores de San Rafael Las Flores,true,Alto,737,3093,Noviembre-Marzo,Exportación
+GT0605,Cultivo de Banano en San Rafael Las Flores,Asociación de Productores y Comercializadores de San Rafael Las Flores,true,Alto,1269,4251,Diario,Exportación
+GT0605,Producción Ganadera en San Rafael Las Flores,Asociación de Productores y Comercializadores de San Rafael Las Flores,true,Alto,647,3698,Diario,Exportación
+GT0606,Cultivo de Maíz en Oratorio,Cooperativa Integral de Producción Agrícola de Oratorio R.L.,false,Medio,573,295,Mayo-Noviembre,Autoconsumo
+GT0606,Cultivo de Frijol en Oratorio,,false,Bajo,727,249,Mayo-Septiembre,Autoconsumo
+GT0606,Cultivo de Caña de Azúcar en Oratorio,Asociación de Productores y Comercializadores de Oratorio,true,Medio,986,1382,Noviembre-Marzo,Mercado Nacional
+GT0606,Cultivo de Banano en Oratorio,Asociación de Productores y Comercializadores de Oratorio,true,Medio,781,3755,Diario,Mercado Nacional
+GT0606,Producción Ganadera en Oratorio,Asociación de Productores y Comercializadores de Oratorio,true,Medio,935,1920,Diario,Mercado Nacional
+GT0607,Cultivo de Maíz en San Juan Tecuaco,Cooperativa Integral de Producción Agrícola de San Juan Tecuaco R.L.,false,Medio,807,225,Mayo-Noviembre,Autoconsumo
+GT0607,Cultivo de Frijol en San Juan Tecuaco,,false,Bajo,225,91,Mayo-Septiembre,Autoconsumo
+GT0607,Cultivo de Caña de Azúcar en San Juan Tecuaco,Asociación de Productores y Comercializadores de San Juan Tecuaco,true,Alto,801,2946,Noviembre-Marzo,Autoconsumo
+GT0607,Cultivo de Banano en San Juan Tecuaco,Asociación de Productores y Comercializadores de San Juan Tecuaco,true,Alto,449,2865,Diario,Autoconsumo
+GT0607,Producción Ganadera en San Juan Tecuaco,Asociación de Productores y Comercializadores de San Juan Tecuaco,true,Alto,1148,4629,Diario,Autoconsumo
+GT0608,Cultivo de Maíz en Chiquimulilla,Cooperativa Integral de Producción Agrícola de Chiquimulilla R.L.,false,Medio,798,517,Mayo-Noviembre,Autoconsumo
+GT0608,Cultivo de Frijol en Chiquimulilla,,false,Bajo,593,206,Mayo-Septiembre,Autoconsumo
+GT0608,Cultivo de Caña de Azúcar en Chiquimulilla,Asociación de Productores y Comercializadores de Chiquimulilla,true,Medio,1118,1999,Noviembre-Marzo,Mixto
+GT0608,Cultivo de Banano en Chiquimulilla,Asociación de Productores y Comercializadores de Chiquimulilla,true,Medio,602,3687,Diario,Mixto
+GT0608,Producción Ganadera en Chiquimulilla,Asociación de Productores y Comercializadores de Chiquimulilla,true,Medio,311,4656,Diario,Mixto
+GT0609,Cultivo de Maíz en Taxisco,Cooperativa Integral de Producción Agrícola de Taxisco R.L.,false,Medio,618,548,Mayo-Noviembre,Autoconsumo
+GT0609,Cultivo de Frijol en Taxisco,,false,Bajo,635,136,Mayo-Septiembre,Autoconsumo
+GT0609,Cultivo de Caña de Azúcar en Taxisco,Asociación de Productores y Comercializadores de Taxisco,true,Alto,660,4293,Noviembre-Marzo,Exportación
+GT0609,Cultivo de Banano en Taxisco,Asociación de Productores y Comercializadores de Taxisco,true,Alto,1360,2902,Diario,Exportación
+GT0609,Producción Ganadera en Taxisco,Asociación de Productores y Comercializadores de Taxisco,true,Alto,402,3283,Diario,Exportación
+GT0610,Cultivo de Maíz en Santa María Ixhuatán,Cooperativa Integral de Producción Agrícola de Santa María Ixhuatán R.L.,false,Medio,910,584,Mayo-Noviembre,Autoconsumo
+GT0610,Cultivo de Frijol en Santa María Ixhuatán,,false,Bajo,324,196,Mayo-Septiembre,Autoconsumo
+GT0610,Cultivo de Caña de Azúcar en Santa María Ixhuatán,Asociación de Productores y Comercializadores de Santa María Ixhuatán,true,Medio,573,4282,Noviembre-Marzo,Mercado Nacional
+GT0610,Cultivo de Banano en Santa María Ixhuatán,Asociación de Productores y Comercializadores de Santa María Ixhuatán,true,Medio,1251,3734,Diario,Mercado Nacional
+GT0610,Producción Ganadera en Santa María Ixhuatán,Asociación de Productores y Comercializadores de Santa María Ixhuatán,true,Medio,1387,3289,Diario,Mercado Nacional
+GT0611,Cultivo de Maíz en Guazacapán,Cooperativa Integral de Producción Agrícola de Guazacapán R.L.,false,Medio,1049,536,Mayo-Noviembre,Autoconsumo
+GT0611,Cultivo de Frijol en Guazacapán,,false,Bajo,653,236,Mayo-Septiembre,Autoconsumo
+GT0611,Cultivo de Caña de Azúcar en Guazacapán,Asociación de Productores y Comercializadores de Guazacapán,true,Alto,1333,2747,Noviembre-Marzo,Autoconsumo
+GT0611,Cultivo de Banano en Guazacapán,Asociación de Productores y Comercializadores de Guazacapán,true,Alto,1422,2826,Diario,Autoconsumo
+GT0611,Producción Ganadera en Guazacapán,Asociación de Productores y Comercializadores de Guazacapán,true,Alto,625,4046,Diario,Autoconsumo
+GT0612,Cultivo de Maíz en Santa Cruz Naranjo,Cooperativa Integral de Producción Agrícola de Santa Cruz Naranjo R.L.,false,Medio,1372,380,Mayo-Noviembre,Autoconsumo
+GT0612,Cultivo de Frijol en Santa Cruz Naranjo,,false,Bajo,465,272,Mayo-Septiembre,Autoconsumo
+GT0612,Cultivo de Caña de Azúcar en Santa Cruz Naranjo,Asociación de Productores y Comercializadores de Santa Cruz Naranjo,true,Medio,806,4440,Noviembre-Marzo,Mixto
+GT0612,Cultivo de Banano en Santa Cruz Naranjo,Asociación de Productores y Comercializadores de Santa Cruz Naranjo,true,Medio,867,4136,Diario,Mixto
+GT0612,Producción Ganadera en Santa Cruz Naranjo,Asociación de Productores y Comercializadores de Santa Cruz Naranjo,true,Medio,1367,2984,Diario,Mixto
+GT0613,Cultivo de Maíz en Pueblo Nuevo Viñas,Cooperativa Integral de Producción Agrícola de Pueblo Nuevo Viñas R.L.,false,Medio,889,290,Mayo-Noviembre,Autoconsumo
+GT0613,Cultivo de Frijol en Pueblo Nuevo Viñas,,false,Bajo,650,99,Mayo-Septiembre,Autoconsumo
+GT0613,Cultivo de Caña de Azúcar en Pueblo Nuevo Viñas,Asociación de Productores y Comercializadores de Pueblo Nuevo Viñas,true,Alto,885,1960,Noviembre-Marzo,Exportación
+GT0613,Cultivo de Banano en Pueblo Nuevo Viñas,Asociación de Productores y Comercializadores de Pueblo Nuevo Viñas,true,Alto,856,2375,Diario,Exportación
+GT0613,Producción Ganadera en Pueblo Nuevo Viñas,Asociación de Productores y Comercializadores de Pueblo Nuevo Viñas,true,Alto,954,4657,Diario,Exportación
+GT0614,Cultivo de Maíz en Nueva Santa Rosa,Cooperativa Integral de Producción Agrícola de Nueva Santa Rosa R.L.,false,Medio,565,220,Mayo-Noviembre,Autoconsumo
+GT0614,Cultivo de Frijol en Nueva Santa Rosa,,false,Bajo,354,139,Mayo-Septiembre,Autoconsumo
+GT0614,Cultivo de Caña de Azúcar en Nueva Santa Rosa,Asociación de Productores y Comercializadores de Nueva Santa Rosa,true,Medio,1084,3842,Noviembre-Marzo,Mercado Nacional
+GT0614,Cultivo de Banano en Nueva Santa Rosa,Asociación de Productores y Comercializadores de Nueva Santa Rosa,true,Medio,612,3893,Diario,Mercado Nacional
+GT0614,Producción Ganadera en Nueva Santa Rosa,Asociación de Productores y Comercializadores de Nueva Santa Rosa,true,Medio,738,1263,Diario,Mercado Nacional
+GT0700,Cultivo de Maíz en Lago De Atitlan,Cooperativa Integral de Producción Agrícola de Lago De Atitlan R.L.,false,Medio,1249,358,Mayo-Noviembre,Autoconsumo
+GT0700,Cultivo de Frijol en Lago De Atitlan,,false,Bajo,538,218,Mayo-Septiembre,Autoconsumo
+GT0700,Producción de Tejidos Mayas en Lago De Atitlan,Asociación de Productores y Comercializadores de Lago De Atitlan,true,Alto,1254,2703,Diario,Autoconsumo
+GT0700,Cultivo de Hortalizas en Lago De Atitlan,Asociación de Productores y Comercializadores de Lago De Atitlan,true,Alto,427,1847,Diario,Autoconsumo
+GT0700,Producción de Cestería en Lago De Atitlan,Asociación de Productores y Comercializadores de Lago De Atitlan,true,Alto,1160,2595,Diario,Autoconsumo
+GT0701,Cultivo de Maíz en Sololá,Cooperativa Integral de Producción Agrícola de Sololá R.L.,false,Medio,440,588,Mayo-Noviembre,Autoconsumo
+GT0701,Cultivo de Frijol en Sololá,,false,Bajo,789,177,Mayo-Septiembre,Autoconsumo
+GT0701,Producción de Tejidos Mayas en Sololá,Asociación de Productores y Comercializadores de Sololá,true,Medio,1276,1024,Diario,Mixto
+GT0701,Cultivo de Hortalizas en Sololá,Asociación de Productores y Comercializadores de Sololá,true,Medio,1020,2223,Diario,Mixto
+GT0701,Producción de Cestería en Sololá,Asociación de Productores y Comercializadores de Sololá,true,Medio,1098,4495,Diario,Mixto
+GT0702,Cultivo de Maíz en San José Chacayá,Cooperativa Integral de Producción Agrícola de San José Chacayá R.L.,false,Medio,1258,425,Mayo-Noviembre,Autoconsumo
+GT0702,Cultivo de Frijol en San José Chacayá,,false,Bajo,759,284,Mayo-Septiembre,Autoconsumo
+GT0702,Producción de Tejidos Mayas en San José Chacayá,Asociación de Productores y Comercializadores de San José Chacayá,true,Alto,751,2999,Diario,Exportación
+GT0702,Cultivo de Hortalizas en San José Chacayá,Asociación de Productores y Comercializadores de San José Chacayá,true,Alto,749,2117,Diario,Exportación
+GT0702,Producción de Cestería en San José Chacayá,Asociación de Productores y Comercializadores de San José Chacayá,true,Alto,1192,2989,Diario,Exportación
+GT0703,Cultivo de Maíz en Santa María Visitación,Cooperativa Integral de Producción Agrícola de Santa María Visitación R.L.,false,Medio,459,349,Mayo-Noviembre,Autoconsumo
+GT0703,Cultivo de Frijol en Santa María Visitación,,false,Bajo,544,251,Mayo-Septiembre,Autoconsumo
+GT0703,Producción de Tejidos Mayas en Santa María Visitación,Asociación de Productores y Comercializadores de Santa María Visitación,true,Medio,1128,3966,Diario,Mercado Nacional
+GT0703,Cultivo de Hortalizas en Santa María Visitación,Asociación de Productores y Comercializadores de Santa María Visitación,true,Medio,638,4442,Diario,Mercado Nacional
+GT0703,Producción de Cestería en Santa María Visitación,Asociación de Productores y Comercializadores de Santa María Visitación,true,Medio,1257,4766,Diario,Mercado Nacional
+GT0704,Cultivo de Maíz en Santa Lucía Utatlán,Cooperativa Integral de Producción Agrícola de Santa Lucía Utatlán R.L.,false,Medio,661,468,Mayo-Noviembre,Autoconsumo
+GT0704,Cultivo de Frijol en Santa Lucía Utatlán,,false,Bajo,746,86,Mayo-Septiembre,Autoconsumo
+GT0704,Producción de Tejidos Mayas en Santa Lucía Utatlán,Asociación de Productores y Comercializadores de Santa Lucía Utatlán,true,Alto,1106,3424,Diario,Autoconsumo
+GT0704,Cultivo de Hortalizas en Santa Lucía Utatlán,Asociación de Productores y Comercializadores de Santa Lucía Utatlán,true,Alto,1455,3715,Diario,Autoconsumo
+GT0704,Producción de Cestería en Santa Lucía Utatlán,Asociación de Productores y Comercializadores de Santa Lucía Utatlán,true,Alto,355,1343,Diario,Autoconsumo
+GT0705,Cultivo de Maíz en Nahualá,Cooperativa Integral de Producción Agrícola de Nahualá R.L.,false,Medio,1277,219,Mayo-Noviembre,Autoconsumo
+GT0705,Cultivo de Frijol en Nahualá,,false,Bajo,672,126,Mayo-Septiembre,Autoconsumo
+GT0705,Producción de Tejidos Mayas en Nahualá,Asociación de Productores y Comercializadores de Nahualá,true,Medio,402,2065,Diario,Mixto
+GT0705,Cultivo de Hortalizas en Nahualá,Asociación de Productores y Comercializadores de Nahualá,true,Medio,1076,2340,Diario,Mixto
+GT0705,Producción de Cestería en Nahualá,Asociación de Productores y Comercializadores de Nahualá,true,Medio,733,2862,Diario,Mixto
+GT0706,Cultivo de Maíz en Santa Catarina Ixtahuacán,Cooperativa Integral de Producción Agrícola de Santa Catarina Ixtahuacán R.L.,false,Medio,1069,322,Mayo-Noviembre,Autoconsumo
+GT0706,Cultivo de Frijol en Santa Catarina Ixtahuacán,,false,Bajo,588,151,Mayo-Septiembre,Autoconsumo
+GT0706,Producción de Tejidos Mayas en Santa Catarina Ixtahuacán,Asociación de Productores y Comercializadores de Santa Catarina Ixtahuacán,true,Alto,1163,2033,Diario,Exportación
+GT0706,Cultivo de Hortalizas en Santa Catarina Ixtahuacán,Asociación de Productores y Comercializadores de Santa Catarina Ixtahuacán,true,Alto,467,2926,Diario,Exportación
+GT0706,Producción de Cestería en Santa Catarina Ixtahuacán,Asociación de Productores y Comercializadores de Santa Catarina Ixtahuacán,true,Alto,339,4068,Diario,Exportación
+GT0707,Cultivo de Maíz en Santa Clara La Laguna,Cooperativa Integral de Producción Agrícola de Santa Clara La Laguna R.L.,false,Medio,506,329,Mayo-Noviembre,Autoconsumo
+GT0707,Cultivo de Frijol en Santa Clara La Laguna,,false,Bajo,429,246,Mayo-Septiembre,Autoconsumo
+GT0707,Producción de Tejidos Mayas en Santa Clara La Laguna,Asociación de Productores y Comercializadores de Santa Clara La Laguna,true,Medio,440,4199,Diario,Mercado Nacional
+GT0707,Cultivo de Hortalizas en Santa Clara La Laguna,Asociación de Productores y Comercializadores de Santa Clara La Laguna,true,Medio,382,4089,Diario,Mercado Nacional
+GT0707,Producción de Cestería en Santa Clara La Laguna,Asociación de Productores y Comercializadores de Santa Clara La Laguna,true,Medio,363,4889,Diario,Mercado Nacional
+GT0708,Cultivo de Maíz en Concepción,Cooperativa Integral de Producción Agrícola de Concepción R.L.,false,Medio,906,252,Mayo-Noviembre,Autoconsumo
+GT0708,Cultivo de Frijol en Concepción,,false,Bajo,220,239,Mayo-Septiembre,Autoconsumo
+GT0708,Producción de Tejidos Mayas en Concepción,Asociación de Productores y Comercializadores de Concepción,true,Alto,612,1977,Diario,Autoconsumo
+GT0708,Cultivo de Hortalizas en Concepción,Asociación de Productores y Comercializadores de Concepción,true,Alto,558,2939,Diario,Autoconsumo
+GT0708,Producción de Cestería en Concepción,Asociación de Productores y Comercializadores de Concepción,true,Alto,534,3310,Diario,Autoconsumo
+GT0709,Cultivo de Maíz en San Andrés Semetabaj,Cooperativa Integral de Producción Agrícola de San Andrés Semetabaj R.L.,false,Medio,846,388,Mayo-Noviembre,Autoconsumo
+GT0709,Cultivo de Frijol en San Andrés Semetabaj,,false,Bajo,462,276,Mayo-Septiembre,Autoconsumo
+GT0709,Producción de Tejidos Mayas en San Andrés Semetabaj,Asociación de Productores y Comercializadores de San Andrés Semetabaj,true,Medio,1055,1687,Diario,Mixto
+GT0709,Cultivo de Hortalizas en San Andrés Semetabaj,Asociación de Productores y Comercializadores de San Andrés Semetabaj,true,Medio,534,4185,Diario,Mixto
+GT0709,Producción de Cestería en San Andrés Semetabaj,Asociación de Productores y Comercializadores de San Andrés Semetabaj,true,Medio,635,4951,Diario,Mixto
+GT0710,Cultivo de Maíz en Panajachel,Cooperativa Integral de Producción Agrícola de Panajachel R.L.,false,Medio,1037,205,Mayo-Noviembre,Autoconsumo
+GT0710,Cultivo de Frijol en Panajachel,,false,Bajo,792,86,Mayo-Septiembre,Autoconsumo
+GT0710,Producción de Tejidos Mayas en Panajachel,Asociación de Productores y Comercializadores de Panajachel,true,Alto,938,3358,Diario,Exportación
+GT0710,Cultivo de Hortalizas en Panajachel,Asociación de Productores y Comercializadores de Panajachel,true,Alto,1068,2624,Diario,Exportación
+GT0710,Producción de Cestería en Panajachel,Asociación de Productores y Comercializadores de Panajachel,true,Alto,706,1311,Diario,Exportación
+GT0711,Cultivo de Maíz en Santa Catarina Palopó,Cooperativa Integral de Producción Agrícola de Santa Catarina Palopó R.L.,false,Medio,897,202,Mayo-Noviembre,Autoconsumo
+GT0711,Cultivo de Frijol en Santa Catarina Palopó,,false,Bajo,508,297,Mayo-Septiembre,Autoconsumo
+GT0711,Producción de Tejidos Mayas en Santa Catarina Palopó,Asociación de Productores y Comercializadores de Santa Catarina Palopó,true,Medio,547,4261,Diario,Mercado Nacional
+GT0711,Cultivo de Hortalizas en Santa Catarina Palopó,Asociación de Productores y Comercializadores de Santa Catarina Palopó,true,Medio,1459,4205,Diario,Mercado Nacional
+GT0711,Producción de Cestería en Santa Catarina Palopó,Asociación de Productores y Comercializadores de Santa Catarina Palopó,true,Medio,384,2422,Diario,Mercado Nacional
+GT0712,Cultivo de Maíz en San Antonio Palopó,Cooperativa Integral de Producción Agrícola de San Antonio Palopó R.L.,false,Medio,1491,369,Mayo-Noviembre,Autoconsumo
+GT0712,Cultivo de Frijol en San Antonio Palopó,,false,Bajo,579,97,Mayo-Septiembre,Autoconsumo
+GT0712,Producción de Tejidos Mayas en San Antonio Palopó,Asociación de Productores y Comercializadores de San Antonio Palopó,true,Alto,1336,3652,Diario,Autoconsumo
+GT0712,Cultivo de Hortalizas en San Antonio Palopó,Asociación de Productores y Comercializadores de San Antonio Palopó,true,Alto,998,1051,Diario,Autoconsumo
+GT0712,Producción de Cestería en San Antonio Palopó,Asociación de Productores y Comercializadores de San Antonio Palopó,true,Alto,1160,4368,Diario,Autoconsumo
+GT0713,Cultivo de Maíz en San Lucas Tolimán,Cooperativa Integral de Producción Agrícola de San Lucas Tolimán R.L.,false,Medio,1403,204,Mayo-Noviembre,Autoconsumo
+GT0713,Cultivo de Frijol en San Lucas Tolimán,,false,Bajo,643,172,Mayo-Septiembre,Autoconsumo
+GT0713,Producción de Tejidos Mayas en San Lucas Tolimán,Asociación de Productores y Comercializadores de San Lucas Tolimán,true,Medio,1241,3897,Diario,Mixto
+GT0713,Cultivo de Hortalizas en San Lucas Tolimán,Asociación de Productores y Comercializadores de San Lucas Tolimán,true,Medio,613,2783,Diario,Mixto
+GT0713,Producción de Cestería en San Lucas Tolimán,Asociación de Productores y Comercializadores de San Lucas Tolimán,true,Medio,660,4005,Diario,Mixto
+GT0714,Cultivo de Maíz en Santa Cruz La Laguna,Cooperativa Integral de Producción Agrícola de Santa Cruz La Laguna R.L.,false,Medio,1468,483,Mayo-Noviembre,Autoconsumo
+GT0714,Cultivo de Frijol en Santa Cruz La Laguna,,false,Bajo,476,237,Mayo-Septiembre,Autoconsumo
+GT0714,Producción de Tejidos Mayas en Santa Cruz La Laguna,Asociación de Productores y Comercializadores de Santa Cruz La Laguna,true,Alto,1402,4172,Diario,Exportación
+GT0714,Cultivo de Hortalizas en Santa Cruz La Laguna,Asociación de Productores y Comercializadores de Santa Cruz La Laguna,true,Alto,1290,2904,Diario,Exportación
+GT0714,Producción de Cestería en Santa Cruz La Laguna,Asociación de Productores y Comercializadores de Santa Cruz La Laguna,true,Alto,1192,4382,Diario,Exportación
+GT0715,Cultivo de Maíz en San Pablo La Laguna,Cooperativa Integral de Producción Agrícola de San Pablo La Laguna R.L.,false,Medio,949,315,Mayo-Noviembre,Autoconsumo
+GT0715,Cultivo de Frijol en San Pablo La Laguna,,false,Bajo,451,292,Mayo-Septiembre,Autoconsumo
+GT0715,Producción de Tejidos Mayas en San Pablo La Laguna,Asociación de Productores y Comercializadores de San Pablo La Laguna,true,Medio,477,2142,Diario,Mercado Nacional
+GT0715,Cultivo de Hortalizas en San Pablo La Laguna,Asociación de Productores y Comercializadores de San Pablo La Laguna,true,Medio,1223,1998,Diario,Mercado Nacional
+GT0715,Producción de Cestería en San Pablo La Laguna,Asociación de Productores y Comercializadores de San Pablo La Laguna,true,Medio,1251,3334,Diario,Mercado Nacional
+GT0716,Cultivo de Maíz en San Marcos La Laguna,Cooperativa Integral de Producción Agrícola de San Marcos La Laguna R.L.,false,Medio,1176,322,Mayo-Noviembre,Autoconsumo
+GT0716,Cultivo de Frijol en San Marcos La Laguna,,false,Bajo,229,206,Mayo-Septiembre,Autoconsumo
+GT0716,Producción de Tejidos Mayas en San Marcos La Laguna,Asociación de Productores y Comercializadores de San Marcos La Laguna,true,Alto,965,1744,Diario,Autoconsumo
+GT0716,Cultivo de Hortalizas en San Marcos La Laguna,Asociación de Productores y Comercializadores de San Marcos La Laguna,true,Alto,1298,1868,Diario,Autoconsumo
+GT0716,Producción de Cestería en San Marcos La Laguna,Asociación de Productores y Comercializadores de San Marcos La Laguna,true,Alto,1026,4267,Diario,Autoconsumo
+GT0717,Cultivo de Maíz en San Juan La Laguna,Cooperativa Integral de Producción Agrícola de San Juan La Laguna R.L.,false,Medio,929,324,Mayo-Noviembre,Autoconsumo
+GT0717,Cultivo de Frijol en San Juan La Laguna,,false,Bajo,486,232,Mayo-Septiembre,Autoconsumo
+GT0717,Producción de Tejidos Mayas en San Juan La Laguna,Asociación de Productores y Comercializadores de San Juan La Laguna,true,Medio,865,3276,Diario,Mixto
+GT0717,Cultivo de Hortalizas en San Juan La Laguna,Asociación de Productores y Comercializadores de San Juan La Laguna,true,Medio,320,3116,Diario,Mixto
+GT0717,Producción de Cestería en San Juan La Laguna,Asociación de Productores y Comercializadores de San Juan La Laguna,true,Medio,691,1350,Diario,Mixto
+GT0718,Cultivo de Maíz en San Pedro La Laguna,Cooperativa Integral de Producción Agrícola de San Pedro La Laguna R.L.,false,Medio,894,518,Mayo-Noviembre,Autoconsumo
+GT0718,Cultivo de Frijol en San Pedro La Laguna,,false,Bajo,616,205,Mayo-Septiembre,Autoconsumo
+GT0718,Producción de Tejidos Mayas en San Pedro La Laguna,Asociación de Productores y Comercializadores de San Pedro La Laguna,true,Alto,1437,4105,Diario,Exportación
+GT0718,Cultivo de Hortalizas en San Pedro La Laguna,Asociación de Productores y Comercializadores de San Pedro La Laguna,true,Alto,792,3828,Diario,Exportación
+GT0718,Producción de Cestería en San Pedro La Laguna,Asociación de Productores y Comercializadores de San Pedro La Laguna,true,Alto,1275,3645,Diario,Exportación
+GT0719,Cultivo de Maíz en Santiago Atitlán,Cooperativa Integral de Producción Agrícola de Santiago Atitlán R.L.,false,Medio,1405,379,Mayo-Noviembre,Autoconsumo
+GT0719,Cultivo de Frijol en Santiago Atitlán,,false,Bajo,217,103,Mayo-Septiembre,Autoconsumo
+GT0719,Producción de Tejidos Mayas en Santiago Atitlán,Asociación de Productores y Comercializadores de Santiago Atitlán,true,Medio,902,1907,Diario,Mercado Nacional
+GT0719,Cultivo de Hortalizas en Santiago Atitlán,Asociación de Productores y Comercializadores de Santiago Atitlán,true,Medio,1128,3833,Diario,Mercado Nacional
+GT0719,Producción de Cestería en Santiago Atitlán,Asociación de Productores y Comercializadores de Santiago Atitlán,true,Medio,798,2254,Diario,Mercado Nacional
+GT0801,Cultivo de Maíz en Totonicapán,Cooperativa Integral de Producción Agrícola de Totonicapán R.L.,false,Medio,1155,392,Mayo-Noviembre,Autoconsumo
+GT0801,Cultivo de Frijol en Totonicapán,,false,Bajo,766,215,Mayo-Septiembre,Autoconsumo
+GT0801,Producción de Tejidos Mayas en Totonicapán,Asociación de Productores y Comercializadores de Totonicapán,true,Alto,1004,2742,Diario,Autoconsumo
+GT0801,Producción de Muebles en Totonicapán,Asociación de Productores y Comercializadores de Totonicapán,true,Alto,1427,2354,Diario,Autoconsumo
+GT0802,Cultivo de Maíz en San Cristóbal Totonicapán,Cooperativa Integral de Producción Agrícola de San Cristóbal Totonicapán R.L.,false,Medio,1120,509,Mayo-Noviembre,Autoconsumo
+GT0802,Cultivo de Frijol en San Cristóbal Totonicapán,,false,Bajo,664,149,Mayo-Septiembre,Autoconsumo
+GT0802,Producción de Tejidos Mayas en San Cristóbal Totonicapán,Asociación de Productores y Comercializadores de San Cristóbal Totonicapán,true,Medio,927,2029,Diario,Mixto
+GT0802,Producción de Muebles en San Cristóbal Totonicapán,Asociación de Productores y Comercializadores de San Cristóbal Totonicapán,true,Medio,772,1494,Diario,Mixto
+GT0803,Cultivo de Maíz en San Francisco El Alto,Cooperativa Integral de Producción Agrícola de San Francisco El Alto R.L.,false,Medio,794,311,Mayo-Noviembre,Autoconsumo
+GT0803,Cultivo de Frijol en San Francisco El Alto,,false,Bajo,322,270,Mayo-Septiembre,Autoconsumo
+GT0803,Producción de Tejidos Mayas en San Francisco El Alto,Asociación de Productores y Comercializadores de San Francisco El Alto,true,Alto,1397,4894,Diario,Exportación
+GT0803,Producción de Muebles en San Francisco El Alto,Asociación de Productores y Comercializadores de San Francisco El Alto,true,Alto,679,1784,Diario,Exportación
+GT0804,Cultivo de Maíz en San Andrés Xecul,Cooperativa Integral de Producción Agrícola de San Andrés Xecul R.L.,false,Medio,843,528,Mayo-Noviembre,Autoconsumo
+GT0804,Cultivo de Frijol en San Andrés Xecul,,false,Bajo,695,150,Mayo-Septiembre,Autoconsumo
+GT0804,Producción de Tejidos Mayas en San Andrés Xecul,Asociación de Productores y Comercializadores de San Andrés Xecul,true,Medio,1374,3444,Diario,Mercado Nacional
+GT0804,Producción de Muebles en San Andrés Xecul,Asociación de Productores y Comercializadores de San Andrés Xecul,true,Medio,879,1411,Diario,Mercado Nacional
+GT0805,Cultivo de Maíz en Momostenango,Cooperativa Integral de Producción Agrícola de Momostenango R.L.,false,Medio,797,301,Mayo-Noviembre,Autoconsumo
+GT0805,Cultivo de Frijol en Momostenango,,false,Bajo,432,172,Mayo-Septiembre,Autoconsumo
+GT0805,Producción de Tejidos Mayas en Momostenango,Asociación de Productores y Comercializadores de Momostenango,true,Alto,667,2238,Diario,Autoconsumo
+GT0805,Producción de Muebles en Momostenango,Asociación de Productores y Comercializadores de Momostenango,true,Alto,328,3900,Diario,Autoconsumo
+GT0806,Cultivo de Maíz en Santa María Chiquimula,Cooperativa Integral de Producción Agrícola de Santa María Chiquimula R.L.,false,Medio,1493,214,Mayo-Noviembre,Autoconsumo
+GT0806,Cultivo de Frijol en Santa María Chiquimula,,false,Bajo,480,91,Mayo-Septiembre,Autoconsumo
+GT0806,Producción de Tejidos Mayas en Santa María Chiquimula,Asociación de Productores y Comercializadores de Santa María Chiquimula,true,Medio,411,3266,Diario,Mixto
+GT0806,Producción de Muebles en Santa María Chiquimula,Asociación de Productores y Comercializadores de Santa María Chiquimula,true,Medio,898,3856,Diario,Mixto
+GT0807,Cultivo de Maíz en Santa Lucía La Reforma,Cooperativa Integral de Producción Agrícola de Santa Lucía La Reforma R.L.,false,Medio,658,476,Mayo-Noviembre,Autoconsumo
+GT0807,Cultivo de Frijol en Santa Lucía La Reforma,,false,Bajo,702,106,Mayo-Septiembre,Autoconsumo
+GT0807,Producción de Tejidos Mayas en Santa Lucía La Reforma,Asociación de Productores y Comercializadores de Santa Lucía La Reforma,true,Alto,325,3351,Diario,Exportación
+GT0807,Producción de Muebles en Santa Lucía La Reforma,Asociación de Productores y Comercializadores de Santa Lucía La Reforma,true,Alto,882,2922,Diario,Exportación
+GT0808,Cultivo de Maíz en San Bartolo,Cooperativa Integral de Producción Agrícola de San Bartolo R.L.,false,Medio,1380,375,Mayo-Noviembre,Autoconsumo
+GT0808,Cultivo de Frijol en San Bartolo,,false,Bajo,548,127,Mayo-Septiembre,Autoconsumo
+GT0808,Producción de Tejidos Mayas en San Bartolo,Asociación de Productores y Comercializadores de San Bartolo,true,Medio,405,2034,Diario,Mercado Nacional
+GT0808,Producción de Muebles en San Bartolo,Asociación de Productores y Comercializadores de San Bartolo,true,Medio,1278,1467,Diario,Mercado Nacional
+GT0901,Cultivo de Maíz en Quetzaltenango,Cooperativa Integral de Producción Agrícola de Quetzaltenango R.L.,false,Medio,533,355,Mayo-Noviembre,Autoconsumo
+GT0901,Cultivo de Frijol en Quetzaltenango,,false,Bajo,703,98,Mayo-Septiembre,Autoconsumo
+GT0901,Producción de Tejidos Mayas en Quetzaltenango,Asociación de Productores y Comercializadores de Quetzaltenango,true,Alto,1481,3578,Diario,Autoconsumo
+GT0901,Cultivo de Hortalizas en Quetzaltenango,Asociación de Productores y Comercializadores de Quetzaltenango,true,Alto,409,1621,Diario,Autoconsumo
+GT0902,Cultivo de Maíz en Salcajá,Cooperativa Integral de Producción Agrícola de Salcajá R.L.,false,Medio,705,565,Mayo-Noviembre,Autoconsumo
+GT0902,Cultivo de Frijol en Salcajá,,false,Bajo,776,157,Mayo-Septiembre,Autoconsumo
+GT0902,Producción de Tejidos Mayas en Salcajá,Asociación de Productores y Comercializadores de Salcajá,true,Medio,474,2016,Diario,Mixto
+GT0902,Cultivo de Hortalizas en Salcajá,Asociación de Productores y Comercializadores de Salcajá,true,Medio,542,3285,Diario,Mixto
+GT0903,Cultivo de Maíz en Olintepeque,Cooperativa Integral de Producción Agrícola de Olintepeque R.L.,false,Medio,1252,460,Mayo-Noviembre,Autoconsumo
+GT0903,Cultivo de Frijol en Olintepeque,,false,Bajo,431,278,Mayo-Septiembre,Autoconsumo
+GT0903,Producción de Tejidos Mayas en Olintepeque,Asociación de Productores y Comercializadores de Olintepeque,true,Alto,1370,2558,Diario,Exportación
+GT0903,Cultivo de Hortalizas en Olintepeque,Asociación de Productores y Comercializadores de Olintepeque,true,Alto,1222,4721,Diario,Exportación
+GT0904,Cultivo de Maíz en San Carlos Sija,Cooperativa Integral de Producción Agrícola de San Carlos Sija R.L.,false,Medio,1306,302,Mayo-Noviembre,Autoconsumo
+GT0904,Cultivo de Frijol en San Carlos Sija,,false,Bajo,639,158,Mayo-Septiembre,Autoconsumo
+GT0904,Producción de Tejidos Mayas en San Carlos Sija,Asociación de Productores y Comercializadores de San Carlos Sija,true,Medio,1464,3543,Diario,Mercado Nacional
+GT0904,Cultivo de Hortalizas en San Carlos Sija,Asociación de Productores y Comercializadores de San Carlos Sija,true,Medio,423,3497,Diario,Mercado Nacional
+GT0905,Cultivo de Maíz en Sibilia,Cooperativa Integral de Producción Agrícola de Sibilia R.L.,false,Medio,603,540,Mayo-Noviembre,Autoconsumo
+GT0905,Cultivo de Frijol en Sibilia,,false,Bajo,412,240,Mayo-Septiembre,Autoconsumo
+GT0905,Producción de Tejidos Mayas en Sibilia,Asociación de Productores y Comercializadores de Sibilia,true,Alto,732,2083,Diario,Autoconsumo
+GT0905,Cultivo de Hortalizas en Sibilia,Asociación de Productores y Comercializadores de Sibilia,true,Alto,466,1643,Diario,Autoconsumo
+GT0906,Cultivo de Maíz en Cabricán,Cooperativa Integral de Producción Agrícola de Cabricán R.L.,false,Medio,891,238,Mayo-Noviembre,Autoconsumo
+GT0906,Cultivo de Frijol en Cabricán,,false,Bajo,765,99,Mayo-Septiembre,Autoconsumo
+GT0906,Producción de Tejidos Mayas en Cabricán,Asociación de Productores y Comercializadores de Cabricán,true,Medio,620,1010,Diario,Mixto
+GT0906,Cultivo de Hortalizas en Cabricán,Asociación de Productores y Comercializadores de Cabricán,true,Medio,1136,2845,Diario,Mixto
+GT0907,Cultivo de Maíz en Cajolá,Cooperativa Integral de Producción Agrícola de Cajolá R.L.,false,Medio,1362,299,Mayo-Noviembre,Autoconsumo
+GT0907,Cultivo de Frijol en Cajolá,,false,Bajo,233,139,Mayo-Septiembre,Autoconsumo
+GT0907,Producción de Tejidos Mayas en Cajolá,Asociación de Productores y Comercializadores de Cajolá,true,Alto,890,3895,Diario,Exportación
+GT0907,Cultivo de Hortalizas en Cajolá,Asociación de Productores y Comercializadores de Cajolá,true,Alto,879,3879,Diario,Exportación
+GT0908,Cultivo de Maíz en San Miguel Sigüila,Cooperativa Integral de Producción Agrícola de San Miguel Sigüila R.L.,false,Medio,1329,186,Mayo-Noviembre,Autoconsumo
+GT0908,Cultivo de Frijol en San Miguel Sigüila,,false,Bajo,439,147,Mayo-Septiembre,Autoconsumo
+GT0908,Producción de Tejidos Mayas en San Miguel Sigüila,Asociación de Productores y Comercializadores de San Miguel Sigüila,true,Medio,705,2741,Diario,Mercado Nacional
+GT0908,Cultivo de Hortalizas en San Miguel Sigüila,Asociación de Productores y Comercializadores de San Miguel Sigüila,true,Medio,535,3230,Diario,Mercado Nacional
+GT0909,Cultivo de Maíz en Ostuncalco,Cooperativa Integral de Producción Agrícola de Ostuncalco R.L.,false,Medio,860,481,Mayo-Noviembre,Autoconsumo
+GT0909,Cultivo de Frijol en Ostuncalco,,false,Bajo,352,148,Mayo-Septiembre,Autoconsumo
+GT0909,Producción de Tejidos Mayas en Ostuncalco,Asociación de Productores y Comercializadores de Ostuncalco,true,Alto,591,1292,Diario,Autoconsumo
+GT0909,Cultivo de Hortalizas en Ostuncalco,Asociación de Productores y Comercializadores de Ostuncalco,true,Alto,422,1679,Diario,Autoconsumo
+GT0910,Cultivo de Maíz en San Mateo,Cooperativa Integral de Producción Agrícola de San Mateo R.L.,false,Medio,1029,454,Mayo-Noviembre,Autoconsumo
+GT0910,Cultivo de Frijol en San Mateo,,false,Bajo,782,153,Mayo-Septiembre,Autoconsumo
+GT0910,Producción de Tejidos Mayas en San Mateo,Asociación de Productores y Comercializadores de San Mateo,true,Medio,1199,1509,Diario,Mixto
+GT0910,Cultivo de Hortalizas en San Mateo,Asociación de Productores y Comercializadores de San Mateo,true,Medio,1259,3820,Diario,Mixto
+GT0911,Cultivo de Maíz en Concepción Chiquirichapa,Cooperativa Integral de Producción Agrícola de Concepción Chiquirichapa R.L.,false,Medio,1022,508,Mayo-Noviembre,Autoconsumo
+GT0911,Cultivo de Frijol en Concepción Chiquirichapa,,false,Bajo,612,149,Mayo-Septiembre,Autoconsumo
+GT0911,Producción de Tejidos Mayas en Concepción Chiquirichapa,Asociación de Productores y Comercializadores de Concepción Chiquirichapa,true,Alto,1324,3211,Diario,Exportación
+GT0911,Cultivo de Hortalizas en Concepción Chiquirichapa,Asociación de Productores y Comercializadores de Concepción Chiquirichapa,true,Alto,1311,2793,Diario,Exportación
+GT0912,Cultivo de Maíz en San Martín Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Martín Sacatepéquez R.L.,false,Medio,564,456,Mayo-Noviembre,Autoconsumo
+GT0912,Cultivo de Frijol en San Martín Sacatepéquez,,false,Bajo,240,190,Mayo-Septiembre,Autoconsumo
+GT0912,Producción de Tejidos Mayas en San Martín Sacatepéquez,Asociación de Productores y Comercializadores de San Martín Sacatepéquez,true,Medio,960,3472,Diario,Mercado Nacional
+GT0912,Cultivo de Hortalizas en San Martín Sacatepéquez,Asociación de Productores y Comercializadores de San Martín Sacatepéquez,true,Medio,812,1105,Diario,Mercado Nacional
+GT0913,Cultivo de Maíz en Almolonga,Cooperativa Integral de Producción Agrícola de Almolonga R.L.,false,Medio,587,267,Mayo-Noviembre,Autoconsumo
+GT0913,Cultivo de Frijol en Almolonga,,false,Bajo,789,230,Mayo-Septiembre,Autoconsumo
+GT0913,Producción de Tejidos Mayas en Almolonga,Asociación de Productores y Comercializadores de Almolonga,true,Alto,342,4132,Diario,Autoconsumo
+GT0913,Cultivo de Hortalizas en Almolonga,Asociación de Productores y Comercializadores de Almolonga,true,Alto,851,3360,Diario,Autoconsumo
+GT0914,Cultivo de Maíz en Cantel,Cooperativa Integral de Producción Agrícola de Cantel R.L.,false,Medio,482,540,Mayo-Noviembre,Autoconsumo
+GT0914,Cultivo de Frijol en Cantel,,false,Bajo,379,200,Mayo-Septiembre,Autoconsumo
+GT0914,Producción de Tejidos Mayas en Cantel,Asociación de Productores y Comercializadores de Cantel,true,Medio,1362,3668,Diario,Mixto
+GT0914,Cultivo de Hortalizas en Cantel,Asociación de Productores y Comercializadores de Cantel,true,Medio,1205,4752,Diario,Mixto
+GT0915,Cultivo de Maíz en Huitán,Cooperativa Integral de Producción Agrícola de Huitán R.L.,false,Medio,969,242,Mayo-Noviembre,Autoconsumo
+GT0915,Cultivo de Frijol en Huitán,,false,Bajo,799,191,Mayo-Septiembre,Autoconsumo
+GT0915,Producción de Tejidos Mayas en Huitán,Asociación de Productores y Comercializadores de Huitán,true,Alto,1307,4969,Diario,Exportación
+GT0915,Cultivo de Hortalizas en Huitán,Asociación de Productores y Comercializadores de Huitán,true,Alto,486,2925,Diario,Exportación
+GT0916,Cultivo de Maíz en Zunil,Cooperativa Integral de Producción Agrícola de Zunil R.L.,false,Medio,1112,359,Mayo-Noviembre,Autoconsumo
+GT0916,Cultivo de Frijol en Zunil,,false,Bajo,541,162,Mayo-Septiembre,Autoconsumo
+GT0916,Producción de Tejidos Mayas en Zunil,Asociación de Productores y Comercializadores de Zunil,true,Medio,514,4513,Diario,Mercado Nacional
+GT0916,Cultivo de Hortalizas en Zunil,Asociación de Productores y Comercializadores de Zunil,true,Medio,629,2350,Diario,Mercado Nacional
+GT0917,Cultivo de Maíz en Colomba,Cooperativa Integral de Producción Agrícola de Colomba R.L.,false,Medio,1243,505,Mayo-Noviembre,Autoconsumo
+GT0917,Cultivo de Frijol en Colomba,,false,Bajo,707,153,Mayo-Septiembre,Autoconsumo
+GT0917,Producción de Tejidos Mayas en Colomba,Asociación de Productores y Comercializadores de Colomba,true,Alto,1120,4332,Diario,Autoconsumo
+GT0917,Cultivo de Hortalizas en Colomba,Asociación de Productores y Comercializadores de Colomba,true,Alto,1426,1150,Diario,Autoconsumo
+GT0918,Cultivo de Maíz en San Francisco La Unión,Cooperativa Integral de Producción Agrícola de San Francisco La Unión R.L.,false,Medio,1331,195,Mayo-Noviembre,Autoconsumo
+GT0918,Cultivo de Frijol en San Francisco La Unión,,false,Bajo,522,144,Mayo-Septiembre,Autoconsumo
+GT0918,Producción de Tejidos Mayas en San Francisco La Unión,Asociación de Productores y Comercializadores de San Francisco La Unión,true,Medio,962,1474,Diario,Mixto
+GT0918,Cultivo de Hortalizas en San Francisco La Unión,Asociación de Productores y Comercializadores de San Francisco La Unión,true,Medio,1127,4542,Diario,Mixto
+GT0919,Cultivo de Maíz en El Palmar,Cooperativa Integral de Producción Agrícola de El Palmar R.L.,false,Medio,1453,572,Mayo-Noviembre,Autoconsumo
+GT0919,Cultivo de Frijol en El Palmar,,false,Bajo,201,248,Mayo-Septiembre,Autoconsumo
+GT0919,Producción de Tejidos Mayas en El Palmar,Asociación de Productores y Comercializadores de El Palmar,true,Alto,1411,2892,Diario,Exportación
+GT0919,Cultivo de Hortalizas en El Palmar,Asociación de Productores y Comercializadores de El Palmar,true,Alto,1146,1222,Diario,Exportación
+GT0920,Cultivo de Maíz en Coatepeque,Cooperativa Integral de Producción Agrícola de Coatepeque R.L.,false,Medio,784,415,Mayo-Noviembre,Autoconsumo
+GT0920,Cultivo de Frijol en Coatepeque,,false,Bajo,570,239,Mayo-Septiembre,Autoconsumo
+GT0920,Producción de Tejidos Mayas en Coatepeque,Asociación de Productores y Comercializadores de Coatepeque,true,Medio,1320,3561,Diario,Mercado Nacional
+GT0920,Cultivo de Hortalizas en Coatepeque,Asociación de Productores y Comercializadores de Coatepeque,true,Medio,1205,4112,Diario,Mercado Nacional
+GT0921,Cultivo de Maíz en Génova,Cooperativa Integral de Producción Agrícola de Génova R.L.,false,Medio,505,254,Mayo-Noviembre,Autoconsumo
+GT0921,Cultivo de Frijol en Génova,,false,Bajo,473,220,Mayo-Septiembre,Autoconsumo
+GT0921,Producción de Tejidos Mayas en Génova,Asociación de Productores y Comercializadores de Génova,true,Alto,568,4799,Diario,Autoconsumo
+GT0921,Cultivo de Hortalizas en Génova,Asociación de Productores y Comercializadores de Génova,true,Alto,889,2794,Diario,Autoconsumo
+GT0922,Cultivo de Maíz en Flores Costa Cuca,Cooperativa Integral de Producción Agrícola de Flores Costa Cuca R.L.,false,Medio,1392,212,Mayo-Noviembre,Autoconsumo
+GT0922,Cultivo de Frijol en Flores Costa Cuca,,false,Bajo,229,241,Mayo-Septiembre,Autoconsumo
+GT0922,Producción de Tejidos Mayas en Flores Costa Cuca,Asociación de Productores y Comercializadores de Flores Costa Cuca,true,Medio,790,3907,Diario,Mixto
+GT0922,Cultivo de Hortalizas en Flores Costa Cuca,Asociación de Productores y Comercializadores de Flores Costa Cuca,true,Medio,624,2272,Diario,Mixto
+GT0923,Cultivo de Maíz en La Esperanza,Cooperativa Integral de Producción Agrícola de La Esperanza R.L.,false,Medio,428,432,Mayo-Noviembre,Autoconsumo
+GT0923,Cultivo de Frijol en La Esperanza,,false,Bajo,617,103,Mayo-Septiembre,Autoconsumo
+GT0923,Producción de Tejidos Mayas en La Esperanza,Asociación de Productores y Comercializadores de La Esperanza,true,Alto,760,4446,Diario,Exportación
+GT0923,Cultivo de Hortalizas en La Esperanza,Asociación de Productores y Comercializadores de La Esperanza,true,Alto,532,2890,Diario,Exportación
+GT0924,Cultivo de Maíz en Palestina de Los Altos,Cooperativa Integral de Producción Agrícola de Palestina de Los Altos R.L.,false,Medio,640,481,Mayo-Noviembre,Autoconsumo
+GT0924,Cultivo de Frijol en Palestina de Los Altos,,false,Bajo,357,207,Mayo-Septiembre,Autoconsumo
+GT0924,Producción de Tejidos Mayas en Palestina de Los Altos,Asociación de Productores y Comercializadores de Palestina de Los Altos,true,Medio,897,3084,Diario,Mercado Nacional
+GT0924,Cultivo de Hortalizas en Palestina de Los Altos,Asociación de Productores y Comercializadores de Palestina de Los Altos,true,Medio,859,2701,Diario,Mercado Nacional
+GT1001,Cultivo de Maíz en Mazatenango,Cooperativa Integral de Producción Agrícola de Mazatenango R.L.,false,Medio,1388,391,Mayo-Noviembre,Autoconsumo
+GT1001,Cultivo de Frijol en Mazatenango,,false,Bajo,449,196,Mayo-Septiembre,Autoconsumo
+GT1001,Cultivo de Caña de Azúcar en Mazatenango,Asociación de Productores y Comercializadores de Mazatenango,true,Alto,1428,1592,Noviembre-Marzo,Autoconsumo
+GT1001,Cultivo de Banano en Mazatenango,Asociación de Productores y Comercializadores de Mazatenango,true,Alto,1085,1780,Diario,Autoconsumo
+GT1001,Producción Ganadera en Mazatenango,Asociación de Productores y Comercializadores de Mazatenango,true,Alto,1340,4056,Diario,Autoconsumo
+GT1002,Cultivo de Maíz en Cuyotenango,Cooperativa Integral de Producción Agrícola de Cuyotenango R.L.,false,Medio,679,592,Mayo-Noviembre,Autoconsumo
+GT1002,Cultivo de Frijol en Cuyotenango,,false,Bajo,271,150,Mayo-Septiembre,Autoconsumo
+GT1002,Cultivo de Caña de Azúcar en Cuyotenango,Asociación de Productores y Comercializadores de Cuyotenango,true,Medio,1149,2392,Noviembre-Marzo,Mixto
+GT1002,Cultivo de Banano en Cuyotenango,Asociación de Productores y Comercializadores de Cuyotenango,true,Medio,1339,2094,Diario,Mixto
+GT1002,Producción Ganadera en Cuyotenango,Asociación de Productores y Comercializadores de Cuyotenango,true,Medio,305,2158,Diario,Mixto
+GT1003,Cultivo de Maíz en San Francisco Zapotitlán,Cooperativa Integral de Producción Agrícola de San Francisco Zapotitlán R.L.,false,Medio,1011,578,Mayo-Noviembre,Autoconsumo
+GT1003,Cultivo de Frijol en San Francisco Zapotitlán,,false,Bajo,793,248,Mayo-Septiembre,Autoconsumo
+GT1003,Cultivo de Caña de Azúcar en San Francisco Zapotitlán,Asociación de Productores y Comercializadores de San Francisco Zapotitlán,true,Alto,1302,4544,Noviembre-Marzo,Exportación
+GT1003,Cultivo de Banano en San Francisco Zapotitlán,Asociación de Productores y Comercializadores de San Francisco Zapotitlán,true,Alto,604,2829,Diario,Exportación
+GT1003,Producción Ganadera en San Francisco Zapotitlán,Asociación de Productores y Comercializadores de San Francisco Zapotitlán,true,Alto,1403,2983,Diario,Exportación
+GT1004,Cultivo de Maíz en San Bernardino,Cooperativa Integral de Producción Agrícola de San Bernardino R.L.,false,Medio,1106,320,Mayo-Noviembre,Autoconsumo
+GT1004,Cultivo de Frijol en San Bernardino,,false,Bajo,765,275,Mayo-Septiembre,Autoconsumo
+GT1004,Cultivo de Caña de Azúcar en San Bernardino,Asociación de Productores y Comercializadores de San Bernardino,true,Medio,1412,2545,Noviembre-Marzo,Mercado Nacional
+GT1004,Cultivo de Banano en San Bernardino,Asociación de Productores y Comercializadores de San Bernardino,true,Medio,1232,4820,Diario,Mercado Nacional
+GT1004,Producción Ganadera en San Bernardino,Asociación de Productores y Comercializadores de San Bernardino,true,Medio,959,4561,Diario,Mercado Nacional
+GT1005,Cultivo de Maíz en San José El Ídolo,Cooperativa Integral de Producción Agrícola de San José El Ídolo R.L.,false,Medio,786,507,Mayo-Noviembre,Autoconsumo
+GT1005,Cultivo de Frijol en San José El Ídolo,,false,Bajo,444,226,Mayo-Septiembre,Autoconsumo
+GT1005,Cultivo de Caña de Azúcar en San José El Ídolo,Asociación de Productores y Comercializadores de San José El Ídolo,true,Alto,1084,1956,Noviembre-Marzo,Autoconsumo
+GT1005,Cultivo de Banano en San José El Ídolo,Asociación de Productores y Comercializadores de San José El Ídolo,true,Alto,1141,1178,Diario,Autoconsumo
+GT1005,Producción Ganadera en San José El Ídolo,Asociación de Productores y Comercializadores de San José El Ídolo,true,Alto,951,4050,Diario,Autoconsumo
+GT1006,Cultivo de Maíz en Santo Domingo Suchitepéquez,Cooperativa Integral de Producción Agrícola de Santo Domingo Suchitepéquez R.L.,false,Medio,1368,511,Mayo-Noviembre,Autoconsumo
+GT1006,Cultivo de Frijol en Santo Domingo Suchitepéquez,,false,Bajo,590,178,Mayo-Septiembre,Autoconsumo
+GT1006,Cultivo de Caña de Azúcar en Santo Domingo Suchitepéquez,Asociación de Productores y Comercializadores de Santo Domingo Suchitepéquez,true,Medio,611,3028,Noviembre-Marzo,Mixto
+GT1006,Cultivo de Banano en Santo Domingo Suchitepéquez,Asociación de Productores y Comercializadores de Santo Domingo Suchitepéquez,true,Medio,375,1517,Diario,Mixto
+GT1006,Producción Ganadera en Santo Domingo Suchitepéquez,Asociación de Productores y Comercializadores de Santo Domingo Suchitepéquez,true,Medio,1328,4954,Diario,Mixto
+GT1007,Cultivo de Maíz en San Lorenzo,Cooperativa Integral de Producción Agrícola de San Lorenzo R.L.,false,Medio,1079,595,Mayo-Noviembre,Autoconsumo
+GT1007,Cultivo de Frijol en San Lorenzo,,false,Bajo,302,296,Mayo-Septiembre,Autoconsumo
+GT1007,Cultivo de Caña de Azúcar en San Lorenzo,Asociación de Productores y Comercializadores de San Lorenzo,true,Alto,1201,1408,Noviembre-Marzo,Exportación
+GT1007,Cultivo de Banano en San Lorenzo,Asociación de Productores y Comercializadores de San Lorenzo,true,Alto,1377,4729,Diario,Exportación
+GT1007,Producción Ganadera en San Lorenzo,Asociación de Productores y Comercializadores de San Lorenzo,true,Alto,1235,1062,Diario,Exportación
+GT1008,Cultivo de Maíz en Samayac,Cooperativa Integral de Producción Agrícola de Samayac R.L.,false,Medio,695,359,Mayo-Noviembre,Autoconsumo
+GT1008,Cultivo de Frijol en Samayac,,false,Bajo,358,99,Mayo-Septiembre,Autoconsumo
+GT1008,Cultivo de Caña de Azúcar en Samayac,Asociación de Productores y Comercializadores de Samayac,true,Medio,1261,4201,Noviembre-Marzo,Mercado Nacional
+GT1008,Cultivo de Banano en Samayac,Asociación de Productores y Comercializadores de Samayac,true,Medio,842,2386,Diario,Mercado Nacional
+GT1008,Producción Ganadera en Samayac,Asociación de Productores y Comercializadores de Samayac,true,Medio,1114,3661,Diario,Mercado Nacional
+GT1009,Cultivo de Maíz en San Pablo Jocopilas,Cooperativa Integral de Producción Agrícola de San Pablo Jocopilas R.L.,false,Medio,564,586,Mayo-Noviembre,Autoconsumo
+GT1009,Cultivo de Frijol en San Pablo Jocopilas,,false,Bajo,536,298,Mayo-Septiembre,Autoconsumo
+GT1009,Cultivo de Caña de Azúcar en San Pablo Jocopilas,Asociación de Productores y Comercializadores de San Pablo Jocopilas,true,Alto,1392,2556,Noviembre-Marzo,Autoconsumo
+GT1009,Cultivo de Banano en San Pablo Jocopilas,Asociación de Productores y Comercializadores de San Pablo Jocopilas,true,Alto,948,3567,Diario,Autoconsumo
+GT1009,Producción Ganadera en San Pablo Jocopilas,Asociación de Productores y Comercializadores de San Pablo Jocopilas,true,Alto,1299,4573,Diario,Autoconsumo
+GT1010,Cultivo de Maíz en San Antonio Suchitepéquez,Cooperativa Integral de Producción Agrícola de San Antonio Suchitepéquez R.L.,false,Medio,473,466,Mayo-Noviembre,Autoconsumo
+GT1010,Cultivo de Frijol en San Antonio Suchitepéquez,,false,Bajo,270,140,Mayo-Septiembre,Autoconsumo
+GT1010,Cultivo de Caña de Azúcar en San Antonio Suchitepéquez,Asociación de Productores y Comercializadores de San Antonio Suchitepéquez,true,Medio,888,1931,Noviembre-Marzo,Mixto
+GT1010,Cultivo de Banano en San Antonio Suchitepéquez,Asociación de Productores y Comercializadores de San Antonio Suchitepéquez,true,Medio,485,2777,Diario,Mixto
+GT1010,Producción Ganadera en San Antonio Suchitepéquez,Asociación de Productores y Comercializadores de San Antonio Suchitepéquez,true,Medio,501,4114,Diario,Mixto
+GT1011,Cultivo de Maíz en San Miguel Panán,Cooperativa Integral de Producción Agrícola de San Miguel Panán R.L.,false,Medio,605,377,Mayo-Noviembre,Autoconsumo
+GT1011,Cultivo de Frijol en San Miguel Panán,,false,Bajo,370,257,Mayo-Septiembre,Autoconsumo
+GT1011,Cultivo de Caña de Azúcar en San Miguel Panán,Asociación de Productores y Comercializadores de San Miguel Panán,true,Alto,913,4700,Noviembre-Marzo,Exportación
+GT1011,Cultivo de Banano en San Miguel Panán,Asociación de Productores y Comercializadores de San Miguel Panán,true,Alto,359,1188,Diario,Exportación
+GT1011,Producción Ganadera en San Miguel Panán,Asociación de Productores y Comercializadores de San Miguel Panán,true,Alto,964,4261,Diario,Exportación
+GT1012,Cultivo de Maíz en San Gabriel,Cooperativa Integral de Producción Agrícola de San Gabriel R.L.,false,Medio,514,300,Mayo-Noviembre,Autoconsumo
+GT1012,Cultivo de Frijol en San Gabriel,,false,Bajo,567,175,Mayo-Septiembre,Autoconsumo
+GT1012,Cultivo de Caña de Azúcar en San Gabriel,Asociación de Productores y Comercializadores de San Gabriel,true,Medio,1182,1596,Noviembre-Marzo,Mercado Nacional
+GT1012,Cultivo de Banano en San Gabriel,Asociación de Productores y Comercializadores de San Gabriel,true,Medio,800,3175,Diario,Mercado Nacional
+GT1012,Producción Ganadera en San Gabriel,Asociación de Productores y Comercializadores de San Gabriel,true,Medio,1143,3318,Diario,Mercado Nacional
+GT1013,Cultivo de Maíz en Chicacao,Cooperativa Integral de Producción Agrícola de Chicacao R.L.,false,Medio,768,237,Mayo-Noviembre,Autoconsumo
+GT1013,Cultivo de Frijol en Chicacao,,false,Bajo,379,100,Mayo-Septiembre,Autoconsumo
+GT1013,Cultivo de Caña de Azúcar en Chicacao,Asociación de Productores y Comercializadores de Chicacao,true,Alto,1083,3538,Noviembre-Marzo,Autoconsumo
+GT1013,Cultivo de Banano en Chicacao,Asociación de Productores y Comercializadores de Chicacao,true,Alto,793,3038,Diario,Autoconsumo
+GT1013,Producción Ganadera en Chicacao,Asociación de Productores y Comercializadores de Chicacao,true,Alto,1494,1586,Diario,Autoconsumo
+GT1014,Cultivo de Maíz en Patulul,Cooperativa Integral de Producción Agrícola de Patulul R.L.,false,Medio,875,386,Mayo-Noviembre,Autoconsumo
+GT1014,Cultivo de Frijol en Patulul,,false,Bajo,460,197,Mayo-Septiembre,Autoconsumo
+GT1014,Cultivo de Caña de Azúcar en Patulul,Asociación de Productores y Comercializadores de Patulul,true,Medio,822,3731,Noviembre-Marzo,Mixto
+GT1014,Cultivo de Banano en Patulul,Asociación de Productores y Comercializadores de Patulul,true,Medio,319,4681,Diario,Mixto
+GT1014,Producción Ganadera en Patulul,Asociación de Productores y Comercializadores de Patulul,true,Medio,1252,4691,Diario,Mixto
+GT1015,Cultivo de Maíz en Santa Bárbara,Cooperativa Integral de Producción Agrícola de Santa Bárbara R.L.,false,Medio,989,496,Mayo-Noviembre,Autoconsumo
+GT1015,Cultivo de Frijol en Santa Bárbara,,false,Bajo,759,120,Mayo-Septiembre,Autoconsumo
+GT1015,Cultivo de Caña de Azúcar en Santa Bárbara,Asociación de Productores y Comercializadores de Santa Bárbara,true,Alto,451,2809,Noviembre-Marzo,Exportación
+GT1015,Cultivo de Banano en Santa Bárbara,Asociación de Productores y Comercializadores de Santa Bárbara,true,Alto,1007,3406,Diario,Exportación
+GT1015,Producción Ganadera en Santa Bárbara,Asociación de Productores y Comercializadores de Santa Bárbara,true,Alto,912,3617,Diario,Exportación
+GT1016,Cultivo de Maíz en San Juan Bautista,Cooperativa Integral de Producción Agrícola de San Juan Bautista R.L.,false,Medio,1268,503,Mayo-Noviembre,Autoconsumo
+GT1016,Cultivo de Frijol en San Juan Bautista,,false,Bajo,456,196,Mayo-Septiembre,Autoconsumo
+GT1016,Cultivo de Caña de Azúcar en San Juan Bautista,Asociación de Productores y Comercializadores de San Juan Bautista,true,Medio,918,1815,Noviembre-Marzo,Mercado Nacional
+GT1016,Cultivo de Banano en San Juan Bautista,Asociación de Productores y Comercializadores de San Juan Bautista,true,Medio,1087,4495,Diario,Mercado Nacional
+GT1016,Producción Ganadera en San Juan Bautista,Asociación de Productores y Comercializadores de San Juan Bautista,true,Medio,1289,1436,Diario,Mercado Nacional
+GT1017,Cultivo de Maíz en Santo Tomás La Unión,Cooperativa Integral de Producción Agrícola de Santo Tomás La Unión R.L.,false,Medio,885,345,Mayo-Noviembre,Autoconsumo
+GT1017,Cultivo de Frijol en Santo Tomás La Unión,,false,Bajo,785,171,Mayo-Septiembre,Autoconsumo
+GT1017,Cultivo de Caña de Azúcar en Santo Tomás La Unión,Asociación de Productores y Comercializadores de Santo Tomás La Unión,true,Alto,1477,2211,Noviembre-Marzo,Autoconsumo
+GT1017,Cultivo de Banano en Santo Tomás La Unión,Asociación de Productores y Comercializadores de Santo Tomás La Unión,true,Alto,904,1089,Diario,Autoconsumo
+GT1017,Producción Ganadera en Santo Tomás La Unión,Asociación de Productores y Comercializadores de Santo Tomás La Unión,true,Alto,1110,2124,Diario,Autoconsumo
+GT1018,Cultivo de Maíz en Zunilito,Cooperativa Integral de Producción Agrícola de Zunilito R.L.,false,Medio,416,439,Mayo-Noviembre,Autoconsumo
+GT1018,Cultivo de Frijol en Zunilito,,false,Bajo,250,235,Mayo-Septiembre,Autoconsumo
+GT1018,Cultivo de Caña de Azúcar en Zunilito,Asociación de Productores y Comercializadores de Zunilito,true,Medio,1317,4411,Noviembre-Marzo,Mixto
+GT1018,Cultivo de Banano en Zunilito,Asociación de Productores y Comercializadores de Zunilito,true,Medio,886,4177,Diario,Mixto
+GT1018,Producción Ganadera en Zunilito,Asociación de Productores y Comercializadores de Zunilito,true,Medio,771,3486,Diario,Mixto
+GT1019,Cultivo de Maíz en Pueblo Nuevo,Cooperativa Integral de Producción Agrícola de Pueblo Nuevo R.L.,false,Medio,1121,262,Mayo-Noviembre,Autoconsumo
+GT1019,Cultivo de Frijol en Pueblo Nuevo,,false,Bajo,394,238,Mayo-Septiembre,Autoconsumo
+GT1019,Cultivo de Caña de Azúcar en Pueblo Nuevo,Asociación de Productores y Comercializadores de Pueblo Nuevo,true,Alto,813,3776,Noviembre-Marzo,Exportación
+GT1019,Cultivo de Banano en Pueblo Nuevo,Asociación de Productores y Comercializadores de Pueblo Nuevo,true,Alto,580,3573,Diario,Exportación
+GT1019,Producción Ganadera en Pueblo Nuevo,Asociación de Productores y Comercializadores de Pueblo Nuevo,true,Alto,498,4700,Diario,Exportación
+GT1020,Cultivo de Maíz en Río Bravo,Cooperativa Integral de Producción Agrícola de Río Bravo R.L.,false,Medio,480,308,Mayo-Noviembre,Autoconsumo
+GT1020,Cultivo de Frijol en Río Bravo,,false,Bajo,651,88,Mayo-Septiembre,Autoconsumo
+GT1020,Cultivo de Caña de Azúcar en Río Bravo,Asociación de Productores y Comercializadores de Río Bravo,true,Medio,1486,2494,Noviembre-Marzo,Mercado Nacional
+GT1020,Cultivo de Banano en Río Bravo,Asociación de Productores y Comercializadores de Río Bravo,true,Medio,569,1369,Diario,Mercado Nacional
+GT1020,Producción Ganadera en Río Bravo,Asociación de Productores y Comercializadores de Río Bravo,true,Medio,904,2338,Diario,Mercado Nacional
+GT1021,Cultivo de Maíz en San José La Máquina,Cooperativa Integral de Producción Agrícola de San José La Máquina R.L.,false,Medio,1250,239,Mayo-Noviembre,Autoconsumo
+GT1021,Cultivo de Frijol en San José La Máquina,,false,Bajo,405,113,Mayo-Septiembre,Autoconsumo
+GT1021,Cultivo de Caña de Azúcar en San José La Máquina,Asociación de Productores y Comercializadores de San José La Máquina,true,Alto,1404,4589,Noviembre-Marzo,Autoconsumo
+GT1021,Cultivo de Banano en San José La Máquina,Asociación de Productores y Comercializadores de San José La Máquina,true,Alto,1049,3174,Diario,Autoconsumo
+GT1021,Producción Ganadera en San José La Máquina,Asociación de Productores y Comercializadores de San José La Máquina,true,Alto,1327,4741,Diario,Autoconsumo
+GT1101,Cultivo de Maíz en Retalhuleu,Cooperativa Integral de Producción Agrícola de Retalhuleu R.L.,false,Medio,958,575,Mayo-Noviembre,Autoconsumo
+GT1101,Cultivo de Frijol en Retalhuleu,,false,Bajo,368,145,Mayo-Septiembre,Autoconsumo
+GT1101,Cultivo de Caña de Azúcar en Retalhuleu,Asociación de Productores y Comercializadores de Retalhuleu,true,Medio,1286,4962,Noviembre-Marzo,Mixto
+GT1101,Cultivo de Banano en Retalhuleu,Asociación de Productores y Comercializadores de Retalhuleu,true,Medio,904,4057,Diario,Mixto
+GT1101,Producción Ganadera en Retalhuleu,Asociación de Productores y Comercializadores de Retalhuleu,true,Medio,993,4294,Diario,Mixto
+GT1102,Cultivo de Maíz en San Sebastián,Cooperativa Integral de Producción Agrícola de San Sebastián R.L.,false,Medio,635,389,Mayo-Noviembre,Autoconsumo
+GT1102,Cultivo de Frijol en San Sebastián,,false,Bajo,277,116,Mayo-Septiembre,Autoconsumo
+GT1102,Cultivo de Caña de Azúcar en San Sebastián,Asociación de Productores y Comercializadores de San Sebastián,true,Alto,762,4523,Noviembre-Marzo,Exportación
+GT1102,Cultivo de Banano en San Sebastián,Asociación de Productores y Comercializadores de San Sebastián,true,Alto,1113,4961,Diario,Exportación
+GT1102,Producción Ganadera en San Sebastián,Asociación de Productores y Comercializadores de San Sebastián,true,Alto,1441,2498,Diario,Exportación
+GT1103,Cultivo de Maíz en Santa Cruz Muluá,Cooperativa Integral de Producción Agrícola de Santa Cruz Muluá R.L.,false,Medio,584,554,Mayo-Noviembre,Autoconsumo
+GT1103,Cultivo de Frijol en Santa Cruz Muluá,,false,Bajo,604,83,Mayo-Septiembre,Autoconsumo
+GT1103,Cultivo de Caña de Azúcar en Santa Cruz Muluá,Asociación de Productores y Comercializadores de Santa Cruz Muluá,true,Medio,841,3197,Noviembre-Marzo,Mercado Nacional
+GT1103,Cultivo de Banano en Santa Cruz Muluá,Asociación de Productores y Comercializadores de Santa Cruz Muluá,true,Medio,553,2862,Diario,Mercado Nacional
+GT1103,Producción Ganadera en Santa Cruz Muluá,Asociación de Productores y Comercializadores de Santa Cruz Muluá,true,Medio,1054,3755,Diario,Mercado Nacional
+GT1104,Cultivo de Maíz en San Martín Zapotitlán,Cooperativa Integral de Producción Agrícola de San Martín Zapotitlán R.L.,false,Medio,936,449,Mayo-Noviembre,Autoconsumo
+GT1104,Cultivo de Frijol en San Martín Zapotitlán,,false,Bajo,590,290,Mayo-Septiembre,Autoconsumo
+GT1104,Cultivo de Caña de Azúcar en San Martín Zapotitlán,Asociación de Productores y Comercializadores de San Martín Zapotitlán,true,Alto,1060,1443,Noviembre-Marzo,Autoconsumo
+GT1104,Cultivo de Banano en San Martín Zapotitlán,Asociación de Productores y Comercializadores de San Martín Zapotitlán,true,Alto,778,2931,Diario,Autoconsumo
+GT1104,Producción Ganadera en San Martín Zapotitlán,Asociación de Productores y Comercializadores de San Martín Zapotitlán,true,Alto,351,3537,Diario,Autoconsumo
+GT1105,Cultivo de Maíz en San Felipe,Cooperativa Integral de Producción Agrícola de San Felipe R.L.,false,Medio,1071,462,Mayo-Noviembre,Autoconsumo
+GT1105,Cultivo de Frijol en San Felipe,,false,Bajo,426,245,Mayo-Septiembre,Autoconsumo
+GT1105,Cultivo de Caña de Azúcar en San Felipe,Asociación de Productores y Comercializadores de San Felipe,true,Medio,429,3602,Noviembre-Marzo,Mixto
+GT1105,Cultivo de Banano en San Felipe,Asociación de Productores y Comercializadores de San Felipe,true,Medio,1250,4724,Diario,Mixto
+GT1105,Producción Ganadera en San Felipe,Asociación de Productores y Comercializadores de San Felipe,true,Medio,918,3659,Diario,Mixto
+GT1106,Cultivo de Maíz en San Andrés Villa Seca,Cooperativa Integral de Producción Agrícola de San Andrés Villa Seca R.L.,false,Medio,1236,209,Mayo-Noviembre,Autoconsumo
+GT1106,Cultivo de Frijol en San Andrés Villa Seca,,false,Bajo,343,91,Mayo-Septiembre,Autoconsumo
+GT1106,Cultivo de Caña de Azúcar en San Andrés Villa Seca,Asociación de Productores y Comercializadores de San Andrés Villa Seca,true,Alto,376,2246,Noviembre-Marzo,Exportación
+GT1106,Cultivo de Banano en San Andrés Villa Seca,Asociación de Productores y Comercializadores de San Andrés Villa Seca,true,Alto,1308,1475,Diario,Exportación
+GT1106,Producción Ganadera en San Andrés Villa Seca,Asociación de Productores y Comercializadores de San Andrés Villa Seca,true,Alto,499,1961,Diario,Exportación
+GT1107,Cultivo de Maíz en Champerico,Cooperativa Integral de Producción Agrícola de Champerico R.L.,false,Medio,1500,219,Mayo-Noviembre,Autoconsumo
+GT1107,Cultivo de Frijol en Champerico,,false,Bajo,597,196,Mayo-Septiembre,Autoconsumo
+GT1107,Cultivo de Caña de Azúcar en Champerico,Asociación de Productores y Comercializadores de Champerico,true,Medio,1059,3746,Noviembre-Marzo,Mercado Nacional
+GT1107,Cultivo de Banano en Champerico,Asociación de Productores y Comercializadores de Champerico,true,Medio,1406,2716,Diario,Mercado Nacional
+GT1107,Producción Ganadera en Champerico,Asociación de Productores y Comercializadores de Champerico,true,Medio,616,4626,Diario,Mercado Nacional
+GT1108,Cultivo de Maíz en Nuevo San Carlos,Cooperativa Integral de Producción Agrícola de Nuevo San Carlos R.L.,false,Medio,1249,485,Mayo-Noviembre,Autoconsumo
+GT1108,Cultivo de Frijol en Nuevo San Carlos,,false,Bajo,301,293,Mayo-Septiembre,Autoconsumo
+GT1108,Cultivo de Caña de Azúcar en Nuevo San Carlos,Asociación de Productores y Comercializadores de Nuevo San Carlos,true,Alto,1302,3521,Noviembre-Marzo,Autoconsumo
+GT1108,Cultivo de Banano en Nuevo San Carlos,Asociación de Productores y Comercializadores de Nuevo San Carlos,true,Alto,1135,4846,Diario,Autoconsumo
+GT1108,Producción Ganadera en Nuevo San Carlos,Asociación de Productores y Comercializadores de Nuevo San Carlos,true,Alto,872,1134,Diario,Autoconsumo
+GT1109,Cultivo de Maíz en El Asintal,Cooperativa Integral de Producción Agrícola de El Asintal R.L.,false,Medio,1158,261,Mayo-Noviembre,Autoconsumo
+GT1109,Cultivo de Frijol en El Asintal,,false,Bajo,654,193,Mayo-Septiembre,Autoconsumo
+GT1109,Cultivo de Caña de Azúcar en El Asintal,Asociación de Productores y Comercializadores de El Asintal,true,Medio,783,4503,Noviembre-Marzo,Mixto
+GT1109,Cultivo de Banano en El Asintal,Asociación de Productores y Comercializadores de El Asintal,true,Medio,1042,1406,Diario,Mixto
+GT1109,Producción Ganadera en El Asintal,Asociación de Productores y Comercializadores de El Asintal,true,Medio,1052,3230,Diario,Mixto
+GT1201,Cultivo de Maíz en San Marcos,Cooperativa Integral de Producción Agrícola de San Marcos R.L.,false,Medio,1134,181,Mayo-Noviembre,Autoconsumo
+GT1201,Cultivo de Frijol en San Marcos,,false,Bajo,607,150,Mayo-Septiembre,Autoconsumo
+GT1201,Cultivo de Café en San Marcos,Cooperativa Integral de Producción Agrícola de San Marcos R.L.,true,Alto,688,4965,Noviembre-Marzo,Exportación
+GT1201,Apicultura en San Marcos,Asociación de Productores y Comercializadores de San Marcos,true,Alto,550,4887,Diario,Exportación
+GT1202,Cultivo de Maíz en San Pedro Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Pedro Sacatepéquez R.L.,false,Medio,1331,196,Mayo-Noviembre,Autoconsumo
+GT1202,Cultivo de Frijol en San Pedro Sacatepéquez,,false,Bajo,417,244,Mayo-Septiembre,Autoconsumo
+GT1202,Cultivo de Café en San Pedro Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Pedro Sacatepéquez R.L.,true,Medio,343,1207,Noviembre-Marzo,Mercado Nacional
+GT1202,Apicultura en San Pedro Sacatepéquez,Asociación de Productores y Comercializadores de San Pedro Sacatepéquez,true,Medio,983,1997,Diario,Mercado Nacional
+GT1203,Cultivo de Maíz en San Antonio Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Antonio Sacatepéquez R.L.,false,Medio,657,552,Mayo-Noviembre,Autoconsumo
+GT1203,Cultivo de Frijol en San Antonio Sacatepéquez,,false,Bajo,778,132,Mayo-Septiembre,Autoconsumo
+GT1203,Cultivo de Café en San Antonio Sacatepéquez,Cooperativa Integral de Producción Agrícola de San Antonio Sacatepéquez R.L.,true,Alto,440,4398,Noviembre-Marzo,Autoconsumo
+GT1203,Apicultura en San Antonio Sacatepéquez,Asociación de Productores y Comercializadores de San Antonio Sacatepéquez,true,Alto,1435,1848,Diario,Autoconsumo
+GT1204,Cultivo de Maíz en Comitancillo,Cooperativa Integral de Producción Agrícola de Comitancillo R.L.,false,Medio,842,566,Mayo-Noviembre,Autoconsumo
+GT1204,Cultivo de Frijol en Comitancillo,,false,Bajo,438,164,Mayo-Septiembre,Autoconsumo
+GT1204,Cultivo de Café en Comitancillo,Cooperativa Integral de Producción Agrícola de Comitancillo R.L.,true,Medio,602,4230,Noviembre-Marzo,Mixto
+GT1204,Apicultura en Comitancillo,Asociación de Productores y Comercializadores de Comitancillo,true,Medio,305,2135,Diario,Mixto
+GT1205,Cultivo de Maíz en San Miguel Ixtahuacán,Cooperativa Integral de Producción Agrícola de San Miguel Ixtahuacán R.L.,false,Medio,696,216,Mayo-Noviembre,Autoconsumo
+GT1205,Cultivo de Frijol en San Miguel Ixtahuacán,,false,Bajo,753,144,Mayo-Septiembre,Autoconsumo
+GT1205,Cultivo de Café en San Miguel Ixtahuacán,Cooperativa Integral de Producción Agrícola de San Miguel Ixtahuacán R.L.,true,Alto,657,1450,Noviembre-Marzo,Exportación
+GT1205,Apicultura en San Miguel Ixtahuacán,Asociación de Productores y Comercializadores de San Miguel Ixtahuacán,true,Alto,352,1539,Diario,Exportación
+GT1206,Cultivo de Maíz en Concepción Tutuapa,Cooperativa Integral de Producción Agrícola de Concepción Tutuapa R.L.,false,Medio,430,333,Mayo-Noviembre,Autoconsumo
+GT1206,Cultivo de Frijol en Concepción Tutuapa,,false,Bajo,443,230,Mayo-Septiembre,Autoconsumo
+GT1206,Cultivo de Café en Concepción Tutuapa,Cooperativa Integral de Producción Agrícola de Concepción Tutuapa R.L.,true,Medio,963,1064,Noviembre-Marzo,Mercado Nacional
+GT1206,Apicultura en Concepción Tutuapa,Asociación de Productores y Comercializadores de Concepción Tutuapa,true,Medio,656,2086,Diario,Mercado Nacional
+GT1207,Cultivo de Maíz en Tacaná,Cooperativa Integral de Producción Agrícola de Tacaná R.L.,false,Medio,507,214,Mayo-Noviembre,Autoconsumo
+GT1207,Cultivo de Frijol en Tacaná,,false,Bajo,631,214,Mayo-Septiembre,Autoconsumo
+GT1207,Cultivo de Café en Tacaná,Cooperativa Integral de Producción Agrícola de Tacaná R.L.,true,Alto,532,4054,Noviembre-Marzo,Autoconsumo
+GT1207,Apicultura en Tacaná,Asociación de Productores y Comercializadores de Tacaná,true,Alto,430,2950,Diario,Autoconsumo
+GT1208,Cultivo de Maíz en Sibinal,Cooperativa Integral de Producción Agrícola de Sibinal R.L.,false,Medio,1318,548,Mayo-Noviembre,Autoconsumo
+GT1208,Cultivo de Frijol en Sibinal,,false,Bajo,570,211,Mayo-Septiembre,Autoconsumo
+GT1208,Cultivo de Café en Sibinal,Cooperativa Integral de Producción Agrícola de Sibinal R.L.,true,Medio,523,2851,Noviembre-Marzo,Mixto
+GT1208,Apicultura en Sibinal,Asociación de Productores y Comercializadores de Sibinal,true,Medio,1331,1907,Diario,Mixto
+GT1209,Cultivo de Maíz en Tajumulco,Cooperativa Integral de Producción Agrícola de Tajumulco R.L.,false,Medio,488,522,Mayo-Noviembre,Autoconsumo
+GT1209,Cultivo de Frijol en Tajumulco,,false,Bajo,733,157,Mayo-Septiembre,Autoconsumo
+GT1209,Cultivo de Café en Tajumulco,Cooperativa Integral de Producción Agrícola de Tajumulco R.L.,true,Alto,1238,3635,Noviembre-Marzo,Exportación
+GT1209,Apicultura en Tajumulco,Asociación de Productores y Comercializadores de Tajumulco,true,Alto,363,1249,Diario,Exportación
+GT1210,Cultivo de Maíz en Tejutla,Cooperativa Integral de Producción Agrícola de Tejutla R.L.,false,Medio,1380,583,Mayo-Noviembre,Autoconsumo
+GT1210,Cultivo de Frijol en Tejutla,,false,Bajo,611,189,Mayo-Septiembre,Autoconsumo
+GT1210,Cultivo de Café en Tejutla,Cooperativa Integral de Producción Agrícola de Tejutla R.L.,true,Medio,521,3008,Noviembre-Marzo,Mercado Nacional
+GT1210,Apicultura en Tejutla,Asociación de Productores y Comercializadores de Tejutla,true,Medio,1208,1301,Diario,Mercado Nacional
+GT1211,Cultivo de Maíz en San Rafael Pie de la Cuesta,Cooperativa Integral de Producción Agrícola de San Rafael Pie de la Cuesta R.L.,false,Medio,565,314,Mayo-Noviembre,Autoconsumo
+GT1211,Cultivo de Frijol en San Rafael Pie de la Cuesta,,false,Bajo,351,96,Mayo-Septiembre,Autoconsumo
+GT1211,Cultivo de Café en San Rafael Pie de la Cuesta,Cooperativa Integral de Producción Agrícola de San Rafael Pie de la Cuesta R.L.,true,Alto,558,2126,Noviembre-Marzo,Autoconsumo
+GT1211,Apicultura en San Rafael Pie de la Cuesta,Asociación de Productores y Comercializadores de San Rafael Pie de la Cuesta,true,Alto,1498,3246,Diario,Autoconsumo
+GT1212,Cultivo de Maíz en Nuevo Progreso,Cooperativa Integral de Producción Agrícola de Nuevo Progreso R.L.,false,Medio,1065,345,Mayo-Noviembre,Autoconsumo
+GT1212,Cultivo de Frijol en Nuevo Progreso,,false,Bajo,743,155,Mayo-Septiembre,Autoconsumo
+GT1212,Cultivo de Café en Nuevo Progreso,Cooperativa Integral de Producción Agrícola de Nuevo Progreso R.L.,true,Medio,1229,3070,Noviembre-Marzo,Mixto
+GT1212,Apicultura en Nuevo Progreso,Asociación de Productores y Comercializadores de Nuevo Progreso,true,Medio,1181,1406,Diario,Mixto
+GT1213,Cultivo de Maíz en El Tumbador,Cooperativa Integral de Producción Agrícola de El Tumbador R.L.,false,Medio,634,586,Mayo-Noviembre,Autoconsumo
+GT1213,Cultivo de Frijol en El Tumbador,,false,Bajo,764,264,Mayo-Septiembre,Autoconsumo
+GT1213,Cultivo de Café en El Tumbador,Cooperativa Integral de Producción Agrícola de El Tumbador R.L.,true,Alto,740,2761,Noviembre-Marzo,Exportación
+GT1213,Apicultura en El Tumbador,Asociación de Productores y Comercializadores de El Tumbador,true,Alto,1224,4637,Diario,Exportación
+GT1214,Cultivo de Maíz en El Rodeo,Cooperativa Integral de Producción Agrícola de El Rodeo R.L.,false,Medio,867,361,Mayo-Noviembre,Autoconsumo
+GT1214,Cultivo de Frijol en El Rodeo,,false,Bajo,547,291,Mayo-Septiembre,Autoconsumo
+GT1214,Cultivo de Café en El Rodeo,Cooperativa Integral de Producción Agrícola de El Rodeo R.L.,true,Medio,1228,2633,Noviembre-Marzo,Mercado Nacional
+GT1214,Apicultura en El Rodeo,Asociación de Productores y Comercializadores de El Rodeo,true,Medio,1151,3988,Diario,Mercado Nacional
+GT1215,Cultivo de Maíz en Malacatán,Cooperativa Integral de Producción Agrícola de Malacatán R.L.,false,Medio,594,310,Mayo-Noviembre,Autoconsumo
+GT1215,Cultivo de Frijol en Malacatán,,false,Bajo,637,160,Mayo-Septiembre,Autoconsumo
+GT1215,Cultivo de Café en Malacatán,Cooperativa Integral de Producción Agrícola de Malacatán R.L.,true,Alto,822,2533,Noviembre-Marzo,Autoconsumo
+GT1215,Apicultura en Malacatán,Asociación de Productores y Comercializadores de Malacatán,true,Alto,612,3813,Diario,Autoconsumo
+GT1216,Cultivo de Maíz en Catarina,Cooperativa Integral de Producción Agrícola de Catarina R.L.,false,Medio,1371,184,Mayo-Noviembre,Autoconsumo
+GT1216,Cultivo de Frijol en Catarina,,false,Bajo,293,292,Mayo-Septiembre,Autoconsumo
+GT1216,Cultivo de Café en Catarina,Cooperativa Integral de Producción Agrícola de Catarina R.L.,true,Medio,474,1381,Noviembre-Marzo,Mixto
+GT1216,Apicultura en Catarina,Asociación de Productores y Comercializadores de Catarina,true,Medio,1184,1395,Diario,Mixto
+GT1217,Cultivo de Maíz en Ayutla,Cooperativa Integral de Producción Agrícola de Ayutla R.L.,false,Medio,1163,565,Mayo-Noviembre,Autoconsumo
+GT1217,Cultivo de Frijol en Ayutla,,false,Bajo,333,222,Mayo-Septiembre,Autoconsumo
+GT1217,Cultivo de Café en Ayutla,Cooperativa Integral de Producción Agrícola de Ayutla R.L.,true,Alto,422,3402,Noviembre-Marzo,Exportación
+GT1217,Apicultura en Ayutla,Asociación de Productores y Comercializadores de Ayutla,true,Alto,1450,3300,Diario,Exportación
+GT1218,Cultivo de Maíz en Ocós,Cooperativa Integral de Producción Agrícola de Ocós R.L.,false,Medio,1075,493,Mayo-Noviembre,Autoconsumo
+GT1218,Cultivo de Frijol en Ocós,,false,Bajo,325,185,Mayo-Septiembre,Autoconsumo
+GT1218,Cultivo de Café en Ocós,Cooperativa Integral de Producción Agrícola de Ocós R.L.,true,Medio,1024,4578,Noviembre-Marzo,Mercado Nacional
+GT1218,Apicultura en Ocós,Asociación de Productores y Comercializadores de Ocós,true,Medio,1166,4555,Diario,Mercado Nacional
+GT1219,Cultivo de Maíz en San Pablo,Cooperativa Integral de Producción Agrícola de San Pablo R.L.,false,Medio,505,297,Mayo-Noviembre,Autoconsumo
+GT1219,Cultivo de Frijol en San Pablo,,false,Bajo,519,170,Mayo-Septiembre,Autoconsumo
+GT1219,Cultivo de Café en San Pablo,Cooperativa Integral de Producción Agrícola de San Pablo R.L.,true,Alto,512,3367,Noviembre-Marzo,Autoconsumo
+GT1219,Apicultura en San Pablo,Asociación de Productores y Comercializadores de San Pablo,true,Alto,1339,1871,Diario,Autoconsumo
+GT1220,Cultivo de Maíz en El Quetzal,Cooperativa Integral de Producción Agrícola de El Quetzal R.L.,false,Medio,716,486,Mayo-Noviembre,Autoconsumo
+GT1220,Cultivo de Frijol en El Quetzal,,false,Bajo,693,137,Mayo-Septiembre,Autoconsumo
+GT1220,Cultivo de Café en El Quetzal,Cooperativa Integral de Producción Agrícola de El Quetzal R.L.,true,Medio,521,2434,Noviembre-Marzo,Mixto
+GT1220,Apicultura en El Quetzal,Asociación de Productores y Comercializadores de El Quetzal,true,Medio,1439,2505,Diario,Mixto
+GT1221,Cultivo de Maíz en La Reforma,Cooperativa Integral de Producción Agrícola de La Reforma R.L.,false,Medio,635,540,Mayo-Noviembre,Autoconsumo
+GT1221,Cultivo de Frijol en La Reforma,,false,Bajo,485,226,Mayo-Septiembre,Autoconsumo
+GT1221,Cultivo de Café en La Reforma,Cooperativa Integral de Producción Agrícola de La Reforma R.L.,true,Alto,763,4306,Noviembre-Marzo,Exportación
+GT1221,Apicultura en La Reforma,Asociación de Productores y Comercializadores de La Reforma,true,Alto,1178,4461,Diario,Exportación
+GT1222,Cultivo de Maíz en Pajapita,Cooperativa Integral de Producción Agrícola de Pajapita R.L.,false,Medio,453,461,Mayo-Noviembre,Autoconsumo
+GT1222,Cultivo de Frijol en Pajapita,,false,Bajo,473,87,Mayo-Septiembre,Autoconsumo
+GT1222,Cultivo de Café en Pajapita,Cooperativa Integral de Producción Agrícola de Pajapita R.L.,true,Medio,669,2119,Noviembre-Marzo,Mercado Nacional
+GT1222,Apicultura en Pajapita,Asociación de Productores y Comercializadores de Pajapita,true,Medio,932,4774,Diario,Mercado Nacional
+GT1223,Cultivo de Maíz en Ixchiguán,Cooperativa Integral de Producción Agrícola de Ixchiguán R.L.,false,Medio,1095,329,Mayo-Noviembre,Autoconsumo
+GT1223,Cultivo de Frijol en Ixchiguán,,false,Bajo,206,126,Mayo-Septiembre,Autoconsumo
+GT1223,Cultivo de Café en Ixchiguán,Cooperativa Integral de Producción Agrícola de Ixchiguán R.L.,true,Alto,593,3319,Noviembre-Marzo,Autoconsumo
+GT1223,Apicultura en Ixchiguán,Asociación de Productores y Comercializadores de Ixchiguán,true,Alto,1120,1285,Diario,Autoconsumo
+GT1224,Cultivo de Maíz en San José Ojetenam,Cooperativa Integral de Producción Agrícola de San José Ojetenam R.L.,false,Medio,690,529,Mayo-Noviembre,Autoconsumo
+GT1224,Cultivo de Frijol en San José Ojetenam,,false,Bajo,231,103,Mayo-Septiembre,Autoconsumo
+GT1224,Cultivo de Café en San José Ojetenam,Cooperativa Integral de Producción Agrícola de San José Ojetenam R.L.,true,Medio,1386,1881,Noviembre-Marzo,Mixto
+GT1224,Apicultura en San José Ojetenam,Asociación de Productores y Comercializadores de San José Ojetenam,true,Medio,1070,2719,Diario,Mixto
+GT1225,Cultivo de Maíz en San Cristóbal Cucho,Cooperativa Integral de Producción Agrícola de San Cristóbal Cucho R.L.,false,Medio,1329,324,Mayo-Noviembre,Autoconsumo
+GT1225,Cultivo de Frijol en San Cristóbal Cucho,,false,Bajo,361,174,Mayo-Septiembre,Autoconsumo
+GT1225,Cultivo de Café en San Cristóbal Cucho,Cooperativa Integral de Producción Agrícola de San Cristóbal Cucho R.L.,true,Alto,938,3955,Noviembre-Marzo,Exportación
+GT1225,Apicultura en San Cristóbal Cucho,Asociación de Productores y Comercializadores de San Cristóbal Cucho,true,Alto,964,4181,Diario,Exportación
+GT1226,Cultivo de Maíz en Sipacapa,Cooperativa Integral de Producción Agrícola de Sipacapa R.L.,false,Medio,573,176,Mayo-Noviembre,Autoconsumo
+GT1226,Cultivo de Frijol en Sipacapa,,false,Bajo,359,120,Mayo-Septiembre,Autoconsumo
+GT1226,Cultivo de Café en Sipacapa,Cooperativa Integral de Producción Agrícola de Sipacapa R.L.,true,Medio,401,3760,Noviembre-Marzo,Mercado Nacional
+GT1226,Apicultura en Sipacapa,Asociación de Productores y Comercializadores de Sipacapa,true,Medio,467,2114,Diario,Mercado Nacional
+GT1227,Cultivo de Maíz en Esquipulas Palo Gordo,Cooperativa Integral de Producción Agrícola de Esquipulas Palo Gordo R.L.,false,Medio,1307,488,Mayo-Noviembre,Autoconsumo
+GT1227,Cultivo de Frijol en Esquipulas Palo Gordo,,false,Bajo,634,204,Mayo-Septiembre,Autoconsumo
+GT1227,Cultivo de Café en Esquipulas Palo Gordo,Cooperativa Integral de Producción Agrícola de Esquipulas Palo Gordo R.L.,true,Alto,1205,2696,Noviembre-Marzo,Autoconsumo
+GT1227,Apicultura en Esquipulas Palo Gordo,Asociación de Productores y Comercializadores de Esquipulas Palo Gordo,true,Alto,859,1882,Diario,Autoconsumo
+GT1228,Cultivo de Maíz en Río Blanco,Cooperativa Integral de Producción Agrícola de Río Blanco R.L.,false,Medio,1449,208,Mayo-Noviembre,Autoconsumo
+GT1228,Cultivo de Frijol en Río Blanco,,false,Bajo,553,190,Mayo-Septiembre,Autoconsumo
+GT1228,Cultivo de Café en Río Blanco,Cooperativa Integral de Producción Agrícola de Río Blanco R.L.,true,Medio,527,2160,Noviembre-Marzo,Mixto
+GT1228,Apicultura en Río Blanco,Asociación de Productores y Comercializadores de Río Blanco,true,Medio,1296,3158,Diario,Mixto
+GT1229,Cultivo de Maíz en San Lorenzo,Cooperativa Integral de Producción Agrícola de San Lorenzo R.L.,false,Medio,1031,173,Mayo-Noviembre,Autoconsumo
+GT1229,Cultivo de Frijol en San Lorenzo,,false,Bajo,425,181,Mayo-Septiembre,Autoconsumo
+GT1229,Cultivo de Café en San Lorenzo,Cooperativa Integral de Producción Agrícola de San Lorenzo R.L.,true,Alto,412,1031,Noviembre-Marzo,Exportación
+GT1229,Apicultura en San Lorenzo,Asociación de Productores y Comercializadores de San Lorenzo,true,Alto,718,2234,Diario,Exportación
+GT1230,Cultivo de Maíz en La Blanca,Cooperativa Integral de Producción Agrícola de La Blanca R.L.,false,Medio,832,542,Mayo-Noviembre,Autoconsumo
+GT1230,Cultivo de Frijol en La Blanca,,false,Bajo,340,275,Mayo-Septiembre,Autoconsumo
+GT1230,Cultivo de Café en La Blanca,Cooperativa Integral de Producción Agrícola de La Blanca R.L.,true,Medio,823,2185,Noviembre-Marzo,Mercado Nacional
+GT1230,Apicultura en La Blanca,Asociación de Productores y Comercializadores de La Blanca,true,Medio,971,1491,Diario,Mercado Nacional
+GT1301,Cultivo de Maíz en Huehuetenango,Cooperativa Integral de Producción Agrícola de Huehuetenango R.L.,false,Medio,415,404,Mayo-Noviembre,Autoconsumo
+GT1301,Cultivo de Frijol en Huehuetenango,,false,Bajo,640,124,Mayo-Septiembre,Autoconsumo
+GT1301,Cultivo de Café en Huehuetenango,Cooperativa Integral de Producción Agrícola de Huehuetenango R.L.,true,Alto,564,2557,Noviembre-Marzo,Autoconsumo
+GT1301,Apicultura en Huehuetenango,Asociación de Productores y Comercializadores de Huehuetenango,true,Alto,1390,3882,Diario,Autoconsumo
+GT1302,Cultivo de Maíz en Chiantla,Cooperativa Integral de Producción Agrícola de Chiantla R.L.,false,Medio,871,406,Mayo-Noviembre,Autoconsumo
+GT1302,Cultivo de Frijol en Chiantla,,false,Bajo,772,293,Mayo-Septiembre,Autoconsumo
+GT1302,Cultivo de Café en Chiantla,Cooperativa Integral de Producción Agrícola de Chiantla R.L.,true,Medio,1025,1295,Noviembre-Marzo,Mixto
+GT1302,Apicultura en Chiantla,Asociación de Productores y Comercializadores de Chiantla,true,Medio,1113,4529,Diario,Mixto
+GT1303,Cultivo de Maíz en Malacatancito,Cooperativa Integral de Producción Agrícola de Malacatancito R.L.,false,Medio,486,373,Mayo-Noviembre,Autoconsumo
+GT1303,Cultivo de Frijol en Malacatancito,,false,Bajo,219,197,Mayo-Septiembre,Autoconsumo
+GT1303,Cultivo de Café en Malacatancito,Cooperativa Integral de Producción Agrícola de Malacatancito R.L.,true,Alto,459,4531,Noviembre-Marzo,Exportación
+GT1303,Apicultura en Malacatancito,Asociación de Productores y Comercializadores de Malacatancito,true,Alto,941,3358,Diario,Exportación
+GT1304,Cultivo de Maíz en Cuilco,Cooperativa Integral de Producción Agrícola de Cuilco R.L.,false,Medio,1279,443,Mayo-Noviembre,Autoconsumo
+GT1304,Cultivo de Frijol en Cuilco,,false,Bajo,614,261,Mayo-Septiembre,Autoconsumo
+GT1304,Cultivo de Café en Cuilco,Cooperativa Integral de Producción Agrícola de Cuilco R.L.,true,Medio,1155,2185,Noviembre-Marzo,Mercado Nacional
+GT1304,Apicultura en Cuilco,Asociación de Productores y Comercializadores de Cuilco,true,Medio,535,2659,Diario,Mercado Nacional
+GT1305,Cultivo de Maíz en Nentón,Cooperativa Integral de Producción Agrícola de Nentón R.L.,false,Medio,442,316,Mayo-Noviembre,Autoconsumo
+GT1305,Cultivo de Frijol en Nentón,,false,Bajo,375,285,Mayo-Septiembre,Autoconsumo
+GT1305,Cultivo de Café en Nentón,Cooperativa Integral de Producción Agrícola de Nentón R.L.,true,Alto,1242,4407,Noviembre-Marzo,Autoconsumo
+GT1305,Apicultura en Nentón,Asociación de Productores y Comercializadores de Nentón,true,Alto,1041,1360,Diario,Autoconsumo
+GT1306,Cultivo de Maíz en San Pedro Necta,Cooperativa Integral de Producción Agrícola de San Pedro Necta R.L.,false,Medio,1294,582,Mayo-Noviembre,Autoconsumo
+GT1306,Cultivo de Frijol en San Pedro Necta,,false,Bajo,308,142,Mayo-Septiembre,Autoconsumo
+GT1306,Cultivo de Café en San Pedro Necta,Cooperativa Integral de Producción Agrícola de San Pedro Necta R.L.,true,Medio,1192,3412,Noviembre-Marzo,Mixto
+GT1306,Apicultura en San Pedro Necta,Asociación de Productores y Comercializadores de San Pedro Necta,true,Medio,1120,3146,Diario,Mixto
+GT1307,Cultivo de Maíz en Jacaltenango,Cooperativa Integral de Producción Agrícola de Jacaltenango R.L.,false,Medio,561,352,Mayo-Noviembre,Autoconsumo
+GT1307,Cultivo de Frijol en Jacaltenango,,false,Bajo,517,270,Mayo-Septiembre,Autoconsumo
+GT1307,Cultivo de Café en Jacaltenango,Cooperativa Integral de Producción Agrícola de Jacaltenango R.L.,true,Alto,995,1907,Noviembre-Marzo,Exportación
+GT1307,Apicultura en Jacaltenango,Asociación de Productores y Comercializadores de Jacaltenango,true,Alto,982,4191,Diario,Exportación
+GT1308,Cultivo de Maíz en Soloma,Cooperativa Integral de Producción Agrícola de Soloma R.L.,false,Medio,744,189,Mayo-Noviembre,Autoconsumo
+GT1308,Cultivo de Frijol en Soloma,,false,Bajo,722,242,Mayo-Septiembre,Autoconsumo
+GT1308,Cultivo de Café en Soloma,Cooperativa Integral de Producción Agrícola de Soloma R.L.,true,Medio,533,3173,Noviembre-Marzo,Mercado Nacional
+GT1308,Apicultura en Soloma,Asociación de Productores y Comercializadores de Soloma,true,Medio,1344,1794,Diario,Mercado Nacional
+GT1309,Cultivo de Maíz en Ixtahuacán,Cooperativa Integral de Producción Agrícola de Ixtahuacán R.L.,false,Medio,1115,329,Mayo-Noviembre,Autoconsumo
+GT1309,Cultivo de Frijol en Ixtahuacán,,false,Bajo,351,140,Mayo-Septiembre,Autoconsumo
+GT1309,Cultivo de Café en Ixtahuacán,Cooperativa Integral de Producción Agrícola de Ixtahuacán R.L.,true,Alto,510,1599,Noviembre-Marzo,Autoconsumo
+GT1309,Apicultura en Ixtahuacán,Asociación de Productores y Comercializadores de Ixtahuacán,true,Alto,824,1808,Diario,Autoconsumo
+GT1310,Cultivo de Maíz en Santa Bárbara,Cooperativa Integral de Producción Agrícola de Santa Bárbara R.L.,false,Medio,755,458,Mayo-Noviembre,Autoconsumo
+GT1310,Cultivo de Frijol en Santa Bárbara,,false,Bajo,356,274,Mayo-Septiembre,Autoconsumo
+GT1310,Cultivo de Café en Santa Bárbara,Cooperativa Integral de Producción Agrícola de Santa Bárbara R.L.,true,Medio,454,1725,Noviembre-Marzo,Mixto
+GT1310,Apicultura en Santa Bárbara,Asociación de Productores y Comercializadores de Santa Bárbara,true,Medio,1311,2900,Diario,Mixto
+GT1311,Cultivo de Maíz en La Libertad,Cooperativa Integral de Producción Agrícola de La Libertad R.L.,false,Medio,1319,498,Mayo-Noviembre,Autoconsumo
+GT1311,Cultivo de Frijol en La Libertad,,false,Bajo,778,244,Mayo-Septiembre,Autoconsumo
+GT1311,Cultivo de Café en La Libertad,Cooperativa Integral de Producción Agrícola de La Libertad R.L.,true,Alto,961,4539,Noviembre-Marzo,Exportación
+GT1311,Apicultura en La Libertad,Asociación de Productores y Comercializadores de La Libertad,true,Alto,947,1618,Diario,Exportación
+GT1312,Cultivo de Maíz en La Democracia,Cooperativa Integral de Producción Agrícola de La Democracia R.L.,false,Medio,1300,184,Mayo-Noviembre,Autoconsumo
+GT1312,Cultivo de Frijol en La Democracia,,false,Bajo,680,193,Mayo-Septiembre,Autoconsumo
+GT1312,Cultivo de Café en La Democracia,Cooperativa Integral de Producción Agrícola de La Democracia R.L.,true,Medio,920,4261,Noviembre-Marzo,Mercado Nacional
+GT1312,Apicultura en La Democracia,Asociación de Productores y Comercializadores de La Democracia,true,Medio,862,3422,Diario,Mercado Nacional
+GT1313,Cultivo de Maíz en San Miguel Acatán,Cooperativa Integral de Producción Agrícola de San Miguel Acatán R.L.,false,Medio,515,330,Mayo-Noviembre,Autoconsumo
+GT1313,Cultivo de Frijol en San Miguel Acatán,,false,Bajo,719,98,Mayo-Septiembre,Autoconsumo
+GT1313,Cultivo de Café en San Miguel Acatán,Cooperativa Integral de Producción Agrícola de San Miguel Acatán R.L.,true,Alto,935,2891,Noviembre-Marzo,Autoconsumo
+GT1313,Apicultura en San Miguel Acatán,Asociación de Productores y Comercializadores de San Miguel Acatán,true,Alto,1225,1154,Diario,Autoconsumo
+GT1314,Cultivo de Maíz en San Rafael La Independencia,Cooperativa Integral de Producción Agrícola de San Rafael La Independencia R.L.,false,Medio,516,338,Mayo-Noviembre,Autoconsumo
+GT1314,Cultivo de Frijol en San Rafael La Independencia,,false,Bajo,493,99,Mayo-Septiembre,Autoconsumo
+GT1314,Cultivo de Café en San Rafael La Independencia,Cooperativa Integral de Producción Agrícola de San Rafael La Independencia R.L.,true,Medio,484,3519,Noviembre-Marzo,Mixto
+GT1314,Apicultura en San Rafael La Independencia,Asociación de Productores y Comercializadores de San Rafael La Independencia,true,Medio,1338,2574,Diario,Mixto
+GT1315,Cultivo de Maíz en Todos Santos Cuchumatán,Cooperativa Integral de Producción Agrícola de Todos Santos Cuchumatán R.L.,false,Medio,1347,447,Mayo-Noviembre,Autoconsumo
+GT1315,Cultivo de Frijol en Todos Santos Cuchumatán,,false,Bajo,767,282,Mayo-Septiembre,Autoconsumo
+GT1315,Cultivo de Café en Todos Santos Cuchumatán,Cooperativa Integral de Producción Agrícola de Todos Santos Cuchumatán R.L.,true,Alto,384,2842,Noviembre-Marzo,Exportación
+GT1315,Apicultura en Todos Santos Cuchumatán,Asociación de Productores y Comercializadores de Todos Santos Cuchumatán,true,Alto,1470,3669,Diario,Exportación
+GT1316,Cultivo de Maíz en San Juan Atitán,Cooperativa Integral de Producción Agrícola de San Juan Atitán R.L.,false,Medio,785,314,Mayo-Noviembre,Autoconsumo
+GT1316,Cultivo de Frijol en San Juan Atitán,,false,Bajo,687,208,Mayo-Septiembre,Autoconsumo
+GT1316,Cultivo de Café en San Juan Atitán,Cooperativa Integral de Producción Agrícola de San Juan Atitán R.L.,true,Medio,608,4922,Noviembre-Marzo,Mercado Nacional
+GT1316,Apicultura en San Juan Atitán,Asociación de Productores y Comercializadores de San Juan Atitán,true,Medio,426,2845,Diario,Mercado Nacional
+GT1317,Cultivo de Maíz en Santa Eulalia,Cooperativa Integral de Producción Agrícola de Santa Eulalia R.L.,false,Medio,611,565,Mayo-Noviembre,Autoconsumo
+GT1317,Cultivo de Frijol en Santa Eulalia,,false,Bajo,551,262,Mayo-Septiembre,Autoconsumo
+GT1317,Cultivo de Café en Santa Eulalia,Cooperativa Integral de Producción Agrícola de Santa Eulalia R.L.,true,Alto,472,3066,Noviembre-Marzo,Autoconsumo
+GT1317,Apicultura en Santa Eulalia,Asociación de Productores y Comercializadores de Santa Eulalia,true,Alto,653,1160,Diario,Autoconsumo
+GT1318,Cultivo de Maíz en San Mateo Ixtatán,Cooperativa Integral de Producción Agrícola de San Mateo Ixtatán R.L.,false,Medio,907,512,Mayo-Noviembre,Autoconsumo
+GT1318,Cultivo de Frijol en San Mateo Ixtatán,,false,Bajo,648,192,Mayo-Septiembre,Autoconsumo
+GT1318,Cultivo de Café en San Mateo Ixtatán,Cooperativa Integral de Producción Agrícola de San Mateo Ixtatán R.L.,true,Medio,1373,3141,Noviembre-Marzo,Mixto
+GT1318,Apicultura en San Mateo Ixtatán,Asociación de Productores y Comercializadores de San Mateo Ixtatán,true,Medio,625,2490,Diario,Mixto
+GT1319,Cultivo de Maíz en Colotenango,Cooperativa Integral de Producción Agrícola de Colotenango R.L.,false,Medio,1163,294,Mayo-Noviembre,Autoconsumo
+GT1319,Cultivo de Frijol en Colotenango,,false,Bajo,596,184,Mayo-Septiembre,Autoconsumo
+GT1319,Cultivo de Café en Colotenango,Cooperativa Integral de Producción Agrícola de Colotenango R.L.,true,Alto,992,3780,Noviembre-Marzo,Exportación
+GT1319,Apicultura en Colotenango,Asociación de Productores y Comercializadores de Colotenango,true,Alto,407,4232,Diario,Exportación
+GT1320,Cultivo de Maíz en San Sebastián Huehuetenango,Cooperativa Integral de Producción Agrícola de San Sebastián Huehuetenango R.L.,false,Medio,1085,183,Mayo-Noviembre,Autoconsumo
+GT1320,Cultivo de Frijol en San Sebastián Huehuetenango,,false,Bajo,537,104,Mayo-Septiembre,Autoconsumo
+GT1320,Cultivo de Café en San Sebastián Huehuetenango,Cooperativa Integral de Producción Agrícola de San Sebastián Huehuetenango R.L.,true,Medio,1442,3778,Noviembre-Marzo,Mercado Nacional
+GT1320,Apicultura en San Sebastián Huehuetenango,Asociación de Productores y Comercializadores de San Sebastián Huehuetenango,true,Medio,1091,2163,Diario,Mercado Nacional
+GT1321,Cultivo de Maíz en Tectitán,Cooperativa Integral de Producción Agrícola de Tectitán R.L.,false,Medio,916,520,Mayo-Noviembre,Autoconsumo
+GT1321,Cultivo de Frijol en Tectitán,,false,Bajo,353,165,Mayo-Septiembre,Autoconsumo
+GT1321,Cultivo de Café en Tectitán,Cooperativa Integral de Producción Agrícola de Tectitán R.L.,true,Alto,466,3386,Noviembre-Marzo,Autoconsumo
+GT1321,Apicultura en Tectitán,Asociación de Productores y Comercializadores de Tectitán,true,Alto,589,4754,Diario,Autoconsumo
+GT1322,Cultivo de Maíz en Concepción Huista,Cooperativa Integral de Producción Agrícola de Concepción Huista R.L.,false,Medio,1116,308,Mayo-Noviembre,Autoconsumo
+GT1322,Cultivo de Frijol en Concepción Huista,,false,Bajo,601,113,Mayo-Septiembre,Autoconsumo
+GT1322,Cultivo de Café en Concepción Huista,Cooperativa Integral de Producción Agrícola de Concepción Huista R.L.,true,Medio,473,2268,Noviembre-Marzo,Mixto
+GT1322,Apicultura en Concepción Huista,Asociación de Productores y Comercializadores de Concepción Huista,true,Medio,1444,2542,Diario,Mixto
+GT1323,Cultivo de Maíz en San Juan Ixcoy,Cooperativa Integral de Producción Agrícola de San Juan Ixcoy R.L.,false,Medio,1072,566,Mayo-Noviembre,Autoconsumo
+GT1323,Cultivo de Frijol en San Juan Ixcoy,,false,Bajo,330,251,Mayo-Septiembre,Autoconsumo
+GT1323,Cultivo de Café en San Juan Ixcoy,Cooperativa Integral de Producción Agrícola de San Juan Ixcoy R.L.,true,Alto,1378,1382,Noviembre-Marzo,Exportación
+GT1323,Apicultura en San Juan Ixcoy,Asociación de Productores y Comercializadores de San Juan Ixcoy,true,Alto,1167,3082,Diario,Exportación
+GT1324,Cultivo de Maíz en San Antonio Huista,Cooperativa Integral de Producción Agrícola de San Antonio Huista R.L.,false,Medio,1141,159,Mayo-Noviembre,Autoconsumo
+GT1324,Cultivo de Frijol en San Antonio Huista,,false,Bajo,571,159,Mayo-Septiembre,Autoconsumo
+GT1324,Cultivo de Café en San Antonio Huista,Cooperativa Integral de Producción Agrícola de San Antonio Huista R.L.,true,Medio,669,4895,Noviembre-Marzo,Mercado Nacional
+GT1324,Apicultura en San Antonio Huista,Asociación de Productores y Comercializadores de San Antonio Huista,true,Medio,738,2399,Diario,Mercado Nacional
+GT1325,Cultivo de Maíz en San Sebastián Coatán,Cooperativa Integral de Producción Agrícola de San Sebastián Coatán R.L.,false,Medio,1395,248,Mayo-Noviembre,Autoconsumo
+GT1325,Cultivo de Frijol en San Sebastián Coatán,,false,Bajo,431,115,Mayo-Septiembre,Autoconsumo
+GT1325,Cultivo de Café en San Sebastián Coatán,Cooperativa Integral de Producción Agrícola de San Sebastián Coatán R.L.,true,Alto,617,1316,Noviembre-Marzo,Autoconsumo
+GT1325,Apicultura en San Sebastián Coatán,Asociación de Productores y Comercializadores de San Sebastián Coatán,true,Alto,905,4458,Diario,Autoconsumo
+GT1326,Cultivo de Maíz en Barillas,Cooperativa Integral de Producción Agrícola de Barillas R.L.,false,Medio,607,409,Mayo-Noviembre,Autoconsumo
+GT1326,Cultivo de Frijol en Barillas,,false,Bajo,752,293,Mayo-Septiembre,Autoconsumo
+GT1326,Cultivo de Café en Barillas,Cooperativa Integral de Producción Agrícola de Barillas R.L.,true,Medio,1378,1154,Noviembre-Marzo,Mixto
+GT1326,Apicultura en Barillas,Asociación de Productores y Comercializadores de Barillas,true,Medio,989,4589,Diario,Mixto
+GT1327,Cultivo de Maíz en Aguacatán,Cooperativa Integral de Producción Agrícola de Aguacatán R.L.,false,Medio,668,455,Mayo-Noviembre,Autoconsumo
+GT1327,Cultivo de Frijol en Aguacatán,,false,Bajo,585,119,Mayo-Septiembre,Autoconsumo
+GT1327,Cultivo de Café en Aguacatán,Cooperativa Integral de Producción Agrícola de Aguacatán R.L.,true,Alto,632,1740,Noviembre-Marzo,Exportación
+GT1327,Apicultura en Aguacatán,Asociación de Productores y Comercializadores de Aguacatán,true,Alto,639,3953,Diario,Exportación
+GT1328,Cultivo de Maíz en San Rafael Petzal,Cooperativa Integral de Producción Agrícola de San Rafael Petzal R.L.,false,Medio,1296,172,Mayo-Noviembre,Autoconsumo
+GT1328,Cultivo de Frijol en San Rafael Petzal,,false,Bajo,620,173,Mayo-Septiembre,Autoconsumo
+GT1328,Cultivo de Café en San Rafael Petzal,Cooperativa Integral de Producción Agrícola de San Rafael Petzal R.L.,true,Medio,786,4971,Noviembre-Marzo,Mercado Nacional
+GT1328,Apicultura en San Rafael Petzal,Asociación de Productores y Comercializadores de San Rafael Petzal,true,Medio,1209,3500,Diario,Mercado Nacional
+GT1329,Cultivo de Maíz en San Gaspar Ixchil,Cooperativa Integral de Producción Agrícola de San Gaspar Ixchil R.L.,false,Medio,983,535,Mayo-Noviembre,Autoconsumo
+GT1329,Cultivo de Frijol en San Gaspar Ixchil,,false,Bajo,659,139,Mayo-Septiembre,Autoconsumo
+GT1329,Cultivo de Café en San Gaspar Ixchil,Cooperativa Integral de Producción Agrícola de San Gaspar Ixchil R.L.,true,Alto,1393,1979,Noviembre-Marzo,Autoconsumo
+GT1329,Apicultura en San Gaspar Ixchil,Asociación de Productores y Comercializadores de San Gaspar Ixchil,true,Alto,933,4955,Diario,Autoconsumo
+GT1330,Cultivo de Maíz en Santiago Chimaltenango,Cooperativa Integral de Producción Agrícola de Santiago Chimaltenango R.L.,false,Medio,1360,577,Mayo-Noviembre,Autoconsumo
+GT1330,Cultivo de Frijol en Santiago Chimaltenango,,false,Bajo,398,174,Mayo-Septiembre,Autoconsumo
+GT1330,Cultivo de Café en Santiago Chimaltenango,Cooperativa Integral de Producción Agrícola de Santiago Chimaltenango R.L.,true,Medio,1468,2804,Noviembre-Marzo,Mixto
+GT1330,Apicultura en Santiago Chimaltenango,Asociación de Productores y Comercializadores de Santiago Chimaltenango,true,Medio,1245,4151,Diario,Mixto
+GT1331,Cultivo de Maíz en Santa Ana Huista,Cooperativa Integral de Producción Agrícola de Santa Ana Huista R.L.,false,Medio,977,548,Mayo-Noviembre,Autoconsumo
+GT1331,Cultivo de Frijol en Santa Ana Huista,,false,Bajo,591,208,Mayo-Septiembre,Autoconsumo
+GT1331,Cultivo de Café en Santa Ana Huista,Cooperativa Integral de Producción Agrícola de Santa Ana Huista R.L.,true,Alto,1380,2714,Noviembre-Marzo,Exportación
+GT1331,Apicultura en Santa Ana Huista,Asociación de Productores y Comercializadores de Santa Ana Huista,true,Alto,631,4345,Diario,Exportación
+GT1332,Cultivo de Maíz en Unión Cantinil,Cooperativa Integral de Producción Agrícola de Unión Cantinil R.L.,false,Medio,808,560,Mayo-Noviembre,Autoconsumo
+GT1332,Cultivo de Frijol en Unión Cantinil,,false,Bajo,341,144,Mayo-Septiembre,Autoconsumo
+GT1332,Cultivo de Café en Unión Cantinil,Cooperativa Integral de Producción Agrícola de Unión Cantinil R.L.,true,Medio,406,3626,Noviembre-Marzo,Mercado Nacional
+GT1332,Apicultura en Unión Cantinil,Asociación de Productores y Comercializadores de Unión Cantinil,true,Medio,1284,4580,Diario,Mercado Nacional
+GT1333,Cultivo de Maíz en Petatán,Cooperativa Integral de Producción Agrícola de Petatán R.L.,false,Medio,1160,433,Mayo-Noviembre,Autoconsumo
+GT1333,Cultivo de Frijol en Petatán,,false,Bajo,305,262,Mayo-Septiembre,Autoconsumo
+GT1333,Cultivo de Café en Petatán,Cooperativa Integral de Producción Agrícola de Petatán R.L.,true,Alto,1356,4486,Noviembre-Marzo,Autoconsumo
+GT1333,Apicultura en Petatán,Asociación de Productores y Comercializadores de Petatán,true,Alto,555,2167,Diario,Autoconsumo
+GT1401,Cultivo de Maíz en Santa Cruz del Quiché,Cooperativa Integral de Producción Agrícola de Santa Cruz del Quiché R.L.,false,Medio,571,540,Mayo-Noviembre,Autoconsumo
+GT1401,Cultivo de Frijol en Santa Cruz del Quiché,,false,Bajo,364,149,Mayo-Septiembre,Autoconsumo
+GT1401,Producción de Tejidos Mayas en Santa Cruz del Quiché,Asociación de Productores y Comercializadores de Santa Cruz del Quiché,true,Medio,1220,4708,Diario,Mixto
+GT1401,Producción de Cestería en Santa Cruz del Quiché,Asociación de Productores y Comercializadores de Santa Cruz del Quiché,true,Medio,1351,1603,Diario,Mixto
+GT1402,Cultivo de Maíz en Chiché,Cooperativa Integral de Producción Agrícola de Chiché R.L.,false,Medio,1295,196,Mayo-Noviembre,Autoconsumo
+GT1402,Cultivo de Frijol en Chiché,,false,Bajo,427,289,Mayo-Septiembre,Autoconsumo
+GT1402,Producción de Tejidos Mayas en Chiché,Asociación de Productores y Comercializadores de Chiché,true,Alto,1223,4623,Diario,Exportación
+GT1402,Producción de Cestería en Chiché,Asociación de Productores y Comercializadores de Chiché,true,Alto,1015,4811,Diario,Exportación
+GT1403,Cultivo de Maíz en Chinique,Cooperativa Integral de Producción Agrícola de Chinique R.L.,false,Medio,454,362,Mayo-Noviembre,Autoconsumo
+GT1403,Cultivo de Frijol en Chinique,,false,Bajo,254,181,Mayo-Septiembre,Autoconsumo
+GT1403,Producción de Tejidos Mayas en Chinique,Asociación de Productores y Comercializadores de Chinique,true,Medio,1328,2531,Diario,Mercado Nacional
+GT1403,Producción de Cestería en Chinique,Asociación de Productores y Comercializadores de Chinique,true,Medio,782,2581,Diario,Mercado Nacional
+GT1404,Cultivo de Maíz en Zacualpa,Cooperativa Integral de Producción Agrícola de Zacualpa R.L.,false,Medio,567,341,Mayo-Noviembre,Autoconsumo
+GT1404,Cultivo de Frijol en Zacualpa,,false,Bajo,429,87,Mayo-Septiembre,Autoconsumo
+GT1404,Producción de Tejidos Mayas en Zacualpa,Asociación de Productores y Comercializadores de Zacualpa,true,Alto,952,4812,Diario,Autoconsumo
+GT1404,Producción de Cestería en Zacualpa,Asociación de Productores y Comercializadores de Zacualpa,true,Alto,502,4437,Diario,Autoconsumo
+GT1405,Cultivo de Maíz en Chajul,Cooperativa Integral de Producción Agrícola de Chajul R.L.,false,Medio,1086,555,Mayo-Noviembre,Autoconsumo
+GT1405,Cultivo de Frijol en Chajul,,false,Bajo,349,115,Mayo-Septiembre,Autoconsumo
+GT1405,Producción de Tejidos Mayas en Chajul,Asociación de Productores y Comercializadores de Chajul,true,Medio,378,2175,Diario,Mixto
+GT1405,Producción de Cestería en Chajul,Asociación de Productores y Comercializadores de Chajul,true,Medio,1267,3851,Diario,Mixto
+GT1406,Cultivo de Maíz en Chichicastenango,Cooperativa Integral de Producción Agrícola de Chichicastenango R.L.,false,Medio,684,538,Mayo-Noviembre,Autoconsumo
+GT1406,Cultivo de Frijol en Chichicastenango,,false,Bajo,680,194,Mayo-Septiembre,Autoconsumo
+GT1406,Producción de Tejidos Mayas en Chichicastenango,Asociación de Productores y Comercializadores de Chichicastenango,true,Alto,310,4710,Diario,Exportación
+GT1406,Producción de Cestería en Chichicastenango,Asociación de Productores y Comercializadores de Chichicastenango,true,Alto,462,1077,Diario,Exportación
+GT1407,Cultivo de Maíz en Patzité,Cooperativa Integral de Producción Agrícola de Patzité R.L.,false,Medio,924,260,Mayo-Noviembre,Autoconsumo
+GT1407,Cultivo de Frijol en Patzité,,false,Bajo,353,220,Mayo-Septiembre,Autoconsumo
+GT1407,Producción de Tejidos Mayas en Patzité,Asociación de Productores y Comercializadores de Patzité,true,Medio,1380,2733,Diario,Mercado Nacional
+GT1407,Producción de Cestería en Patzité,Asociación de Productores y Comercializadores de Patzité,true,Medio,527,4179,Diario,Mercado Nacional
+GT1408,Cultivo de Maíz en San Antonio Ilotenango,Cooperativa Integral de Producción Agrícola de San Antonio Ilotenango R.L.,false,Medio,990,271,Mayo-Noviembre,Autoconsumo
+GT1408,Cultivo de Frijol en San Antonio Ilotenango,,false,Bajo,508,111,Mayo-Septiembre,Autoconsumo
+GT1408,Producción de Tejidos Mayas en San Antonio Ilotenango,Asociación de Productores y Comercializadores de San Antonio Ilotenango,true,Alto,397,1976,Diario,Autoconsumo
+GT1408,Producción de Cestería en San Antonio Ilotenango,Asociación de Productores y Comercializadores de San Antonio Ilotenango,true,Alto,1159,3617,Diario,Autoconsumo
+GT1409,Cultivo de Maíz en San Pedro Jocopilas,Cooperativa Integral de Producción Agrícola de San Pedro Jocopilas R.L.,false,Medio,1336,182,Mayo-Noviembre,Autoconsumo
+GT1409,Cultivo de Frijol en San Pedro Jocopilas,,false,Bajo,313,294,Mayo-Septiembre,Autoconsumo
+GT1409,Producción de Tejidos Mayas en San Pedro Jocopilas,Asociación de Productores y Comercializadores de San Pedro Jocopilas,true,Medio,1323,3444,Diario,Mixto
+GT1409,Producción de Cestería en San Pedro Jocopilas,Asociación de Productores y Comercializadores de San Pedro Jocopilas,true,Medio,1397,1067,Diario,Mixto
+GT1410,Cultivo de Maíz en Cunén,Cooperativa Integral de Producción Agrícola de Cunén R.L.,false,Medio,1455,444,Mayo-Noviembre,Autoconsumo
+GT1410,Cultivo de Frijol en Cunén,,false,Bajo,447,263,Mayo-Septiembre,Autoconsumo
+GT1410,Producción de Tejidos Mayas en Cunén,Asociación de Productores y Comercializadores de Cunén,true,Alto,594,2193,Diario,Exportación
+GT1410,Producción de Cestería en Cunén,Asociación de Productores y Comercializadores de Cunén,true,Alto,1179,1006,Diario,Exportación
+GT1411,Cultivo de Maíz en San Juan Cotzal,Cooperativa Integral de Producción Agrícola de San Juan Cotzal R.L.,false,Medio,1122,273,Mayo-Noviembre,Autoconsumo
+GT1411,Cultivo de Frijol en San Juan Cotzal,,false,Bajo,784,186,Mayo-Septiembre,Autoconsumo
+GT1411,Producción de Tejidos Mayas en San Juan Cotzal,Asociación de Productores y Comercializadores de San Juan Cotzal,true,Medio,683,3721,Diario,Mercado Nacional
+GT1411,Producción de Cestería en San Juan Cotzal,Asociación de Productores y Comercializadores de San Juan Cotzal,true,Medio,475,3144,Diario,Mercado Nacional
+GT1412,Cultivo de Maíz en Joyabaj,Cooperativa Integral de Producción Agrícola de Joyabaj R.L.,false,Medio,1138,184,Mayo-Noviembre,Autoconsumo
+GT1412,Cultivo de Frijol en Joyabaj,,false,Bajo,738,219,Mayo-Septiembre,Autoconsumo
+GT1412,Producción de Tejidos Mayas en Joyabaj,Asociación de Productores y Comercializadores de Joyabaj,true,Alto,1339,4221,Diario,Autoconsumo
+GT1412,Producción de Cestería en Joyabaj,Asociación de Productores y Comercializadores de Joyabaj,true,Alto,1339,3269,Diario,Autoconsumo
+GT1413,Cultivo de Maíz en Nebaj,Cooperativa Integral de Producción Agrícola de Nebaj R.L.,false,Medio,441,349,Mayo-Noviembre,Autoconsumo
+GT1413,Cultivo de Frijol en Nebaj,,false,Bajo,681,91,Mayo-Septiembre,Autoconsumo
+GT1413,Producción de Tejidos Mayas en Nebaj,Asociación de Productores y Comercializadores de Nebaj,true,Medio,1092,2529,Diario,Mixto
+GT1413,Producción de Cestería en Nebaj,Asociación de Productores y Comercializadores de Nebaj,true,Medio,819,4061,Diario,Mixto
+GT1414,Cultivo de Maíz en San Andrés Sajcabajá,Cooperativa Integral de Producción Agrícola de San Andrés Sajcabajá R.L.,false,Medio,433,332,Mayo-Noviembre,Autoconsumo
+GT1414,Cultivo de Frijol en San Andrés Sajcabajá,,false,Bajo,269,168,Mayo-Septiembre,Autoconsumo
+GT1414,Producción de Tejidos Mayas en San Andrés Sajcabajá,Asociación de Productores y Comercializadores de San Andrés Sajcabajá,true,Alto,793,4002,Diario,Exportación
+GT1414,Producción de Cestería en San Andrés Sajcabajá,Asociación de Productores y Comercializadores de San Andrés Sajcabajá,true,Alto,512,4160,Diario,Exportación
+GT1415,Cultivo de Maíz en Uspantán,Cooperativa Integral de Producción Agrícola de Uspantán R.L.,false,Medio,1080,218,Mayo-Noviembre,Autoconsumo
+GT1415,Cultivo de Frijol en Uspantán,,false,Bajo,245,170,Mayo-Septiembre,Autoconsumo
+GT1415,Producción de Tejidos Mayas en Uspantán,Asociación de Productores y Comercializadores de Uspantán,true,Medio,1418,2386,Diario,Mercado Nacional
+GT1415,Producción de Cestería en Uspantán,Asociación de Productores y Comercializadores de Uspantán,true,Medio,658,4401,Diario,Mercado Nacional
+GT1416,Cultivo de Maíz en Sacapulas,Cooperativa Integral de Producción Agrícola de Sacapulas R.L.,false,Medio,1351,506,Mayo-Noviembre,Autoconsumo
+GT1416,Cultivo de Frijol en Sacapulas,,false,Bajo,690,241,Mayo-Septiembre,Autoconsumo
+GT1416,Producción de Tejidos Mayas en Sacapulas,Asociación de Productores y Comercializadores de Sacapulas,true,Alto,673,4323,Diario,Autoconsumo
+GT1416,Producción de Cestería en Sacapulas,Asociación de Productores y Comercializadores de Sacapulas,true,Alto,576,1258,Diario,Autoconsumo
+GT1417,Cultivo de Maíz en San Bartolomé Jocotenango,Cooperativa Integral de Producción Agrícola de San Bartolomé Jocotenango R.L.,false,Medio,1337,168,Mayo-Noviembre,Autoconsumo
+GT1417,Cultivo de Frijol en San Bartolomé Jocotenango,,false,Bajo,500,131,Mayo-Septiembre,Autoconsumo
+GT1417,Producción de Tejidos Mayas en San Bartolomé Jocotenango,Asociación de Productores y Comercializadores de San Bartolomé Jocotenango,true,Medio,389,4240,Diario,Mixto
+GT1417,Producción de Cestería en San Bartolomé Jocotenango,Asociación de Productores y Comercializadores de San Bartolomé Jocotenango,true,Medio,708,4628,Diario,Mixto
+GT1418,Cultivo de Maíz en Canillá,Cooperativa Integral de Producción Agrícola de Canillá R.L.,false,Medio,485,311,Mayo-Noviembre,Autoconsumo
+GT1418,Cultivo de Frijol en Canillá,,false,Bajo,517,211,Mayo-Septiembre,Autoconsumo
+GT1418,Producción de Tejidos Mayas en Canillá,Asociación de Productores y Comercializadores de Canillá,true,Alto,1115,4339,Diario,Exportación
+GT1418,Producción de Cestería en Canillá,Asociación de Productores y Comercializadores de Canillá,true,Alto,1412,2939,Diario,Exportación
+GT1419,Cultivo de Maíz en Chicamán,Cooperativa Integral de Producción Agrícola de Chicamán R.L.,false,Medio,918,168,Mayo-Noviembre,Autoconsumo
+GT1419,Cultivo de Frijol en Chicamán,,false,Bajo,395,153,Mayo-Septiembre,Autoconsumo
+GT1419,Producción de Tejidos Mayas en Chicamán,Asociación de Productores y Comercializadores de Chicamán,true,Medio,1031,4531,Diario,Mercado Nacional
+GT1419,Producción de Cestería en Chicamán,Asociación de Productores y Comercializadores de Chicamán,true,Medio,397,4546,Diario,Mercado Nacional
+GT1420,Cultivo de Maíz en Ixcán,Cooperativa Integral de Producción Agrícola de Ixcán R.L.,false,Medio,1079,289,Mayo-Noviembre,Autoconsumo
+GT1420,Cultivo de Frijol en Ixcán,,false,Bajo,327,284,Mayo-Septiembre,Autoconsumo
+GT1420,Producción de Tejidos Mayas en Ixcán,Asociación de Productores y Comercializadores de Ixcán,true,Alto,1053,2789,Diario,Autoconsumo
+GT1420,Producción de Cestería en Ixcán,Asociación de Productores y Comercializadores de Ixcán,true,Alto,1119,4044,Diario,Autoconsumo
+GT1421,Cultivo de Maíz en Pachalum,Cooperativa Integral de Producción Agrícola de Pachalum R.L.,false,Medio,1300,347,Mayo-Noviembre,Autoconsumo
+GT1421,Cultivo de Frijol en Pachalum,,false,Bajo,547,127,Mayo-Septiembre,Autoconsumo
+GT1421,Producción de Tejidos Mayas en Pachalum,Asociación de Productores y Comercializadores de Pachalum,true,Medio,1316,3834,Diario,Mixto
+GT1421,Producción de Cestería en Pachalum,Asociación de Productores y Comercializadores de Pachalum,true,Medio,1318,2504,Diario,Mixto
+GT1501,Cultivo de Maíz en Salamá,Cooperativa Integral de Producción Agrícola de Salamá R.L.,false,Medio,1463,286,Mayo-Noviembre,Autoconsumo
+GT1501,Cultivo de Frijol en Salamá,,false,Bajo,284,266,Mayo-Septiembre,Autoconsumo
+GT1501,Cultivo de Hortalizas en Salamá,Asociación de Productores y Comercializadores de Salamá,true,Alto,1169,1323,Diario,Exportación
+GT1502,Cultivo de Maíz en San Miguel Chicaj,Cooperativa Integral de Producción Agrícola de San Miguel Chicaj R.L.,false,Medio,1281,458,Mayo-Noviembre,Autoconsumo
+GT1502,Cultivo de Frijol en San Miguel Chicaj,,false,Bajo,384,219,Mayo-Septiembre,Autoconsumo
+GT1502,Cultivo de Hortalizas en San Miguel Chicaj,Asociación de Productores y Comercializadores de San Miguel Chicaj,true,Medio,901,2315,Diario,Mercado Nacional
+GT1503,Cultivo de Maíz en Rabinal,Cooperativa Integral de Producción Agrícola de Rabinal R.L.,false,Medio,610,190,Mayo-Noviembre,Autoconsumo
+GT1503,Cultivo de Frijol en Rabinal,,false,Bajo,535,249,Mayo-Septiembre,Autoconsumo
+GT1503,Cultivo de Hortalizas en Rabinal,Asociación de Productores y Comercializadores de Rabinal,true,Alto,905,2255,Diario,Autoconsumo
+GT1503,Producción de Alfarería en Rabinal,Asociación de Productores y Comercializadores de Rabinal,true,Alto,1213,3468,Diario,Autoconsumo
+GT1504,Cultivo de Maíz en Cubulco,Cooperativa Integral de Producción Agrícola de Cubulco R.L.,false,Medio,1272,235,Mayo-Noviembre,Autoconsumo
+GT1504,Cultivo de Frijol en Cubulco,,false,Bajo,654,169,Mayo-Septiembre,Autoconsumo
+GT1504,Cultivo de Hortalizas en Cubulco,Asociación de Productores y Comercializadores de Cubulco,true,Medio,1215,1173,Diario,Mixto
+GT1505,Cultivo de Maíz en Granados,Cooperativa Integral de Producción Agrícola de Granados R.L.,false,Medio,1122,464,Mayo-Noviembre,Autoconsumo
+GT1505,Cultivo de Frijol en Granados,,false,Bajo,645,150,Mayo-Septiembre,Autoconsumo
+GT1505,Cultivo de Hortalizas en Granados,Asociación de Productores y Comercializadores de Granados,true,Alto,417,1307,Diario,Exportación
+GT1506,Cultivo de Maíz en El Chol,Cooperativa Integral de Producción Agrícola de El Chol R.L.,false,Medio,1231,336,Mayo-Noviembre,Autoconsumo
+GT1506,Cultivo de Frijol en El Chol,,false,Bajo,725,285,Mayo-Septiembre,Autoconsumo
+GT1506,Cultivo de Hortalizas en El Chol,Asociación de Productores y Comercializadores de El Chol,true,Medio,627,4902,Diario,Mercado Nacional
+GT1507,Cultivo de Maíz en San Jerónimo,Cooperativa Integral de Producción Agrícola de San Jerónimo R.L.,false,Medio,463,223,Mayo-Noviembre,Autoconsumo
+GT1507,Cultivo de Frijol en San Jerónimo,,false,Bajo,648,88,Mayo-Septiembre,Autoconsumo
+GT1507,Cultivo de Hortalizas en San Jerónimo,Asociación de Productores y Comercializadores de San Jerónimo,true,Alto,558,1275,Diario,Autoconsumo
+GT1508,Cultivo de Maíz en Purulhá,Cooperativa Integral de Producción Agrícola de Purulhá R.L.,false,Medio,883,548,Mayo-Noviembre,Autoconsumo
+GT1508,Cultivo de Frijol en Purulhá,,false,Bajo,575,172,Mayo-Septiembre,Autoconsumo
+GT1508,Cultivo de Hortalizas en Purulhá,Asociación de Productores y Comercializadores de Purulhá,true,Medio,1084,4889,Diario,Mixto
+GT1601,Cultivo de Maíz en Cobán,Cooperativa Integral de Producción Agrícola de Cobán R.L.,false,Medio,466,459,Mayo-Noviembre,Autoconsumo
+GT1601,Cultivo de Frijol en Cobán,,false,Bajo,357,253,Mayo-Septiembre,Autoconsumo
+GT1601,Cultivo de Cardamomo en Cobán,Asociación de Productores y Comercializadores de Cobán,true,Alto,1221,4886,Diario,Exportación
+GT1601,Cultivo de Café en Cobán,Cooperativa Integral de Producción Agrícola de Cobán R.L.,true,Alto,1059,2523,Noviembre-Marzo,Exportación
+GT1601,Cultivo de Cacao en Cobán,Asociación de Productores y Comercializadores de Cobán,true,Alto,1209,4125,Diario,Exportación
+GT1602,Cultivo de Maíz en Santa Cruz Verapaz,Cooperativa Integral de Producción Agrícola de Santa Cruz Verapaz R.L.,false,Medio,557,443,Mayo-Noviembre,Autoconsumo
+GT1602,Cultivo de Frijol en Santa Cruz Verapaz,,false,Bajo,340,215,Mayo-Septiembre,Autoconsumo
+GT1602,Cultivo de Cardamomo en Santa Cruz Verapaz,Asociación de Productores y Comercializadores de Santa Cruz Verapaz,true,Medio,1051,2630,Diario,Mercado Nacional
+GT1602,Cultivo de Café en Santa Cruz Verapaz,Cooperativa Integral de Producción Agrícola de Santa Cruz Verapaz R.L.,true,Medio,943,3660,Noviembre-Marzo,Mercado Nacional
+GT1602,Cultivo de Cacao en Santa Cruz Verapaz,Asociación de Productores y Comercializadores de Santa Cruz Verapaz,true,Medio,870,2022,Diario,Mercado Nacional
+GT1603,Cultivo de Maíz en San Cristóbal Verapaz,Cooperativa Integral de Producción Agrícola de San Cristóbal Verapaz R.L.,false,Medio,632,163,Mayo-Noviembre,Autoconsumo
+GT1603,Cultivo de Frijol en San Cristóbal Verapaz,,false,Bajo,390,207,Mayo-Septiembre,Autoconsumo
+GT1603,Cultivo de Cardamomo en San Cristóbal Verapaz,Asociación de Productores y Comercializadores de San Cristóbal Verapaz,true,Alto,1360,2585,Diario,Autoconsumo
+GT1603,Cultivo de Café en San Cristóbal Verapaz,Cooperativa Integral de Producción Agrícola de San Cristóbal Verapaz R.L.,true,Alto,1450,1482,Noviembre-Marzo,Autoconsumo
+GT1603,Cultivo de Cacao en San Cristóbal Verapaz,Asociación de Productores y Comercializadores de San Cristóbal Verapaz,true,Alto,836,4174,Diario,Autoconsumo
+GT1604,Cultivo de Maíz en Tactic,Cooperativa Integral de Producción Agrícola de Tactic R.L.,false,Medio,933,510,Mayo-Noviembre,Autoconsumo
+GT1604,Cultivo de Frijol en Tactic,,false,Bajo,656,134,Mayo-Septiembre,Autoconsumo
+GT1604,Cultivo de Cardamomo en Tactic,Asociación de Productores y Comercializadores de Tactic,true,Medio,884,3842,Diario,Mixto
+GT1604,Cultivo de Café en Tactic,Cooperativa Integral de Producción Agrícola de Tactic R.L.,true,Medio,1305,1819,Noviembre-Marzo,Mixto
+GT1604,Cultivo de Cacao en Tactic,Asociación de Productores y Comercializadores de Tactic,true,Medio,551,1555,Diario,Mixto
+GT1605,Cultivo de Maíz en Tamahú,Cooperativa Integral de Producción Agrícola de Tamahú R.L.,false,Medio,551,381,Mayo-Noviembre,Autoconsumo
+GT1605,Cultivo de Frijol en Tamahú,,false,Bajo,376,262,Mayo-Septiembre,Autoconsumo
+GT1605,Cultivo de Cardamomo en Tamahú,Asociación de Productores y Comercializadores de Tamahú,true,Alto,1211,1359,Diario,Exportación
+GT1605,Cultivo de Café en Tamahú,Cooperativa Integral de Producción Agrícola de Tamahú R.L.,true,Alto,954,3735,Noviembre-Marzo,Exportación
+GT1605,Cultivo de Cacao en Tamahú,Asociación de Productores y Comercializadores de Tamahú,true,Alto,1011,3906,Diario,Exportación
+GT1606,Cultivo de Maíz en Tucurú,Cooperativa Integral de Producción Agrícola de Tucurú R.L.,false,Medio,532,431,Mayo-Noviembre,Autoconsumo
+GT1606,Cultivo de Frijol en Tucurú,,false,Bajo,755,154,Mayo-Septiembre,Autoconsumo
+GT1606,Cultivo de Cardamomo en Tucurú,Asociación de Productores y Comercializadores de Tucurú,true,Medio,914,4487,Diario,Mercado Nacional
+GT1606,Cultivo de Café en Tucurú,Cooperativa Integral de Producción Agrícola de Tucurú R.L.,true,Medio,622,3915,Noviembre-Marzo,Mercado Nacional
+GT1606,Cultivo de Cacao en Tucurú,Asociación de Productores y Comercializadores de Tucurú,true,Medio,656,4250,Diario,Mercado Nacional
+GT1607,Cultivo de Maíz en Panzós,Cooperativa Integral de Producción Agrícola de Panzós R.L.,false,Medio,1140,410,Mayo-Noviembre,Autoconsumo
+GT1607,Cultivo de Frijol en Panzós,,false,Bajo,429,111,Mayo-Septiembre,Autoconsumo
+GT1607,Cultivo de Cardamomo en Panzós,Asociación de Productores y Comercializadores de Panzós,true,Alto,711,4244,Diario,Autoconsumo
+GT1607,Cultivo de Café en Panzós,Cooperativa Integral de Producción Agrícola de Panzós R.L.,true,Alto,584,1969,Noviembre-Marzo,Autoconsumo
+GT1607,Cultivo de Cacao en Panzós,Asociación de Productores y Comercializadores de Panzós,true,Alto,1311,1107,Diario,Autoconsumo
+GT1607,Cultivo de Palma de Aceite en Panzós,Asociación de Productores y Comercializadores de Panzós,true,Alto,1039,3269,Diario,Autoconsumo
+GT1608,Cultivo de Maíz en Senahú,Cooperativa Integral de Producción Agrícola de Senahú R.L.,false,Medio,1155,389,Mayo-Noviembre,Autoconsumo
+GT1608,Cultivo de Frijol en Senahú,,false,Bajo,764,113,Mayo-Septiembre,Autoconsumo
+GT1608,Cultivo de Cardamomo en Senahú,Asociación de Productores y Comercializadores de Senahú,true,Medio,476,1269,Diario,Mixto
+GT1608,Cultivo de Café en Senahú,Cooperativa Integral de Producción Agrícola de Senahú R.L.,true,Medio,933,2630,Noviembre-Marzo,Mixto
+GT1608,Cultivo de Cacao en Senahú,Asociación de Productores y Comercializadores de Senahú,true,Medio,1280,3153,Diario,Mixto
+GT1608,Cultivo de Palma de Aceite en Senahú,Asociación de Productores y Comercializadores de Senahú,true,Medio,1141,4150,Diario,Mixto
+GT1609,Cultivo de Maíz en San Pedro Carchá,Cooperativa Integral de Producción Agrícola de San Pedro Carchá R.L.,false,Medio,1238,571,Mayo-Noviembre,Autoconsumo
+GT1609,Cultivo de Frijol en San Pedro Carchá,,false,Bajo,788,98,Mayo-Septiembre,Autoconsumo
+GT1609,Cultivo de Cardamomo en San Pedro Carchá,Asociación de Productores y Comercializadores de San Pedro Carchá,true,Alto,556,4982,Diario,Exportación
+GT1609,Cultivo de Café en San Pedro Carchá,Cooperativa Integral de Producción Agrícola de San Pedro Carchá R.L.,true,Alto,949,3631,Noviembre-Marzo,Exportación
+GT1609,Cultivo de Cacao en San Pedro Carchá,Asociación de Productores y Comercializadores de San Pedro Carchá,true,Alto,451,2843,Diario,Exportación
+GT1609,Cultivo de Palma de Aceite en San Pedro Carchá,Asociación de Productores y Comercializadores de San Pedro Carchá,true,Alto,1254,3785,Diario,Exportación
+GT1610,Cultivo de Maíz en San Juan Chamelco,Cooperativa Integral de Producción Agrícola de San Juan Chamelco R.L.,false,Medio,1459,326,Mayo-Noviembre,Autoconsumo
+GT1610,Cultivo de Frijol en San Juan Chamelco,,false,Bajo,331,292,Mayo-Septiembre,Autoconsumo
+GT1610,Cultivo de Cardamomo en San Juan Chamelco,Asociación de Productores y Comercializadores de San Juan Chamelco,true,Medio,1429,3620,Diario,Mercado Nacional
+GT1610,Cultivo de Café en San Juan Chamelco,Cooperativa Integral de Producción Agrícola de San Juan Chamelco R.L.,true,Medio,672,4144,Noviembre-Marzo,Mercado Nacional
+GT1610,Cultivo de Cacao en San Juan Chamelco,Asociación de Productores y Comercializadores de San Juan Chamelco,true,Medio,564,2772,Diario,Mercado Nacional
+GT1611,Cultivo de Maíz en Lanquín,Cooperativa Integral de Producción Agrícola de Lanquín R.L.,false,Medio,1429,594,Mayo-Noviembre,Autoconsumo
+GT1611,Cultivo de Frijol en Lanquín,,false,Bajo,256,292,Mayo-Septiembre,Autoconsumo
+GT1611,Cultivo de Cardamomo en Lanquín,Asociación de Productores y Comercializadores de Lanquín,true,Alto,554,3122,Diario,Autoconsumo
+GT1611,Cultivo de Café en Lanquín,Cooperativa Integral de Producción Agrícola de Lanquín R.L.,true,Alto,613,2245,Noviembre-Marzo,Autoconsumo
+GT1611,Cultivo de Cacao en Lanquín,Asociación de Productores y Comercializadores de Lanquín,true,Alto,637,1663,Diario,Autoconsumo
+GT1612,Cultivo de Maíz en Cahabón,Cooperativa Integral de Producción Agrícola de Cahabón R.L.,false,Medio,1060,513,Mayo-Noviembre,Autoconsumo
+GT1612,Cultivo de Frijol en Cahabón,,false,Bajo,430,168,Mayo-Septiembre,Autoconsumo
+GT1612,Cultivo de Cardamomo en Cahabón,Asociación de Productores y Comercializadores de Cahabón,true,Medio,1362,4665,Diario,Mixto
+GT1612,Cultivo de Café en Cahabón,Cooperativa Integral de Producción Agrícola de Cahabón R.L.,true,Medio,881,4464,Noviembre-Marzo,Mixto
+GT1612,Cultivo de Cacao en Cahabón,Asociación de Productores y Comercializadores de Cahabón,true,Medio,461,2026,Diario,Mixto
+GT1613,Cultivo de Maíz en Chisec,Cooperativa Integral de Producción Agrícola de Chisec R.L.,false,Medio,802,475,Mayo-Noviembre,Autoconsumo
+GT1613,Cultivo de Frijol en Chisec,,false,Bajo,764,150,Mayo-Septiembre,Autoconsumo
+GT1613,Cultivo de Cardamomo en Chisec,Asociación de Productores y Comercializadores de Chisec,true,Alto,556,3560,Diario,Exportación
+GT1613,Cultivo de Café en Chisec,Cooperativa Integral de Producción Agrícola de Chisec R.L.,true,Alto,920,3516,Noviembre-Marzo,Exportación
+GT1613,Cultivo de Cacao en Chisec,Asociación de Productores y Comercializadores de Chisec,true,Alto,1392,1382,Diario,Exportación
+GT1614,Cultivo de Maíz en Chahal,Cooperativa Integral de Producción Agrícola de Chahal R.L.,false,Medio,1429,478,Mayo-Noviembre,Autoconsumo
+GT1614,Cultivo de Frijol en Chahal,,false,Bajo,372,231,Mayo-Septiembre,Autoconsumo
+GT1614,Cultivo de Cardamomo en Chahal,Asociación de Productores y Comercializadores de Chahal,true,Medio,1489,1631,Diario,Mercado Nacional
+GT1614,Cultivo de Café en Chahal,Cooperativa Integral de Producción Agrícola de Chahal R.L.,true,Medio,650,3698,Noviembre-Marzo,Mercado Nacional
+GT1614,Cultivo de Cacao en Chahal,Asociación de Productores y Comercializadores de Chahal,true,Medio,991,4451,Diario,Mercado Nacional
+GT1615,Cultivo de Maíz en Fray Bartolomé de Las Casas,Cooperativa Integral de Producción Agrícola de Fray Bartolomé de Las Casas R.L.,false,Medio,484,572,Mayo-Noviembre,Autoconsumo
+GT1615,Cultivo de Frijol en Fray Bartolomé de Las Casas,,false,Bajo,229,100,Mayo-Septiembre,Autoconsumo
+GT1615,Cultivo de Cardamomo en Fray Bartolomé de Las Casas,Asociación de Productores y Comercializadores de Fray Bartolomé de Las Casas,true,Alto,393,4885,Diario,Autoconsumo
+GT1615,Cultivo de Café en Fray Bartolomé de Las Casas,Cooperativa Integral de Producción Agrícola de Fray Bartolomé de Las Casas R.L.,true,Alto,1481,2084,Noviembre-Marzo,Autoconsumo
+GT1615,Cultivo de Cacao en Fray Bartolomé de Las Casas,Asociación de Productores y Comercializadores de Fray Bartolomé de Las Casas,true,Alto,731,4141,Diario,Autoconsumo
+GT1616,Cultivo de Maíz en Santa Catalina La Tinta,Cooperativa Integral de Producción Agrícola de Santa Catalina La Tinta R.L.,false,Medio,1253,466,Mayo-Noviembre,Autoconsumo
+GT1616,Cultivo de Frijol en Santa Catalina La Tinta,,false,Bajo,231,207,Mayo-Septiembre,Autoconsumo
+GT1616,Cultivo de Cardamomo en Santa Catalina La Tinta,Asociación de Productores y Comercializadores de Santa Catalina La Tinta,true,Medio,1417,2186,Diario,Mixto
+GT1616,Cultivo de Café en Santa Catalina La Tinta,Cooperativa Integral de Producción Agrícola de Santa Catalina La Tinta R.L.,true,Medio,918,2978,Noviembre-Marzo,Mixto
+GT1616,Cultivo de Cacao en Santa Catalina La Tinta,Asociación de Productores y Comercializadores de Santa Catalina La Tinta,true,Medio,801,4296,Diario,Mixto
+GT1617,Cultivo de Maíz en Raxruhá,Cooperativa Integral de Producción Agrícola de Raxruhá R.L.,false,Medio,1231,302,Mayo-Noviembre,Autoconsumo
+GT1617,Cultivo de Frijol en Raxruhá,,false,Bajo,664,98,Mayo-Septiembre,Autoconsumo
+GT1617,Cultivo de Cardamomo en Raxruhá,Asociación de Productores y Comercializadores de Raxruhá,true,Alto,422,1647,Diario,Exportación
+GT1617,Cultivo de Café en Raxruhá,Cooperativa Integral de Producción Agrícola de Raxruhá R.L.,true,Alto,1200,2702,Noviembre-Marzo,Exportación
+GT1617,Cultivo de Cacao en Raxruhá,Asociación de Productores y Comercializadores de Raxruhá,true,Alto,1291,2902,Diario,Exportación
+GT1617,Cultivo de Palma de Aceite en Raxruhá,Asociación de Productores y Comercializadores de Raxruhá,true,Alto,717,2393,Diario,Exportación
+GT1701,Cultivo de Maíz en Flores,Cooperativa Integral de Producción Agrícola de Flores R.L.,false,Medio,694,310,Mayo-Noviembre,Autoconsumo
+GT1701,Cultivo de Frijol en Flores,,false,Bajo,526,267,Mayo-Septiembre,Autoconsumo
+GT1701,Producción Ganadera en Flores,Asociación de Productores y Comercializadores de Flores,true,Medio,1007,4995,Diario,Mercado Nacional
+GT1701,Pesca y Acuicultura en Flores,Asociación de Productores y Comercializadores de Flores,true,Medio,1116,1535,Diario,Mercado Nacional
+GT1702,Cultivo de Maíz en San José,Cooperativa Integral de Producción Agrícola de San José R.L.,false,Medio,1158,413,Mayo-Noviembre,Autoconsumo
+GT1702,Cultivo de Frijol en San José,,false,Bajo,775,107,Mayo-Septiembre,Autoconsumo
+GT1702,Producción Ganadera en San José,Asociación de Productores y Comercializadores de San José,true,Alto,953,1990,Diario,Autoconsumo
+GT1702,Pesca y Acuicultura en San José,Asociación de Productores y Comercializadores de San José,true,Alto,1255,1501,Diario,Autoconsumo
+GT1703,Cultivo de Maíz en San Benito,Cooperativa Integral de Producción Agrícola de San Benito R.L.,false,Medio,947,380,Mayo-Noviembre,Autoconsumo
+GT1703,Cultivo de Frijol en San Benito,,false,Bajo,453,116,Mayo-Septiembre,Autoconsumo
+GT1703,Producción Ganadera en San Benito,Asociación de Productores y Comercializadores de San Benito,true,Medio,498,1207,Diario,Mixto
+GT1703,Pesca y Acuicultura en San Benito,Asociación de Productores y Comercializadores de San Benito,true,Medio,894,4872,Diario,Mixto
+GT1704,Cultivo de Maíz en San Andrés,Cooperativa Integral de Producción Agrícola de San Andrés R.L.,false,Medio,1186,592,Mayo-Noviembre,Autoconsumo
+GT1704,Cultivo de Frijol en San Andrés,,false,Bajo,628,143,Mayo-Septiembre,Autoconsumo
+GT1704,Producción Ganadera en San Andrés,Asociación de Productores y Comercializadores de San Andrés,true,Alto,627,4332,Diario,Exportación
+GT1704,Pesca y Acuicultura en San Andrés,Asociación de Productores y Comercializadores de San Andrés,true,Alto,970,4824,Diario,Exportación
+GT1705,Cultivo de Maíz en La Libertad,Cooperativa Integral de Producción Agrícola de La Libertad R.L.,false,Medio,1040,247,Mayo-Noviembre,Autoconsumo
+GT1705,Cultivo de Frijol en La Libertad,,false,Bajo,363,207,Mayo-Septiembre,Autoconsumo
+GT1705,Producción Ganadera en La Libertad,Asociación de Productores y Comercializadores de La Libertad,true,Medio,1354,2912,Diario,Mercado Nacional
+GT1705,Pesca y Acuicultura en La Libertad,Asociación de Productores y Comercializadores de La Libertad,true,Medio,1321,4600,Diario,Mercado Nacional
+GT1706,Cultivo de Maíz en San Francisco,Cooperativa Integral de Producción Agrícola de San Francisco R.L.,false,Medio,1031,404,Mayo-Noviembre,Autoconsumo
+GT1706,Cultivo de Frijol en San Francisco,,false,Bajo,223,103,Mayo-Septiembre,Autoconsumo
+GT1706,Producción Ganadera en San Francisco,Asociación de Productores y Comercializadores de San Francisco,true,Alto,1105,3070,Diario,Autoconsumo
+GT1706,Pesca y Acuicultura en San Francisco,Asociación de Productores y Comercializadores de San Francisco,true,Alto,1236,4959,Diario,Autoconsumo
+GT1707,Cultivo de Maíz en Santa Ana,Cooperativa Integral de Producción Agrícola de Santa Ana R.L.,false,Medio,893,260,Mayo-Noviembre,Autoconsumo
+GT1707,Cultivo de Frijol en Santa Ana,,false,Bajo,797,170,Mayo-Septiembre,Autoconsumo
+GT1707,Producción Ganadera en Santa Ana,Asociación de Productores y Comercializadores de Santa Ana,true,Medio,399,1207,Diario,Mixto
+GT1707,Pesca y Acuicultura en Santa Ana,Asociación de Productores y Comercializadores de Santa Ana,true,Medio,876,3027,Diario,Mixto
+GT1708,Cultivo de Maíz en Dolores,Cooperativa Integral de Producción Agrícola de Dolores R.L.,false,Medio,1363,296,Mayo-Noviembre,Autoconsumo
+GT1708,Cultivo de Frijol en Dolores,,false,Bajo,749,82,Mayo-Septiembre,Autoconsumo
+GT1708,Producción Ganadera en Dolores,Asociación de Productores y Comercializadores de Dolores,true,Alto,520,2765,Diario,Exportación
+GT1708,Pesca y Acuicultura en Dolores,Asociación de Productores y Comercializadores de Dolores,true,Alto,574,4614,Diario,Exportación
+GT1709,Cultivo de Maíz en San Luis,Cooperativa Integral de Producción Agrícola de San Luis R.L.,false,Medio,941,522,Mayo-Noviembre,Autoconsumo
+GT1709,Cultivo de Frijol en San Luis,,false,Bajo,574,275,Mayo-Septiembre,Autoconsumo
+GT1709,Producción Ganadera en San Luis,Asociación de Productores y Comercializadores de San Luis,true,Medio,1125,2498,Diario,Mercado Nacional
+GT1709,Pesca y Acuicultura en San Luis,Asociación de Productores y Comercializadores de San Luis,true,Medio,392,2640,Diario,Mercado Nacional
+GT1710,Cultivo de Maíz en Sayaxché,Cooperativa Integral de Producción Agrícola de Sayaxché R.L.,false,Medio,504,441,Mayo-Noviembre,Autoconsumo
+GT1710,Cultivo de Frijol en Sayaxché,,false,Bajo,775,129,Mayo-Septiembre,Autoconsumo
+GT1710,Producción Ganadera en Sayaxché,Asociación de Productores y Comercializadores de Sayaxché,true,Alto,1042,3266,Diario,Autoconsumo
+GT1710,Pesca y Acuicultura en Sayaxché,Asociación de Productores y Comercializadores de Sayaxché,true,Alto,891,1301,Diario,Autoconsumo
+GT1711,Cultivo de Maíz en Melchor de Mencos,Cooperativa Integral de Producción Agrícola de Melchor de Mencos R.L.,false,Medio,1191,408,Mayo-Noviembre,Autoconsumo
+GT1711,Cultivo de Frijol en Melchor de Mencos,,false,Bajo,661,275,Mayo-Septiembre,Autoconsumo
+GT1711,Producción Ganadera en Melchor de Mencos,Asociación de Productores y Comercializadores de Melchor de Mencos,true,Medio,1426,2145,Diario,Mixto
+GT1711,Pesca y Acuicultura en Melchor de Mencos,Asociación de Productores y Comercializadores de Melchor de Mencos,true,Medio,543,1527,Diario,Mixto
+GT1712,Cultivo de Maíz en Poptún,Cooperativa Integral de Producción Agrícola de Poptún R.L.,false,Medio,598,351,Mayo-Noviembre,Autoconsumo
+GT1712,Cultivo de Frijol en Poptún,,false,Bajo,582,283,Mayo-Septiembre,Autoconsumo
+GT1712,Producción Ganadera en Poptún,Asociación de Productores y Comercializadores de Poptún,true,Alto,994,3284,Diario,Exportación
+GT1712,Pesca y Acuicultura en Poptún,Asociación de Productores y Comercializadores de Poptún,true,Alto,1048,4092,Diario,Exportación
+GT1713,Cultivo de Maíz en Las Cruces,Cooperativa Integral de Producción Agrícola de Las Cruces R.L.,false,Medio,695,251,Mayo-Noviembre,Autoconsumo
+GT1713,Cultivo de Frijol en Las Cruces,,false,Bajo,721,182,Mayo-Septiembre,Autoconsumo
+GT1713,Producción Ganadera en Las Cruces,Asociación de Productores y Comercializadores de Las Cruces,true,Medio,1324,1164,Diario,Mercado Nacional
+GT1713,Pesca y Acuicultura en Las Cruces,Asociación de Productores y Comercializadores de Las Cruces,true,Medio,392,1159,Diario,Mercado Nacional
+GT1714,Cultivo de Maíz en El Chal,Cooperativa Integral de Producción Agrícola de El Chal R.L.,false,Medio,680,515,Mayo-Noviembre,Autoconsumo
+GT1714,Cultivo de Frijol en El Chal,,false,Bajo,541,285,Mayo-Septiembre,Autoconsumo
+GT1714,Producción Ganadera en El Chal,Asociación de Productores y Comercializadores de El Chal,true,Alto,1270,3127,Diario,Autoconsumo
+GT1714,Pesca y Acuicultura en El Chal,Asociación de Productores y Comercializadores de El Chal,true,Alto,1235,1610,Diario,Autoconsumo
+GT1801,Cultivo de Maíz en Puerto Barrios,Cooperativa Integral de Producción Agrícola de Puerto Barrios R.L.,false,Medio,1455,221,Mayo-Noviembre,Autoconsumo
+GT1801,Cultivo de Frijol en Puerto Barrios,,false,Bajo,535,236,Mayo-Septiembre,Autoconsumo
+GT1801,Cultivo de Cardamomo en Puerto Barrios,Asociación de Productores y Comercializadores de Puerto Barrios,true,Medio,952,1665,Diario,Mixto
+GT1801,Cultivo de Café en Puerto Barrios,Cooperativa Integral de Producción Agrícola de Puerto Barrios R.L.,true,Medio,1104,3525,Noviembre-Marzo,Mixto
+GT1801,Cultivo de Cacao en Puerto Barrios,Asociación de Productores y Comercializadores de Puerto Barrios,true,Medio,912,3431,Diario,Mixto
+GT1802,Cultivo de Maíz en Lívingston,Cooperativa Integral de Producción Agrícola de Lívingston R.L.,false,Medio,1088,409,Mayo-Noviembre,Autoconsumo
+GT1802,Cultivo de Frijol en Lívingston,,false,Bajo,721,216,Mayo-Septiembre,Autoconsumo
+GT1802,Cultivo de Cardamomo en Lívingston,Asociación de Productores y Comercializadores de Lívingston,true,Alto,1303,3902,Diario,Exportación
+GT1802,Cultivo de Café en Lívingston,Cooperativa Integral de Producción Agrícola de Lívingston R.L.,true,Alto,1452,2227,Noviembre-Marzo,Exportación
+GT1802,Cultivo de Cacao en Lívingston,Asociación de Productores y Comercializadores de Lívingston,true,Alto,1272,4341,Diario,Exportación
+GT1803,Cultivo de Maíz en El Estor,Cooperativa Integral de Producción Agrícola de El Estor R.L.,false,Medio,434,338,Mayo-Noviembre,Autoconsumo
+GT1803,Cultivo de Frijol en El Estor,,false,Bajo,539,252,Mayo-Septiembre,Autoconsumo
+GT1803,Cultivo de Cardamomo en El Estor,Asociación de Productores y Comercializadores de El Estor,true,Medio,524,2706,Diario,Mercado Nacional
+GT1803,Cultivo de Café en El Estor,Cooperativa Integral de Producción Agrícola de El Estor R.L.,true,Medio,1495,2260,Noviembre-Marzo,Mercado Nacional
+GT1803,Cultivo de Cacao en El Estor,Asociación de Productores y Comercializadores de El Estor,true,Medio,354,3444,Diario,Mercado Nacional
+GT1804,Cultivo de Maíz en Morales,Cooperativa Integral de Producción Agrícola de Morales R.L.,false,Medio,1371,285,Mayo-Noviembre,Autoconsumo
+GT1804,Cultivo de Frijol en Morales,,false,Bajo,792,227,Mayo-Septiembre,Autoconsumo
+GT1804,Cultivo de Cardamomo en Morales,Asociación de Productores y Comercializadores de Morales,true,Alto,766,3954,Diario,Autoconsumo
+GT1804,Cultivo de Café en Morales,Cooperativa Integral de Producción Agrícola de Morales R.L.,true,Alto,405,3390,Noviembre-Marzo,Autoconsumo
+GT1804,Cultivo de Cacao en Morales,Asociación de Productores y Comercializadores de Morales,true,Alto,1283,1698,Diario,Autoconsumo
+GT1805,Cultivo de Maíz en Los Amates,Cooperativa Integral de Producción Agrícola de Los Amates R.L.,false,Medio,1473,472,Mayo-Noviembre,Autoconsumo
+GT1805,Cultivo de Frijol en Los Amates,,false,Bajo,589,117,Mayo-Septiembre,Autoconsumo
+GT1805,Cultivo de Cardamomo en Los Amates,Asociación de Productores y Comercializadores de Los Amates,true,Medio,796,1129,Diario,Mixto
+GT1805,Cultivo de Café en Los Amates,Cooperativa Integral de Producción Agrícola de Los Amates R.L.,true,Medio,1472,4883,Noviembre-Marzo,Mixto
+GT1805,Cultivo de Cacao en Los Amates,Asociación de Productores y Comercializadores de Los Amates,true,Medio,525,1781,Diario,Mixto
+GT1901,Cultivo de Maíz en Zacapa,Cooperativa Integral de Producción Agrícola de Zacapa R.L.,false,Medio,438,375,Mayo-Noviembre,Autoconsumo
+GT1901,Cultivo de Frijol en Zacapa,,false,Bajo,521,187,Mayo-Septiembre,Autoconsumo
+GT1901,Producción Ganadera en Zacapa,Asociación de Productores y Comercializadores de Zacapa,true,Alto,610,2691,Diario,Exportación
+GT1902,Cultivo de Maíz en Estanzuela,Cooperativa Integral de Producción Agrícola de Estanzuela R.L.,false,Medio,817,360,Mayo-Noviembre,Autoconsumo
+GT1902,Cultivo de Frijol en Estanzuela,,false,Bajo,713,278,Mayo-Septiembre,Autoconsumo
+GT1902,Producción Ganadera en Estanzuela,Asociación de Productores y Comercializadores de Estanzuela,true,Medio,1265,4575,Diario,Mercado Nacional
+GT1903,Cultivo de Maíz en Río Hondo,Cooperativa Integral de Producción Agrícola de Río Hondo R.L.,false,Medio,527,511,Mayo-Noviembre,Autoconsumo
+GT1903,Cultivo de Frijol en Río Hondo,,false,Bajo,341,212,Mayo-Septiembre,Autoconsumo
+GT1903,Producción Ganadera en Río Hondo,Asociación de Productores y Comercializadores de Río Hondo,true,Alto,724,3297,Diario,Autoconsumo
+GT1904,Cultivo de Maíz en Gualán,Cooperativa Integral de Producción Agrícola de Gualán R.L.,false,Medio,1065,489,Mayo-Noviembre,Autoconsumo
+GT1904,Cultivo de Frijol en Gualán,,false,Bajo,689,214,Mayo-Septiembre,Autoconsumo
+GT1904,Producción Ganadera en Gualán,Asociación de Productores y Comercializadores de Gualán,true,Medio,1071,2285,Diario,Mixto
+GT1905,Cultivo de Maíz en Teculután,Cooperativa Integral de Producción Agrícola de Teculután R.L.,false,Medio,754,385,Mayo-Noviembre,Autoconsumo
+GT1905,Cultivo de Frijol en Teculután,,false,Bajo,745,167,Mayo-Septiembre,Autoconsumo
+GT1905,Producción Ganadera en Teculután,Asociación de Productores y Comercializadores de Teculután,true,Alto,1418,2451,Diario,Exportación
+GT1906,Cultivo de Maíz en Usumatlán,Cooperativa Integral de Producción Agrícola de Usumatlán R.L.,false,Medio,941,462,Mayo-Noviembre,Autoconsumo
+GT1906,Cultivo de Frijol en Usumatlán,,false,Bajo,695,129,Mayo-Septiembre,Autoconsumo
+GT1906,Producción Ganadera en Usumatlán,Asociación de Productores y Comercializadores de Usumatlán,true,Medio,804,2142,Diario,Mercado Nacional
+GT1907,Cultivo de Maíz en Cabañas,Cooperativa Integral de Producción Agrícola de Cabañas R.L.,false,Medio,1011,265,Mayo-Noviembre,Autoconsumo
+GT1907,Cultivo de Frijol en Cabañas,,false,Bajo,504,277,Mayo-Septiembre,Autoconsumo
+GT1907,Producción Ganadera en Cabañas,Asociación de Productores y Comercializadores de Cabañas,true,Alto,891,3887,Diario,Autoconsumo
+GT1908,Cultivo de Maíz en San Diego,Cooperativa Integral de Producción Agrícola de San Diego R.L.,false,Medio,824,503,Mayo-Noviembre,Autoconsumo
+GT1908,Cultivo de Frijol en San Diego,,false,Bajo,700,161,Mayo-Septiembre,Autoconsumo
+GT1908,Producción Ganadera en San Diego,Asociación de Productores y Comercializadores de San Diego,true,Medio,1282,2428,Diario,Mixto
+GT1909,Cultivo de Maíz en La Unión,Cooperativa Integral de Producción Agrícola de La Unión R.L.,false,Medio,960,297,Mayo-Noviembre,Autoconsumo
+GT1909,Cultivo de Frijol en La Unión,,false,Bajo,324,226,Mayo-Septiembre,Autoconsumo
+GT1909,Producción Ganadera en La Unión,Asociación de Productores y Comercializadores de La Unión,true,Alto,1412,2555,Diario,Exportación
+GT1910,Cultivo de Maíz en Huité,Cooperativa Integral de Producción Agrícola de Huité R.L.,false,Medio,1208,569,Mayo-Noviembre,Autoconsumo
+GT1910,Cultivo de Frijol en Huité,,false,Bajo,553,277,Mayo-Septiembre,Autoconsumo
+GT1910,Producción Ganadera en Huité,Asociación de Productores y Comercializadores de Huité,true,Medio,599,2189,Diario,Mercado Nacional
+GT1911,Cultivo de Maíz en San Jorge,Cooperativa Integral de Producción Agrícola de San Jorge R.L.,false,Medio,486,297,Mayo-Noviembre,Autoconsumo
+GT1911,Cultivo de Frijol en San Jorge,,false,Bajo,280,168,Mayo-Septiembre,Autoconsumo
+GT1911,Producción Ganadera en San Jorge,Asociación de Productores y Comercializadores de San Jorge,true,Alto,1205,3686,Diario,Autoconsumo
+GT2001,Cultivo de Maíz en Chiquimula,Cooperativa Integral de Producción Agrícola de Chiquimula R.L.,false,Medio,925,532,Mayo-Noviembre,Autoconsumo
+GT2001,Cultivo de Frijol en Chiquimula,,false,Bajo,690,134,Mayo-Septiembre,Autoconsumo
+GT2001,Producción Ganadera en Chiquimula,Asociación de Productores y Comercializadores de Chiquimula,true,Medio,713,4391,Diario,Mixto
+GT2002,Cultivo de Maíz en San José La Arada,Cooperativa Integral de Producción Agrícola de San José La Arada R.L.,false,Medio,955,437,Mayo-Noviembre,Autoconsumo
+GT2002,Cultivo de Frijol en San José La Arada,,false,Bajo,478,115,Mayo-Septiembre,Autoconsumo
+GT2002,Producción Ganadera en San José La Arada,Asociación de Productores y Comercializadores de San José La Arada,true,Alto,523,3521,Diario,Exportación
+GT2003,Cultivo de Maíz en San Juan Ermita,Cooperativa Integral de Producción Agrícola de San Juan Ermita R.L.,false,Medio,890,274,Mayo-Noviembre,Autoconsumo
+GT2003,Cultivo de Frijol en San Juan Ermita,,false,Bajo,251,251,Mayo-Septiembre,Autoconsumo
+GT2003,Producción Ganadera en San Juan Ermita,Asociación de Productores y Comercializadores de San Juan Ermita,true,Medio,1387,1924,Diario,Mercado Nacional
+GT2004,Cultivo de Maíz en Jocotán,Cooperativa Integral de Producción Agrícola de Jocotán R.L.,false,Medio,876,176,Mayo-Noviembre,Autoconsumo
+GT2004,Cultivo de Frijol en Jocotán,,false,Bajo,302,185,Mayo-Septiembre,Autoconsumo
+GT2004,Producción Ganadera en Jocotán,Asociación de Productores y Comercializadores de Jocotán,true,Alto,976,3938,Diario,Autoconsumo
+GT2005,Cultivo de Maíz en Camotán,Cooperativa Integral de Producción Agrícola de Camotán R.L.,false,Medio,1367,201,Mayo-Noviembre,Autoconsumo
+GT2005,Cultivo de Frijol en Camotán,,false,Bajo,340,81,Mayo-Septiembre,Autoconsumo
+GT2005,Producción Ganadera en Camotán,Asociación de Productores y Comercializadores de Camotán,true,Medio,1427,4805,Diario,Mixto
+GT2006,Cultivo de Maíz en Olopa,Cooperativa Integral de Producción Agrícola de Olopa R.L.,false,Medio,723,358,Mayo-Noviembre,Autoconsumo
+GT2006,Cultivo de Frijol en Olopa,,false,Bajo,687,202,Mayo-Septiembre,Autoconsumo
+GT2006,Producción Ganadera en Olopa,Asociación de Productores y Comercializadores de Olopa,true,Alto,708,4096,Diario,Exportación
+GT2007,Cultivo de Maíz en Esquipulas,Cooperativa Integral de Producción Agrícola de Esquipulas R.L.,false,Medio,988,314,Mayo-Noviembre,Autoconsumo
+GT2007,Cultivo de Frijol en Esquipulas,,false,Bajo,492,245,Mayo-Septiembre,Autoconsumo
+GT2007,Producción Ganadera en Esquipulas,Asociación de Productores y Comercializadores de Esquipulas,true,Medio,421,4718,Diario,Mercado Nacional
+GT2008,Cultivo de Maíz en Concepción Las Minas,Cooperativa Integral de Producción Agrícola de Concepción Las Minas R.L.,false,Medio,583,483,Mayo-Noviembre,Autoconsumo
+GT2008,Cultivo de Frijol en Concepción Las Minas,,false,Bajo,787,139,Mayo-Septiembre,Autoconsumo
+GT2008,Producción Ganadera en Concepción Las Minas,Asociación de Productores y Comercializadores de Concepción Las Minas,true,Alto,1395,4025,Diario,Autoconsumo
+GT2009,Cultivo de Maíz en Quezaltepeque,Cooperativa Integral de Producción Agrícola de Quezaltepeque R.L.,false,Medio,476,239,Mayo-Noviembre,Autoconsumo
+GT2009,Cultivo de Frijol en Quezaltepeque,,false,Bajo,627,294,Mayo-Septiembre,Autoconsumo
+GT2009,Producción Ganadera en Quezaltepeque,Asociación de Productores y Comercializadores de Quezaltepeque,true,Medio,660,4825,Diario,Mixto
+GT2010,Cultivo de Maíz en San Jacinto,Cooperativa Integral de Producción Agrícola de San Jacinto R.L.,false,Medio,474,578,Mayo-Noviembre,Autoconsumo
+GT2010,Cultivo de Frijol en San Jacinto,,false,Bajo,606,281,Mayo-Septiembre,Autoconsumo
+GT2010,Producción Ganadera en San Jacinto,Asociación de Productores y Comercializadores de San Jacinto,true,Alto,1314,1763,Diario,Exportación
+GT2011,Cultivo de Maíz en Ipala,Cooperativa Integral de Producción Agrícola de Ipala R.L.,false,Medio,992,598,Mayo-Noviembre,Autoconsumo
+GT2011,Cultivo de Frijol en Ipala,,false,Bajo,238,82,Mayo-Septiembre,Autoconsumo
+GT2011,Producción Ganadera en Ipala,Asociación de Productores y Comercializadores de Ipala,true,Medio,911,3326,Diario,Mercado Nacional
+GT2101,Cultivo de Maíz en Jalapa,Cooperativa Integral de Producción Agrícola de Jalapa R.L.,false,Medio,619,321,Mayo-Noviembre,Autoconsumo
+GT2101,Cultivo de Frijol en Jalapa,,false,Bajo,491,196,Mayo-Septiembre,Autoconsumo
+GT2101,Producción Ganadera en Jalapa,Asociación de Productores y Comercializadores de Jalapa,true,Alto,1412,3147,Diario,Autoconsumo
+GT2102,Cultivo de Maíz en San Pedro Pinula,Cooperativa Integral de Producción Agrícola de San Pedro Pinula R.L.,false,Medio,1411,218,Mayo-Noviembre,Autoconsumo
+GT2102,Cultivo de Frijol en San Pedro Pinula,,false,Bajo,716,199,Mayo-Septiembre,Autoconsumo
+GT2102,Producción Ganadera en San Pedro Pinula,Asociación de Productores y Comercializadores de San Pedro Pinula,true,Medio,858,1789,Diario,Mixto
+GT2103,Cultivo de Maíz en San Luis Jilotepeque,Cooperativa Integral de Producción Agrícola de San Luis Jilotepeque R.L.,false,Medio,630,319,Mayo-Noviembre,Autoconsumo
+GT2103,Cultivo de Frijol en San Luis Jilotepeque,,false,Bajo,366,267,Mayo-Septiembre,Autoconsumo
+GT2103,Producción Ganadera en San Luis Jilotepeque,Asociación de Productores y Comercializadores de San Luis Jilotepeque,true,Alto,1239,3655,Diario,Exportación
+GT2104,Cultivo de Maíz en San Manuel Chaparrón,Cooperativa Integral de Producción Agrícola de San Manuel Chaparrón R.L.,false,Medio,926,517,Mayo-Noviembre,Autoconsumo
+GT2104,Cultivo de Frijol en San Manuel Chaparrón,,false,Bajo,390,83,Mayo-Septiembre,Autoconsumo
+GT2104,Producción Ganadera en San Manuel Chaparrón,Asociación de Productores y Comercializadores de San Manuel Chaparrón,true,Medio,990,4238,Diario,Mercado Nacional
+GT2105,Cultivo de Maíz en San Carlos Alzatate,Cooperativa Integral de Producción Agrícola de San Carlos Alzatate R.L.,false,Medio,1004,440,Mayo-Noviembre,Autoconsumo
+GT2105,Cultivo de Frijol en San Carlos Alzatate,,false,Bajo,397,124,Mayo-Septiembre,Autoconsumo
+GT2105,Producción Ganadera en San Carlos Alzatate,Asociación de Productores y Comercializadores de San Carlos Alzatate,true,Alto,1130,4387,Diario,Autoconsumo
+GT2106,Cultivo de Maíz en Monjas,Cooperativa Integral de Producción Agrícola de Monjas R.L.,false,Medio,1275,413,Mayo-Noviembre,Autoconsumo
+GT2106,Cultivo de Frijol en Monjas,,false,Bajo,535,102,Mayo-Septiembre,Autoconsumo
+GT2106,Producción Ganadera en Monjas,Asociación de Productores y Comercializadores de Monjas,true,Medio,1120,3741,Diario,Mixto
+GT2107,Cultivo de Maíz en Mataquescuintla,Cooperativa Integral de Producción Agrícola de Mataquescuintla R.L.,false,Medio,595,244,Mayo-Noviembre,Autoconsumo
+GT2107,Cultivo de Frijol en Mataquescuintla,,false,Bajo,343,202,Mayo-Septiembre,Autoconsumo
+GT2107,Producción Ganadera en Mataquescuintla,Asociación de Productores y Comercializadores de Mataquescuintla,true,Alto,962,4833,Diario,Exportación
+GT2201,Cultivo de Maíz en Jutiapa,Cooperativa Integral de Producción Agrícola de Jutiapa R.L.,false,Medio,908,153,Mayo-Noviembre,Autoconsumo
+GT2201,Cultivo de Frijol en Jutiapa,,false,Bajo,467,178,Mayo-Septiembre,Autoconsumo
+GT2201,Producción Ganadera en Jutiapa,Asociación de Productores y Comercializadores de Jutiapa,true,Medio,782,2829,Diario,Mercado Nacional
+GT2202,Cultivo de Maíz en El Progreso,Cooperativa Integral de Producción Agrícola de El Progreso R.L.,false,Medio,946,318,Mayo-Noviembre,Autoconsumo
+GT2202,Cultivo de Frijol en El Progreso,,false,Bajo,509,229,Mayo-Septiembre,Autoconsumo
+GT2202,Producción Ganadera en El Progreso,Asociación de Productores y Comercializadores de El Progreso,true,Alto,1473,1046,Diario,Autoconsumo
+GT2203,Cultivo de Maíz en Santa Catarina Mita,Cooperativa Integral de Producción Agrícola de Santa Catarina Mita R.L.,false,Medio,935,484,Mayo-Noviembre,Autoconsumo
+GT2203,Cultivo de Frijol en Santa Catarina Mita,,false,Bajo,568,257,Mayo-Septiembre,Autoconsumo
+GT2203,Producción Ganadera en Santa Catarina Mita,Asociación de Productores y Comercializadores de Santa Catarina Mita,true,Medio,783,1254,Diario,Mixto
+GT2204,Cultivo de Maíz en Agua Blanca,Cooperativa Integral de Producción Agrícola de Agua Blanca R.L.,false,Medio,642,388,Mayo-Noviembre,Autoconsumo
+GT2204,Cultivo de Frijol en Agua Blanca,,false,Bajo,514,120,Mayo-Septiembre,Autoconsumo
+GT2204,Producción Ganadera en Agua Blanca,Asociación de Productores y Comercializadores de Agua Blanca,true,Alto,1130,3810,Diario,Exportación
+GT2205,Cultivo de Maíz en Asunción Mita,Cooperativa Integral de Producción Agrícola de Asunción Mita R.L.,false,Medio,1429,510,Mayo-Noviembre,Autoconsumo
+GT2205,Cultivo de Frijol en Asunción Mita,,false,Bajo,518,256,Mayo-Septiembre,Autoconsumo
+GT2205,Producción Ganadera en Asunción Mita,Asociación de Productores y Comercializadores de Asunción Mita,true,Medio,540,3616,Diario,Mercado Nacional
+GT2206,Cultivo de Maíz en Yupiltepeque,Cooperativa Integral de Producción Agrícola de Yupiltepeque R.L.,false,Medio,1004,338,Mayo-Noviembre,Autoconsumo
+GT2206,Cultivo de Frijol en Yupiltepeque,,false,Bajo,426,136,Mayo-Septiembre,Autoconsumo
+GT2206,Producción Ganadera en Yupiltepeque,Asociación de Productores y Comercializadores de Yupiltepeque,true,Alto,573,2958,Diario,Autoconsumo
+GT2207,Cultivo de Maíz en Atescatempa,Cooperativa Integral de Producción Agrícola de Atescatempa R.L.,false,Medio,713,382,Mayo-Noviembre,Autoconsumo
+GT2207,Cultivo de Frijol en Atescatempa,,false,Bajo,582,186,Mayo-Septiembre,Autoconsumo
+GT2207,Producción Ganadera en Atescatempa,Asociación de Productores y Comercializadores de Atescatempa,true,Medio,1424,4738,Diario,Mixto
+GT2208,Cultivo de Maíz en Jerez,Cooperativa Integral de Producción Agrícola de Jerez R.L.,false,Medio,1364,537,Mayo-Noviembre,Autoconsumo
+GT2208,Cultivo de Frijol en Jerez,,false,Bajo,750,285,Mayo-Septiembre,Autoconsumo
+GT2208,Producción Ganadera en Jerez,Asociación de Productores y Comercializadores de Jerez,true,Alto,747,4120,Diario,Exportación
+GT2209,Cultivo de Maíz en El Adelanto,Cooperativa Integral de Producción Agrícola de El Adelanto R.L.,false,Medio,906,498,Mayo-Noviembre,Autoconsumo
+GT2209,Cultivo de Frijol en El Adelanto,,false,Bajo,283,214,Mayo-Septiembre,Autoconsumo
+GT2209,Producción Ganadera en El Adelanto,Asociación de Productores y Comercializadores de El Adelanto,true,Medio,1214,3163,Diario,Mercado Nacional
+GT2210,Cultivo de Maíz en Zapotitlán,Cooperativa Integral de Producción Agrícola de Zapotitlán R.L.,false,Medio,1140,189,Mayo-Noviembre,Autoconsumo
+GT2210,Cultivo de Frijol en Zapotitlán,,false,Bajo,777,108,Mayo-Septiembre,Autoconsumo
+GT2210,Producción Ganadera en Zapotitlán,Asociación de Productores y Comercializadores de Zapotitlán,true,Alto,426,4394,Diario,Autoconsumo
+GT2211,Cultivo de Maíz en Comapa,Cooperativa Integral de Producción Agrícola de Comapa R.L.,false,Medio,1435,253,Mayo-Noviembre,Autoconsumo
+GT2211,Cultivo de Frijol en Comapa,,false,Bajo,786,217,Mayo-Septiembre,Autoconsumo
+GT2211,Producción Ganadera en Comapa,Asociación de Productores y Comercializadores de Comapa,true,Medio,606,1673,Diario,Mixto
+GT2212,Cultivo de Maíz en Jalpatagua,Cooperativa Integral de Producción Agrícola de Jalpatagua R.L.,false,Medio,1071,587,Mayo-Noviembre,Autoconsumo
+GT2212,Cultivo de Frijol en Jalpatagua,,false,Bajo,732,193,Mayo-Septiembre,Autoconsumo
+GT2212,Producción Ganadera en Jalpatagua,Asociación de Productores y Comercializadores de Jalpatagua,true,Alto,538,3786,Diario,Exportación
+GT2213,Cultivo de Maíz en Conguaco,Cooperativa Integral de Producción Agrícola de Conguaco R.L.,false,Medio,820,517,Mayo-Noviembre,Autoconsumo
+GT2213,Cultivo de Frijol en Conguaco,,false,Bajo,797,205,Mayo-Septiembre,Autoconsumo
+GT2213,Producción Ganadera en Conguaco,Asociación de Productores y Comercializadores de Conguaco,true,Medio,486,4681,Diario,Mercado Nacional
+GT2214,Cultivo de Maíz en Moyuta,Cooperativa Integral de Producción Agrícola de Moyuta R.L.,false,Medio,1445,378,Mayo-Noviembre,Autoconsumo
+GT2214,Cultivo de Frijol en Moyuta,,false,Bajo,256,196,Mayo-Septiembre,Autoconsumo
+GT2214,Producción Ganadera en Moyuta,Asociación de Productores y Comercializadores de Moyuta,true,Alto,570,3102,Diario,Autoconsumo
+GT2215,Cultivo de Maíz en Pasaco,Cooperativa Integral de Producción Agrícola de Pasaco R.L.,false,Medio,1250,383,Mayo-Noviembre,Autoconsumo
+GT2215,Cultivo de Frijol en Pasaco,,false,Bajo,777,94,Mayo-Septiembre,Autoconsumo
+GT2215,Producción Ganadera en Pasaco,Asociación de Productores y Comercializadores de Pasaco,true,Medio,1444,2893,Diario,Mixto
+GT2216,Cultivo de Maíz en San José Acatempa,Cooperativa Integral de Producción Agrícola de San José Acatempa R.L.,false,Medio,1031,520,Mayo-Noviembre,Autoconsumo
+GT2216,Cultivo de Frijol en San José Acatempa,,false,Bajo,222,181,Mayo-Septiembre,Autoconsumo
+GT2216,Producción Ganadera en San José Acatempa,Asociación de Productores y Comercializadores de San José Acatempa,true,Alto,821,4344,Diario,Exportación
+GT2217,Cultivo de Maíz en Quesada,Cooperativa Integral de Producción Agrícola de Quesada R.L.,false,Medio,406,531,Mayo-Noviembre,Autoconsumo
+GT2217,Cultivo de Frijol en Quesada,,false,Bajo,423,228,Mayo-Septiembre,Autoconsumo
+GT2217,Producción Ganadera en Quesada,Asociación de Productores y Comercializadores de Quesada,true,Medio,449,1185,Diario,Mercado Nacional
