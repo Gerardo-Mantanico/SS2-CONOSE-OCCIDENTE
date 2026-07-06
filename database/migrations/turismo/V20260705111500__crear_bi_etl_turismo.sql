@@ -1,9 +1,7 @@
 -- ============================================================
 -- Migracion: modelo BI y estructuras ETL para turismo
 -- Objetivo: preparar staging, dimensiones, hechos y datamarts.
--- Correccion aplicada: las dimensiones de geografia se derivan de geografia.departamento/geografia.municipio.
 -- ============================================================
-
 -- ============================================================
 -- Control ETL especifico del dominio turismo
 -- ============================================================
