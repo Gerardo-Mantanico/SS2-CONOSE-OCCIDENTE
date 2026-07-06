@@ -7,7 +7,7 @@
 - **artesania**: `artista_artesano`, `evento_exposicion_arte`, `material_arte`, `obra_arte_artesania`, `obra_material`, `obra_tecnica`, `participante_evento`, `produccion_artesanal_municipal`, `taller_colectivo`, `tecnica_artesanal`, `tipo_obra_arte`
 - **auditoria**: `registro`
 - **auth**: `cuenta`, `rol`
-- **clima**: `fuente_clima`, `registro_climatico`
+- **clima**: `estacion`, `registro_climatico`
 - **cultura**: `evento_cultural`, `evento_municipio`, `idioma`, `idioma_municipio`, `ingrediente_autoctono`, `plato_geografia`, `plato_ingrediente`, `plato_tipico`
 - **demografia**: `estado_civil`, `grupo_etnico`, `persona`, `sexo`
 - **economia**: `actividad_materia`, `actividad_productiva`, `centro_acopio_procesamiento`, `certificacion`, `cooperativa_asociacion`, `materia_prima`, `mercado_tradicional`, `produccion_certificada`, `produccion_municipal`, `ruta_comercio`, `servicio_financiero`
@@ -229,82 +229,95 @@ Catálogo de roles disponibles para controlar los permisos de acceso al sistema.
 
 ## Schema: `clima`
 
-### `clima.fuente_clima`
+### `clima.estacion`
 
-Catálogo de fuentes proveedoras de información climática.
+Estaciones meteorologicas que reportan datos climaticos.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id | integer | no | X |  | `IDENTITY` | Identificador único de la fuente climática. |
-| nombre | character varying(100) | no |  |  |  | Nombre de la fuente de datos climáticos. |
-| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró la fuente. |
+| id | integer | no | X |  | `IDENTITY` |  |
+| codigo | character varying(50) | no |  |  |  | Codigo de la estacion segun la fuente. Clave natural. |
+| nombre | character varying(200) | no |  |  |  | Nombre de la estacion. |
+| ubicacion | text | sí |  |  |  | Ubicacion o descripcion del sitio de la estacion. |
+| latitud | numeric(10,7) | sí |  |  |  | Latitud de la estacion en grados decimales. |
+| longitud | numeric(10,7) | sí |  |  |  | Longitud de la estacion en grados decimales. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Carga (meta.carga) que registro o actualizo esta estacion. |
 
 ### `clima.registro_climatico`
 
-Registros de variables climáticas observadas para un municipio en una fecha y hora determinadas.
+Mediciones climáticas diarias por estación. Una fila por estación y fecha.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id | integer | no | X |  | `IDENTITY` | Identificador único del registro climático. |
-| fuente_clima_id | integer | no |  | clima.fuente_clima(id) |  | Fuente de la cual provienen los datos climáticos. |
-| municipio_id | integer | no |  | geografia.municipio(id) |  | Municipio al que corresponde la medición climática. |
-| fecha | date | sí |  |  |  | Fecha en que se realizó la medición. |
-| hora | time without time zone | sí |  |  |  | Hora en que se realizó la medición. |
-| velocidad_viento | numeric(8,2) | sí |  |  |  | Velocidad del viento registrada, expresada en kilómetros por hora. |
-| humedad_relativa | numeric(5,2) | sí |  |  |  | Humedad relativa del aire expresada como porcentaje. |
-| precipitacion | numeric(8,2) | sí |  |  |  | Cantidad de precipitación registrada durante el período de observación, expresada en milímetros. |
-| carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró la medición. |
+| id | bigint | no | X |  | `IDENTITY` |  |
+| estacion_id | integer | no |  | clima.estacion(id) |  | Estación que produjo el registro. |
+| fecha | date | no |  |  |  | Fecha del registro (dia). |
+| lluvia | numeric | sí |  |  |  | Precipitación (lluvia) del dia, en mm. |
+| temperatura_maxima | numeric | sí |  |  |  | Temperatura maxima del dia, en grados Celsius. |
+| temperatura_minima | numeric | sí |  |  |  | Temperatura minima del dia, en grados Celsius. |
+| temperatura_media | numeric | sí |  |  |  | Temperatura media del dia, en grados Celsius. |
+| evaporacion_tanque | numeric | sí |  |  |  | Evaporación medida en tanque, en mm. |
+| humedad_relativa | numeric | sí |  |  |  | Humedad relativa, en porcentaje. |
+| brillo_solar | numeric | sí |  |  |  | Brillo solar (horas de sol). |
+| nubosidad | numeric | sí |  |  |  | Nubosidad reportada por la estación. |
+| velocidad_viento | numeric | sí |  |  |  | Velocidad del viento según la fuente. |
+| direccion_viento | numeric | sí |  |  |  | Dirección del viento, en grados. |
+| presion_atmosferica | numeric | sí |  |  |  | Presión atmosférica, en hPa. |
+| temperatura_suelo_50cm | numeric | sí |  |  |  | Temperatura del suelo a 50 cm, en grados Celsius. |
+| temperatura_suelo_100cm | numeric | sí |  |  |  | Temperatura del suelo a 100 cm, en grados Celsius. |
+| radiacion | numeric | sí |  |  |  | Radiación solar según la fuente. |
+| carga_id | integer | sí |  | meta.carga(id) |  | Carga (meta.carga) que registro o actualizo esta fila. |
 
 
 ## Schema: `cultura`
 
 ### `cultura.evento_cultural`
 
-Registro de festividades, ferias patronales, festivales y ceremonias tradicionales.
+Ferias patronales, festivales folklóricos y celebraciones tradicionales notables de Guatemala.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
 | id | integer | no | X |  | `IDENTITY` | Identificador único del evento. |
-| nombre | character varying(200) | no |  |  |  | Nombre oficial del evento o festividad. |
-| tipo_evento | character varying(100) | sí |  |  |  | Tipo de festividad (ej: Feria Patronal, Festival Artístico, Ceremonia Espiritual). |
-| mes_celebracion | integer | sí |  |  |  | Mes del año en que se realiza la celebración (1-12). |
-| dia_inicio | integer | sí |  |  |  | Día del mes en que inicia la festividad. |
-| dia_fin | integer | sí |  |  |  | Día del mes en que finaliza la festividad. |
-| descripcion | text | sí |  |  |  | Descripción del contexto, tradición y actividades del evento. |
-| recomendaciones_viaje | text | sí |  |  |  | Consejos prácticos para viajeros que desean asistir al evento. |
+| nombre | character varying(200) | no |  |  |  | Nombre de la celebración o festividad. |
+| tipo_evento | character varying(100) | sí |  |  |  | Categoría del evento (ej: Feria Patronal, Ceremonia, Festival Artístico). |
+| mes_celebracion | integer | sí |  |  |  | Mes del año en que ocurre la celebración (1-12). |
+| dia_inicio | integer | sí |  |  |  | Día del mes en que comienza la festividad. |
+| dia_fin | integer | sí |  |  |  | Día del mes en que termina la festividad. |
+| descripcion | text | sí |  |  |  | Reseña de las actividades, danzas y rituales del evento. |
+| recomendaciones_viaje | text | sí |  |  |  | Consejos prácticos para visitantes locales y extranjeros durante el evento. |
 | carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el evento. |
 
 ### `cultura.evento_municipio`
 
-Tabla asociativa que mapea la ubicación municipal donde se celebran los eventos culturales.
+Vínculo de las celebraciones con los municipios en los que se llevan a cabo.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| evento_id | integer | no | X | cultura.evento_cultural(id) |  | Identificador único del evento. |
-| municipio_id | integer | no | X | geografia.municipio(id) |  | Identificador único del municipio. |
+| evento_id | integer | no | X | cultura.evento_cultural(id) |  | Identificador del evento cultural. |
+| municipio_id | integer | no | X | geografia.municipio(id) |  | Municipio donde se celebra la festividad. |
 
 ### `cultura.idioma`
 
-Catálogo de idiomas nacionales hablados en el territorio guatemalteco (mayas, garífuna, xinka y español).
+Idiomas oficiales y lenguas nacionales habladas en el territorio de Guatemala.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
 | id | integer | no | X |  | `IDENTITY` | Identificador único del idioma. |
-| nombre | character varying(100) | no |  |  |  | Nombre oficial del idioma. |
+| nombre | character varying(100) | no |  |  |  | Nombre oficial del idioma (ej: K'iche', Q'eqchi', Garífuna). |
 | familia_linguistica | character varying(100) | sí |  |  |  | Familia lingüística a la que pertenece el idioma (ej: Maya, Arahuaca, Aislada). |
-| estado_vitalidad | character varying(50) | sí |  |  |  | Estado de vitalidad del idioma (ej: Vital, En peligro, Crítico). |
-| descripcion | text | sí |  |  |  | Reseña e información relevante sobre la historia o distribución del idioma. |
+| estado_vitalidad | character varying(50) | sí |  |  |  | Estado de conservación y uso del idioma (ej: Vital, En peligro, Crítico). |
+| descripcion | text | sí |  |  |  | Reseña histórica y cultural del idioma. |
 | carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el idioma. |
 
 ### `cultura.idioma_municipio`
 
-Tabla asociativa que mapea la distribución territorial y relevancia de los idiomas en los municipios.
+Mapeo de distribución territorial de los idiomas en los diferentes municipios del país.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| idioma_id | integer | no | X | cultura.idioma(id) |  | Identificador único del idioma. |
-| municipio_id | integer | no | X | geografia.municipio(id) |  | Identificador único del municipio. |
-| es_predominante | boolean | sí |  |  | `false` | Indica si el idioma es el predominante en el municipio. |
+| idioma_id | integer | no | X | cultura.idioma(id) |  | Identificador del idioma. |
+| municipio_id | integer | no | X | geografia.municipio(id) |  | Municipio donde se habla el idioma. |
+| es_predominante | boolean | sí |  |  | `false` | Indica si el idioma es el más hablado o de uso principal en el municipio. |
 
 ### `cultura.ingrediente_autoctono`
 
@@ -314,28 +327,28 @@ Ingredientes originarios o tradicionales de la gastronomía guatemalteca.
 |---|---|---|---|---|---|---|
 | id | integer | no | X |  | `IDENTITY` | Identificador único del ingrediente. |
 | nombre | character varying(100) | no |  |  |  | Nombre del ingrediente (ej: Cacao, Pepitoria, Chile Cobanero). |
-| descripcion | text | sí |  |  |  | Descripción de las propiedades o uso del ingrediente. |
-| origen_prehispanico | boolean | sí |  |  | `true` | Indica si el ingrediente tiene origen prehispánico en la región. |
+| descripcion | text | sí |  |  |  | Descripción del ingrediente y sus usos comunes. |
+| origen_prehispanico | boolean | sí |  |  | `true` | Indica si el ingrediente era cultivado y consumido en la época prehispánica. |
 | carga_id | integer | sí |  | meta.carga(id) |  | Referencia a la carga de datos mediante la cual se registró el ingrediente. |
 
 ### `cultura.plato_geografia`
 
-Relación geográfica de origen o arraigo de los platos típicos (departamento y opcionalmente municipio).
+Asociación de platillos tradicionales con los departamentos y municipios donde se originan o consumen tradicionalmente.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| plato_id | integer | no | X | cultura.plato_tipico(id) |  | Identificador único del plato típico. |
-| departamento_id | integer | no | X | geografia.departamento(id) |  | Departamento de origen o arraigo del plato. |
-| municipio_id | integer | sí |  | geografia.municipio(id) |  | Municipio específico de origen o arraigo (opcional). |
+| plato_id | integer | no | X | cultura.plato_tipico(id) |  | Identificador del plato típico. |
+| departamento_id | integer | no | X | geografia.departamento(id) |  | Departamento asociado al origen o tradición del platillo. |
+| municipio_id | integer | sí |  | geografia.municipio(id) |  | Municipio específico donde es tradicional el platillo (opcional). |
 
 ### `cultura.plato_ingrediente`
 
-Tabla asociativa que relaciona los platos típicos con sus ingredientes característicos.
+Tabla asociativa de ingredientes clave que componen cada platillo típico.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| plato_id | integer | no | X | cultura.plato_tipico(id) |  | Identificador único del plato típico. |
-| ingrediente_id | integer | no | X | cultura.ingrediente_autoctono(id) |  | Identificador único del ingrediente. |
+| plato_id | integer | no | X | cultura.plato_tipico(id) |  | Identificador del plato típico. |
+| ingrediente_id | integer | no | X | cultura.ingrediente_autoctono(id) |  | Identificador del ingrediente autóctono. |
 
 ### `cultura.plato_tipico`
 
@@ -1560,19 +1573,19 @@ Dimension del modelo BI de turismo utilizada para analisis descriptivo.
 
 ### `turismo.etl_ejecucion`
 
-Tabla de control para procesos ETL del area de turismo.
+Registro histórico de ejecuciones de procesos ETL del módulo turismo.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_ejecucion | bigint | no | X |  | `IDENTITY` | Identificador de la ejecucion ETL. |
-| id_job | integer | no |  | turismo.etl_job(id_job) |  | Identificador del job ETL. |
-| fecha_inicio | timestamp with time zone | no |  |  | `now()` | Fecha y hora de inicio de la ejecucion. |
-| fecha_fin | timestamp with time zone | sí |  |  |  | Fecha y hora de finalizacion de la ejecucion. |
-| estado | character varying(20) | no |  |  | `'INICIADO'::character varying` | Estado de la ejecucion o validacion. |
-| filas_insertadas | bigint | no |  |  | `0` | Cantidad de filas insertadas. |
-| filas_actualizadas | bigint | no |  |  | `0` | Cantidad de filas actualizadas. |
-| filas_error | bigint | no |  |  | `0` | Cantidad de filas con error. |
-| mensaje | text | sí |  |  |  | Mensaje de resultado o diagnostico. |
+| id_ejecucion | bigint | no | X |  | `IDENTITY` | Identificador único de la ejecución ETL. |
+| id_job | integer | no |  | turismo.etl_job(id_job) |  | Job ETL ejecutado. |
+| fecha_inicio | timestamp with time zone | no |  |  | `now()` | Fecha y hora de inicio de la ejecución. |
+| fecha_fin | timestamp with time zone | sí |  |  |  | Fecha y hora de finalización de la ejecución. |
+| estado | character varying(20) | no |  |  | `'INICIADO'::character varying` | Estado de la ejecución: INICIADO, EXITOSO, ERROR o ADVERTENCIA. |
+| filas_insertadas | bigint | no |  |  | `0` | Cantidad de filas insertadas durante la ejecución. |
+| filas_actualizadas | bigint | no |  |  | `0` | Cantidad de filas actualizadas durante la ejecución. |
+| filas_error | bigint | no |  |  | `0` | Cantidad de filas con error durante la ejecución. |
+| mensaje | text | sí |  |  |  | Mensaje de resultado, diagnóstico o error de la ejecución. |
 
 ### `turismo.etl_ejecucion_turismo`
 
@@ -1609,32 +1622,32 @@ Errores detectados durante procesos ETL del area turismo.
 
 ### `turismo.etl_job`
 
-Tabla de control para procesos ETL del area de turismo.
+Catálogo de procesos ETL definidos para el módulo de turismo.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_job | integer | no | X |  | `IDENTITY` | Identificador del job ETL. |
-| nombre | character varying(120) | no |  |  |  | Nombre del registro. |
-| descripcion | text | sí |  |  |  | Descripcion del registro. |
-| frecuencia_sugerida | character varying(80) | sí |  |  |  | Frecuencia sugerida de ejecucion. |
-| activo | boolean | no |  |  | `true` | Indica si el registro se encuentra activo. |
-| creado_en | timestamp with time zone | no |  |  | `now()` | Fecha y hora de creacion del registro. |
+| id_job | integer | no | X |  | `IDENTITY` | Identificador único del job ETL. |
+| nombre | character varying(120) | no |  |  |  | Nombre único del proceso ETL. |
+| descripcion | text | sí |  |  |  | Descripción del objetivo del proceso ETL. |
+| frecuencia_sugerida | character varying(80) | sí |  |  |  | Frecuencia sugerida de ejecución del proceso. |
+| activo | boolean | no |  |  | `true` | Indica si el job ETL está activo. |
+| creado_en | timestamp with time zone | no |  |  | `now()` | Fecha y hora de creación del registro. |
 
 ### `turismo.etl_validacion`
 
-Tabla de control para procesos ETL del area de turismo.
+Resultados de validaciones de calidad ejecutadas sobre datos de turismo.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_validacion | bigint | no | X |  | `IDENTITY` | Identificador de la validacion. |
-| id_ejecucion | bigint | sí |  | turismo.etl_ejecucion(id_ejecucion) |  | Identificador de la ejecucion ETL. |
-| entidad | character varying(120) | no |  |  |  | Entidad o tabla validada. |
-| regla | character varying(220) | no |  |  |  | Regla de validacion aplicada. |
-| nivel | character varying(20) | no |  |  | `'INFO'::character varying` | Nivel de severidad de la validacion. |
-| total_registros | bigint | no |  |  | `0` | Total de registros evaluados. |
-| total_observaciones | bigint | no |  |  | `0` | Total de observaciones encontradas. |
-| detalle | text | sí |  |  |  | Detalle de la validacion. |
-| fecha_validacion | timestamp with time zone | no |  |  | `now()` | Fecha y hora de validacion. |
+| id_validacion | bigint | no | X |  | `IDENTITY` | Identificador único de la validación. |
+| id_ejecucion | bigint | sí |  | turismo.etl_ejecucion(id_ejecucion) |  | Ejecución ETL asociada a la validación, cuando aplique. |
+| entidad | character varying(120) | no |  |  |  | Entidad, tabla o componente validado. |
+| regla | character varying(220) | no |  |  |  | Regla de calidad aplicada. |
+| nivel | character varying(20) | no |  |  | `'INFO'::character varying` | Nivel de severidad de la validación: INFO, ADVERTENCIA o ERROR. |
+| total_registros | bigint | no |  |  | `0` | Total de registros evaluados por la validación. |
+| total_observaciones | bigint | no |  |  | `0` | Total de observaciones encontradas por la validación. |
+| detalle | text | sí |  |  |  | Detalle de hallazgos o explicación de la validación. |
+| fecha_validacion | timestamp with time zone | no |  |  | `now()` | Fecha y hora en que se ejecutó la validación. |
 
 ### `turismo.fact_destino_actividad`
 
@@ -1849,34 +1862,36 @@ Rutas turisticas sugeridas para recorrer destinos relacionados.
 
 ### `turismo.stg_destino_raw`
 
-Tabla staging para recibir datos crudos de turismo antes de validarlos y cargarlos al modelo curado.
+Tabla staging para recibir destinos turísticos crudos antes de validarlos y cargarlos al modelo curado.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_stg_destino | bigint | no | X |  | `IDENTITY` | Campo id stg destino del objeto BI o ETL de turismo. |
-| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen. |
-| nombre_destino | character varying(180) | no |  |  |  | Campo nombre destino del objeto BI o ETL de turismo. |
-| tipo | character varying(80) | sí |  |  |  | Campo tipo del objeto BI o ETL de turismo. |
-| departamento | character varying(80) | sí |  |  |  | Campo departamento del objeto BI o ETL de turismo. |
-| municipio | character varying(120) | sí |  |  |  | Campo municipio del objeto BI o ETL de turismo. |
-| region_turistica | character varying(120) | sí |  |  |  | Campo region turistica del objeto BI o ETL de turismo. |
-| descripcion | text | sí |  |  |  | Descripcion del registro. |
-| direccion_referencia | character varying(350) | sí |  |  |  | Campo direccion referencia del objeto BI o ETL de turismo. |
-| latitud | numeric(10,7) | sí |  |  |  | Campo latitud del objeto BI o ETL de turismo. |
-| longitud | numeric(10,7) | sí |  |  |  | Campo longitud del objeto BI o ETL de turismo. |
-| altitud_msnm | integer | sí |  |  |  | Campo altitud msnm del objeto BI o ETL de turismo. |
-| dificultad | character varying(40) | sí |  |  |  | Campo dificultad del objeto BI o ETL de turismo. |
-| tiempo_recomendado | character varying(80) | sí |  |  |  | Campo tiempo recomendado del objeto BI o ETL de turismo. |
-| costo_aprox_nacional_q | numeric(10,2) | sí |  |  |  | Campo costo aprox nacional q del objeto BI o ETL de turismo. |
-| costo_aprox_extranjero_q | numeric(10,2) | sí |  |  |  | Campo costo aprox extranjero q del objeto BI o ETL de turismo. |
-| horario | character varying(180) | sí |  |  |  | Campo horario del objeto BI o ETL de turismo. |
-| es_area_protegida | boolean | sí |  |  |  | Campo es area protegida del objeto BI o ETL de turismo. |
-| url_fuente | character varying(600) | sí |  |  |  | Campo url fuente del objeto BI o ETL de turismo. |
-| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSON para auditoria o reproceso. |
-| cargado_por | character varying(120) | sí |  |  | `CURRENT_USER` | Usuario que cargo el registro. |
+| id_stg_destino | bigint | no | X |  | `IDENTITY` | Identificador del registro crudo de destino turístico. |
+| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen del registro. |
+| codigo_destino | character varying(120) | sí |  |  |  | Código propuesto para el destino turístico. |
+| nombre_destino | character varying(180) | no |  |  |  | Nombre del destino turístico. |
+| tipo | character varying(80) | sí |  |  |  | Tipo propuesto del destino turístico. |
+| departamento | character varying(100) | sí |  |  |  | Departamento reportado por la fuente. |
+| municipio | character varying(120) | sí |  |  |  | Municipio reportado por la fuente. |
+| region_turistica | character varying(140) | sí |  |  |  | Región turística reportada o propuesta. |
+| descripcion | text | sí |  |  |  | Descripción del destino turístico. |
+| direccion_referencia | character varying(350) | sí |  |  |  | Referencia textual de ubicación del destino. |
+| latitud | numeric(10,7) | sí |  |  |  | Latitud reportada por la fuente, si existe. |
+| longitud | numeric(10,7) | sí |  |  |  | Longitud reportada por la fuente, si existe. |
+| altitud_msnm | integer | sí |  |  |  | Altitud en metros sobre el nivel del mar reportada por la fuente, si existe. |
+| dificultad | character varying(40) | sí |  |  |  | Dificultad sugerida o reportada para visitar el destino. |
+| tiempo_recomendado | character varying(80) | sí |  |  |  | Tiempo recomendado de visita reportado o propuesto. |
+| costo_aprox_nacional_q | numeric(10,2) | sí |  |  |  | Costo aproximado para visitante nacional, si la fuente lo reporta. |
+| costo_aprox_extranjero_q | numeric(10,2) | sí |  |  |  | Costo aproximado para visitante extranjero, si la fuente lo reporta. |
+| horario | character varying(180) | sí |  |  |  | Horario reportado por la fuente, si existe. |
+| es_area_protegida | boolean | sí |  |  |  | Indica si el destino se reporta como área protegida. |
+| codigo_fuente_principal | character varying(120) | sí |  |  |  | Código de la fuente principal que respalda el destino. |
+| url_fuente | character varying(600) | sí |  |  |  | URL específica de respaldo del destino. |
+| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSONB para auditoría o reproceso. |
+| cargado_por | character varying(120) | no |  |  | `CURRENT_USER` | Usuario de base de datos que cargó el registro. |
 | cargado_en | timestamp with time zone | no |  |  | `now()` | Fecha y hora de carga del registro. |
-| procesado | boolean | no |  |  | `false` | Indica si el registro fue procesado por el ETL. |
-| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento. |
+| procesado | boolean | no |  |  | `false` | Indica si el registro ya fue procesado por el ETL. |
+| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento del registro. |
 
 ### `turismo.stg_destino_turistico`
 
@@ -1906,65 +1921,77 @@ Tabla staging para cargar destinos turisticos desde CSV, Excel, APIs o fuentes e
 
 ### `turismo.stg_evento_usuario_raw`
 
-Tabla staging para recibir datos crudos de turismo antes de validarlos y cargarlos al modelo curado.
+Tabla staging para recibir eventos agregados de usuario antes de validarlos y cargarlos al modelo analítico de turismo.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_stg_evento | bigint | no | X |  | `IDENTITY` | Campo id stg evento del objeto BI o ETL de turismo. |
-| fecha_evento | date | no |  |  |  | Campo fecha evento del objeto BI o ETL de turismo. |
-| nombre_destino | character varying(180) | sí |  |  |  | Campo nombre destino del objeto BI o ETL de turismo. |
-| tipo_evento | character varying(60) | no |  |  |  | Campo tipo evento del objeto BI o ETL de turismo. |
-| canal | character varying(80) | sí |  |  |  |  |
-| dispositivo | character varying(80) | sí |  |  |  | Campo dispositivo del objeto BI o ETL de turismo. |
-| pais_usuario | character varying(80) | sí |  |  |  | Campo pais usuario del objeto BI o ETL de turismo. |
-| conteo | integer | no |  |  | `1` | Campo conteo del objeto BI o ETL de turismo. |
-| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSON para auditoria o reproceso. |
-| cargado_por | character varying(120) | sí |  |  | `CURRENT_USER` | Usuario que cargo el registro. |
+| id_stg_evento | bigint | no | X |  | `IDENTITY` | Identificador del registro crudo de evento de usuario. |
+| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen del registro. |
+| fecha_evento | date | no |  |  |  | Fecha del evento o del agregado de eventos. |
+| codigo_destino | character varying(120) | sí |  |  |  | Código del destino turístico relacionado con el evento, cuando aplique. |
+| nombre_destino | character varying(180) | sí |  |  |  | Nombre del destino turístico relacionado con el evento, cuando aplique. |
+| codigo_ruta | character varying(120) | sí |  |  |  | Código de la ruta turística relacionada con el evento, cuando aplique. |
+| tipo_evento | character varying(60) | no |  |  |  | Tipo de evento reportado: BUSQUEDA, VISTA_DESTINO, CLICK_RUTA, FAVORITO, COMPARTIDO, CONSULTA_PATRIMONIO u OTRO. |
+| canal | character varying(80) | sí |  |  |  | Canal donde se registró el evento, por ejemplo web, móvil o carga simulada. |
+| dispositivo | character varying(80) | sí |  |  |  | Tipo de dispositivo reportado para el evento. |
+| pais_usuario | character varying(80) | sí |  |  |  | País reportado del usuario. |
+| conteo | integer | no |  |  | `1` | Cantidad de eventos agregados en el registro. |
+| vista_destino | boolean | no |  |  | `false` | Bandera que indica si el evento corresponde a visualización de destino. |
+| click_ruta | boolean | no |  |  | `false` | Bandera que indica si el evento corresponde a clic o consulta de ruta turística. |
+| favorito | boolean | no |  |  | `false` | Bandera que indica si el evento corresponde a marcado como favorito. |
+| compartido | boolean | no |  |  | `false` | Bandera que indica si el evento corresponde a compartir un destino o ruta. |
+| busqueda | boolean | no |  |  | `false` | Bandera que indica si el evento corresponde a una búsqueda. |
+| consulta_patrimonio | boolean | no |  |  | `false` | Bandera que indica si el evento corresponde a consulta de patrimonio turístico. |
+| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSONB para auditoría o reproceso. |
+| cargado_por | character varying(120) | no |  |  | `CURRENT_USER` | Usuario de base de datos que cargó el registro. |
 | cargado_en | timestamp with time zone | no |  |  | `now()` | Fecha y hora de carga del registro. |
-| procesado | boolean | no |  |  | `false` | Indica si el registro fue procesado por el ETL. |
-| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento. |
+| procesado | boolean | no |  |  | `false` | Indica si el registro ya fue procesado por el ETL. |
+| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento del registro. |
 
 ### `turismo.stg_fuente_raw`
 
-Tabla staging para recibir datos crudos de turismo antes de validarlos y cargarlos al modelo curado.
+Tabla staging para recibir fuentes turísticas crudas antes de validarlas y cargarlas al modelo curado.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_stg_fuente | bigint | no | X |  | `IDENTITY` | Campo id stg fuente del objeto BI o ETL de turismo. |
-| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen. |
-| nombre_fuente | character varying(180) | sí |  |  |  | Campo nombre fuente del objeto BI o ETL de turismo. |
-| tipo_fuente | character varying(80) | sí |  |  |  | Campo tipo fuente del objeto BI o ETL de turismo. |
-| url | character varying(600) | sí |  |  |  | Campo url del objeto BI o ETL de turismo. |
-| fecha_consulta | date | sí |  |  |  | Campo fecha consulta del objeto BI o ETL de turismo. |
-| notas | text | sí |  |  |  | Campo notas del objeto BI o ETL de turismo. |
-| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSON para auditoria o reproceso. |
-| cargado_por | character varying(120) | sí |  |  | `CURRENT_USER` | Usuario que cargo el registro. |
+| id_stg_fuente | bigint | no | X |  | `IDENTITY` | Identificador del registro crudo de fuente turística. |
+| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen del registro. |
+| codigo_fuente | character varying(120) | sí |  |  |  | Código propuesto para la fuente turística. |
+| nombre_fuente | character varying(180) | sí |  |  |  | Nombre de la fuente turística. |
+| institucion | character varying(180) | sí |  |  |  | Institución responsable o asociada a la fuente. |
+| tipo_fuente | character varying(80) | sí |  |  |  | Tipo de fuente: institucional, internacional, municipal, cultural, conservación u otro. |
+| url | character varying(600) | sí |  |  |  | URL de consulta o respaldo de la fuente. |
+| fecha_consulta | date | sí |  |  |  | Fecha en que se consultó la fuente. |
+| notas | text | sí |  |  |  | Notas adicionales sobre la fuente. |
+| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSONB para auditoría o reproceso. |
+| cargado_por | character varying(120) | no |  |  | `CURRENT_USER` | Usuario de base de datos que cargó el registro. |
 | cargado_en | timestamp with time zone | no |  |  | `now()` | Fecha y hora de carga del registro. |
-| procesado | boolean | no |  |  | `false` | Indica si el registro fue procesado por el ETL. |
-| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento. |
+| procesado | boolean | no |  |  | `false` | Indica si el registro ya fue procesado por el ETL. |
+| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento del registro. |
 
 ### `turismo.stg_metricas_destino_raw`
 
-Tabla staging para recibir datos crudos de turismo antes de validarlos y cargarlos al modelo curado.
+Tabla staging para recibir métricas crudas de destinos turísticos antes de validarlas y cargarlas al modelo analítico.
 
 | Columna | Tipo | Nulo | PK | FK | Default | Descripción |
 |---|---|---|---|---|---|---|
-| id_stg_metrica | bigint | no | X |  | `IDENTITY` | Campo id stg metrica del objeto BI o ETL de turismo. |
-| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen. |
-| fecha_metrica | date | no |  |  |  | Campo fecha metrica del objeto BI o ETL de turismo. |
-| nombre_destino | character varying(180) | no |  |  |  | Campo nombre destino del objeto BI o ETL de turismo. |
-| fuente_metrica | character varying(180) | sí |  |  |  | Campo fuente metrica del objeto BI o ETL de turismo. |
-| visitantes_nacionales | integer | sí |  |  |  | Campo visitantes nacionales del objeto BI o ETL de turismo. |
-| visitantes_extranjeros | integer | sí |  |  |  | Campo visitantes extranjeros del objeto BI o ETL de turismo. |
-| calificacion_promedio | numeric(4,2) | sí |  |  |  | Campo calificacion promedio del objeto BI o ETL de turismo. |
-| cantidad_resenas | integer | sí |  |  |  | Campo cantidad resenas del objeto BI o ETL de turismo. |
-| busquedas_web | integer | sí |  |  |  | Campo busquedas web del objeto BI o ETL de turismo. |
-| menciones_redes | integer | sí |  |  |  | Campo menciones redes del objeto BI o ETL de turismo. |
-| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSON para auditoria o reproceso. |
-| cargado_por | character varying(120) | sí |  |  | `CURRENT_USER` | Usuario que cargo el registro. |
+| id_stg_metrica | bigint | no | X |  | `IDENTITY` | Identificador del registro crudo de métrica turística. |
+| nombre_archivo | character varying(260) | sí |  |  |  | Nombre del archivo origen del registro. |
+| fecha_metrica | date | no |  |  |  | Fecha de referencia de la métrica. |
+| codigo_destino | character varying(120) | sí |  |  |  | Código del destino turístico relacionado con la métrica. |
+| nombre_destino | character varying(180) | no |  |  |  | Nombre del destino turístico relacionado con la métrica. |
+| fuente_metrica | character varying(180) | sí |  |  |  | Fuente que reporta la métrica. |
+| visitantes_nacionales | integer | sí |  |  |  | Cantidad de visitantes nacionales reportados. |
+| visitantes_extranjeros | integer | sí |  |  |  | Cantidad de visitantes extranjeros reportados. |
+| calificacion_promedio | numeric(4,2) | sí |  |  |  | Calificación promedio reportada para el destino, de 0 a 5. |
+| cantidad_resenas | integer | sí |  |  |  | Cantidad de reseñas reportadas. |
+| busquedas_web | integer | sí |  |  |  | Cantidad de búsquedas web asociadas al destino. |
+| menciones_redes | integer | sí |  |  |  | Cantidad de menciones en redes sociales asociadas al destino. |
+| raw_payload | jsonb | sí |  |  |  | Registro original en formato JSONB para auditoría o reproceso. |
+| cargado_por | character varying(120) | no |  |  | `CURRENT_USER` | Usuario de base de datos que cargó el registro. |
 | cargado_en | timestamp with time zone | no |  |  | `now()` | Fecha y hora de carga del registro. |
-| procesado | boolean | no |  |  | `false` | Indica si el registro fue procesado por el ETL. |
-| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento. |
+| procesado | boolean | no |  |  | `false` | Indica si el registro ya fue procesado por el ETL. |
+| mensaje_proceso | text | sí |  |  |  | Mensaje generado durante el procesamiento del registro. |
 
 ### `turismo.temporada_turistica`
 

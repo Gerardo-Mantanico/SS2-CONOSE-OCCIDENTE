@@ -4,4 +4,4 @@ codigo,tipo_fuente,nombre,institucion,url,descripcion,licencia,activa
 2026_07_gtm_economia_produccion,archivo,Guatemala - Economía y Producción,Ministerio de Agricultura Ganadería y Alimentación (MAGA),,Datos de producción agropecuaria textil y mercados municipales tradicionales,Uso público,true
 2026_07_gtm_arte_artesania,archivo,Guatemala - Arte y Artesanías del Altiplano,Ministerio de Cultura y Deportes (MCD),,Datos de técnicas tradicionales artesanías colectivos y festivales culturales,Uso público,true
 2026_07_gtm_logistica_transporte,archivo,Guatemala - Logística y Transporte,Dirección General de Transportes (DGT),https://dgt.gob.gt,Datos de conectividad vial proveedores de transporte tramos e incidencias de tránsito,Uso público,true
-
+INSIVUMEH_climatologia,archivo,INSIVUMEH - Registros públicos de Climatología,"Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología de Guatemala (INSIVUMEH)",https://insivumeh.gob.gt/climatologia/,Registros mensuales de variables climáticas en diferentes estaciones del INSIVUMEH,Uso público,true
