@@ -380,77 +380,10 @@ $$;
 
 COMMENT ON FUNCTION turismo.fn_refrescar_bi_turismo() IS 'Orquesta carga de dimensiones y hechos del modelo BI de turismo.';
 
--- Ejecuta primera carga dimensional inicial.
-SELECT turismo.fn_refrescar_bi_turismo();
 
 -- ============================================================
 -- Datamarts materializados para dashboards
 -- ============================================================
-DROP MATERIALIZED VIEW IF EXISTS turismo.mart_resumen_region;
-CREATE MATERIALIZED VIEW turismo.mart_resumen_region AS
-SELECT
-    coalesce(dr.nombre, 'Sin region') AS region_turistica,
-    count(DISTINCT f.destino_id) AS total_destinos,
-    count(DISTINCT f.destino_id) FILTER (WHERE f.es_area_protegida) AS destinos_area_protegida,
-    count(DISTINCT f.destino_id) FILTER (WHERE f.tiene_patrimonio) AS destinos_patrimonio,
-    round(avg(f.puntaje_bi_catalogo), 2) AS puntaje_promedio_bi,
-    max(f.puntaje_bi_catalogo) AS puntaje_maximo_bi
-FROM turismo.fact_destino_turistico f
-LEFT JOIN turismo.dim_region_turistica dr ON dr.id_dim_region = f.id_dim_region
-GROUP BY coalesce(dr.nombre, 'Sin region')
-WITH DATA;
-
-COMMENT ON MATERIALIZED VIEW turismo.mart_resumen_region IS 'Datamart BI con resumen de destinos por region turistica.';
-
-CREATE UNIQUE INDEX IF NOT EXISTS ux_mart_resumen_region ON turismo.mart_resumen_region(region_turistica);
-
-DROP MATERIALIZED VIEW IF EXISTS turismo.mart_destinos_recomendados_bi;
-CREATE MATERIALIZED VIEW turismo.mart_destinos_recomendados_bi AS
-SELECT
-    d.codigo,
-    d.nombre AS destino,
-    dep.nombre AS departamento,
-    mun.nombre AS municipio,
-    dr.nombre AS region_turistica,
-    f.tipo,
-    f.dificultad,
-    f.es_area_protegida,
-    f.tiene_patrimonio,
-    f.total_categorias,
-    f.total_actividades,
-    f.total_patrimonios,
-    f.puntaje_bi_catalogo
-FROM turismo.fact_destino_turistico f
-JOIN turismo.destino_turistico d ON d.id_destino = f.destino_id
-JOIN geografia.departamento dep ON dep.id = d.departamento_id
-LEFT JOIN geografia.municipio mun ON mun.id = d.municipio_id
-LEFT JOIN turismo.dim_region_turistica dr ON dr.id_dim_region = f.id_dim_region
-ORDER BY f.puntaje_bi_catalogo DESC, d.nombre
-WITH DATA;
-
-COMMENT ON MATERIALIZED VIEW turismo.mart_destinos_recomendados_bi IS 'Datamart BI de destinos priorizados por puntaje de catalogo.';
-
-CREATE UNIQUE INDEX IF NOT EXISTS ux_mart_destinos_recomendados_codigo ON turismo.mart_destinos_recomendados_bi(codigo);
-
-DROP MATERIALIZED VIEW IF EXISTS turismo.mart_patrimonio_turistico;
-CREATE MATERIALIZED VIEW turismo.mart_patrimonio_turistico AS
-SELECT
-    p.codigo,
-    p.nombre AS patrimonio,
-    p.tipo,
-    p.organismo,
-    p.anio_inscripcion,
-    count(DISTINCT dp.destino_id) AS destinos_asociados,
-    string_agg(DISTINCT d.nombre, ', ' ORDER BY d.nombre) AS destinos
-FROM turismo.patrimonio_turistico p
-LEFT JOIN turismo.destino_patrimonio dp ON dp.patrimonio_id = p.id_patrimonio
-LEFT JOIN turismo.destino_turistico d ON d.id_destino = dp.destino_id
-GROUP BY p.codigo, p.nombre, p.tipo, p.organismo, p.anio_inscripcion
-WITH DATA;
-
-COMMENT ON MATERIALIZED VIEW turismo.mart_patrimonio_turistico IS 'Datamart BI de patrimonios y destinos asociados.';
-
-CREATE UNIQUE INDEX IF NOT EXISTS ux_mart_patrimonio_codigo ON turismo.mart_patrimonio_turistico(codigo);
 
 CREATE OR REPLACE VIEW turismo.vw_bi_kpis_generales AS
 SELECT
